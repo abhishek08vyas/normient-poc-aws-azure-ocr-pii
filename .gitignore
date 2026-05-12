@@ -1,0 +1,8 @@
+.env.poc
+.venv-poc/
+__pycache__/
+*.pyc
+scripts/poc-aws-azure/results/
+!scripts/poc-aws-azure/results/POC_results.md
+docs/
+.claude*
