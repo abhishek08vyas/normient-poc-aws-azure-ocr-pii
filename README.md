@@ -42,13 +42,13 @@ Choosing between AWS and Azure for document processing shouldn't be a coin flip.
 ### OCR & PII Comparison
 
 <p align="center">
-  <img src="docs/comparison_chart.png" alt="OCR and PII Recall Comparison" width="100%" />
+  <img src="results/comparison_chart.png" alt="OCR and PII Recall Comparison" width="100%" />
 </p>
 
 ### Winner Per Evaluation Axis
 
 <p align="center">
-  <img src="docs/winner_summary.png" alt="Winner Summary" width="100%" />
+  <img src="results/winner_summary.png" alt="Winner Summary" width="100%" />
 </p>
 
 ### 👁️ OCR Scoring Matrix
