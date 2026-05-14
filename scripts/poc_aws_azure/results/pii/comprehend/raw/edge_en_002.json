@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_002",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Shelia Richardson",
+      "start_char": 35,
+      "end_char": 52,
+      "confidence": 0.9999743700027466,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "589 262 567",
+      "start_char": 78,
+      "end_char": 89,
+      "confidence": 0.999914288520813,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7357590",
+      "start_char": 99,
+      "end_char": 106,
+      "confidence": 0.9981308579444885,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 219,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 107,
+  "error": null,
+  "raw_response": {}
+}

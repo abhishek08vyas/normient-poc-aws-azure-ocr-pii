@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_030",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999717473983765,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Timothy Hancock",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 0.9999349117279053,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5638893",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.9993288516998291,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Calgary, Alberta",
+      "start_char": 180,
+      "end_char": 196,
+      "confidence": 0.9994810819625854,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Rachel Martin",
+      "start_char": 226,
+      "end_char": 239,
+      "confidence": 0.9999547004699707,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9801946",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.9997876286506653,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Aaron Myers",
+      "start_char": 393,
+      "end_char": 404,
+      "confidence": 0.9999291896820068,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "541343521",
+      "start_char": 429,
+      "end_char": 438,
+      "confidence": 0.805311381816864,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "aaron.myers@testbank.ca",
+      "start_char": 446,
+      "end_char": 469,
+      "confidence": 0.9999860525131226,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 925-8751",
+      "start_char": 477,
+      "end_char": 491,
+      "confidence": 0.9999411106109619,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "G4B 0X4",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.9873539805412292,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "G4B 0X4",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-12",
+      "start_char": 552,
+      "end_char": 562,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 228,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-23
+Account Holder: Brent Stein
+Account Number: 8615616
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-05-11	E-transfer	Dana Williams		21,684.15	116,094.29	TXN-995336
+2026-04-20	Vendor payment	Craig Townsend		23,382.68	139,476.96	TXN-227630
+2026-04-19	Bill payment	Sarah Russell	36,088.89		103,388.07	TXN-895891
+2025-11-13	Wire transfer	Craig Townsend		15,880.47	119,268.55	TXN-540467
+2025-11-14	Vendor payment	Robert Love	28,633.80		90,634.75	TXN-450964
+2026-01-20	Wire transfer	Robert Love	3,814.57		86,820.17	TXN-823044
+2025-07-29	Direct deposit	Robert Love	3,235.92		83,584.25	TXN-272471
+2026-03-02	E-transfer	Dana Williams	40,422.15		43,162.10	TXN-129226
+2025-09-01	Payroll	Craig Townsend	5,481.25		37,680.86	TXN-981336
+2025-09-14	Direct deposit	Craig Townsend	16,746.06		20,934.79	TXN-972957
+2025-08-31	Service fee	Robert Love		31,016.37	51,951.16	TXN-176452
+2026-01-18	Service fee	Dana Williams	6,328.84		45,622.33	TXN-755725
+2025-06-04	Wire transfer	Dana Williams	42,399.84		3,222.49	TXN-495727
+2026-04-30	Wire transfer	Robert Love		22,151.73	25,374.22	TXN-165014
+2026-03-07	Bill payment	Sarah Russell	5,181.20		20,193.02	TXN-756602
+2025-06-16	Wire transfer	Sarah Russell	19,134.63		1,058.39	TXN-154738
+2026-01-21	Wire transfer	Sarah Russell	43,242.68		-42,184.29	TXN-888490
+2025-12-21	Service fee	Sarah Russell	23,264.03		-65,448.32	TXN-111121
+2025-08-11	Vendor payment	Sarah Russell	32,580.98		-98,029.30	TXN-749310
+2025-12-06	E-transfer	Dana Williams		29,431.89	-68,597.41	TXN-576133
+2026-02-23	Wire transfer	Dana Williams		3,470.47	-65,126.94	TXN-112885
+2026-02-17	Service fee	Robert Love	25,494.01		-90,620.95	TXN-701056
+2026-04-08	Bill payment	Adam Pierce		22,286.75	-68,334.20	TXN-604783
+2026-05-11	Direct deposit	Robert Love	6,471.27		-74,805.47	TXN-935741
+2025-05-27	Payroll	Adam Pierce		37,743.24	-37,062.23	TXN-638051
+2026-05-02	Bill payment	Sarah Russell		7,455.71	-29,606.51	TXN-667430
+2026-05-05	Bill payment	Sarah Russell	48,516.53		-78,123.04	TXN-459557
+2025-07-19	Payroll	Sarah Russell		2,960.15	-75,162.89	TXN-789624
+2025-10-22	Payroll	Sarah Russell	9,850.82		-85,013.71	TXN-157259
+2026-04-20	Direct deposit	Robert Love	9,548.84		-94,562.55	TXN-923408
+2026-04-03	Vendor payment	Adam Pierce		42,615.23	-51,947.32	TXN-728896
+2025-07-20	Payroll	Craig Townsend	16,498.09		-68,445.41	TXN-746030
+2026-05-10	Wire transfer	Adam Pierce		24,846.94	-43,598.47	TXN-927527
+2026-05-05	Wire transfer	Robert Love	31,233.61		-74,832.07	TXN-826894
+2025-05-27	Direct deposit	Adam Pierce		40,751.17	-34,080.91	TXN-870269
+2026-04-02	Service fee	Adam Pierce	41,321.61		-75,402.51	TXN-315289
+2025-10-14	Wire transfer	Craig Townsend	1,597.88		-77,000.39	TXN-110372
+2026-03-15	Wire transfer	Robert Love	31,603.60		-108,603.99	TXN-404691
+2025-11-21	Service fee	Craig Townsend		10,036.23	-98,567.76	TXN-146037
+2025-07-24	Bill payment	Robert Love		35,969.95	-62,597.81	TXN-329580
+2026-05-11	Bill payment	Sarah Russell	1,172.45		-63,770.26	TXN-357912
+2026-02-27	Service fee	Craig Townsend	33,904.87		-97,675.13	TXN-206105
+2026-04-16	Vendor payment	Dana Williams		15,323.11	-82,352.02	TXN-454820
+2026-05-07	Direct deposit	Craig Townsend	8,650.85		-91,002.87	TXN-948809
+2025-09-02	Payroll	Sarah Russell		3,362.34	-87,640.54	TXN-554786
+2026-04-18	Direct deposit	Robert Love	26,674.48		-114,315.02	TXN-933511
+2025-05-27	E-transfer	Craig Townsend		48,851.38	-65,463.64	TXN-433396
+2025-05-16	Direct deposit	Dana Williams		9,536.20	-55,927.44	TXN-900149
+2025-09-05	Payroll	Craig Townsend	12,433.87		-68,361.30	TXN-927942
+2025-12-19	E-transfer	Craig Townsend		48,422.38	-19,938.93	TXN-232601

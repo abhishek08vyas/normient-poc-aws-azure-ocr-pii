@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_003",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Rachel Lee",
+      "start_char": 37,
+      "end_char": 47,
+      "confidence": 0.9998964667320251,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9089795",
+      "start_char": 57,
+      "end_char": 64,
+      "confidence": 0.9976444840431213,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 116,
+      "end_char": 126,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "02:17:29",
+      "start_char": 127,
+      "end_char": 135,
+      "confidence": 0.9993032217025757,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "rachel.lee@example.ca",
+      "start_char": 151,
+      "end_char": 172,
+      "confidence": 0.999893069267273,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 251,
+      "end_char": 261,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 312,
+      "end_char": 322,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-08",
+      "start_char": 373,
+      "end_char": 383,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 434,
+      "end_char": 444,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 495,
+      "end_char": 505,
+      "confidence": 0.9999937415122986,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 230,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

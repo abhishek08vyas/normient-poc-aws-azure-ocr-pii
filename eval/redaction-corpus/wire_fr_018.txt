@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-09-17
+Reference : VIR-346184
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : René Gauthier
+Numero de compte : 8560833
+Succursale : Terrebonne
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Émilie Tremblay
+Numero de compte : 4566389
+Institution : Royal Bank of Canada
+
+DETAILS DU VIREMENT
+Montant : 33,066.96 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Raphaël Lévesque
+NAS (pour verification) : 230234676
+Courriel : raphael.levesque@synthco.com
+Telephone : (647) 851-2721
+Code postal : C4C 6E4
+
+Signature : ____________________
+Date : 2025-09-06

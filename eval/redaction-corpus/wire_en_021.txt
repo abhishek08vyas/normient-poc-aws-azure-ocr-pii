@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-02-03
+Reference: WT-387936
+
+SENDER INFORMATION
+Name: Frederick Rose
+Account Number: 3036059
+Branch: Edmonton, Alberta
+
+RECIPIENT INFORMATION
+Name: Catherine Brandt
+Account Number: 8658158
+Institution: Laurentian Bank
+
+TRANSFER DETAILS
+Amount: $383,141.03 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Sarah Campos
+SIN (for verification): 278895792
+Email: sarah.campos@synthco.com
+Phone: (819) 761-7305
+Postal Code: H7T 4K4
+
+Signature: ____________________
+Date: 2025-07-29

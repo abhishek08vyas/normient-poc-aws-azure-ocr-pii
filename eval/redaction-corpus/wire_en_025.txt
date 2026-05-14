@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-06-17
+Reference: WT-427110
+
+SENDER INFORMATION
+Name: Jennifer Khan
+Account Number: 1675419
+Branch: Winnipeg, Manitoba
+
+RECIPIENT INFORMATION
+Name: Barbara Sanchez
+Account Number: 1520596
+Institution: TD Canada Trust
+
+TRANSFER DETAILS
+Amount: $482,395.67 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Thomas Russell
+SIN (for verification): 230923278
+Email: thomas.russell@example.com
+Phone: (514) 676-4198
+Postal Code: P2Z 9E2
+
+Signature: ____________________
+Date: 2025-06-18

@@ -1,0 +1,87 @@
+Anti-Money Laundering Compliance Policy
+
+Effective Date: 2025-02-14
+Version: 2.0
+
+CONFIDENTIAL
+Page 1
+
+--- PAGE 2 ---
+1. PURPOSE
+
+The purpose of this policy is to establish guidelines and procedures for anti-money laundering compliance operations within the organization. This policy applies to all departments and business units.
+All employees must comply with the requirements set forth in this document. Failure to adhere to these guidelines may result in disciplinary action in accordance with the organization's code of conduct.
+This policy has been developed in consultation with the Legal, Compliance, and Risk Management departments to ensure alignment with regulatory requirements and industry best practices.
+Page 2
+
+--- PAGE 3 ---
+2. SCOPE
+
+This policy applies to all employees, contractors, and third-party service providers who have access to the organization's financial systems or who are involved in the processing of financial transactions.
+The scope includes all domestic and international wire transfers, electronic funds transfers, and interbank settlement operations conducted by or on behalf of the organization.
+Exemptions to this policy may only be granted by the Chief Compliance Officer in writing and must be reviewed quarterly.
+Page 3
+
+--- PAGE 4 ---
+3. DEFINITIONS
+
+Wire Transfer: An electronic transfer of funds between financial institutions initiated by the sending institution on behalf of the originator.
+Dual Authorization: A control mechanism requiring two independent approvals before a transaction can be executed. Both approvers must be at the manager level or above.
+Threshold Amount: The monetary value above which additional controls and approvals are required. The current threshold is $10,000 CAD for domestic transfers and $5,000 CAD for international transfers.
+Page 4
+
+--- PAGE 5 ---
+4. ROLES AND RESPONSIBILITIES
+
+4.1 The Compliance Officer is responsible for monitoring adherence to this policy and reporting any violations to senior management.
+4.2 Branch Managers must ensure that all staff under their supervision are trained on the requirements of this policy and that training records are maintained.
+4.3 The Internal Audit department shall conduct periodic reviews of wire transfer activities to verify compliance with this policy.
+4.4 All employees involved in transaction processing must complete annual certification confirming their understanding of this policy.
+Page 5
+
+--- PAGE 6 ---
+5. PROCEDURES
+
+5.1 All wire transfer requests must be submitted using the approved request form. The form must include the originator's name, account number, recipient details, amount, purpose, and supporting documentation.
+5.2 Transfers exceeding the threshold amount require dual authorization. The first approver reviews the request for completeness and accuracy. The second approver independently verifies the recipient details and supporting documents.
+5.3 All approved transfers must be recorded in the transaction log within one business day of execution. The log must include the date, time, amount, participants, and reference number.
+Page 6
+
+--- PAGE 7 ---
+6. MONITORING AND REPORTING
+
+6.1 The Compliance team shall generate daily reports of all wire transfers exceeding the threshold amount and review them for unusual patterns.
+6.2 Monthly summary reports shall be provided to the Risk Committee detailing total transfer volumes, exception counts, and any identified concerns.
+6.3 Any suspicious activity must be reported immediately to the designated compliance officer and documented in the incident management system.
+Page 7
+
+--- PAGE 8 ---
+7. RECORD RETENTION
+
+All records related to wire transfer operations, including request forms, approval documentation, and transaction logs, must be retained for a minimum of seven years in accordance with regulatory requirements.
+Electronic records must be stored in the approved document management system with appropriate access controls. Physical records must be stored in a secure location with restricted access.
+Page 8
+
+--- PAGE 9 ---
+8. POLICY REVIEW
+
+This policy shall be reviewed annually by the Policy Committee and updated as necessary to reflect changes in regulatory requirements, organizational structure, or business processes.
+All amendments must be approved by the Chief Compliance Officer and communicated to all affected personnel within 30 days of approval.
+Page 9
+
+--- PAGE 10 ---
+APPROVAL SIGNATURES
+
+Chief Compliance Officer: Patricia Miller
+Date: 2025-02-14
+Signature: ____________________
+
+VP Operations: Robert Johnson
+Date: 2025-02-14
+Signature: ____________________
+
+Director of Risk Management: Jeffery Wagner
+Date: 2025-02-14
+Signature: ____________________
+
+Page 10

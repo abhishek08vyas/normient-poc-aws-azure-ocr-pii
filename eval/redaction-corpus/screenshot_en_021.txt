@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Samantha Hooper
+Account: 2053729
+Type: Savings
+Balance: $121,364.11 CAD
+Last Login: 2026-05-09 20:52:35
+Email on file: samantha.hooper@example.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-14  Wire transfer            $6,337.95    $127,702.07
+2026-05-02  E-transfer               -$1,478.59   $126,223.48
+2026-05-11  POS purchase             $3,560.52    $129,784.00
+2026-05-10  Direct deposit           -$6,660.49   $123,123.50
+2026-04-14  Bill payment             $723.41      $123,846.91

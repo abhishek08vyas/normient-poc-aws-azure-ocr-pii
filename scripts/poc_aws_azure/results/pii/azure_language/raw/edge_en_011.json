@@ -1,0 +1,51 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Payroll",
+      "start_char": 0,
+      "end_char": 7,
+      "confidence": 0.74,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Employee",
+      "start_char": 22,
+      "end_char": 30,
+      "confidence": 0.94,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Allison Cox",
+      "start_char": 32,
+      "end_char": 43,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CASocialInsuranceNumber",
+      "text": "778-446-831",
+      "start_char": 49,
+      "end_char": 60,
+      "confidence": 0.85,
+      "original_type": "CASocialInsuranceNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "allison.cox@example.com",
+      "start_char": 70,
+      "end_char": 93,
+      "confidence": 0.8,
+      "original_type": "Email"
+    }
+  ],
+  "latency_ms": 127,
+  "cost_estimate_usd": 0.001,
+  "char_count": 94,
+  "error": null,
+  "raw_response": {}
+}

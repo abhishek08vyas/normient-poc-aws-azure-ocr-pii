@@ -1,0 +1,147 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_030",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-06",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Éloïse Béland",
+      "start_char": 155,
+      "end_char": 168,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4977883",
+      "start_char": 188,
+      "end_char": 195,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 232,
+      "end_char": 244,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raphaël Gauthier",
+      "start_char": 251,
+      "end_char": 267,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1616293",
+      "start_char": 287,
+      "end_char": 294,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 309,
+      "end_char": 325,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "fournisseur",
+      "start_char": 391,
+      "end_char": 402,
+      "confidence": 0.55,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Geneviève Gagné",
+      "start_char": 432,
+      "end_char": 447,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 448,
+      "end_char": 451,
+      "confidence": 0.66,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "224329839",
+      "start_char": 474,
+      "end_char": 483,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "genevieve.gagne@synthco.com",
+      "start_char": 495,
+      "end_char": 522,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 484-2105",
+      "start_char": 535,
+      "end_char": 549,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "S1X 4L6",
+      "start_char": 564,
+      "end_char": 571,
+      "confidence": 0.88,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "S1X 4L6",
+      "start_char": 564,
+      "end_char": 571,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-09",
+      "start_char": 613,
+      "end_char": 623,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 201,
+  "cost_estimate_usd": 0.001,
+  "char_count": 624,
+  "error": null,
+  "raw_response": {}
+}

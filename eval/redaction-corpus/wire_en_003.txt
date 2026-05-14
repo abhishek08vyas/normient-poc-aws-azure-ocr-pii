@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-03-20
+Reference: WT-497887
+
+SENDER INFORMATION
+Name: Debra Gardner
+Account Number: 4226067
+Branch: Gatineau, Quebec
+
+RECIPIENT INFORMATION
+Name: Jeffrey Lawrence
+Account Number: 2166941
+Institution: Scotiabank
+
+TRANSFER DETAILS
+Amount: $267,535.80 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Lisa Smith
+SIN (for verification): 134131648
+Email: lisa.smith@acmecorp.ca
+Phone: (613) 366-6065
+Postal Code: P3L 1Z2
+
+Signature: ____________________
+Date: 2025-07-13

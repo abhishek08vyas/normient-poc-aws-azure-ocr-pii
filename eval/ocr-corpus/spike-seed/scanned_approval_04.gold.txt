@@ -1,0 +1,12 @@
+WIRE TRANSFER APPROVAL FORM
+Approver Name: Bridget Pacheco
+Date: 2026-05-12
+Account Number: 2719583
+Amount: $69,286.45
+
+--- PAGE 2 ---
+AUTHORIZATION
+Authorization Signature: Adam Shaffer
+Date: 2026-05-12
+Approved: YES
+Remarks: Approved for processing.

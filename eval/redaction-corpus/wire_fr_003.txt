@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-01-28
+Reference : VIR-538738
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Gabrielle Tremblay
+Numero de compte : 4132173
+Succursale : Trois-Rivieres
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Étienne Chrétien
+Numero de compte : 4338644
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 494,807.97 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Émilie Côté
+NAS (pour verification) : 164334815
+Courriel : emilie.cote@acmecorp.ca
+Telephone : (416) 577-8495
+Code postal : A2N 6R2
+
+Signature : ____________________
+Date : 2026-03-02

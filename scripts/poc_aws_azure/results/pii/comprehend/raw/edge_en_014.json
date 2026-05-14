@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_014",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "James Herrera",
+      "start_char": 32,
+      "end_char": 45,
+      "confidence": 0.9999667406082153,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "488-160-938",
+      "start_char": 51,
+      "end_char": 62,
+      "confidence": 0.9998389482498169,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "james.herrera@acmecorp.ca",
+      "start_char": 72,
+      "end_char": 97,
+      "confidence": 0.9999734163284302,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 222,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 98,
+  "error": null,
+  "raw_response": {}
+}

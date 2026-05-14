@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_012",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999299645423889,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Baker",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.9998736381530762,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7774229",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.9820353984832764,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Hamilton, Ontario",
+      "start_char": 178,
+      "end_char": 195,
+      "confidence": 0.9994439482688904,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Hoffman",
+      "start_char": 225,
+      "end_char": 237,
+      "confidence": 0.9998979568481445,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3011363",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.9548385739326477,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jose Richards",
+      "start_char": 385,
+      "end_char": 398,
+      "confidence": 0.9998852610588074,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "539909168",
+      "start_char": 423,
+      "end_char": 432,
+      "confidence": 0.7056253552436829,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jose.richards@synthco.com",
+      "start_char": 440,
+      "end_char": 465,
+      "confidence": 0.9999831914901733,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 467-3346",
+      "start_char": 473,
+      "end_char": 487,
+      "confidence": 0.999810516834259,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "N3L 6G4",
+      "start_char": 501,
+      "end_char": 508,
+      "confidence": 0.9998674988746643,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "N3L 6G4",
+      "start_char": 501,
+      "end_char": 508,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-24",
+      "start_char": 548,
+      "end_char": 558,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 394,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 559,
+  "error": null,
+  "raw_response": {}
+}

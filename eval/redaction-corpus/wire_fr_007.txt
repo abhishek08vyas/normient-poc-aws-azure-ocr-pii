@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-10-16
+Reference : VIR-849115
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Sébastien Thibault
+Numero de compte : 5065012
+Succursale : Gatineau
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Sébastien Pelletier
+Numero de compte : 8343784
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 220,888.34 $ CAD
+Objet : Paiement fournisseur
+
+AUTORISATION
+Approuve par : François Béland
+NAS (pour verification) : 274220912
+Courriel : francois.beland@example.ca
+Telephone : (438) 327-8759
+Code postal : R2C 0L2
+
+Signature : ____________________
+Date : 2026-03-29

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Andrew Ryan
+Account: 8942330
+Type: Chequing
+Balance: $151,891.73 CAD
+Last Login: 2026-04-30 22:18:39
+Email on file: andrew.ryan@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-23  Direct deposit           $2,896.80    $154,788.53
+2026-04-16  Wire transfer            -$8,664.69   $146,123.84
+2026-04-14  Wire transfer            -$8,003.46   $138,120.38
+2026-04-14  ATM withdrawal           $7,445.91    $145,566.29
+2026-04-25  ATM withdrawal           -$3,423.41   $142,142.88

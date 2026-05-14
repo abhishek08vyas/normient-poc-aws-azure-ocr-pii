@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_003",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-28",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Tremblay",
+      "start_char": 155,
+      "end_char": 173,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4132173",
+      "start_char": 193,
+      "end_char": 200,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 246,
+      "end_char": 258,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Étienne Chrétien",
+      "start_char": 265,
+      "end_char": 281,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4338644",
+      "start_char": 301,
+      "end_char": 308,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 323,
+      "end_char": 339,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Émilie Côté",
+      "start_char": 430,
+      "end_char": 441,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "164334815",
+      "start_char": 468,
+      "end_char": 477,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "emilie.cote@acmecorp.ca",
+      "start_char": 489,
+      "end_char": 512,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 577-8495",
+      "start_char": 525,
+      "end_char": 539,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "A2N 6R2",
+      "start_char": 554,
+      "end_char": 561,
+      "confidence": 0.82,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "A2N 6R2",
+      "start_char": 554,
+      "end_char": 561,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-02",
+      "start_char": 603,
+      "end_char": 613,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 196,
+  "cost_estimate_usd": 0.001,
+  "char_count": 614,
+  "error": null,
+  "raw_response": {}
+}

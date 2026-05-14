@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Franklin Bond",
+      "start_char": 32,
+      "end_char": 45,
+      "confidence": 0.9997488856315613,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "685-389-090",
+      "start_char": 51,
+      "end_char": 62,
+      "confidence": 0.9997789859771729,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "franklin.bond@example.ca",
+      "start_char": 72,
+      "end_char": 96,
+      "confidence": 0.9999711513519287,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 219,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 97,
+  "error": null,
+  "raw_response": {}
+}

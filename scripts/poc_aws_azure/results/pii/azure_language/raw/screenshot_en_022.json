@@ -1,0 +1,83 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_022",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Patterson",
+      "start_char": 37,
+      "end_char": 58,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9511546",
+      "start_char": 68,
+      "end_char": 75,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-06 08:29:42",
+      "start_char": 126,
+      "end_char": 145,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "christopher.patterson@synthco.com",
+      "start_char": 161,
+      "end_char": 194,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-21",
+      "start_char": 273,
+      "end_char": 283,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-15",
+      "start_char": 333,
+      "end_char": 343,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-25",
+      "start_char": 393,
+      "end_char": 403,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-01",
+      "start_char": 453,
+      "end_char": 463,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-28",
+      "start_char": 514,
+      "end_char": 524,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 117,
+  "cost_estimate_usd": 0.001,
+  "char_count": 574,
+  "error": null,
+  "raw_response": {}
+}

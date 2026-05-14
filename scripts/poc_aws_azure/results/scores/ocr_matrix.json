@@ -1,0 +1,216 @@
+{
+  "textract": {
+    "per_file": {
+      "clean_policy_01": {
+        "file": "clean_policy_01",
+        "category": "clean_text_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 2.0293,
+        "cost_per_1k_pages": 65.0
+      },
+      "clean_policy_02": {
+        "file": "clean_policy_02",
+        "category": "clean_text_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 1.6659,
+        "cost_per_1k_pages": 65.0
+      },
+      "multicolumn_control_09": {
+        "file": "multicolumn_control_09",
+        "category": "multicolumn_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 1.0386666666666666,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 5
+      },
+      "multicolumn_control_10": {
+        "file": "multicolumn_control_10",
+        "category": "multicolumn_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 2.807,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 5
+      },
+      "scanned_approval_03": {
+        "file": "scanned_approval_03",
+        "category": "scanned_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 2.886,
+        "cost_per_1k_pages": 65.0,
+        "bbox_quality": 5
+      },
+      "scanned_approval_04": {
+        "file": "scanned_approval_04",
+        "category": "scanned_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 2.8335,
+        "cost_per_1k_pages": 65.0,
+        "bbox_quality": 5
+      },
+      "screenshot_banking_05": {
+        "file": "screenshot_banking_05",
+        "category": "screenshot",
+        "recall": 1.0,
+        "latency_s_per_page": 2.259,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 5,
+        "bbox_quality": 5
+      },
+      "screenshot_banking_06": {
+        "file": "screenshot_banking_06",
+        "category": "screenshot",
+        "recall": 1.0,
+        "latency_s_per_page": 2.267,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 5,
+        "bbox_quality": 5
+      },
+      "transactions_07": {
+        "file": "transactions_07",
+        "category": "excel",
+        "error": "unsupported_format",
+        "recall": null,
+        "excluded": true
+      },
+      "transactions_08": {
+        "file": "transactions_08",
+        "category": "excel",
+        "error": "unsupported_format",
+        "recall": null,
+        "excluded": true
+      }
+    },
+    "per_category": {
+      "clean_text_pdf": {
+        "recall": 1.0,
+        "count": 2
+      },
+      "multicolumn_pdf": {
+        "recall": 1.0,
+        "count": 2
+      },
+      "scanned_pdf": {
+        "recall": 1.0,
+        "count": 2
+      },
+      "screenshot": {
+        "recall": 1.0,
+        "count": 2
+      }
+    },
+    "overall_recall": 1.0,
+    "avg_latency_s_per_page": 2.2232958333333332,
+    "avg_cost_per_1k_pages": 65.0,
+    "avg_table_fidelity": 5.0,
+    "avg_bbox_quality": 5.0,
+    "errors": 0,
+    "unsupported": 2
+  },
+  "azure_doc_intel": {
+    "per_file": {
+      "clean_policy_01": {
+        "file": "clean_policy_01",
+        "category": "clean_text_pdf",
+        "recall": 0.16124031007751938,
+        "latency_s_per_page": 3.2775,
+        "cost_per_1k_pages": 65.0
+      },
+      "clean_policy_02": {
+        "file": "clean_policy_02",
+        "category": "clean_text_pdf",
+        "recall": 0.15600624024961,
+        "latency_s_per_page": 2.647,
+        "cost_per_1k_pages": 65.0
+      },
+      "multicolumn_control_09": {
+        "file": "multicolumn_control_09",
+        "category": "multicolumn_pdf",
+        "recall": 0.3761242845461979,
+        "latency_s_per_page": 2.7045,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 1
+      },
+      "multicolumn_control_10": {
+        "file": "multicolumn_control_10",
+        "category": "multicolumn_pdf",
+        "recall": 0.3761242845461979,
+        "latency_s_per_page": 2.706,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 1
+      },
+      "scanned_approval_03": {
+        "file": "scanned_approval_03",
+        "category": "scanned_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 2.679,
+        "cost_per_1k_pages": 65.0,
+        "bbox_quality": 1
+      },
+      "scanned_approval_04": {
+        "file": "scanned_approval_04",
+        "category": "scanned_pdf",
+        "recall": 1.0,
+        "latency_s_per_page": 2.6465,
+        "cost_per_1k_pages": 65.0,
+        "bbox_quality": 1
+      },
+      "screenshot_banking_05": {
+        "file": "screenshot_banking_05",
+        "category": "screenshot",
+        "recall": 1.0,
+        "latency_s_per_page": 28.381,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 5,
+        "bbox_quality": 1
+      },
+      "screenshot_banking_06": {
+        "file": "screenshot_banking_06",
+        "category": "screenshot",
+        "recall": 0.9905660377358491,
+        "latency_s_per_page": 5.317,
+        "cost_per_1k_pages": 65.0,
+        "table_fidelity": 5,
+        "bbox_quality": 1
+      },
+      "transactions_07": {
+        "file": "transactions_07",
+        "category": "excel",
+        "error": "unsupported_format",
+        "recall": null,
+        "excluded": true
+      },
+      "transactions_08": {
+        "file": "transactions_08",
+        "category": "excel",
+        "error": "unsupported_format",
+        "recall": null,
+        "excluded": true
+      }
+    },
+    "per_category": {
+      "clean_text_pdf": {
+        "recall": 0.15862327516356467,
+        "count": 2
+      },
+      "multicolumn_pdf": {
+        "recall": 0.3761242845461979,
+        "count": 2
+      },
+      "scanned_pdf": {
+        "recall": 1.0,
+        "count": 2
+      },
+      "screenshot": {
+        "recall": 0.9952830188679245,
+        "count": 2
+      }
+    },
+    "overall_recall": 0.6325076446444218,
+    "avg_latency_s_per_page": 6.2948125,
+    "avg_cost_per_1k_pages": 65.0,
+    "avg_table_fidelity": 3.0,
+    "avg_bbox_quality": 1.0,
+    "errors": 0,
+    "unsupported": 2
+  }
+}

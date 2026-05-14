@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-09-14
+Reference : VIR-562816
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Thérèse Desjardins
+Numero de compte : 2311382
+Succursale : Saguenay
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Gabrielle Gauthier
+Numero de compte : 8151117
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 199,723.99 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Cécile Lefebvre
+NAS (pour verification) : 674233622
+Courriel : cecile.lefebvre@synthco.com
+Telephone : (514) 510-4675
+Code postal : T3L 7C5
+
+Signature : ____________________
+Date : 2026-05-10

@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_001",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Hannah Fowler",
+      "start_char": 35,
+      "end_char": 48,
+      "confidence": 0.9999569058418274,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "362 831 430",
+      "start_char": 74,
+      "end_char": 85,
+      "confidence": 0.9999584555625916,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7243511",
+      "start_char": 95,
+      "end_char": 102,
+      "confidence": 0.9957870841026306,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 880,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 103,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_023",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "JJonathan Smith",
+      "start_char": 24,
+      "end_char": 39,
+      "confidence": 0.9997620582580566,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8280643",
+      "start_char": 50,
+      "end_char": 57,
+      "confidence": 0.8270176649093628,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 230,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 98,
+  "error": null,
+  "raw_response": {}
+}

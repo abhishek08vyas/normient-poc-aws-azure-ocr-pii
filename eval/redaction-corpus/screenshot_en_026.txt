@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Stacie Marshall
+Account: 6897979
+Type: Chequing
+Balance: $146,728.81 CAD
+Last Login: 2026-04-26 09:07:22
+Email on file: stacie.marshall@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-30  Bill payment             -$6,167.77   $140,561.03
+2026-04-21  E-transfer               $9,801.27    $150,362.31
+2026-05-12  Wire transfer            -$6,728.28   $143,634.03
+2026-05-12  POS purchase             $8,020.90    $151,654.93
+2026-04-18  Wire transfer            $1,470.66    $153,125.59

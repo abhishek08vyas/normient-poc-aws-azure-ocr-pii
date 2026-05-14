@@ -1,0 +1,4 @@
+Payroll Authorization
+Employee: Samantha Rodriguez
+SIN: 365-111-319
+Contact: samantha.rodriguez@synthco.com

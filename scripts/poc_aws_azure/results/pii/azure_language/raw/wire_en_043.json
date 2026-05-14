@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_043",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-02",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Rodriguez",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5953150",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Vazquez",
+      "start_char": 232,
+      "end_char": 246,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1368085",
+      "start_char": 263,
+      "end_char": 270,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Royal Bank of Canada",
+      "start_char": 284,
+      "end_char": 304,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Edward Johnson",
+      "start_char": 404,
+      "end_char": 418,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "764090973",
+      "start_char": 443,
+      "end_char": 452,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "edward.johnson@testbank.ca",
+      "start_char": 460,
+      "end_char": 486,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 821-5772",
+      "start_char": 494,
+      "end_char": 508,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K3Z 4G1",
+      "start_char": 522,
+      "end_char": 529,
+      "confidence": 0.82,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K3Z 4G1",
+      "start_char": 522,
+      "end_char": 529,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-24",
+      "start_char": 569,
+      "end_char": 579,
+      "confidence": 0.8,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 136,
+  "cost_estimate_usd": 0.001,
+  "char_count": 580,
+  "error": null,
+  "raw_response": {}
+}

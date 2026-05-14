@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-02-02
+Reference: WT-827712
+
+SENDER INFORMATION
+Name: Pamela Newton
+Account Number: 5446344
+Branch: Edmonton, Alberta
+
+RECIPIENT INFORMATION
+Name: Eric Campbell
+Account Number: 6680114
+Institution: TD Canada Trust
+
+TRANSFER DETAILS
+Amount: $380,424.48 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Jason Cooper
+SIN (for verification): 561586579
+Email: jason.cooper@synthco.com
+Phone: (416) 832-1121
+Postal Code: K4K 1S1
+
+Signature: ____________________
+Date: 2026-01-13

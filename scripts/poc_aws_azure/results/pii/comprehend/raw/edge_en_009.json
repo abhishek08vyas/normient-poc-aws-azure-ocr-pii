@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_009",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Larson",
+      "start_char": 35,
+      "end_char": 46,
+      "confidence": 0.9999747276306152,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "182 226 944",
+      "start_char": 72,
+      "end_char": 83,
+      "confidence": 0.9999490976333618,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1886921",
+      "start_char": 93,
+      "end_char": 100,
+      "confidence": 0.9896224737167358,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 306,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 101,
+  "error": null,
+  "raw_response": {}
+}

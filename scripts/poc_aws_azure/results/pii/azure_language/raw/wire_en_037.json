@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_037",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-24",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christine Hart",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5014745",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Medina",
+      "start_char": 230,
+      "end_char": 242,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3657144",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Scotiabank",
+      "start_char": 280,
+      "end_char": 290,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Anderson",
+      "start_char": 385,
+      "end_char": 401,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "380861310",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "william.anderson@acmecorp.ca",
+      "start_char": 443,
+      "end_char": 471,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 863-2522",
+      "start_char": 479,
+      "end_char": 493,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V4W 4S7",
+      "start_char": 507,
+      "end_char": 514,
+      "confidence": 0.93,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V4W 4S7",
+      "start_char": 507,
+      "end_char": 514,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-19",
+      "start_char": 554,
+      "end_char": 564,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 149,
+  "cost_estimate_usd": 0.001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

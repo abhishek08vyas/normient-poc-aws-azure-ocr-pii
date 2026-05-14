@@ -1,0 +1,1011 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_001",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-05",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.64,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Cox",
+      "start_char": 58,
+      "end_char": 66,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "6318841",
+      "start_char": 83,
+      "end_char": 90,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "6318841",
+      "start_char": 83,
+      "end_char": 90,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-25",
+      "start_char": 154,
+      "end_char": 164,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 176,
+      "end_char": 186,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "461249\n2025",
+      "start_char": 211,
+      "end_char": 222,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-15",
+      "start_char": 218,
+      "end_char": 228,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 237,
+      "end_char": 247,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "290802\n2026",
+      "start_char": 272,
+      "end_char": 283,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-08",
+      "start_char": 279,
+      "end_char": 289,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 298,
+      "end_char": 312,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-16",
+      "start_char": 343,
+      "end_char": 353,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 369,
+      "end_char": 385,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "438334\n2026",
+      "start_char": 411,
+      "end_char": 422,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 418,
+      "end_char": 428,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 437,
+      "end_char": 450,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10",
+      "start_char": 481,
+      "end_char": 491,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 500,
+      "end_char": 513,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "231250\n2025",
+      "start_char": 539,
+      "end_char": 550,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-15",
+      "start_char": 546,
+      "end_char": 556,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 571,
+      "end_char": 581,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-29",
+      "start_char": 614,
+      "end_char": 624,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 640,
+      "end_char": 656,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-20",
+      "start_char": 689,
+      "end_char": 699,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 713,
+      "end_char": 723,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-04",
+      "start_char": 755,
+      "end_char": 765,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 780,
+      "end_char": 790,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "377511\n2025",
+      "start_char": 816,
+      "end_char": 827,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-15",
+      "start_char": 823,
+      "end_char": 833,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 849,
+      "end_char": 859,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-28",
+      "start_char": 892,
+      "end_char": 902,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 911,
+      "end_char": 924,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-09",
+      "start_char": 957,
+      "end_char": 967,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 980,
+      "end_char": 991,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "411882\n2025",
+      "start_char": 1017,
+      "end_char": 1028,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-20",
+      "start_char": 1024,
+      "end_char": 1034,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 1050,
+      "end_char": 1061,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "535810\n2026",
+      "start_char": 1087,
+      "end_char": 1098,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-05",
+      "start_char": 1094,
+      "end_char": 1104,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 1113,
+      "end_char": 1129,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "427766\n2026",
+      "start_char": 1155,
+      "end_char": 1166,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-27",
+      "start_char": 1162,
+      "end_char": 1172,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 1185,
+      "end_char": 1198,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "518084\n2025",
+      "start_char": 1224,
+      "end_char": 1235,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-07",
+      "start_char": 1231,
+      "end_char": 1241,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 1250,
+      "end_char": 1264,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "434617\n2025",
+      "start_char": 1288,
+      "end_char": 1299,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-20",
+      "start_char": 1295,
+      "end_char": 1305,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 1321,
+      "end_char": 1337,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "247720\n2025",
+      "start_char": 1364,
+      "end_char": 1375,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-24",
+      "start_char": 1371,
+      "end_char": 1381,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 1397,
+      "end_char": 1407,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "538446\n2025",
+      "start_char": 1434,
+      "end_char": 1445,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-20",
+      "start_char": 1441,
+      "end_char": 1451,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 1467,
+      "end_char": 1480,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-08",
+      "start_char": 1513,
+      "end_char": 1523,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 1539,
+      "end_char": 1550,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-16",
+      "start_char": 1584,
+      "end_char": 1594,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 1610,
+      "end_char": 1624,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-22",
+      "start_char": 1658,
+      "end_char": 1668,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 1684,
+      "end_char": 1700,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-18",
+      "start_char": 1733,
+      "end_char": 1743,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 1759,
+      "end_char": 1769,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-03",
+      "start_char": 1803,
+      "end_char": 1813,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 1822,
+      "end_char": 1836,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-27",
+      "start_char": 1869,
+      "end_char": 1879,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 1893,
+      "end_char": 1906,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-18",
+      "start_char": 1939,
+      "end_char": 1949,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 1964,
+      "end_char": 1974,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-21",
+      "start_char": 2008,
+      "end_char": 2018,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 2033,
+      "end_char": 2044,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-22",
+      "start_char": 2079,
+      "end_char": 2089,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 2102,
+      "end_char": 2112,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-29",
+      "start_char": 2145,
+      "end_char": 2155,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 2170,
+      "end_char": 2181,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "491326\n2026",
+      "start_char": 2208,
+      "end_char": 2219,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-19",
+      "start_char": 2215,
+      "end_char": 2225,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 2239,
+      "end_char": 2255,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "308727\n2025",
+      "start_char": 2282,
+      "end_char": 2293,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-30",
+      "start_char": 2289,
+      "end_char": 2299,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 2314,
+      "end_char": 2328,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-09",
+      "start_char": 2362,
+      "end_char": 2372,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 2388,
+      "end_char": 2398,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "579187\n2026",
+      "start_char": 2426,
+      "end_char": 2437,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-19",
+      "start_char": 2433,
+      "end_char": 2443,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 2459,
+      "end_char": 2472,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-28",
+      "start_char": 2507,
+      "end_char": 2517,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 2526,
+      "end_char": 2539,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-14",
+      "start_char": 2574,
+      "end_char": 2584,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 2593,
+      "end_char": 2604,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-16",
+      "start_char": 2639,
+      "end_char": 2649,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 2664,
+      "end_char": 2677,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "447329\n2025",
+      "start_char": 2705,
+      "end_char": 2716,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-29",
+      "start_char": 2712,
+      "end_char": 2722,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 2731,
+      "end_char": 2744,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-26",
+      "start_char": 2778,
+      "end_char": 2788,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 2800,
+      "end_char": 2814,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-15",
+      "start_char": 2849,
+      "end_char": 2859,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 2872,
+      "end_char": 2882,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-14",
+      "start_char": 2916,
+      "end_char": 2926,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Sheppard",
+      "start_char": 2942,
+      "end_char": 2958,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-16",
+      "start_char": 2992,
+      "end_char": 3002,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 3015,
+      "end_char": 3026,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "254954\n2025",
+      "start_char": 3053,
+      "end_char": 3064,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-17",
+      "start_char": 3060,
+      "end_char": 3070,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Graham",
+      "start_char": 3079,
+      "end_char": 3093,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "300051\n2025",
+      "start_char": 3120,
+      "end_char": 3131,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-18",
+      "start_char": 3127,
+      "end_char": 3137,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 3153,
+      "end_char": 3164,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-14",
+      "start_char": 3199,
+      "end_char": 3209,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Webb",
+      "start_char": 3218,
+      "end_char": 3229,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-03",
+      "start_char": 3263,
+      "end_char": 3273,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 3289,
+      "end_char": 3299,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "317413\n2025",
+      "start_char": 3326,
+      "end_char": 3337,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-14",
+      "start_char": 3333,
+      "end_char": 3343,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 3359,
+      "end_char": 3369,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "495129\n2026",
+      "start_char": 3395,
+      "end_char": 3406,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-05",
+      "start_char": 3402,
+      "end_char": 3412,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 3421,
+      "end_char": 3434,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-13",
+      "start_char": 3469,
+      "end_char": 3479,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Morton",
+      "start_char": 3491,
+      "end_char": 3504,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-18",
+      "start_char": 3539,
+      "end_char": 3549,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Simon",
+      "start_char": 3563,
+      "end_char": 3573,
+      "confidence": 0.99,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 1201,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3608,
+  "error": null,
+  "raw_response": {}
+}

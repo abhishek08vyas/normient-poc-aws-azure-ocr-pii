@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-09
+Account Holder: Kyle Sanders
+Account Number: 4853765
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-10-15	Payroll	Diana Nelson		41,865.75	88,918.41	TXN-326956
+2026-02-25	Bill payment	Thomas Johnson	43,642.66		45,275.74	TXN-865479
+2025-10-30	Direct deposit	Michelle Williams		44,601.95	89,877.69	TXN-555342
+2026-04-25	Payroll	Deborah Mitchell		20,946.82	110,824.51	TXN-701568
+2025-10-10	Wire transfer	Thomas Johnson		25,260.39	136,084.90	TXN-593515
+2025-09-21	Vendor payment	Lauren Kim	39,921.07		96,163.83	TXN-513474
+2025-07-24	Service fee	Thomas Johnson	4,246.27		91,917.56	TXN-574419
+2025-11-21	Service fee	Thomas Johnson		47,501.70	139,419.26	TXN-826830
+2026-02-05	Direct deposit	Michelle Williams	49,947.69		89,471.57	TXN-410158
+2025-11-22	Wire transfer	Diana Nelson	35,194.89		54,276.68	TXN-801534
+2025-10-02	Service fee	Lauren Kim		48,823.40	103,100.08	TXN-883586
+2026-05-06	Vendor payment	Deborah Mitchell	39,513.95		63,586.13	TXN-837290
+2026-03-18	Bill payment	Diana Nelson		43,033.09	106,619.22	TXN-838094
+2025-11-30	Wire transfer	Diana Nelson	1,732.44		104,886.78	TXN-824304
+2025-08-24	Vendor payment	Michelle Williams		27,167.51	132,054.30	TXN-831963
+2026-03-20	Service fee	Deborah Mitchell		31,060.72	163,115.01	TXN-925954
+2025-06-14	Bill payment	Thomas Johnson		33,765.18	196,880.19	TXN-639740
+2026-02-19	Wire transfer	Thomas Johnson	30,994.76		165,885.43	TXN-501557
+2025-10-24	Bill payment	Michelle Williams		35,273.20	201,158.63	TXN-283781
+2025-06-12	Payroll	Deborah Mitchell		12,007.77	213,166.40	TXN-245129
+2025-10-27	Wire transfer	Diana Nelson		29,047.96	242,214.36	TXN-873199
+2026-01-01	E-transfer	Deborah Mitchell		11,349.32	253,563.68	TXN-889759
+2026-03-28	Bill payment	Michelle Williams		13,929.55	267,493.23	TXN-628027
+2025-07-22	Wire transfer	Michelle Williams	25,122.36		242,370.87	TXN-461996
+2025-12-10	Service fee	Thomas Johnson		33,947.58	276,318.45	TXN-593002
+2025-09-04	Payroll	Michelle Williams		40,015.20	316,333.66	TXN-573933
+2025-09-14	E-transfer	Thomas Johnson		22,947.92	339,281.57	TXN-297503
+2025-06-21	Wire transfer	Diana Nelson	47,835.68		291,445.89	TXN-287497
+2025-06-13	Wire transfer	Deborah Mitchell	7,482.91		283,962.98	TXN-389346
+2025-09-17	Direct deposit	Deborah Mitchell		1,232.24	285,195.23	TXN-645980
+2026-01-24	Vendor payment	Lauren Kim	21,064.49		264,130.74	TXN-238440
+2025-09-04	E-transfer	Thomas Johnson	1,199.63		262,931.12	TXN-405677
+2025-09-09	Service fee	Deborah Mitchell		32,269.13	295,200.25	TXN-975505
+2025-11-02	Vendor payment	Lauren Kim		39,362.54	334,562.79	TXN-459443
+2026-01-02	Vendor payment	Lauren Kim		42,111.20	376,673.99	TXN-798199
+2026-02-15	Vendor payment	Diana Nelson		44,924.27	421,598.26	TXN-418853
+2025-10-25	Bill payment	Deborah Mitchell	24,263.73		397,334.52	TXN-927607
+2025-07-16	Bill payment	Thomas Johnson	22,850.73		374,483.79	TXN-255544
+2026-02-04	Direct deposit	Lauren Kim		14,333.80	388,817.60	TXN-268600
+2025-11-01	Direct deposit	Deborah Mitchell	2,153.46		386,664.14	TXN-269087
+2025-09-26	Bill payment	Lauren Kim	18,546.64		368,117.50	TXN-232617
+2025-11-02	Direct deposit	Lauren Kim	15,915.49		352,202.00	TXN-841484
+2025-05-29	Bill payment	Deborah Mitchell	48,775.74		303,426.27	TXN-491029
+2026-02-19	Payroll	Michelle Williams		20,287.66	323,713.93	TXN-227391
+2026-04-15	Vendor payment	Deborah Mitchell		7,887.06	331,600.98	TXN-580290
+2026-05-02	E-transfer	Lauren Kim	35,302.02		296,298.96	TXN-632056
+2025-09-26	Vendor payment	Michelle Williams		28,729.01	325,027.97	TXN-890795
+2026-01-06	Direct deposit	Lauren Kim		22,161.07	347,189.03	TXN-863933
+2025-10-28	E-transfer	Thomas Johnson	2,100.04		345,089.00	TXN-867180
+2025-08-27	E-transfer	Lauren Kim	20,141.33		324,947.66	TXN-222553

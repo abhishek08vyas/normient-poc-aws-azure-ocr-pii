@@ -1,0 +1,1011 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_014",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.65,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Farmer",
+      "start_char": 58,
+      "end_char": 72,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "7802338",
+      "start_char": 89,
+      "end_char": 96,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-05",
+      "start_char": 160,
+      "end_char": 170,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Nelson",
+      "start_char": 182,
+      "end_char": 196,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-09",
+      "start_char": 229,
+      "end_char": 239,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 251,
+      "end_char": 263,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-05",
+      "start_char": 296,
+      "end_char": 306,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 320,
+      "end_char": 332,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-21",
+      "start_char": 365,
+      "end_char": 375,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 391,
+      "end_char": 403,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-26",
+      "start_char": 436,
+      "end_char": 446,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 461,
+      "end_char": 473,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-15",
+      "start_char": 506,
+      "end_char": 516,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 531,
+      "end_char": 543,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "370211\n2025",
+      "start_char": 569,
+      "end_char": 580,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-22",
+      "start_char": 576,
+      "end_char": 586,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 595,
+      "end_char": 610,
+      "confidence": 0.7,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-15",
+      "start_char": 643,
+      "end_char": 653,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 669,
+      "end_char": 681,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-07",
+      "start_char": 714,
+      "end_char": 724,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Lynch",
+      "start_char": 736,
+      "end_char": 748,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-18",
+      "start_char": 781,
+      "end_char": 791,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 805,
+      "end_char": 821,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "501261\n2026",
+      "start_char": 848,
+      "end_char": 859,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-23",
+      "start_char": 855,
+      "end_char": 865,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Nelson",
+      "start_char": 877,
+      "end_char": 891,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "341099\n2025",
+      "start_char": 918,
+      "end_char": 929,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-15",
+      "start_char": 925,
+      "end_char": 935,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 949,
+      "end_char": 961,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-09",
+      "start_char": 994,
+      "end_char": 1004,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 1020,
+      "end_char": 1035,
+      "confidence": 0.89,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-07",
+      "start_char": 1068,
+      "end_char": 1078,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 1092,
+      "end_char": 1108,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-24",
+      "start_char": 1141,
+      "end_char": 1151,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 1165,
+      "end_char": 1177,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-13",
+      "start_char": 1210,
+      "end_char": 1220,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 1232,
+      "end_char": 1244,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-24",
+      "start_char": 1277,
+      "end_char": 1287,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 1303,
+      "end_char": 1318,
+      "confidence": 0.85,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "316823\n2025",
+      "start_char": 1341,
+      "end_char": 1352,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-17",
+      "start_char": 1348,
+      "end_char": 1358,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 1371,
+      "end_char": 1383,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "473321\n2026",
+      "start_char": 1408,
+      "end_char": 1419,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-26",
+      "start_char": 1415,
+      "end_char": 1425,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Nelson",
+      "start_char": 1440,
+      "end_char": 1454,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-05",
+      "start_char": 1484,
+      "end_char": 1494,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 1507,
+      "end_char": 1519,
+      "confidence": 0.74,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-04",
+      "start_char": 1552,
+      "end_char": 1562,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Lynch",
+      "start_char": 1576,
+      "end_char": 1588,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-06",
+      "start_char": 1621,
+      "end_char": 1631,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 1644,
+      "end_char": 1656,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "393880\n2025",
+      "start_char": 1679,
+      "end_char": 1690,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-23",
+      "start_char": 1686,
+      "end_char": 1696,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 1712,
+      "end_char": 1728,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-05",
+      "start_char": 1761,
+      "end_char": 1771,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 1780,
+      "end_char": 1796,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-22",
+      "start_char": 1830,
+      "end_char": 1840,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 1853,
+      "end_char": 1865,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "579404\n2025",
+      "start_char": 1891,
+      "end_char": 1902,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-13",
+      "start_char": 1898,
+      "end_char": 1908,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 1924,
+      "end_char": 1939,
+      "confidence": 0.76,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-03",
+      "start_char": 1973,
+      "end_char": 1983,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 1999,
+      "end_char": 2011,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "205641\n2025",
+      "start_char": 2038,
+      "end_char": 2049,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-11",
+      "start_char": 2045,
+      "end_char": 2055,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 2069,
+      "end_char": 2081,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-17",
+      "start_char": 2115,
+      "end_char": 2125,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 2134,
+      "end_char": 2149,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "483699\n2025",
+      "start_char": 2176,
+      "end_char": 2187,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-15",
+      "start_char": 2183,
+      "end_char": 2193,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Nelson",
+      "start_char": 2209,
+      "end_char": 2223,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-10",
+      "start_char": 2258,
+      "end_char": 2268,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Lynch",
+      "start_char": 2282,
+      "end_char": 2294,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "288627\n2025",
+      "start_char": 2321,
+      "end_char": 2332,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-19",
+      "start_char": 2328,
+      "end_char": 2338,
+      "confidence": 0.68,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 2350,
+      "end_char": 2362,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-30",
+      "start_char": 2396,
+      "end_char": 2406,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 2422,
+      "end_char": 2434,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "553214\n2025",
+      "start_char": 2460,
+      "end_char": 2471,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-14",
+      "start_char": 2467,
+      "end_char": 2477,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nelson",
+      "start_char": 2498,
+      "end_char": 2504,
+      "confidence": 0.73,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "256812\n2026",
+      "start_char": 2528,
+      "end_char": 2539,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-21",
+      "start_char": 2535,
+      "end_char": 2545,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Lynch",
+      "start_char": 2561,
+      "end_char": 2573,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "241003\n2025",
+      "start_char": 2600,
+      "end_char": 2611,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-02",
+      "start_char": 2607,
+      "end_char": 2617,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 2626,
+      "end_char": 2638,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-12",
+      "start_char": 2672,
+      "end_char": 2682,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 2696,
+      "end_char": 2708,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-13",
+      "start_char": 2741,
+      "end_char": 2751,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 2767,
+      "end_char": 2783,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "325933\n2026",
+      "start_char": 2810,
+      "end_char": 2821,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-01",
+      "start_char": 2817,
+      "end_char": 2827,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 2839,
+      "end_char": 2855,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "571706\n2026",
+      "start_char": 2882,
+      "end_char": 2893,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-07",
+      "start_char": 2889,
+      "end_char": 2899,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 2913,
+      "end_char": 2925,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-01",
+      "start_char": 2959,
+      "end_char": 2969,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Lynch",
+      "start_char": 2984,
+      "end_char": 2996,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "227126\n2026",
+      "start_char": 3023,
+      "end_char": 3034,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-29",
+      "start_char": 3030,
+      "end_char": 3040,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ann Saunders",
+      "start_char": 3049,
+      "end_char": 3061,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-13",
+      "start_char": 3095,
+      "end_char": 3105,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 3121,
+      "end_char": 3136,
+      "confidence": 0.89,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "472358\n2025",
+      "start_char": 3163,
+      "end_char": 3174,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-26",
+      "start_char": 3170,
+      "end_char": 3180,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Nelson",
+      "start_char": 3193,
+      "end_char": 3207,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "568640\n2025",
+      "start_char": 3234,
+      "end_char": 3245,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-01",
+      "start_char": 3241,
+      "end_char": 3251,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Lynch",
+      "start_char": 3265,
+      "end_char": 3277,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-25",
+      "start_char": 3310,
+      "end_char": 3320,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 3332,
+      "end_char": 3347,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "542306\n2025",
+      "start_char": 3373,
+      "end_char": 3384,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-24",
+      "start_char": 3380,
+      "end_char": 3390,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Patterson",
+      "start_char": 3403,
+      "end_char": 3419,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-17",
+      "start_char": 3452,
+      "end_char": 3462,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Nelson",
+      "start_char": 3476,
+      "end_char": 3490,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "405509\n2026",
+      "start_char": 3516,
+      "end_char": 3527,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-03",
+      "start_char": 3523,
+      "end_char": 3533,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christy Leonard",
+      "start_char": 3549,
+      "end_char": 3564,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "566509\n2025",
+      "start_char": 3591,
+      "end_char": 3602,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-31",
+      "start_char": 3598,
+      "end_char": 3608,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diane Steele",
+      "start_char": 3620,
+      "end_char": 3632,
+      "confidence": 0.87,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 444,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3666,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Jeffrey Graham
+Account: 8870361
+Type: Business
+Balance: $6,023.98 CAD
+Last Login: 2026-04-15 08:23:37
+Email on file: jeffrey.graham@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-01  Wire transfer            -$239.09     $5,784.90
+2026-04-29  Direct deposit           $5,510.60    $11,295.50
+2026-05-02  POS purchase             $4,261.38    $15,556.88
+2026-04-21  Direct deposit           -$3,046.45   $12,510.43
+2026-05-05  ATM withdrawal           $6,407.57    $18,918.00

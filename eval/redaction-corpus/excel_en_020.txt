@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-04
+Account Holder: Stacey Walker
+Account Number: 2309997
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-05-04	Bill payment	Lucas Garcia	22,756.34		42,417.19	TXN-916344
+2026-03-31	Vendor payment	Lucas Garcia	17,710.44		24,706.75	TXN-869460
+2025-11-12	Service fee	Nathaniel Hughes	34,783.05		-10,076.30	TXN-403257
+2026-02-07	Payroll	Jennifer Rogers		28,228.94	18,152.64	TXN-418841
+2026-03-31	Wire transfer	Jennifer Rogers		28,685.71	46,838.35	TXN-596144
+2025-07-05	E-transfer	Nathaniel Hughes		1,462.17	48,300.53	TXN-948188
+2026-03-03	Vendor payment	Nicole Arias		42,587.12	90,887.65	TXN-232981
+2026-02-11	Bill payment	Nathaniel Hughes		13,833.33	104,720.98	TXN-238976
+2025-11-11	Bill payment	Nicole Arias	8,813.23		95,907.75	TXN-877444
+2025-11-03	Payroll	Jennifer Rogers		18,551.36	114,459.11	TXN-258477
+2026-01-06	Direct deposit	Nathaniel Hughes		24,297.43	138,756.55	TXN-920539
+2025-05-15	Service fee	Lucas Garcia	4,311.63		134,444.91	TXN-134697
+2026-04-29	Direct deposit	Lucas Garcia	24,847.82		109,597.10	TXN-961639
+2025-06-12	Vendor payment	Dustin Johnson	22,065.23		87,531.86	TXN-501779
+2025-05-20	E-transfer	Robert Sanders		42,107.47	129,639.33	TXN-321099
+2025-08-20	Wire transfer	Jennifer Rogers		5,888.12	135,527.45	TXN-377238
+2025-08-04	Direct deposit	Christopher Walker	23,865.69		111,661.77	TXN-518114
+2026-04-02	Service fee	Lucas Garcia	35,309.83		76,351.94	TXN-345011
+2025-07-10	Vendor payment	Nathaniel Hughes		21,793.24	98,145.18	TXN-252200
+2025-12-12	Bill payment	Dustin Johnson	15,852.86		82,292.32	TXN-570622
+2026-02-19	Payroll	Jennifer Rogers	26,611.54		55,680.78	TXN-143010
+2026-01-04	Bill payment	Dustin Johnson		32,638.09	88,318.87	TXN-552760
+2025-12-03	Bill payment	Nathaniel Hughes	5,004.01		83,314.86	TXN-383457
+2025-10-24	E-transfer	Lucas Garcia	33,797.03		49,517.83	TXN-510154
+2025-06-25	Direct deposit	Jennifer Rogers		9,826.79	59,344.62	TXN-804527
+2026-03-10	Bill payment	Jennifer Rogers		15,732.16	75,076.79	TXN-823809
+2025-09-01	Wire transfer	Jennifer Rogers		696.87	75,773.66	TXN-108887
+2025-08-13	Wire transfer	Lucas Garcia		17,640.67	93,414.33	TXN-208954
+2025-09-06	E-transfer	Nathaniel Hughes	1,282.65		92,131.68	TXN-364132
+2025-06-29	Wire transfer	Nicole Arias		41,789.41	133,921.09	TXN-722999
+2025-05-31	Payroll	Jennifer Rogers		6,086.86	140,007.94	TXN-227706
+2025-08-13	Service fee	Lucas Garcia	38,216.50		101,791.44	TXN-236217
+2025-10-23	E-transfer	Lucas Garcia		44,810.48	146,601.92	TXN-942216
+2026-01-16	E-transfer	Robert Sanders	33,057.84		113,544.08	TXN-365641
+2026-03-17	Wire transfer	Jennifer Rogers		13,891.54	127,435.62	TXN-575470
+2026-01-09	Vendor payment	Jennifer Rogers		16,237.87	143,673.48	TXN-800007
+2025-11-06	Direct deposit	Dustin Johnson	3,213.13		140,460.35	TXN-177591
+2025-06-06	Vendor payment	Nathaniel Hughes	40,658.76		99,801.59	TXN-162976
+2025-06-25	Direct deposit	Christopher Walker	46,436.46		53,365.13	TXN-172769
+2026-04-02	Payroll	Christopher Walker		5,510.68	58,875.82	TXN-287110
+2026-04-29	Payroll	Dustin Johnson	32,202.57		26,673.24	TXN-552202
+2025-11-23	Vendor payment	Jennifer Rogers	3,738.68		22,934.56	TXN-371577
+2025-12-30	Payroll	Jennifer Rogers		1,036.36	23,970.92	TXN-362769
+2025-12-07	Vendor payment	Robert Sanders		46,651.40	70,622.32	TXN-784578
+2025-05-19	E-transfer	Christopher Walker	16,558.56		54,063.76	TXN-379378
+2026-01-13	Vendor payment	Lucas Garcia		47,001.56	101,065.32	TXN-103883
+2025-11-29	Vendor payment	Christopher Walker	36,415.59		64,649.73	TXN-557239
+2025-12-22	Service fee	Dustin Johnson		265.04	64,914.76	TXN-173504
+2025-08-14	E-transfer	Dustin Johnson	28,405.47		36,509.29	TXN-917710
+2026-02-16	Bill payment	Nathaniel Hughes	2,854.21		33,655.08	TXN-814956

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: John Alvarez
+Account: 3972018
+Type: Savings
+Balance: $152,116.94 CAD
+Last Login: 2026-04-17 11:25:42
+Email on file: john.alvarez@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-05  POS purchase             $4,516.61    $156,633.54
+2026-05-03  POS purchase             $6,447.77    $163,081.31
+2026-05-10  Bill payment             $8,649.26    $171,730.57
+2026-04-22  Direct deposit           -$4,425.64   $167,304.93
+2026-05-01  E-transfer               -$3,063.06   $164,241.86

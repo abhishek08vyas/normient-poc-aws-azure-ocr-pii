@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-08-11
+Reference : VIR-365154
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Valérie Bouchard
+Numero de compte : 1474058
+Succursale : Levis
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Cécile Thibault
+Numero de compte : 3481086
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 438,127.08 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Étienne Lavoie
+NAS (pour verification) : 397243999
+Courriel : etienne.lavoie@example.ca
+Telephone : (416) 319-1512
+Code postal : R6Y 1W3
+
+Signature : ____________________
+Date : 2025-11-01

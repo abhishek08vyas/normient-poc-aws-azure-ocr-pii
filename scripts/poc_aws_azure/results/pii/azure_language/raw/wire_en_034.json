@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_034",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-27",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Hensley",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3086308",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Richard David",
+      "start_char": 227,
+      "end_char": 240,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8863447",
+      "start_char": 257,
+      "end_char": 264,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "CIBC",
+      "start_char": 278,
+      "end_char": 282,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Riley",
+      "start_char": 370,
+      "end_char": 382,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "646488775",
+      "start_char": 407,
+      "end_char": 416,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "ashley.riley@example.com",
+      "start_char": 424,
+      "end_char": 448,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 642-5280",
+      "start_char": 456,
+      "end_char": 470,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "L0C 3Y9",
+      "start_char": 484,
+      "end_char": 491,
+      "confidence": 0.84,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "L0C 3Y9",
+      "start_char": 484,
+      "end_char": 491,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-07",
+      "start_char": 531,
+      "end_char": 541,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 167,
+  "cost_estimate_usd": 0.001,
+  "char_count": 542,
+  "error": null,
+  "raw_response": {}
+}

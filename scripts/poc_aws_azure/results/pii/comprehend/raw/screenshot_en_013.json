@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_013",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Caitlin Dodson",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.9999321103096008,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5746166",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.9996341466903687,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 120,
+      "end_char": 130,
+      "confidence": 0.9999960064888,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "10:12:46",
+      "start_char": 131,
+      "end_char": 139,
+      "confidence": 0.9999873042106628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "caitlin.dodson@acmecorp.ca",
+      "start_char": 155,
+      "end_char": 181,
+      "confidence": 0.9999374151229858,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 260,
+      "end_char": 270,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-07",
+      "start_char": 322,
+      "end_char": 332,
+      "confidence": 0.9999950528144836,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 384,
+      "end_char": 394,
+      "confidence": 0.999995231628418,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 446,
+      "end_char": 456,
+      "confidence": 0.9999949932098389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 508,
+      "end_char": 518,
+      "confidence": 0.999994695186615,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 226,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 570,
+  "error": null,
+  "raw_response": {}
+}

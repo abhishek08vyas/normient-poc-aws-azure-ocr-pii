@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-10-06
+Reference: WT-216970
+
+SENDER INFORMATION
+Name: Melanie Munoz
+Account Number: 7073292
+Branch: Burnaby, British Columbia
+
+RECIPIENT INFORMATION
+Name: Lindsay Blair
+Account Number: 4679591
+Institution: Laurentian Bank
+
+TRANSFER DETAILS
+Amount: $341,173.47 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Amanda Dudley
+SIN (for verification): 287101224
+Email: amanda.dudley@acmecorp.ca
+Phone: (647) 594-6252
+Postal Code: T8L 8A1
+
+Signature: ____________________
+Date: 2025-06-11

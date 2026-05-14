@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-10-02
+Reference: WT-134985
+
+SENDER INFORMATION
+Name: Ann Rodriguez
+Account Number: 5953150
+Branch: Surrey, British Columbia
+
+RECIPIENT INFORMATION
+Name: Sierra Vazquez
+Account Number: 1368085
+Institution: Royal Bank of Canada
+
+TRANSFER DETAILS
+Amount: $451,798.45 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Edward Johnson
+SIN (for verification): 764090973
+Email: edward.johnson@testbank.ca
+Phone: (514) 821-5772
+Postal Code: K3Z 4G1
+
+Signature: ____________________
+Date: 2025-12-24

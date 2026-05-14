@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_016",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-11",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Valérie Bouchard",
+      "start_char": 155,
+      "end_char": 171,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1474058",
+      "start_char": 191,
+      "end_char": 198,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 235,
+      "end_char": 247,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cécile Thibault",
+      "start_char": 254,
+      "end_char": 269,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3481086",
+      "start_char": 289,
+      "end_char": 296,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 311,
+      "end_char": 327,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Étienne Lavoie",
+      "start_char": 440,
+      "end_char": 454,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "397243999",
+      "start_char": 481,
+      "end_char": 490,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "etienne.lavoie@example.ca",
+      "start_char": 502,
+      "end_char": 527,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 319-1512",
+      "start_char": 540,
+      "end_char": 554,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "R6Y 1W3",
+      "start_char": 569,
+      "end_char": 576,
+      "confidence": 0.87,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "R6Y 1W3",
+      "start_char": 569,
+      "end_char": 576,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-01",
+      "start_char": 618,
+      "end_char": 628,
+      "confidence": 0.84,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 204,
+  "cost_estimate_usd": 0.001,
+  "char_count": 629,
+  "error": null,
+  "raw_response": {}
+}

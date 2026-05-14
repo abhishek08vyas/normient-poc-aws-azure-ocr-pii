@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_040",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-02",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Pamela Newton",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5446344",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Campbell",
+      "start_char": 225,
+      "end_char": 238,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6680114",
+      "start_char": 255,
+      "end_char": 262,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 276,
+      "end_char": 291,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jason Cooper",
+      "start_char": 391,
+      "end_char": 403,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "561586579",
+      "start_char": 428,
+      "end_char": 437,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jason.cooper@synthco.com",
+      "start_char": 445,
+      "end_char": 469,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 832-1121",
+      "start_char": 477,
+      "end_char": 491,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K4K 1S1",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.86,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K4K 1S1",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-13",
+      "start_char": 552,
+      "end_char": 562,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 171,
+  "cost_estimate_usd": 0.001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

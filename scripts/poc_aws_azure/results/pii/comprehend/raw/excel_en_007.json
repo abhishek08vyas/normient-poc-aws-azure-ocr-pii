@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_007",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999829530715942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Paul Alvarado",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 0.999891459941864,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5112546",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.9999209642410278,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-11",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.9999900460243225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 185,
+      "end_char": 198,
+      "confidence": 0.9998408555984497,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-11",
+      "start_char": 231,
+      "end_char": 241,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 253,
+      "end_char": 266,
+      "confidence": 0.9998800158500671,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-11",
+      "start_char": 298,
+      "end_char": 308,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Pena",
+      "start_char": 321,
+      "end_char": 332,
+      "confidence": 0.9998684525489807,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-12",
+      "start_char": 363,
+      "end_char": 373,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 389,
+      "end_char": 398,
+      "confidence": 0.9998522400856018,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-23",
+      "start_char": 431,
+      "end_char": 441,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Pena",
+      "start_char": 457,
+      "end_char": 468,
+      "confidence": 0.999849259853363,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-21",
+      "start_char": 500,
+      "end_char": 510,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 523,
+      "end_char": 536,
+      "confidence": 0.9998053908348083,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-10",
+      "start_char": 569,
+      "end_char": 579,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 591,
+      "end_char": 604,
+      "confidence": 0.9999218583106995,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-06",
+      "start_char": 636,
+      "end_char": 646,
+      "confidence": 0.9999901652336121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 659,
+      "end_char": 668,
+      "confidence": 0.9996246099472046,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-14",
+      "start_char": 700,
+      "end_char": 710,
+      "confidence": 0.9999908208847046,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 722,
+      "end_char": 736,
+      "confidence": 0.9999100565910339,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-20",
+      "start_char": 770,
+      "end_char": 780,
+      "confidence": 0.9999892115592957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 793,
+      "end_char": 802,
+      "confidence": 0.9989317059516907,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-13",
+      "start_char": 835,
+      "end_char": 845,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 861,
+      "end_char": 873,
+      "confidence": 0.9998959302902222,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-08",
+      "start_char": 907,
+      "end_char": 917,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 930,
+      "end_char": 943,
+      "confidence": 0.9998548626899719,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-17",
+      "start_char": 976,
+      "end_char": 986,
+      "confidence": 0.9999900460243225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 1002,
+      "end_char": 1014,
+      "confidence": 0.9998641014099121,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-09",
+      "start_char": 1048,
+      "end_char": 1058,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 1071,
+      "end_char": 1085,
+      "confidence": 0.9998726844787598,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-29",
+      "start_char": 1119,
+      "end_char": 1129,
+      "confidence": 0.9999880790710449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 1144,
+      "end_char": 1157,
+      "confidence": 0.9998382925987244,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-11",
+      "start_char": 1191,
+      "end_char": 1201,
+      "confidence": 0.9999901056289673,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Pena",
+      "start_char": 1213,
+      "end_char": 1224,
+      "confidence": 0.9998404383659363,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-06",
+      "start_char": 1258,
+      "end_char": 1268,
+      "confidence": 0.999968409538269,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 1282,
+      "end_char": 1296,
+      "confidence": 0.9998522996902466,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-07",
+      "start_char": 1330,
+      "end_char": 1340,
+      "confidence": 0.9999885559082031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 1356,
+      "end_char": 1369,
+      "confidence": 0.9998109936714172,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-12",
+      "start_char": 1403,
+      "end_char": 1413,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 1429,
+      "end_char": 1442,
+      "confidence": 0.9998414516448975,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-11",
+      "start_char": 1474,
+      "end_char": 1484,
+      "confidence": 0.9999852180480957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 1493,
+      "end_char": 1507,
+      "confidence": 0.9998728632926941,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-16",
+      "start_char": 1541,
+      "end_char": 1551,
+      "confidence": 0.9999724626541138,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 1567,
+      "end_char": 1580,
+      "confidence": 0.9998927116394043,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 1614,
+      "end_char": 1624,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 1640,
+      "end_char": 1654,
+      "confidence": 0.9998981952667236,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-03",
+      "start_char": 1688,
+      "end_char": 1698,
+      "confidence": 0.9999809265136719,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Pena",
+      "start_char": 1710,
+      "end_char": 1721,
+      "confidence": 0.9998860955238342,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-18",
+      "start_char": 1755,
+      "end_char": 1765,
+      "confidence": 0.9999829530715942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 1778,
+      "end_char": 1791,
+      "confidence": 0.9998932480812073,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 1824,
+      "end_char": 1834,
+      "confidence": 0.9999578595161438,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 1846,
+      "end_char": 1855,
+      "confidence": 0.9997572898864746,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-09",
+      "start_char": 1889,
+      "end_char": 1899,
+      "confidence": 0.9999814629554749,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 1912,
+      "end_char": 1924,
+      "confidence": 0.9998927712440491,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-26",
+      "start_char": 1959,
+      "end_char": 1969,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 1985,
+      "end_char": 1998,
+      "confidence": 0.9998214244842529,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-07",
+      "start_char": 2032,
+      "end_char": 2042,
+      "confidence": 0.9999867677688599,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 2057,
+      "end_char": 2066,
+      "confidence": 0.999704897403717,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-08",
+      "start_char": 2101,
+      "end_char": 2111,
+      "confidence": 0.9999916553497314,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 2127,
+      "end_char": 2139,
+      "confidence": 0.9998874664306641,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-12",
+      "start_char": 2173,
+      "end_char": 2183,
+      "confidence": 0.9999867677688599,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 2192,
+      "end_char": 2205,
+      "confidence": 0.9997540712356567,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-13",
+      "start_char": 2240,
+      "end_char": 2250,
+      "confidence": 0.9999871253967285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 2266,
+      "end_char": 2279,
+      "confidence": 0.9997131824493408,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-02",
+      "start_char": 2314,
+      "end_char": 2324,
+      "confidence": 0.9999865889549255,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 2340,
+      "end_char": 2349,
+      "confidence": 0.9991977214813232,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 2383,
+      "end_char": 2393,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Pena",
+      "start_char": 2409,
+      "end_char": 2420,
+      "confidence": 0.9998704195022583,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 2453,
+      "end_char": 2463,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Pena",
+      "start_char": 2479,
+      "end_char": 2490,
+      "confidence": 0.9997890591621399,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-09",
+      "start_char": 2525,
+      "end_char": 2535,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 2549,
+      "end_char": 2562,
+      "confidence": 0.9998476505279541,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-27",
+      "start_char": 2597,
+      "end_char": 2607,
+      "confidence": 0.9999867677688599,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 2622,
+      "end_char": 2634,
+      "confidence": 0.9998600482940674,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-17",
+      "start_char": 2669,
+      "end_char": 2679,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 2692,
+      "end_char": 2704,
+      "confidence": 0.9998437762260437,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-28",
+      "start_char": 2739,
+      "end_char": 2749,
+      "confidence": 0.9999892115592957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 2763,
+      "end_char": 2776,
+      "confidence": 0.999843180179596,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-20",
+      "start_char": 2810,
+      "end_char": 2820,
+      "confidence": 0.9999887347221375,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 2832,
+      "end_char": 2846,
+      "confidence": 0.999873161315918,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-04",
+      "start_char": 2881,
+      "end_char": 2891,
+      "confidence": 0.999987781047821,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 2903,
+      "end_char": 2916,
+      "confidence": 0.9998136162757874,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-14",
+      "start_char": 2951,
+      "end_char": 2961,
+      "confidence": 0.9999758005142212,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 2974,
+      "end_char": 2983,
+      "confidence": 0.9986306428909302,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-10",
+      "start_char": 3017,
+      "end_char": 3027,
+      "confidence": 0.9999843835830688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Wayne Lawrence",
+      "start_char": 3043,
+      "end_char": 3057,
+      "confidence": 0.9997293949127197,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 3091,
+      "end_char": 3101,
+      "confidence": 0.9998387694358826,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 3113,
+      "end_char": 3125,
+      "confidence": 0.9997079372406006,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-21",
+      "start_char": 3159,
+      "end_char": 3169,
+      "confidence": 0.9999821186065674,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephen Bowen",
+      "start_char": 3178,
+      "end_char": 3191,
+      "confidence": 0.9995556473731995,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-01",
+      "start_char": 3224,
+      "end_char": 3234,
+      "confidence": 0.9999741315841675,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Fox",
+      "start_char": 3247,
+      "end_char": 3256,
+      "confidence": 0.9922700524330139,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-16",
+      "start_char": 3290,
+      "end_char": 3300,
+      "confidence": 0.9999746680259705,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 3315,
+      "end_char": 3328,
+      "confidence": 0.9997535943984985,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-06",
+      "start_char": 3361,
+      "end_char": 3371,
+      "confidence": 0.9999752044677734,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 3387,
+      "end_char": 3400,
+      "confidence": 0.9996597766876221,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-06",
+      "start_char": 3434,
+      "end_char": 3444,
+      "confidence": 0.9999783039093018,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 3460,
+      "end_char": 3472,
+      "confidence": 0.999893069267273,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-28",
+      "start_char": 3507,
+      "end_char": 3517,
+      "confidence": 0.999967098236084,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Molly Sawyer",
+      "start_char": 3530,
+      "end_char": 3542,
+      "confidence": 0.9998446106910706,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-24",
+      "start_char": 3577,
+      "end_char": 3587,
+      "confidence": 0.999971866607666,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Johnson",
+      "start_char": 3603,
+      "end_char": 3616,
+      "confidence": 0.9997472763061523,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 395,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3651,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_044",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-27",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.999896228313446,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jordan",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.9999385476112366,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3204724",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.9953489899635315,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Medicine Hat, Alberta",
+      "start_char": 178,
+      "end_char": 199,
+      "confidence": 0.9997120499610901,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bobby Diaz",
+      "start_char": 229,
+      "end_char": 239,
+      "confidence": 0.9999332427978516,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2512187",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.9998037219047546,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Stanton",
+      "start_char": 381,
+      "end_char": 394,
+      "confidence": 0.9999086856842041,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "356232850",
+      "start_char": 419,
+      "end_char": 428,
+      "confidence": 0.925919234752655,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "sarah.stanton@synthco.com",
+      "start_char": 436,
+      "end_char": 461,
+      "confidence": 0.9999847412109375,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 368-4210",
+      "start_char": 469,
+      "end_char": 483,
+      "confidence": 0.9999058246612549,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V4N 1T1",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.9997811913490295,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V4N 1T1",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-26",
+      "start_char": 544,
+      "end_char": 554,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 253,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 555,
+  "error": null,
+  "raw_response": {}
+}

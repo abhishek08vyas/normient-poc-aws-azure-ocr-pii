@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_022",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-16",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Ross",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2299954",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Brooks",
+      "start_char": 224,
+      "end_char": 236,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5793722",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Royal Bank of Canada",
+      "start_char": 274,
+      "end_char": 294,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Rachel Hayes",
+      "start_char": 389,
+      "end_char": 401,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "245581228",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "rachel.hayes@example.ca",
+      "start_char": 443,
+      "end_char": 466,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 910-2503",
+      "start_char": 474,
+      "end_char": 488,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "J1S 6N8",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "J1S 6N8",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-07",
+      "start_char": 549,
+      "end_char": 559,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 205,
+  "cost_estimate_usd": 0.001,
+  "char_count": 560,
+  "error": null,
+  "raw_response": {}
+}

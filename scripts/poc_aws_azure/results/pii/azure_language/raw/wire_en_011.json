@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-02",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jason Hahn",
+      "start_char": 132,
+      "end_char": 142,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9164991",
+      "start_char": 159,
+      "end_char": 166,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nancy Edwards",
+      "start_char": 223,
+      "end_char": 236,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3597059",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 274,
+      "end_char": 289,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Foster",
+      "start_char": 377,
+      "end_char": 389,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "243098050",
+      "start_char": 414,
+      "end_char": 423,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "diana.foster@example.com",
+      "start_char": 431,
+      "end_char": 455,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 798-7811",
+      "start_char": 463,
+      "end_char": 477,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X8H 0W1",
+      "start_char": 491,
+      "end_char": 498,
+      "confidence": 0.88,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X8H 0W1",
+      "start_char": 491,
+      "end_char": 498,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-16",
+      "start_char": 538,
+      "end_char": 548,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 136,
+  "cost_estimate_usd": 0.001,
+  "char_count": 549,
+  "error": null,
+  "raw_response": {}
+}

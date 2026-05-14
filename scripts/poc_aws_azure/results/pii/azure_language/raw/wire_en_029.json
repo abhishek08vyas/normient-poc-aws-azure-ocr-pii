@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_029",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025",
+      "start_char": 74,
+      "end_char": 78,
+      "confidence": 0.56,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Denise Fernandez",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5081983",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexis Davis",
+      "start_char": 230,
+      "end_char": 242,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6137284",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 280,
+      "end_char": 295,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karen Young",
+      "start_char": 390,
+      "end_char": 401,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "695788562",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "karen.young@synthco.com",
+      "start_char": 443,
+      "end_char": 466,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 560-7434",
+      "start_char": 474,
+      "end_char": 488,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "L4L 3E3",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.89,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "L4L 3E3",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-16",
+      "start_char": 549,
+      "end_char": 559,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 133,
+  "cost_estimate_usd": 0.001,
+  "char_count": 560,
+  "error": null,
+  "raw_response": {}
+}

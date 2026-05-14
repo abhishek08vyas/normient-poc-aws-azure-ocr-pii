@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_019",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-24",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.76,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Émilie Lévesque",
+      "start_char": 155,
+      "end_char": 170,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1702283",
+      "start_char": 190,
+      "end_char": 197,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 239,
+      "end_char": 251,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Hélène Gagné",
+      "start_char": 258,
+      "end_char": 270,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2624736",
+      "start_char": 290,
+      "end_char": 297,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 312,
+      "end_char": 322,
+      "confidence": 0.63,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Noël Côté",
+      "start_char": 413,
+      "end_char": 422,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 423,
+      "end_char": 426,
+      "confidence": 0.69,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "280698473",
+      "start_char": 449,
+      "end_char": 458,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "noel.cote@acmecorp.ca",
+      "start_char": 470,
+      "end_char": 491,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 818-7036",
+      "start_char": 504,
+      "end_char": 518,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "N5N 5K5",
+      "start_char": 533,
+      "end_char": 540,
+      "confidence": 0.79,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "N5N 5K5",
+      "start_char": 533,
+      "end_char": 540,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-16",
+      "start_char": 582,
+      "end_char": 592,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 184,
+  "cost_estimate_usd": 0.001,
+  "char_count": 593,
+  "error": null,
+  "raw_response": {}
+}

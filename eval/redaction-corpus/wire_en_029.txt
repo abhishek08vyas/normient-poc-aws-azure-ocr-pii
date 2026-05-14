@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-10-16
+Reference: WT-326895
+
+SENDER INFORMATION
+Name: Denise Fernandez
+Account Number: 5081983
+Branch: Quebec City, Quebec
+
+RECIPIENT INFORMATION
+Name: Alexis Davis
+Account Number: 6137284
+Institution: Laurentian Bank
+
+TRANSFER DETAILS
+Amount: $158,458.42 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Karen Young
+SIN (for verification): 695788562
+Email: karen.young@synthco.com
+Phone: (613) 560-7434
+Postal Code: L4L 3E3
+
+Signature: ____________________
+Date: 2025-11-16

@@ -1,0 +1,1067 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_020",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-04",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.71,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stacey Walker",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "2309997",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-04",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 183,
+      "end_char": 195,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 228,
+      "end_char": 238,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 254,
+      "end_char": 266,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-12",
+      "start_char": 299,
+      "end_char": 309,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 322,
+      "end_char": 338,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "403257\n2026",
+      "start_char": 365,
+      "end_char": 376,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-07",
+      "start_char": 372,
+      "end_char": 382,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 391,
+      "end_char": 406,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "418841\n2026",
+      "start_char": 432,
+      "end_char": 443,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 439,
+      "end_char": 449,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 464,
+      "end_char": 479,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "596144\n2025",
+      "start_char": 505,
+      "end_char": 516,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-05",
+      "start_char": 512,
+      "end_char": 522,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 534,
+      "end_char": 550,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-03",
+      "start_char": 582,
+      "end_char": 592,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nicole Arias",
+      "start_char": 608,
+      "end_char": 620,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "232981\n2026",
+      "start_char": 646,
+      "end_char": 657,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-11",
+      "start_char": 653,
+      "end_char": 663,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 677,
+      "end_char": 693,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "238976\n2025",
+      "start_char": 720,
+      "end_char": 731,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-11",
+      "start_char": 727,
+      "end_char": 737,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nicole Arias",
+      "start_char": 751,
+      "end_char": 763,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-03",
+      "start_char": 795,
+      "end_char": 805,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 814,
+      "end_char": 829,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "258477\n2026",
+      "start_char": 856,
+      "end_char": 867,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-06",
+      "start_char": 863,
+      "end_char": 873,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 889,
+      "end_char": 905,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-15",
+      "start_char": 939,
+      "end_char": 949,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 962,
+      "end_char": 974,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 1007,
+      "end_char": 1017,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 1033,
+      "end_char": 1045,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-12",
+      "start_char": 1079,
+      "end_char": 1089,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 1105,
+      "end_char": 1119,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "501779\n2025",
+      "start_char": 1145,
+      "end_char": 1156,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-20",
+      "start_char": 1152,
+      "end_char": 1162,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Sanders",
+      "start_char": 1174,
+      "end_char": 1188,
+      "confidence": 0.88,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "321099\n2025",
+      "start_char": 1215,
+      "end_char": 1226,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-20",
+      "start_char": 1222,
+      "end_char": 1232,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 1247,
+      "end_char": 1262,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "377238\n2025",
+      "start_char": 1288,
+      "end_char": 1299,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-04",
+      "start_char": 1295,
+      "end_char": 1305,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 1321,
+      "end_char": 1339,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "518114\n2026",
+      "start_char": 1366,
+      "end_char": 1377,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-02",
+      "start_char": 1373,
+      "end_char": 1383,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 1396,
+      "end_char": 1408,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "345011\n2025",
+      "start_char": 1434,
+      "end_char": 1445,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-10",
+      "start_char": 1441,
+      "end_char": 1451,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 1467,
+      "end_char": 1483,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "252200\n2025",
+      "start_char": 1509,
+      "end_char": 1520,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-12",
+      "start_char": 1516,
+      "end_char": 1526,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 1540,
+      "end_char": 1554,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "570622\n2026",
+      "start_char": 1580,
+      "end_char": 1591,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-19",
+      "start_char": 1587,
+      "end_char": 1597,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 1606,
+      "end_char": 1621,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-04",
+      "start_char": 1654,
+      "end_char": 1664,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 1678,
+      "end_char": 1692,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "552760\n2025",
+      "start_char": 1718,
+      "end_char": 1729,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-03",
+      "start_char": 1725,
+      "end_char": 1735,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 1749,
+      "end_char": 1765,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "383457\n2025",
+      "start_char": 1790,
+      "end_char": 1801,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-24",
+      "start_char": 1797,
+      "end_char": 1807,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 1819,
+      "end_char": 1831,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "510154\n2025",
+      "start_char": 1857,
+      "end_char": 1868,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-25",
+      "start_char": 1864,
+      "end_char": 1874,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 1890,
+      "end_char": 1905,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-10",
+      "start_char": 1937,
+      "end_char": 1947,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 1961,
+      "end_char": 1976,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-01",
+      "start_char": 2009,
+      "end_char": 2019,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 2034,
+      "end_char": 2049,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-13",
+      "start_char": 2079,
+      "end_char": 2089,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 2104,
+      "end_char": 2116,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "208954\n2025",
+      "start_char": 2142,
+      "end_char": 2153,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-06",
+      "start_char": 2149,
+      "end_char": 2159,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 2171,
+      "end_char": 2187,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "364132\n2025",
+      "start_char": 2212,
+      "end_char": 2223,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-29",
+      "start_char": 2219,
+      "end_char": 2229,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nicole Arias",
+      "start_char": 2244,
+      "end_char": 2256,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-31",
+      "start_char": 2290,
+      "end_char": 2300,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 2309,
+      "end_char": 2324,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "227706\n2025",
+      "start_char": 2350,
+      "end_char": 2361,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-13",
+      "start_char": 2357,
+      "end_char": 2367,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 2380,
+      "end_char": 2392,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "236217\n2025",
+      "start_char": 2419,
+      "end_char": 2430,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-23",
+      "start_char": 2426,
+      "end_char": 2436,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 2448,
+      "end_char": 2460,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-16",
+      "start_char": 2494,
+      "end_char": 2504,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Sanders",
+      "start_char": 2516,
+      "end_char": 2530,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "365641\n2026",
+      "start_char": 2557,
+      "end_char": 2568,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-17",
+      "start_char": 2564,
+      "end_char": 2574,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 2589,
+      "end_char": 2604,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "575470\n2026",
+      "start_char": 2631,
+      "end_char": 2642,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-09",
+      "start_char": 2638,
+      "end_char": 2648,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 2664,
+      "end_char": 2679,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-06",
+      "start_char": 2713,
+      "end_char": 2723,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 2739,
+      "end_char": 2753,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-06",
+      "start_char": 2786,
+      "end_char": 2796,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 2812,
+      "end_char": 2828,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-25",
+      "start_char": 2861,
+      "end_char": 2871,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 2887,
+      "end_char": 2905,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-02",
+      "start_char": 2938,
+      "end_char": 2948,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 2957,
+      "end_char": 2975,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "287110\n2026",
+      "start_char": 3000,
+      "end_char": 3011,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 3007,
+      "end_char": 3017,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 3026,
+      "end_char": 3040,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "552202\n2025",
+      "start_char": 3066,
+      "end_char": 3077,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-23",
+      "start_char": 3073,
+      "end_char": 3083,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 3099,
+      "end_char": 3114,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "371577\n2025",
+      "start_char": 3139,
+      "end_char": 3150,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-30",
+      "start_char": 3146,
+      "end_char": 3156,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Rogers",
+      "start_char": 3165,
+      "end_char": 3180,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "362769\n2025",
+      "start_char": 3205,
+      "end_char": 3216,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-07",
+      "start_char": 3212,
+      "end_char": 3222,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Sanders",
+      "start_char": 3238,
+      "end_char": 3252,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-19",
+      "start_char": 3285,
+      "end_char": 3295,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 3307,
+      "end_char": 3325,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "379378\n2026",
+      "start_char": 3351,
+      "end_char": 3362,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-13",
+      "start_char": 3358,
+      "end_char": 3368,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lucas Garcia",
+      "start_char": 3384,
+      "end_char": 3396,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-29",
+      "start_char": 3430,
+      "end_char": 3440,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 3456,
+      "end_char": 3474,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "557239\n2025",
+      "start_char": 3500,
+      "end_char": 3511,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-22",
+      "start_char": 3507,
+      "end_char": 3517,
+      "confidence": 0.83,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 3530,
+      "end_char": 3544,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-14",
+      "start_char": 3574,
+      "end_char": 3584,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dustin Johnson",
+      "start_char": 3596,
+      "end_char": 3610,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-16",
+      "start_char": 3643,
+      "end_char": 3653,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Hughes",
+      "start_char": 3667,
+      "end_char": 3683,
+      "confidence": 1.0,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 421,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3715,
+  "error": null,
+  "raw_response": {}
+}

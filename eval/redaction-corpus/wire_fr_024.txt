@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-01-26
+Reference : VIR-834430
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Benoît Bélanger
+Numero de compte : 3473387
+Succursale : Gatineau
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Désiré Bouchard
+Numero de compte : 5754542
+Institution : Scotiabank
+
+DETAILS DU VIREMENT
+Montant : 414,114.46 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Émilie Beaulieu
+NAS (pour verification) : 209548148
+Courriel : emilie.beaulieu@synthco.com
+Telephone : (450) 846-3534
+Code postal : V4R 0N2
+
+Signature : ____________________
+Date : 2025-06-26

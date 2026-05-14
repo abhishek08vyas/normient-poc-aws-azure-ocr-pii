@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_026",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-17",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998743534088135,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Donna Gomez",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 0.9999481439590454,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7654757",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.9921922087669373,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Red Deer, Alberta",
+      "start_char": 176,
+      "end_char": 193,
+      "confidence": 0.9991361498832703,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Shields",
+      "start_char": 223,
+      "end_char": 237,
+      "confidence": 0.9999483227729797,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4327421",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.9976668357849121,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Valdez",
+      "start_char": 385,
+      "end_char": 397,
+      "confidence": 0.9999244213104248,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "193149192",
+      "start_char": 422,
+      "end_char": 431,
+      "confidence": 0.7532618045806885,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "brian.valdez@example.com",
+      "start_char": 439,
+      "end_char": 463,
+      "confidence": 0.9999916553497314,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 745-7018",
+      "start_char": 471,
+      "end_char": 485,
+      "confidence": 0.9999060034751892,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "P1W 5A6",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.9994239211082458,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "P1W 5A6",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-19",
+      "start_char": 546,
+      "end_char": 556,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 228,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

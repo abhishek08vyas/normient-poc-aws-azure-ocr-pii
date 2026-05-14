@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_036",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-15",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998720288276672,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Anderson",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 0.9999505281448364,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6276722",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.992649257183075,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Lethbridge, Alberta",
+      "start_char": 180,
+      "end_char": 199,
+      "confidence": 0.9994562268257141,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Debbie Bryant",
+      "start_char": 229,
+      "end_char": 242,
+      "confidence": 0.999961793422699,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5234550",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.9993233680725098,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Walls",
+      "start_char": 378,
+      "end_char": 389,
+      "confidence": 0.9999563694000244,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "316808765",
+      "start_char": 414,
+      "end_char": 423,
+      "confidence": 0.863727867603302,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "sarah.walls@example.com",
+      "start_char": 431,
+      "end_char": 454,
+      "confidence": 0.999984860420227,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 730-5927",
+      "start_char": 462,
+      "end_char": 476,
+      "confidence": 0.9999147057533264,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V7B 3L8",
+      "start_char": 490,
+      "end_char": 497,
+      "confidence": 0.9998837113380432,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V7B 3L8",
+      "start_char": 490,
+      "end_char": 497,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-05",
+      "start_char": 537,
+      "end_char": 547,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 230,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 548,
+  "error": null,
+  "raw_response": {}
+}

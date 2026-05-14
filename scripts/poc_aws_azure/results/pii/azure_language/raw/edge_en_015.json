@@ -1,0 +1,51 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Payroll",
+      "start_char": 0,
+      "end_char": 7,
+      "confidence": 0.74,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Employee",
+      "start_char": 22,
+      "end_char": 30,
+      "confidence": 0.92,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Franklin Bond",
+      "start_char": 32,
+      "end_char": 45,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CASocialInsuranceNumber",
+      "text": "685-389-090",
+      "start_char": 51,
+      "end_char": 62,
+      "confidence": 0.85,
+      "original_type": "CASocialInsuranceNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "franklin.bond@example.ca",
+      "start_char": 72,
+      "end_char": 96,
+      "confidence": 0.8,
+      "original_type": "Email"
+    }
+  ],
+  "latency_ms": 156,
+  "cost_estimate_usd": 0.001,
+  "char_count": 97,
+  "error": null,
+  "raw_response": {}
+}

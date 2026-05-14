@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_019",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Anderson",
+      "start_char": 32,
+      "end_char": 46,
+      "confidence": 0.9999635815620422,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "680-797-057",
+      "start_char": 52,
+      "end_char": 63,
+      "confidence": 0.9998461604118347,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "brian.anderson@synthco.com",
+      "start_char": 73,
+      "end_char": 99,
+      "confidence": 0.9999340772628784,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 227,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 100,
+  "error": null,
+  "raw_response": {}
+}

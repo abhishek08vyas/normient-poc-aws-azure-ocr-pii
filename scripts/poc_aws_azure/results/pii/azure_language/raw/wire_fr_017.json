@@ -1,0 +1,147 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_017",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-28",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Désiré Lefebvre",
+      "start_char": 155,
+      "end_char": 170,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7905652",
+      "start_char": 190,
+      "end_char": 197,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 234,
+      "end_char": 246,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Fortin",
+      "start_char": 253,
+      "end_char": 269,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2491048",
+      "start_char": 289,
+      "end_char": 296,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 311,
+      "end_char": 327,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "fournisseur",
+      "start_char": 393,
+      "end_char": 404,
+      "confidence": 0.55,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cédric Ménard",
+      "start_char": 434,
+      "end_char": 447,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 448,
+      "end_char": 451,
+      "confidence": 0.53,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "195243647",
+      "start_char": 474,
+      "end_char": 483,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "cedric.menard@example.com",
+      "start_char": 495,
+      "end_char": 520,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(905) 703-0025",
+      "start_char": 533,
+      "end_char": 547,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "E1S 8S4",
+      "start_char": 562,
+      "end_char": 569,
+      "confidence": 0.88,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "E1S 8S4",
+      "start_char": 562,
+      "end_char": 569,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-23",
+      "start_char": 611,
+      "end_char": 621,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 161,
+  "cost_estimate_usd": 0.001,
+  "char_count": 622,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_033",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-07",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Calhoun",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5886520",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Brown",
+      "start_char": 237,
+      "end_char": 249,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1547605",
+      "start_char": 266,
+      "end_char": 273,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "CIBC",
+      "start_char": 287,
+      "end_char": 291,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William York",
+      "start_char": 385,
+      "end_char": 397,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "244713491",
+      "start_char": 422,
+      "end_char": 431,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "william.york@example.ca",
+      "start_char": 439,
+      "end_char": 462,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 317-8922",
+      "start_char": 470,
+      "end_char": 484,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K2L 2C0",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.88,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K2L 2C0",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-29",
+      "start_char": 545,
+      "end_char": 555,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 111,
+  "cost_estimate_usd": 0.001,
+  "char_count": 556,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Todd Allen
+Account: 2567880
+Type: Business
+Balance: $75,556.48 CAD
+Last Login: 2026-05-05 07:03:58
+Email on file: todd.allen@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-16  Bill payment             $3,123.22    $78,679.70
+2026-04-26  Bill payment             -$9,479.30   $69,200.40
+2026-04-24  Direct deposit           -$9,999.77   $59,200.63
+2026-04-26  Bill payment             -$8,452.06   $50,748.57
+2026-04-29  POS purchase             $8,359.44    $59,108.01

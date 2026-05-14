@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_025",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-08",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.85,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Étienne Tremblay",
+      "start_char": 155,
+      "end_char": 171,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1361814",
+      "start_char": 191,
+      "end_char": 198,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 239,
+      "end_char": 251,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Émilie Fortin",
+      "start_char": 258,
+      "end_char": 271,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7581459",
+      "start_char": 291,
+      "end_char": 298,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Royal Bank of Canada",
+      "start_char": 313,
+      "end_char": 333,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Désiré Tremblay",
+      "start_char": 446,
+      "end_char": 461,
+      "confidence": 0.8,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "367566189",
+      "start_char": 488,
+      "end_char": 497,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "desire.tremblay@testbank.ca",
+      "start_char": 509,
+      "end_char": 536,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 913-3196",
+      "start_char": 549,
+      "end_char": 563,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Y6E 2N9",
+      "start_char": 578,
+      "end_char": 585,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "Y6E 2N9",
+      "start_char": 578,
+      "end_char": 585,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-08",
+      "start_char": 627,
+      "end_char": 637,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 271,
+  "cost_estimate_usd": 0.001,
+  "char_count": 638,
+  "error": null,
+  "raw_response": {}
+}

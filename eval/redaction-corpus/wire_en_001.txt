@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-04-23
+Reference: WT-571029
+
+SENDER INFORMATION
+Name: Danielle Johnson
+Account Number: 2867825
+Branch: Edmonton, Alberta
+
+RECIPIENT INFORMATION
+Name: Joshua Walker
+Account Number: 1419610
+Institution: Laurentian Bank
+
+TRANSFER DETAILS
+Amount: $281,061.29 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Jill Rhodes
+SIN (for verification): 643321813
+Email: jill.rhodes@synthco.com
+Phone: (819) 232-0488
+Postal Code: C3K 8Z0
+
+Signature: ____________________
+Date: 2025-12-09

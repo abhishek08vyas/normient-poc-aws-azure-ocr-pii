@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_032",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-31",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999409317970276,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Robinson",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.999921977519989,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9767312",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9991996884346008,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Hamilton, Ontario",
+      "start_char": 179,
+      "end_char": 196,
+      "confidence": 0.9994679689407349,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Fitzgerald",
+      "start_char": 226,
+      "end_char": 242,
+      "confidence": 0.9999241232872009,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7381684",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.9998069405555725,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bruce Edwards",
+      "start_char": 391,
+      "end_char": 404,
+      "confidence": 0.999901294708252,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "474964996",
+      "start_char": 429,
+      "end_char": 438,
+      "confidence": 0.9215983152389526,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "bruce.edwards@example.com",
+      "start_char": 446,
+      "end_char": 471,
+      "confidence": 0.9999743700027466,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 981-3404",
+      "start_char": 479,
+      "end_char": 493,
+      "confidence": 0.9998919367790222,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "J4C 2K2",
+      "start_char": 507,
+      "end_char": 514,
+      "confidence": 0.9998999834060669,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "J4C 2K2",
+      "start_char": 507,
+      "end_char": 514,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-24",
+      "start_char": 554,
+      "end_char": 564,
+      "confidence": 0.9999901056289673,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Jason Murphy
+Account: 6679880
+Type: Business
+Balance: $95,601.47 CAD
+Last Login: 2026-05-02 08:17:29
+Email on file: jason.murphy@example.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-26  E-transfer               -$4,811.39   $90,790.08
+2026-05-03  Direct deposit           $677.85      $91,467.93
+2026-04-25  ATM withdrawal           -$417.99     $91,049.94
+2026-04-16  Direct deposit           -$8,863.61   $82,186.33
+2026-05-05  Bill payment             $5,178.07    $87,364.39

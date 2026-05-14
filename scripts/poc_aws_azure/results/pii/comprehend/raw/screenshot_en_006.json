@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_006",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Erica Orr",
+      "start_char": 37,
+      "end_char": 46,
+      "confidence": 0.9999567866325378,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6791039",
+      "start_char": 56,
+      "end_char": 63,
+      "confidence": 0.9989560842514038,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-13",
+      "start_char": 115,
+      "end_char": 125,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "19:42:15",
+      "start_char": 126,
+      "end_char": 134,
+      "confidence": 0.9986874461174011,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "erica.orr@acmecorp.ca",
+      "start_char": 150,
+      "end_char": 171,
+      "confidence": 0.9999352693557739,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 250,
+      "end_char": 260,
+      "confidence": 0.9999913573265076,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-27",
+      "start_char": 311,
+      "end_char": 321,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 372,
+      "end_char": 382,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 433,
+      "end_char": 443,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 494,
+      "end_char": 504,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 228,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 555,
+  "error": null,
+  "raw_response": {}
+}

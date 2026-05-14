@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_011",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-18",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.86,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cécile Lefebvre",
+      "start_char": 155,
+      "end_char": 170,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3081317",
+      "start_char": 190,
+      "end_char": 197,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 234,
+      "end_char": 246,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cédric Côté",
+      "start_char": 253,
+      "end_char": 264,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6181620",
+      "start_char": 284,
+      "end_char": 291,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "National Bank of Canada",
+      "start_char": 306,
+      "end_char": 329,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cécile Côté",
+      "start_char": 420,
+      "end_char": 431,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 432,
+      "end_char": 435,
+      "confidence": 0.57,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "263910259",
+      "start_char": 458,
+      "end_char": 467,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "cecile.cote@acmecorp.ca",
+      "start_char": 479,
+      "end_char": 502,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 406-2484",
+      "start_char": 515,
+      "end_char": 529,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "R3B 3Z7",
+      "start_char": 544,
+      "end_char": 551,
+      "confidence": 0.86,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "R3B 3Z7",
+      "start_char": 544,
+      "end_char": 551,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-22",
+      "start_char": 593,
+      "end_char": 603,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 207,
+  "cost_estimate_usd": 0.001,
+  "char_count": 604,
+  "error": null,
+  "raw_response": {}
+}

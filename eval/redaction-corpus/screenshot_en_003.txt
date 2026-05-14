@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Rachel Lee
+Account: 9089795
+Type: Chequing
+Balance: $73,272.23 CAD
+Last Login: 2026-04-16 02:17:29
+Email on file: rachel.lee@example.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-04  POS purchase             $3,707.23    $76,979.46
+2026-04-13  POS purchase             -$2,300.28   $74,679.18
+2026-05-08  POS purchase             $9,746.74    $84,425.92
+2026-05-09  POS purchase             $6,766.02    $91,191.94
+2026-04-22  POS purchase             $9,294.39    $100,486.32

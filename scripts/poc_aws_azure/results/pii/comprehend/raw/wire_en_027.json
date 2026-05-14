@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_027",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-05",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999262690544128,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bruce Chandler",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9997410774230957,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3566765",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9883592128753662,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Vancouver, British Columbia",
+      "start_char": 179,
+      "end_char": 206,
+      "confidence": 0.9998316168785095,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Rodriguez",
+      "start_char": 236,
+      "end_char": 252,
+      "confidence": 0.999897837638855,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8306261",
+      "start_char": 269,
+      "end_char": 276,
+      "confidence": 0.9969639182090759,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Herrera",
+      "start_char": 400,
+      "end_char": 413,
+      "confidence": 0.999860942363739,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "284987765",
+      "start_char": 438,
+      "end_char": 447,
+      "confidence": 0.7845922112464905,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "james.herrera@synthco.com",
+      "start_char": 455,
+      "end_char": 480,
+      "confidence": 0.9999731779098511,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 530-4022",
+      "start_char": 488,
+      "end_char": 502,
+      "confidence": 0.9998533725738525,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "C4T 3T9",
+      "start_char": 516,
+      "end_char": 523,
+      "confidence": 0.999862790107727,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "C4T 3T9",
+      "start_char": 516,
+      "end_char": 523,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-22",
+      "start_char": 563,
+      "end_char": 573,
+      "confidence": 0.999987006187439,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 229,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 574,
+  "error": null,
+  "raw_response": {}
+}

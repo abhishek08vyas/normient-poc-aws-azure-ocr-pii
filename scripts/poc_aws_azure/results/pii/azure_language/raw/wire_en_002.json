@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_002",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-28",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Henderson",
+      "start_char": 132,
+      "end_char": 153,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1109031",
+      "start_char": 170,
+      "end_char": 177,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Robinson",
+      "start_char": 231,
+      "end_char": 247,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3678638",
+      "start_char": 264,
+      "end_char": 271,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 285,
+      "end_char": 295,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Johnson",
+      "start_char": 394,
+      "end_char": 409,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "665423513",
+      "start_char": 434,
+      "end_char": 443,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "william.johnson@example.com",
+      "start_char": 451,
+      "end_char": 478,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 299-5881",
+      "start_char": 486,
+      "end_char": 500,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "P9L 0T8",
+      "start_char": 514,
+      "end_char": 521,
+      "confidence": 0.83,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "P9L 0T8",
+      "start_char": 514,
+      "end_char": 521,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-14",
+      "start_char": 561,
+      "end_char": 571,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 117,
+  "cost_estimate_usd": 0.001,
+  "char_count": 572,
+  "error": null,
+  "raw_response": {}
+}

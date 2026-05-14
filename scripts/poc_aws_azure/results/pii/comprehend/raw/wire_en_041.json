@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_041",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-30",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999215006828308,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melissa Wagner",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999316930770874,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1485654",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9818156957626343,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Brandon, Manitoba",
+      "start_char": 179,
+      "end_char": 196,
+      "confidence": 0.9979071617126465,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Odonnell",
+      "start_char": 226,
+      "end_char": 239,
+      "confidence": 0.9999305009841919,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1771600",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.9956661462783813,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brent Walters",
+      "start_char": 383,
+      "end_char": 396,
+      "confidence": 0.9999216198921204,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "304556236",
+      "start_char": 421,
+      "end_char": 430,
+      "confidence": 0.7931735515594482,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "brent.walters@synthco.com",
+      "start_char": 438,
+      "end_char": 463,
+      "confidence": 0.9999774694442749,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 779-2950",
+      "start_char": 471,
+      "end_char": 485,
+      "confidence": 0.9999234080314636,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "H2C 9R9",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.9999220371246338,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "H2C 9R9",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-27",
+      "start_char": 546,
+      "end_char": 556,
+      "confidence": 0.9999886751174927,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 245,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

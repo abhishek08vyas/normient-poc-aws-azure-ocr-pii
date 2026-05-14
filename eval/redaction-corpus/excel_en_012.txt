@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-15
+Account Holder: Mario Thompson
+Account Number: 1147701
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-02-19	Vendor payment	Daniel Brown		31,094.47	101,298.93	TXN-773462
+2026-03-13	Wire transfer	Shane Cox		47,254.88	148,553.82	TXN-499898
+2026-04-30	Vendor payment	Shane Cox		1,332.82	149,886.63	TXN-666479
+2026-04-14	Payroll	Shane Cox		22,333.29	172,219.92	TXN-639292
+2026-01-23	Wire transfer	Shane Cox	25,743.35		146,476.58	TXN-783176
+2025-12-01	Wire transfer	Daniel Brown		465.80	146,942.37	TXN-910883
+2025-09-07	Wire transfer	Daniel Brown		10,737.44	157,679.81	TXN-802897
+2025-11-06	E-transfer	Brittney Hayes	26,933.94		130,745.88	TXN-976258
+2026-01-17	E-transfer	Brittney Hayes		3,698.81	134,444.69	TXN-777968
+2025-05-25	E-transfer	Daniel Brown	16,652.60		117,792.09	TXN-124906
+2025-06-05	Wire transfer	David Fisher	12,670.21		105,121.88	TXN-156904
+2025-11-15	Wire transfer	Jeffrey Gilbert	13,006.53		92,115.35	TXN-961530
+2026-04-07	Vendor payment	Brittney Hayes	15,888.57		76,226.78	TXN-760830
+2025-10-15	Vendor payment	David Fisher	36,042.26		40,184.52	TXN-660814
+2025-10-25	Wire transfer	Jeffrey Gilbert		3,722.21	43,906.74	TXN-147727
+2026-02-03	Payroll	David Fisher		15,137.40	59,044.14	TXN-403915
+2025-06-23	Wire transfer	Shane Cox		19,132.54	78,176.67	TXN-902448
+2025-11-19	Service fee	David Fisher	11,071.30		67,105.38	TXN-597012
+2026-02-13	E-transfer	Brittney Hayes		27,331.65	94,437.03	TXN-935474
+2026-05-01	E-transfer	Daniel Brown		45,717.03	140,154.06	TXN-412534
+2025-11-01	Service fee	Shane Cox		27,797.98	167,952.04	TXN-111691
+2025-06-10	Wire transfer	David Fisher		19,764.68	187,716.71	TXN-105274
+2026-04-27	Payroll	David Fisher	37,097.38		150,619.33	TXN-419491
+2025-06-13	E-transfer	Shane Cox	32,331.98		118,287.35	TXN-322022
+2025-09-15	Payroll	Daniel Brown	30,882.56		87,404.79	TXN-268772
+2026-01-04	Bill payment	Daniel Brown	40,003.04		47,401.75	TXN-220190
+2025-07-09	Service fee	David Fisher		49,504.81	96,906.57	TXN-992744
+2025-06-07	Payroll	Brittney Hayes		14,603.57	111,510.14	TXN-775990
+2025-07-01	Wire transfer	Shane Cox	29,071.72		82,438.41	TXN-202972
+2025-08-27	Bill payment	Shane Cox		11,803.19	94,241.60	TXN-234443
+2026-01-10	Bill payment	Jeffrey Gilbert		15,957.52	110,199.12	TXN-173199
+2026-01-13	Vendor payment	Shane Cox		34,703.56	144,902.68	TXN-746281
+2025-12-26	Direct deposit	Jeffrey Gilbert	15,885.02		129,017.66	TXN-694397
+2025-12-11	Vendor payment	Daniel Brown	39,304.44		89,713.22	TXN-105066
+2026-02-13	E-transfer	Brittney Hayes		6,801.86	96,515.08	TXN-390119
+2025-09-16	E-transfer	Shane Cox	18,001.21		78,513.87	TXN-603268
+2025-10-07	Bill payment	Brittney Hayes	32,313.03		46,200.85	TXN-678469
+2025-12-31	Wire transfer	Shane Cox	26,977.04		19,223.81	TXN-966589
+2025-12-05	Bill payment	David Fisher	1,029.65		18,194.16	TXN-862760
+2025-09-04	Payroll	David Fisher		20,316.21	38,510.37	TXN-952117
+2025-11-05	Payroll	Daniel Brown		27,219.12	65,729.48	TXN-138436
+2025-11-25	Payroll	Brittney Hayes		18,354.35	84,083.83	TXN-785672
+2026-01-03	Direct deposit	Jeffrey Gilbert		6,780.67	90,864.51	TXN-868844
+2025-10-27	Payroll	Jeffrey Gilbert	25,158.15		65,706.36	TXN-194952
+2025-06-20	E-transfer	Daniel Brown		49,094.47	114,800.84	TXN-989173
+2026-03-17	E-transfer	Daniel Brown		22,366.40	137,167.24	TXN-893988
+2026-02-09	Direct deposit	Jeffrey Gilbert		48,390.00	185,557.24	TXN-693297
+2025-06-26	E-transfer	Brittney Hayes	38,097.47		147,459.77	TXN-476224
+2026-04-09	Direct deposit	David Fisher	2,236.14		145,223.63	TXN-377198
+2026-01-22	Direct deposit	Jeffrey Gilbert	23,536.74		121,686.88	TXN-929906

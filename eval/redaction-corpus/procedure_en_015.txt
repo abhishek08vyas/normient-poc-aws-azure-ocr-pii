@@ -1,0 +1,28 @@
+PROCEDURE: Data Retention Policy
+Version: 4.7
+Effective Date: 2025-06-07
+Department: Internal Audit
+
+1. PURPOSE
+This procedure establishes the process for data retention policy within the Internal Audit department. It defines the roles, responsibilities, and steps required to ensure compliance with applicable regulations and internal policies.
+
+2. SCOPE
+This procedure applies to all employees in the Internal Audit department and any supporting staff involved in the execution of these processes. All personnel must be trained on this procedure prior to performing any related activities.
+
+3. RESPONSIBILITIES
+The Compliance Officer is responsible for ensuring that all activities under this procedure are conducted in accordance with regulatory requirements. The Branch Manager must ensure that staff are adequately trained and that all documentation is maintained for the required retention period.
+
+4. PROCEDURE STEPS
+4.1 The authorized reviewer shall examine all submitted documentation for completeness and accuracy before proceeding to the next step.
+4.2 All exceptions must be documented in the exception log and reported to the department head within 24 hours of identification.
+4.3 The reviewer shall verify that all required approvals have been obtained before finalizing any transaction or process change.
+4.4 Upon completion of the review, the reviewer shall sign off on the documentation and forward it to the records management team.
+
+5. REVIEW AND UPDATES
+This procedure shall be reviewed annually by the department head and updated as necessary to reflect changes in regulations, policies, or operational requirements. All revisions must be approved by the Chief Compliance Officer before publication.
+
+6. REFERENCES
+- Corporate Governance Framework
+- Regulatory Compliance Manual
+- Internal Audit Standards
+- Records Retention Schedule

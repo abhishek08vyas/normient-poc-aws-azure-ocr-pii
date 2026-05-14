@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_010",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-23",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998874068260193,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Cameron",
+      "start_char": 132,
+      "end_char": 149,
+      "confidence": 0.9999651312828064,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5673212",
+      "start_char": 166,
+      "end_char": 173,
+      "confidence": 0.9717541933059692,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Surrey, British Columbia",
+      "start_char": 182,
+      "end_char": 206,
+      "confidence": 0.9997575879096985,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Perez",
+      "start_char": 236,
+      "end_char": 250,
+      "confidence": 0.999969482421875,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8761611",
+      "start_char": 267,
+      "end_char": 274,
+      "confidence": 0.9939833283424377,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Antonio Stewart",
+      "start_char": 393,
+      "end_char": 408,
+      "confidence": 0.9999139308929443,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "217810803",
+      "start_char": 433,
+      "end_char": 442,
+      "confidence": 0.7261127829551697,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "antonio.stewart@example.com",
+      "start_char": 450,
+      "end_char": 477,
+      "confidence": 0.9999831914901733,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 370-6658",
+      "start_char": 485,
+      "end_char": 499,
+      "confidence": 0.9999054670333862,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V7J 6B2",
+      "start_char": 513,
+      "end_char": 520,
+      "confidence": 0.9997693300247192,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V7J 6B2",
+      "start_char": 513,
+      "end_char": 520,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-06",
+      "start_char": 560,
+      "end_char": 570,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 235,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 571,
+  "error": null,
+  "raw_response": {}
+}

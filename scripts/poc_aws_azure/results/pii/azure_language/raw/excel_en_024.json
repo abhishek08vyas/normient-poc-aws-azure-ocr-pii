@@ -1,0 +1,1003 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_024",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.66,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Downs",
+      "start_char": 58,
+      "end_char": 69,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "7838023",
+      "start_char": 86,
+      "end_char": 93,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-30",
+      "start_char": 157,
+      "end_char": 167,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 181,
+      "end_char": 193,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "588533\n2026",
+      "start_char": 218,
+      "end_char": 229,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-16",
+      "start_char": 225,
+      "end_char": 235,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 248,
+      "end_char": 261,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-05",
+      "start_char": 294,
+      "end_char": 304,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 319,
+      "end_char": 332,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-12",
+      "start_char": 365,
+      "end_char": 375,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 384,
+      "end_char": 397,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-15",
+      "start_char": 430,
+      "end_char": 440,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 449,
+      "end_char": 466,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "404704\n2025",
+      "start_char": 492,
+      "end_char": 503,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-20",
+      "start_char": 499,
+      "end_char": 509,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 522,
+      "end_char": 534,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-23",
+      "start_char": 568,
+      "end_char": 578,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kelly Evans",
+      "start_char": 592,
+      "end_char": 603,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-30",
+      "start_char": 637,
+      "end_char": 647,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 662,
+      "end_char": 679,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "559337\n2025",
+      "start_char": 706,
+      "end_char": 717,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-14",
+      "start_char": 713,
+      "end_char": 723,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kelly Evans",
+      "start_char": 738,
+      "end_char": 749,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "513989\n2025",
+      "start_char": 776,
+      "end_char": 787,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-21",
+      "start_char": 783,
+      "end_char": 793,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kelly Evans",
+      "start_char": 808,
+      "end_char": 819,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-03",
+      "start_char": 853,
+      "end_char": 863,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 879,
+      "end_char": 893,
+      "confidence": 0.84,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-10",
+      "start_char": 926,
+      "end_char": 936,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 949,
+      "end_char": 966,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-21",
+      "start_char": 999,
+      "end_char": 1009,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 1022,
+      "end_char": 1036,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-13",
+      "start_char": 1069,
+      "end_char": 1079,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 1091,
+      "end_char": 1108,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "473395\n2025",
+      "start_char": 1134,
+      "end_char": 1145,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-02",
+      "start_char": 1141,
+      "end_char": 1151,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 1167,
+      "end_char": 1184,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-05",
+      "start_char": 1217,
+      "end_char": 1227,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 1242,
+      "end_char": 1254,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "362867\n2026",
+      "start_char": 1281,
+      "end_char": 1292,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-21",
+      "start_char": 1288,
+      "end_char": 1298,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 1314,
+      "end_char": 1326,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "204441\n2025",
+      "start_char": 1352,
+      "end_char": 1363,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-15",
+      "start_char": 1359,
+      "end_char": 1369,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 1385,
+      "end_char": 1397,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "287795\n2025",
+      "start_char": 1424,
+      "end_char": 1435,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-07",
+      "start_char": 1431,
+      "end_char": 1441,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 1457,
+      "end_char": 1470,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-10",
+      "start_char": 1503,
+      "end_char": 1513,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 1525,
+      "end_char": 1539,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-14",
+      "start_char": 1571,
+      "end_char": 1581,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 1595,
+      "end_char": 1612,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-15",
+      "start_char": 1645,
+      "end_char": 1655,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 1668,
+      "end_char": 1682,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-16",
+      "start_char": 1715,
+      "end_char": 1725,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 1741,
+      "end_char": 1753,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "502265\n2025",
+      "start_char": 1780,
+      "end_char": 1791,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-14",
+      "start_char": 1787,
+      "end_char": 1797,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 1813,
+      "end_char": 1830,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-03",
+      "start_char": 1864,
+      "end_char": 1874,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 1887,
+      "end_char": 1900,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-19",
+      "start_char": 1935,
+      "end_char": 1945,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 1959,
+      "end_char": 1976,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-07",
+      "start_char": 2010,
+      "end_char": 2020,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 2036,
+      "end_char": 2050,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kelly Evans",
+      "start_char": 2103,
+      "end_char": 2114,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-28",
+      "start_char": 2148,
+      "end_char": 2158,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 2167,
+      "end_char": 2184,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-22",
+      "start_char": 2218,
+      "end_char": 2228,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 2242,
+      "end_char": 2255,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-10",
+      "start_char": 2288,
+      "end_char": 2298,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 2311,
+      "end_char": 2324,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "465823\n2025",
+      "start_char": 2349,
+      "end_char": 2360,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-30",
+      "start_char": 2356,
+      "end_char": 2366,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 2379,
+      "end_char": 2392,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "499060\n2025",
+      "start_char": 2419,
+      "end_char": 2430,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-13",
+      "start_char": 2426,
+      "end_char": 2436,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 2450,
+      "end_char": 2467,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "468332\n2026",
+      "start_char": 2494,
+      "end_char": 2505,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-17",
+      "start_char": 2501,
+      "end_char": 2511,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 2527,
+      "end_char": 2540,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-10",
+      "start_char": 2574,
+      "end_char": 2584,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 2597,
+      "end_char": 2610,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "220031\n2025",
+      "start_char": 2636,
+      "end_char": 2647,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-03",
+      "start_char": 2643,
+      "end_char": 2653,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 2667,
+      "end_char": 2679,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "583298\n2025",
+      "start_char": 2706,
+      "end_char": 2717,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-09",
+      "start_char": 2713,
+      "end_char": 2723,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 2732,
+      "end_char": 2749,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "379570\n2026",
+      "start_char": 2776,
+      "end_char": 2787,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-01",
+      "start_char": 2783,
+      "end_char": 2793,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 2808,
+      "end_char": 2821,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "496086\n2025",
+      "start_char": 2848,
+      "end_char": 2859,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-29",
+      "start_char": 2855,
+      "end_char": 2865,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 2880,
+      "end_char": 2897,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "204917\n2025",
+      "start_char": 2924,
+      "end_char": 2935,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-23",
+      "start_char": 2931,
+      "end_char": 2941,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 2957,
+      "end_char": 2971,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-01",
+      "start_char": 3005,
+      "end_char": 3015,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 3024,
+      "end_char": 3037,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "480983\n2026",
+      "start_char": 3064,
+      "end_char": 3075,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-18",
+      "start_char": 3071,
+      "end_char": 3081,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 3093,
+      "end_char": 3105,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-30",
+      "start_char": 3136,
+      "end_char": 3146,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 3160,
+      "end_char": 3172,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "411762\n2026",
+      "start_char": 3198,
+      "end_char": 3209,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-12",
+      "start_char": 3205,
+      "end_char": 3215,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 3231,
+      "end_char": 3245,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-13",
+      "start_char": 3278,
+      "end_char": 3288,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jenna Pierce",
+      "start_char": 3297,
+      "end_char": 3309,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-16",
+      "start_char": 3341,
+      "end_char": 3351,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 3364,
+      "end_char": 3378,
+      "confidence": 0.85,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "598355\n2025",
+      "start_char": 3404,
+      "end_char": 3415,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-27",
+      "start_char": 3411,
+      "end_char": 3421,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 3436,
+      "end_char": 3449,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-22",
+      "start_char": 3482,
+      "end_char": 3492,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Mckinney",
+      "start_char": 3501,
+      "end_char": 3514,
+      "confidence": 0.88,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "309795\n2026",
+      "start_char": 3540,
+      "end_char": 3551,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-07",
+      "start_char": 3547,
+      "end_char": 3557,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isabella Thompson",
+      "start_char": 3566,
+      "end_char": 3583,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-02",
+      "start_char": 3615,
+      "end_char": 3625,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Walker",
+      "start_char": 3640,
+      "end_char": 3654,
+      "confidence": 0.97,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 659,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3687,
+  "error": null,
+  "raw_response": {}
+}

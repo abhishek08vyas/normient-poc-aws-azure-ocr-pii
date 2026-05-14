@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_020",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-20",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benoît Lévesque",
+      "start_char": 155,
+      "end_char": 170,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1430846",
+      "start_char": 190,
+      "end_char": 197,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 239,
+      "end_char": 251,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Hélène Beaulieu",
+      "start_char": 258,
+      "end_char": 273,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3061828",
+      "start_char": 293,
+      "end_char": 300,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Scotiabank",
+      "start_char": 315,
+      "end_char": 325,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jérôme Bélanger",
+      "start_char": 416,
+      "end_char": 431,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "784357972",
+      "start_char": 458,
+      "end_char": 467,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jerome.belanger@synthco.com",
+      "start_char": 479,
+      "end_char": 506,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 876-3079",
+      "start_char": 519,
+      "end_char": 533,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "A5A 5B5",
+      "start_char": 548,
+      "end_char": 555,
+      "confidence": 0.78,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "A5A 5B5",
+      "start_char": 548,
+      "end_char": 555,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-16",
+      "start_char": 597,
+      "end_char": 607,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 192,
+  "cost_estimate_usd": 0.001,
+  "char_count": 608,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-30
+Account Holder: Scott Sampson
+Account Number: 8517846
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-01-25	Vendor payment	Michael Sanders		37,287.42	124,380.45	TXN-224473
+2025-08-03	Wire transfer	Cory Jennings	27,900.84		96,479.62	TXN-523037
+2026-01-17	Wire transfer	Cory Jennings		30,991.40	127,471.02	TXN-930244
+2026-01-16	Bill payment	Melanie Gibson	33,606.57		93,864.45	TXN-689648
+2025-12-30	Bill payment	Michael Sanders	11,223.61		82,640.83	TXN-965401
+2025-05-21	Vendor payment	Michael Sanders		30,037.56	112,678.40	TXN-687360
+2025-06-01	E-transfer	Michael Sanders	4,962.11		107,716.29	TXN-850689
+2026-03-14	E-transfer	Amy Levine	41,511.21		66,205.08	TXN-102303
+2025-09-19	Service fee	Michael Sanders		35,134.59	101,339.68	TXN-674295
+2025-08-15	Wire transfer	Amy Levine	35,871.12		65,468.56	TXN-616342
+2025-06-30	E-transfer	James Martinez	9,876.48		55,592.07	TXN-212157
+2026-03-14	Wire transfer	James Martinez	39,092.88		16,499.20	TXN-326061
+2025-12-18	E-transfer	Michael Sanders		2,420.37	18,919.56	TXN-213000
+2025-07-31	E-transfer	Melanie Gibson		22,580.18	41,499.74	TXN-229204
+2025-06-08	E-transfer	Melanie Gibson	24,991.55		16,508.19	TXN-628689
+2026-03-31	Payroll	Cory Jennings		41,956.92	58,465.12	TXN-680099
+2026-03-06	Vendor payment	Melanie Gibson		8,942.40	67,407.52	TXN-919023
+2025-12-14	Payroll	Amy Levine		5,267.34	72,674.86	TXN-865979
+2025-08-01	E-transfer	Melanie Gibson		25,255.09	97,929.96	TXN-735605
+2025-12-26	Vendor payment	James Martinez		38,142.50	136,072.45	TXN-738576
+2025-08-04	Bill payment	James Martinez		22,697.00	158,769.45	TXN-459513
+2026-03-24	Direct deposit	Amy Levine		44,333.20	203,102.65	TXN-532794
+2026-04-15	Payroll	Michael Sanders		43,049.31	246,151.96	TXN-984027
+2025-08-11	E-transfer	Melanie Gibson	10,564.66		235,587.30	TXN-763311
+2025-09-17	E-transfer	Michael Sanders	33,651.45		201,935.85	TXN-819964
+2026-03-09	E-transfer	Amy Levine		31,880.18	233,816.03	TXN-628370
+2025-07-09	E-transfer	Cory Jennings	24,070.46		209,745.57	TXN-897730
+2026-03-15	Payroll	James Martinez		42,085.33	251,830.90	TXN-806995
+2026-04-27	Bill payment	James Martinez	5,412.88		246,418.02	TXN-947568
+2025-12-30	Vendor payment	Amy Levine		10,075.13	256,493.15	TXN-155642
+2025-05-14	Service fee	Amy Levine		7,406.78	263,899.93	TXN-400538
+2025-08-28	Wire transfer	Michael Sanders		1,712.09	265,612.02	TXN-313910
+2026-04-11	Service fee	James Martinez		33,808.75	299,420.77	TXN-207458
+2025-07-08	Payroll	Amy Levine		19,505.44	318,926.21	TXN-878476
+2025-07-02	Payroll	Michael Sanders		46,331.59	365,257.80	TXN-826596
+2025-12-08	Vendor payment	James Martinez		15,701.43	380,959.24	TXN-926394
+2025-08-18	Payroll	Cory Jennings		10,234.05	391,193.29	TXN-113595
+2026-03-19	Service fee	James Martinez	31,726.05		359,467.24	TXN-970300
+2025-07-19	E-transfer	Michael Sanders		36,948.66	396,415.90	TXN-891787
+2025-06-24	Direct deposit	Amy Levine	49,174.32		347,241.58	TXN-408467
+2026-01-24	Wire transfer	Amy Levine		6,055.76	353,297.33	TXN-282237
+2026-04-14	Wire transfer	James Martinez		6,590.32	359,887.65	TXN-392670
+2025-05-23	Payroll	Michael Sanders	35,513.50		324,374.16	TXN-105919
+2025-07-03	Direct deposit	Cory Jennings		29,884.33	354,258.49	TXN-261169
+2025-05-18	Service fee	Melanie Gibson		24,578.49	378,836.98	TXN-984096
+2025-09-29	Payroll	Melanie Gibson	35,413.31		343,423.67	TXN-475479
+2026-03-15	Payroll	Amy Levine		39,334.29	382,757.95	TXN-292800
+2026-03-15	Direct deposit	James Martinez		4,688.08	387,446.04	TXN-669460
+2025-08-13	Direct deposit	Amy Levine	18,103.81		369,342.23	TXN-795556
+2025-12-27	Direct deposit	Melanie Gibson	28,110.60		341,231.63	TXN-656268

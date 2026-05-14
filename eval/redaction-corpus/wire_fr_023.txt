@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-08-11
+Reference : VIR-664441
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : François Lévesque
+Numero de compte : 2947939
+Succursale : Montreal
+
+INFORMATIONS DU DESTINATAIRE
+Nom : François Bérubé
+Numero de compte : 7169603
+Institution : Desjardins
+
+DETAILS DU VIREMENT
+Montant : 111,848.64 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Cédric Gauthier
+NAS (pour verification) : 256904095
+Courriel : cedric.gauthier@synthco.com
+Telephone : (514) 597-6941
+Code postal : N5G 8Z9
+
+Signature : ____________________
+Date : 2025-06-05

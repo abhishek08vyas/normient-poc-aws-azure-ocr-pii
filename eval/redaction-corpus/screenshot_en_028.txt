@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Erica Rubio
+Account: 2903351
+Type: Business
+Balance: $41,279.37 CAD
+Last Login: 2026-05-03 04:42:48
+Email on file: erica.rubio@example.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-22  POS purchase             $3,900.52    $45,179.89
+2026-04-16  Bill payment             $7,760.90    $52,940.79
+2026-05-11  Direct deposit           -$9,963.83   $42,976.96
+2026-04-24  ATM withdrawal           -$2,041.77   $40,935.18
+2026-04-17  Wire transfer            $4,547.82    $45,483.01

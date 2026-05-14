@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_048",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-06",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999039769172668,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Rodriguez",
+      "start_char": 132,
+      "end_char": 149,
+      "confidence": 0.9999569058418274,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4475523",
+      "start_char": 166,
+      "end_char": 173,
+      "confidence": 0.9821051359176636,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Vancouver, British Columbia",
+      "start_char": 182,
+      "end_char": 209,
+      "confidence": 0.9997785687446594,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Monica Garrison",
+      "start_char": 239,
+      "end_char": 254,
+      "confidence": 0.9999533295631409,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4623062",
+      "start_char": 271,
+      "end_char": 278,
+      "confidence": 0.9935163259506226,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Velasquez",
+      "start_char": 403,
+      "end_char": 420,
+      "confidence": 0.9998697638511658,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "735290421",
+      "start_char": 445,
+      "end_char": 454,
+      "confidence": 0.9710836410522461,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jeffrey.velasquez@example.ca",
+      "start_char": 462,
+      "end_char": 490,
+      "confidence": 0.9999465942382812,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 378-1801",
+      "start_char": 498,
+      "end_char": 512,
+      "confidence": 0.9999197125434875,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "A2A 5K9",
+      "start_char": 526,
+      "end_char": 533,
+      "confidence": 0.9998863935470581,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "A2A 5K9",
+      "start_char": 526,
+      "end_char": 533,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-24",
+      "start_char": 573,
+      "end_char": 583,
+      "confidence": 0.9999886155128479,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 238,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 584,
+  "error": null,
+  "raw_response": {}
+}

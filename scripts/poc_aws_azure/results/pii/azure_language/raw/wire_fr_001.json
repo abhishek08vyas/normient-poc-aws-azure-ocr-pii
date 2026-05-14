@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_001",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-19",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Émilie Bouchard",
+      "start_char": 155,
+      "end_char": 170,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8741026",
+      "start_char": 190,
+      "end_char": 197,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 234,
+      "end_char": 246,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raphaël Desjardins",
+      "start_char": 253,
+      "end_char": 271,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6715319",
+      "start_char": 291,
+      "end_char": 298,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 313,
+      "end_char": 323,
+      "confidence": 0.63,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Beaulieu",
+      "start_char": 436,
+      "end_char": 454,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 455,
+      "end_char": 458,
+      "confidence": 0.65,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "715366373",
+      "start_char": 481,
+      "end_char": 490,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "gabrielle.beaulieu@acmecorp.ca",
+      "start_char": 502,
+      "end_char": 532,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 583-2276",
+      "start_char": 545,
+      "end_char": 559,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "G4A 7P5",
+      "start_char": 574,
+      "end_char": 581,
+      "confidence": 0.91,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "G4A 7P5",
+      "start_char": 574,
+      "end_char": 581,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-15",
+      "start_char": 623,
+      "end_char": 633,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 192,
+  "cost_estimate_usd": 0.001,
+  "char_count": 634,
+  "error": null,
+  "raw_response": {}
+}

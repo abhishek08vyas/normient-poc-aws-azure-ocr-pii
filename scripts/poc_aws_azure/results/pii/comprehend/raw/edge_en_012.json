@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_012",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Samantha Rodriguez",
+      "start_char": 32,
+      "end_char": 50,
+      "confidence": 0.9999414086341858,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "365-111-319",
+      "start_char": 56,
+      "end_char": 67,
+      "confidence": 0.9998164176940918,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "samantha.rodriguez@synthco.com",
+      "start_char": 77,
+      "end_char": 107,
+      "confidence": 0.9968505501747131,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 221,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 108,
+  "error": null,
+  "raw_response": {}
+}

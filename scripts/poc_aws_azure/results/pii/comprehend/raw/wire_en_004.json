@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_004",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-18",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999274015426636,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Helen Peterson",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999585747718811,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4684531",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9977304339408875,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Richmond, British Columbia",
+      "start_char": 179,
+      "end_char": 205,
+      "confidence": 0.9997240900993347,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Bernard",
+      "start_char": 235,
+      "end_char": 247,
+      "confidence": 0.9999501705169678,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6440561",
+      "start_char": 264,
+      "end_char": 271,
+      "confidence": 0.999406099319458,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Matthew Davis",
+      "start_char": 395,
+      "end_char": 408,
+      "confidence": 0.9999306201934814,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "703056416",
+      "start_char": 433,
+      "end_char": 442,
+      "confidence": 0.9921184778213501,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "matthew.davis@example.ca",
+      "start_char": 450,
+      "end_char": 474,
+      "confidence": 0.9999685287475586,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 417-8179",
+      "start_char": 482,
+      "end_char": 496,
+      "confidence": 0.999908447265625,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "R7G 4G3",
+      "start_char": 510,
+      "end_char": 517,
+      "confidence": 0.9983348846435547,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "R7G 4G3",
+      "start_char": 510,
+      "end_char": 517,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-28",
+      "start_char": 557,
+      "end_char": 567,
+      "confidence": 0.9999891519546509,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 229,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 568,
+  "error": null,
+  "raw_response": {}
+}

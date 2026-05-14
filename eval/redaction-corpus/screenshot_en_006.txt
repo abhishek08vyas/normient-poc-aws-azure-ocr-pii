@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Erica Orr
+Account: 6791039
+Type: Chequing
+Balance: $60,233.06 CAD
+Last Login: 2026-05-13 19:42:15
+Email on file: erica.orr@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-10  E-transfer               $5,951.69    $66,184.75
+2026-04-27  Bill payment             -$501.90     $65,682.84
+2026-05-02  POS purchase             -$595.08     $65,087.76
+2026-05-09  Direct deposit           $7,685.13    $72,772.89
+2026-04-13  Bill payment             -$3,314.82   $69,458.07

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-04
+Account Holder: Joshua Shea
+Account Number: 2637842
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-03-09	Vendor payment	Sierra Cervantes	40,528.28		34,451.18	TXN-170437
+2025-10-16	Wire transfer	Cynthia Vasquez	5,557.20		28,893.98	TXN-990429
+2026-04-13	Service fee	Mathew Santiago	8,805.22		20,088.76	TXN-876459
+2025-11-28	Direct deposit	Sierra Cervantes	23,156.50		-3,067.74	TXN-687044
+2026-03-29	Service fee	Andrea Gibson	32,059.90		-35,127.64	TXN-760351
+2025-05-13	Vendor payment	Andrea Gibson		44,166.56	9,038.92	TXN-130610
+2026-01-23	Vendor payment	Andrea Gibson	10,818.33		-1,779.40	TXN-507723
+2026-04-15	Bill payment	Christopher Bailey	43,611.77		-45,391.17	TXN-705393
+2025-12-09	Direct deposit	Sierra Cervantes	5,786.35		-51,177.52	TXN-441819
+2025-11-08	E-transfer	Leonard Morris		15,738.87	-35,438.66	TXN-653349
+2025-10-20	Vendor payment	Andrea Gibson	17,664.05		-53,102.71	TXN-715519
+2025-06-03	Vendor payment	Mathew Santiago		40,050.61	-13,052.10	TXN-953266
+2025-07-24	Payroll	Christopher Bailey	5,981.30		-19,033.40	TXN-804758
+2025-11-30	Bill payment	Christopher Bailey	7,153.79		-26,187.19	TXN-291936
+2025-09-30	Vendor payment	Andrea Gibson	19,247.13		-45,434.31	TXN-725397
+2026-01-09	Direct deposit	Leonard Morris		45,966.13	531.82	TXN-766371
+2026-03-02	Direct deposit	Mathew Santiago	9,436.22		-8,904.40	TXN-613426
+2025-11-22	Service fee	Leonard Morris	18,016.05		-26,920.45	TXN-749498
+2026-01-10	Wire transfer	Leonard Morris	19,258.81		-46,179.27	TXN-243167
+2025-10-31	Payroll	Leonard Morris		20,839.96	-25,339.31	TXN-529008
+2026-03-04	Service fee	Leonard Morris	28,313.35		-53,652.66	TXN-612438
+2025-06-02	Service fee	Mia Rivera	11,319.69		-64,972.35	TXN-406278
+2025-07-31	Bill payment	Mathew Santiago	37,151.66		-102,124.01	TXN-918665
+2025-08-24	Service fee	Leonard Morris		28,678.43	-73,445.58	TXN-676429
+2025-12-12	Bill payment	Sierra Cervantes		2,176.37	-71,269.21	TXN-668373
+2025-07-02	E-transfer	Leonard Morris	21,315.22		-92,584.43	TXN-672892
+2026-05-08	E-transfer	Mia Rivera		1,708.30	-90,876.13	TXN-412170
+2025-09-01	Bill payment	Sierra Cervantes	43,277.99		-134,154.13	TXN-956401
+2025-10-30	Wire transfer	Mia Rivera		29,437.40	-104,716.72	TXN-320073
+2026-04-20	Bill payment	Andrea Gibson		39,263.98	-65,452.74	TXN-274044
+2026-02-08	Service fee	Mia Rivera	17,605.69		-83,058.44	TXN-944565
+2025-11-17	Bill payment	Mathew Santiago		14,702.47	-68,355.97	TXN-439375
+2025-06-29	Payroll	Heather Roberts		45,017.75	-23,338.22	TXN-999695
+2025-05-24	Service fee	Christopher Bailey		39,305.98	15,967.77	TXN-242175
+2026-01-12	Wire transfer	Heather Roberts	43,317.33		-27,349.56	TXN-787757
+2026-01-04	Direct deposit	Mathew Santiago	12,452.98		-39,802.55	TXN-845951
+2026-03-19	Service fee	Andrea Gibson	31,656.86		-71,459.41	TXN-613234
+2025-08-13	E-transfer	Andrea Gibson	31,718.03		-103,177.43	TXN-493396
+2026-02-12	Service fee	Christopher Bailey		13,983.46	-89,193.97	TXN-522419
+2025-07-13	Bill payment	Leonard Morris	223.41		-89,417.38	TXN-611751
+2025-09-10	Service fee	Christopher Bailey		31,778.54	-57,638.83	TXN-866437
+2025-12-12	E-transfer	Sierra Cervantes	26,767.78		-84,406.61	TXN-991401
+2025-05-18	Direct deposit	Andrea Gibson	13,499.99		-97,906.60	TXN-964915
+2025-12-13	Service fee	Heather Roberts		6,616.65	-91,289.95	TXN-454161
+2025-10-18	Service fee	Leonard Morris	34,159.34		-125,449.29	TXN-926596
+2025-06-18	Wire transfer	Cynthia Vasquez		41,851.44	-83,597.85	TXN-204411
+2025-08-08	Wire transfer	Christopher Bailey	22,880.25		-106,478.11	TXN-999312
+2026-04-04	Vendor payment	Mia Rivera		44,119.17	-62,358.93	TXN-822040
+2026-05-02	Bill payment	Mathew Santiago	18,085.73		-80,444.66	TXN-387330
+2025-06-26	Wire transfer	Sierra Cervantes		8,359.70	-72,084.96	TXN-796787

@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_019",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Price",
+      "start_char": 37,
+      "end_char": 50,
+      "confidence": 0.9998994469642639,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1447451",
+      "start_char": 60,
+      "end_char": 67,
+      "confidence": 0.9859570264816284,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 119,
+      "end_char": 129,
+      "confidence": 0.9999943375587463,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "06:46:21",
+      "start_char": 130,
+      "end_char": 138,
+      "confidence": 0.9999326467514038,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "kenneth.price@acmecorp.ca",
+      "start_char": 154,
+      "end_char": 179,
+      "confidence": 0.9999274015426636,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 258,
+      "end_char": 268,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 319,
+      "end_char": 329,
+      "confidence": 0.9999945163726807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 380,
+      "end_char": 390,
+      "confidence": 0.9999950528144836,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 441,
+      "end_char": 451,
+      "confidence": 0.9999932050704956,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 502,
+      "end_char": 512,
+      "confidence": 0.9999945759773254,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 227,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

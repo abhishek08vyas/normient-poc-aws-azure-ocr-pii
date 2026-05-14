@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_022",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Kylee Johnson",
+      "start_char": 24,
+      "end_char": 37,
+      "confidence": 0.9999637603759766,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7115223",
+      "start_char": 48,
+      "end_char": 55,
+      "confidence": 0.9276804327964783,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 248,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 96,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_026",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.999987006187439,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Jones",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 0.9999086260795593,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9822092",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.9995525479316711,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-06",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 185,
+      "end_char": 195,
+      "confidence": 0.9998053908348083,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-19",
+      "start_char": 228,
+      "end_char": 238,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 251,
+      "end_char": 263,
+      "confidence": 0.9997633695602417,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-01",
+      "start_char": 296,
+      "end_char": 306,
+      "confidence": 0.9999916553497314,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 322,
+      "end_char": 333,
+      "confidence": 0.9997062683105469,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-02",
+      "start_char": 366,
+      "end_char": 376,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 388,
+      "end_char": 399,
+      "confidence": 0.9997560381889343,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-09",
+      "start_char": 431,
+      "end_char": 441,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 456,
+      "end_char": 468,
+      "confidence": 0.9998103380203247,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 502,
+      "end_char": 512,
+      "confidence": 0.9999904632568359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 528,
+      "end_char": 546,
+      "confidence": 0.9998921155929565,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-06",
+      "start_char": 578,
+      "end_char": 588,
+      "confidence": 0.9999924302101135,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 603,
+      "end_char": 613,
+      "confidence": 0.999825656414032,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-22",
+      "start_char": 646,
+      "end_char": 656,
+      "confidence": 0.9999862313270569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 672,
+      "end_char": 683,
+      "confidence": 0.9997063875198364,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-17",
+      "start_char": 716,
+      "end_char": 726,
+      "confidence": 0.9999869465827942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 735,
+      "end_char": 747,
+      "confidence": 0.999741792678833,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 779,
+      "end_char": 789,
+      "confidence": 0.9999854564666748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 803,
+      "end_char": 814,
+      "confidence": 0.9997370839118958,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-28",
+      "start_char": 847,
+      "end_char": 857,
+      "confidence": 0.9999822378158569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 869,
+      "end_char": 879,
+      "confidence": 0.9997275471687317,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-14",
+      "start_char": 912,
+      "end_char": 922,
+      "confidence": 0.9999853372573853,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 936,
+      "end_char": 948,
+      "confidence": 0.9997780323028564,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-24",
+      "start_char": 980,
+      "end_char": 990,
+      "confidence": 0.9999707937240601,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 999,
+      "end_char": 1009,
+      "confidence": 0.9996898770332336,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-17",
+      "start_char": 1041,
+      "end_char": 1051,
+      "confidence": 0.9999853372573853,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 1067,
+      "end_char": 1085,
+      "confidence": 0.9998845458030701,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 1119,
+      "end_char": 1129,
+      "confidence": 0.9999822974205017,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 1138,
+      "end_char": 1150,
+      "confidence": 0.9998660683631897,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-23",
+      "start_char": 1184,
+      "end_char": 1194,
+      "confidence": 0.9999812841415405,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 1210,
+      "end_char": 1220,
+      "confidence": 0.999838650226593,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-17",
+      "start_char": 1254,
+      "end_char": 1264,
+      "confidence": 0.9999576807022095,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 1280,
+      "end_char": 1292,
+      "confidence": 0.9997775554656982,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-11",
+      "start_char": 1326,
+      "end_char": 1336,
+      "confidence": 0.999978244304657,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 1350,
+      "end_char": 1368,
+      "confidence": 0.9998932480812073,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-25",
+      "start_char": 1401,
+      "end_char": 1411,
+      "confidence": 0.9999762177467346,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1427,
+      "end_char": 1442,
+      "confidence": 0.9998952746391296,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 1475,
+      "end_char": 1485,
+      "confidence": 0.9999789595603943,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 1498,
+      "end_char": 1508,
+      "confidence": 0.9997787475585938,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-13",
+      "start_char": 1540,
+      "end_char": 1550,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 1566,
+      "end_char": 1576,
+      "confidence": 0.9998732209205627,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 1609,
+      "end_char": 1619,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 1635,
+      "end_char": 1650,
+      "confidence": 0.9998674392700195,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-28",
+      "start_char": 1684,
+      "end_char": 1694,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 1706,
+      "end_char": 1716,
+      "confidence": 0.9998190999031067,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-10",
+      "start_char": 1750,
+      "end_char": 1760,
+      "confidence": 0.9999905824661255,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1773,
+      "end_char": 1788,
+      "confidence": 0.9998921751976013,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 1822,
+      "end_char": 1832,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1846,
+      "end_char": 1861,
+      "confidence": 0.999894380569458,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-19",
+      "start_char": 1896,
+      "end_char": 1906,
+      "confidence": 0.9999907612800598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 1920,
+      "end_char": 1931,
+      "confidence": 0.9998690485954285,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-09",
+      "start_char": 1963,
+      "end_char": 1973,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1986,
+      "end_char": 2001,
+      "confidence": 0.9999071359634399,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 2035,
+      "end_char": 2045,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 2061,
+      "end_char": 2076,
+      "confidence": 0.9998824000358582,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-22",
+      "start_char": 2111,
+      "end_char": 2121,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 2133,
+      "end_char": 2148,
+      "confidence": 0.9999147057533264,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-16",
+      "start_char": 2183,
+      "end_char": 2193,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2208,
+      "end_char": 2226,
+      "confidence": 0.9999306201934814,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-12",
+      "start_char": 2261,
+      "end_char": 2271,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 2283,
+      "end_char": 2293,
+      "confidence": 0.9998437166213989,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-25",
+      "start_char": 2328,
+      "end_char": 2338,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 2350,
+      "end_char": 2360,
+      "confidence": 0.999875009059906,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-06",
+      "start_char": 2395,
+      "end_char": 2405,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2421,
+      "end_char": 2439,
+      "confidence": 0.9999123215675354,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-14",
+      "start_char": 2474,
+      "end_char": 2484,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 2497,
+      "end_char": 2512,
+      "confidence": 0.9999493360519409,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-04",
+      "start_char": 2546,
+      "end_char": 2556,
+      "confidence": 0.9999884366989136,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2570,
+      "end_char": 2588,
+      "confidence": 0.9999493360519409,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-25",
+      "start_char": 2621,
+      "end_char": 2631,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 2640,
+      "end_char": 2652,
+      "confidence": 0.9998840689659119,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-27",
+      "start_char": 2685,
+      "end_char": 2695,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 2708,
+      "end_char": 2720,
+      "confidence": 0.9998965263366699,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-31",
+      "start_char": 2754,
+      "end_char": 2764,
+      "confidence": 0.999988853931427,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 2780,
+      "end_char": 2792,
+      "confidence": 0.9998698830604553,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-01",
+      "start_char": 2826,
+      "end_char": 2836,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 2852,
+      "end_char": 2867,
+      "confidence": 0.9999249577522278,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-30",
+      "start_char": 2901,
+      "end_char": 2911,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 2924,
+      "end_char": 2936,
+      "confidence": 0.9998757839202881,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-21",
+      "start_char": 2970,
+      "end_char": 2980,
+      "confidence": 0.9999900460243225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2995,
+      "end_char": 3013,
+      "confidence": 0.9999336004257202,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-31",
+      "start_char": 3047,
+      "end_char": 3057,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 3073,
+      "end_char": 3083,
+      "confidence": 0.9998478293418884,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 3117,
+      "end_char": 3127,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 3140,
+      "end_char": 3152,
+      "confidence": 0.9998825192451477,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-05",
+      "start_char": 3185,
+      "end_char": 3195,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 3207,
+      "end_char": 3219,
+      "confidence": 0.9998682141304016,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-22",
+      "start_char": 3253,
+      "end_char": 3263,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 3279,
+      "end_char": 3290,
+      "confidence": 0.9998827576637268,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-29",
+      "start_char": 3323,
+      "end_char": 3333,
+      "confidence": 0.9999891519546509,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 3349,
+      "end_char": 3364,
+      "confidence": 0.9998674392700195,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-11",
+      "start_char": 3397,
+      "end_char": 3407,
+      "confidence": 0.9999814033508301,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 3420,
+      "end_char": 3430,
+      "confidence": 0.999787449836731,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-31",
+      "start_char": 3463,
+      "end_char": 3473,
+      "confidence": 0.9999579191207886,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 3487,
+      "end_char": 3498,
+      "confidence": 0.9997845888137817,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-07",
+      "start_char": 3532,
+      "end_char": 3542,
+      "confidence": 0.9999582171440125,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 3551,
+      "end_char": 3566,
+      "confidence": 0.9997972249984741,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-16",
+      "start_char": 3600,
+      "end_char": 3610,
+      "confidence": 0.9999572038650513,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 3626,
+      "end_char": 3641,
+      "confidence": 0.9992890954017639,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 394,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3675,
+  "error": null,
+  "raw_response": {}
+}

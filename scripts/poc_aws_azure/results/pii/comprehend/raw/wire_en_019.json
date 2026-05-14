@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_019",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-18",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998577237129211,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Cox",
+      "start_char": 132,
+      "end_char": 142,
+      "confidence": 0.9999508857727051,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6098175",
+      "start_char": 159,
+      "end_char": 166,
+      "confidence": 0.9991090893745422,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Victoria, British Columbia",
+      "start_char": 175,
+      "end_char": 201,
+      "confidence": 0.9995995759963989,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tricia Roman",
+      "start_char": 231,
+      "end_char": 243,
+      "confidence": 0.9999771118164062,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5813613",
+      "start_char": 260,
+      "end_char": 267,
+      "confidence": 0.9998325109481812,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Allen",
+      "start_char": 379,
+      "end_char": 389,
+      "confidence": 0.9998993277549744,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "269957775",
+      "start_char": 414,
+      "end_char": 423,
+      "confidence": 0.6370232105255127,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "john.allen@example.ca",
+      "start_char": 431,
+      "end_char": 452,
+      "confidence": 0.9999703168869019,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 953-2780",
+      "start_char": 460,
+      "end_char": 474,
+      "confidence": 0.9998518824577332,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "C4W 9N1",
+      "start_char": 488,
+      "end_char": 495,
+      "confidence": 0.999738872051239,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "C4W 9N1",
+      "start_char": 488,
+      "end_char": 495,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-11",
+      "start_char": 535,
+      "end_char": 545,
+      "confidence": 0.999985933303833,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 227,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 546,
+  "error": null,
+  "raw_response": {}
+}

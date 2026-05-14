@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_036",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-15",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Anderson",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6276722",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Debbie Bryant",
+      "start_char": 229,
+      "end_char": 242,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5234550",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "CIBC",
+      "start_char": 280,
+      "end_char": 284,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Walls",
+      "start_char": 378,
+      "end_char": 389,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "316808765",
+      "start_char": 414,
+      "end_char": 423,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "sarah.walls@example.com",
+      "start_char": 431,
+      "end_char": 454,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 730-5927",
+      "start_char": 462,
+      "end_char": 476,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V7B 3L8",
+      "start_char": 490,
+      "end_char": 497,
+      "confidence": 0.89,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V7B 3L8",
+      "start_char": 490,
+      "end_char": 497,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-05",
+      "start_char": 537,
+      "end_char": 547,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 123,
+  "cost_estimate_usd": 0.001,
+  "char_count": 548,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_017",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Burns",
+      "start_char": 32,
+      "end_char": 46,
+      "confidence": 0.9999676942825317,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "476-251-533",
+      "start_char": 52,
+      "end_char": 63,
+      "confidence": 0.9997445940971375,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jennifer.burns@testbank.ca",
+      "start_char": 73,
+      "end_char": 99,
+      "confidence": 0.9998736381530762,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 244,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 100,
+  "error": null,
+  "raw_response": {}
+}

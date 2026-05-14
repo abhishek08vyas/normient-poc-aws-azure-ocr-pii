@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_024",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-07",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Johnson",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7610562",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mark Palmer",
+      "start_char": 229,
+      "end_char": 240,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1454696",
+      "start_char": 257,
+      "end_char": 264,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 278,
+      "end_char": 293,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Washington",
+      "start_char": 388,
+      "end_char": 405,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "162720460",
+      "start_char": 430,
+      "end_char": 439,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "joshua.washington@testbank.ca",
+      "start_char": 447,
+      "end_char": 476,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 665-5355",
+      "start_char": 484,
+      "end_char": 498,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "N6L 6L1",
+      "start_char": 512,
+      "end_char": 519,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "N6L 6L1",
+      "start_char": 512,
+      "end_char": 519,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-02",
+      "start_char": 559,
+      "end_char": 569,
+      "confidence": 0.8,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 154,
+  "cost_estimate_usd": 0.001,
+  "char_count": 570,
+  "error": null,
+  "raw_response": {}
+}

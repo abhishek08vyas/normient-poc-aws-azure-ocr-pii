@@ -1,0 +1,43 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_003",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Employee",
+      "start_char": 0,
+      "end_char": 8,
+      "confidence": 1.0,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Bernard",
+      "start_char": 35,
+      "end_char": 50,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CASocialInsuranceNumber",
+      "text": "193 141 819",
+      "start_char": 76,
+      "end_char": 87,
+      "confidence": 0.85,
+      "original_type": "CASocialInsuranceNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "7824657",
+      "start_char": 97,
+      "end_char": 104,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    }
+  ],
+  "latency_ms": 210,
+  "cost_estimate_usd": 0.001,
+  "char_count": 105,
+  "error": null,
+  "raw_response": {}
+}

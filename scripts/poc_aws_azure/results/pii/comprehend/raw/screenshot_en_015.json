@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Todd Allen",
+      "start_char": 37,
+      "end_char": 47,
+      "confidence": 0.9998863935470581,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2567880",
+      "start_char": 57,
+      "end_char": 64,
+      "confidence": 0.9997097849845886,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 116,
+      "end_char": 126,
+      "confidence": 0.9999943375587463,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "07:03:58",
+      "start_char": 127,
+      "end_char": 135,
+      "confidence": 0.9990963339805603,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "todd.allen@acmecorp.ca",
+      "start_char": 151,
+      "end_char": 173,
+      "confidence": 0.9997839331626892,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 252,
+      "end_char": 262,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-26",
+      "start_char": 313,
+      "end_char": 323,
+      "confidence": 0.9999949932098389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-24",
+      "start_char": 374,
+      "end_char": 384,
+      "confidence": 0.9999944567680359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-26",
+      "start_char": 435,
+      "end_char": 445,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 496,
+      "end_char": 506,
+      "confidence": 0.9999955892562866,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 254,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

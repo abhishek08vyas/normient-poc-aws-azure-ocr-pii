@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_013",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Maria Leach",
+      "start_char": 32,
+      "end_char": 43,
+      "confidence": 0.9999725222587585,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "114-870-686",
+      "start_char": 49,
+      "end_char": 60,
+      "confidence": 0.999768853187561,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "maria.leach@acmecorp.ca",
+      "start_char": 70,
+      "end_char": 93,
+      "confidence": 0.9999886751174927,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 216,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 94,
+  "error": null,
+  "raw_response": {}
+}

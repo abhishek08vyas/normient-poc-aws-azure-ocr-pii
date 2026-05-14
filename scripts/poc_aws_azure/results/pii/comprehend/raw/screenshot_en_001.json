@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_001",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Darrell Waller",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.9999449849128723,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4833486",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.999830961227417,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 120,
+      "end_char": 130,
+      "confidence": 0.999994158744812,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "14:37:26",
+      "start_char": 131,
+      "end_char": 139,
+      "confidence": 0.9998282194137573,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "darrell.waller@acmecorp.ca",
+      "start_char": 155,
+      "end_char": 181,
+      "confidence": 0.9999392032623291,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 260,
+      "end_char": 270,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 322,
+      "end_char": 332,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 384,
+      "end_char": 394,
+      "confidence": 0.9999945759773254,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 446,
+      "end_char": 456,
+      "confidence": 0.9999946355819702,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 508,
+      "end_char": 518,
+      "confidence": 0.9999950528144836,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 237,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 570,
+  "error": null,
+  "raw_response": {}
+}

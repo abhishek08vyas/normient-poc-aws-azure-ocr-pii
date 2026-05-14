@@ -1,0 +1,1019 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_021",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-12",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Holder",
+      "start_char": 50,
+      "end_char": 56,
+      "confidence": 0.58,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Patterson",
+      "start_char": 58,
+      "end_char": 75,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "2521139",
+      "start_char": 92,
+      "end_char": 99,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-04",
+      "start_char": 163,
+      "end_char": 173,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 187,
+      "end_char": 201,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-19",
+      "start_char": 234,
+      "end_char": 244,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacob Barnett",
+      "start_char": 256,
+      "end_char": 269,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "285197\n2026",
+      "start_char": 295,
+      "end_char": 306,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-27",
+      "start_char": 302,
+      "end_char": 312,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacob Barnett",
+      "start_char": 324,
+      "end_char": 337,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "413388\n2025",
+      "start_char": 364,
+      "end_char": 375,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-19",
+      "start_char": 371,
+      "end_char": 381,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 393,
+      "end_char": 405,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "476712\n2025",
+      "start_char": 431,
+      "end_char": 442,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-28",
+      "start_char": 438,
+      "end_char": 448,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 464,
+      "end_char": 476,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "298667\n2026",
+      "start_char": 501,
+      "end_char": 512,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-15",
+      "start_char": 508,
+      "end_char": 518,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 530,
+      "end_char": 544,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "350069\n2025",
+      "start_char": 569,
+      "end_char": 580,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-08",
+      "start_char": 576,
+      "end_char": 586,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 595,
+      "end_char": 607,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "422679\n2025",
+      "start_char": 632,
+      "end_char": 643,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-23",
+      "start_char": 639,
+      "end_char": 649,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Stephens",
+      "start_char": 662,
+      "end_char": 680,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-14",
+      "start_char": 711,
+      "end_char": 721,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 734,
+      "end_char": 746,
+      "confidence": 0.83,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-21",
+      "start_char": 779,
+      "end_char": 789,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 801,
+      "end_char": 813,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-23",
+      "start_char": 847,
+      "end_char": 857,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 870,
+      "end_char": 884,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "256189\n2026",
+      "start_char": 911,
+      "end_char": 922,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-11",
+      "start_char": 918,
+      "end_char": 928,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 943,
+      "end_char": 957,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-22",
+      "start_char": 991,
+      "end_char": 1001,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 1017,
+      "end_char": 1031,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-08",
+      "start_char": 1065,
+      "end_char": 1075,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacob Barnett",
+      "start_char": 1090,
+      "end_char": 1103,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-24",
+      "start_char": 1138,
+      "end_char": 1148,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 1161,
+      "end_char": 1175,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "578344\n2026",
+      "start_char": 1202,
+      "end_char": 1213,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-22",
+      "start_char": 1209,
+      "end_char": 1219,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Hughes",
+      "start_char": 1234,
+      "end_char": 1248,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-02",
+      "start_char": 1282,
+      "end_char": 1292,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 1305,
+      "end_char": 1319,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "331287\n2025",
+      "start_char": 1347,
+      "end_char": 1358,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-19",
+      "start_char": 1354,
+      "end_char": 1364,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Hughes",
+      "start_char": 1378,
+      "end_char": 1392,
+      "confidence": 0.84,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-03",
+      "start_char": 1426,
+      "end_char": 1436,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 1450,
+      "end_char": 1464,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-30",
+      "start_char": 1497,
+      "end_char": 1507,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Hughes",
+      "start_char": 1520,
+      "end_char": 1534,
+      "confidence": 0.63,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "323589\n2025",
+      "start_char": 1561,
+      "end_char": 1572,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-26",
+      "start_char": 1568,
+      "end_char": 1578,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 1592,
+      "end_char": 1606,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "226610\n2025",
+      "start_char": 1633,
+      "end_char": 1644,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-11",
+      "start_char": 1640,
+      "end_char": 1650,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 1666,
+      "end_char": 1678,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "487896\n2025",
+      "start_char": 1705,
+      "end_char": 1716,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-21",
+      "start_char": 1712,
+      "end_char": 1722,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 1731,
+      "end_char": 1745,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "239849\n2026",
+      "start_char": 1772,
+      "end_char": 1783,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-24",
+      "start_char": 1779,
+      "end_char": 1789,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Stephens",
+      "start_char": 1798,
+      "end_char": 1816,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-17",
+      "start_char": 1851,
+      "end_char": 1861,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 1876,
+      "end_char": 1890,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-19",
+      "start_char": 1924,
+      "end_char": 1934,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 1946,
+      "end_char": 1960,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "397514\n2026",
+      "start_char": 1988,
+      "end_char": 1999,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 1995,
+      "end_char": 2005,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Stephens",
+      "start_char": 2018,
+      "end_char": 2036,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-11",
+      "start_char": 2070,
+      "end_char": 2080,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 2094,
+      "end_char": 2108,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "572298\n2026",
+      "start_char": 2136,
+      "end_char": 2147,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-02",
+      "start_char": 2143,
+      "end_char": 2153,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 2162,
+      "end_char": 2174,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-09",
+      "start_char": 2209,
+      "end_char": 2219,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 2228,
+      "end_char": 2242,
+      "confidence": 0.81,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-07",
+      "start_char": 2277,
+      "end_char": 2287,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 2303,
+      "end_char": 2317,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-14",
+      "start_char": 2351,
+      "end_char": 2361,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 2370,
+      "end_char": 2384,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-13",
+      "start_char": 2419,
+      "end_char": 2429,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Romero",
+      "start_char": 2438,
+      "end_char": 2452,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "329927\n2025",
+      "start_char": 2480,
+      "end_char": 2491,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-22",
+      "start_char": 2487,
+      "end_char": 2497,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexandra Ward",
+      "start_char": 2513,
+      "end_char": 2527,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-24",
+      "start_char": 2562,
+      "end_char": 2572,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Hughes",
+      "start_char": 2584,
+      "end_char": 2598,
+      "confidence": 0.62,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "597457\n2025",
+      "start_char": 2625,
+      "end_char": 2636,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-04",
+      "start_char": 2632,
+      "end_char": 2642,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 2657,
+      "end_char": 2671,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-06",
+      "start_char": 2706,
+      "end_char": 2716,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexandra Ward",
+      "start_char": 2730,
+      "end_char": 2744,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-15",
+      "start_char": 2779,
+      "end_char": 2789,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 2804,
+      "end_char": 2818,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-10",
+      "start_char": 2853,
+      "end_char": 2863,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Hughes",
+      "start_char": 2879,
+      "end_char": 2893,
+      "confidence": 0.69,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-06",
+      "start_char": 2927,
+      "end_char": 2937,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 2953,
+      "end_char": 2965,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "566428\n2025",
+      "start_char": 2993,
+      "end_char": 3004,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-27",
+      "start_char": 3000,
+      "end_char": 3010,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Marks",
+      "start_char": 3026,
+      "end_char": 3038,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-03",
+      "start_char": 3073,
+      "end_char": 3083,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexandra Ward",
+      "start_char": 3098,
+      "end_char": 3112,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "338846\n2025",
+      "start_char": 3140,
+      "end_char": 3151,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-30",
+      "start_char": 3147,
+      "end_char": 3157,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacob Barnett",
+      "start_char": 3170,
+      "end_char": 3183,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "493774\n2025",
+      "start_char": 3210,
+      "end_char": 3221,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-30",
+      "start_char": 3217,
+      "end_char": 3227,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Stephens",
+      "start_char": 3236,
+      "end_char": 3254,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-16",
+      "start_char": 3288,
+      "end_char": 3298,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Stephens",
+      "start_char": 3307,
+      "end_char": 3325,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "286710\n2025",
+      "start_char": 3352,
+      "end_char": 3363,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-29",
+      "start_char": 3359,
+      "end_char": 3369,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacob Barnett",
+      "start_char": 3381,
+      "end_char": 3394,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-22",
+      "start_char": 3429,
+      "end_char": 3439,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacob Barnett",
+      "start_char": 3453,
+      "end_char": 3466,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-29",
+      "start_char": 3500,
+      "end_char": 3510,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Duncan",
+      "start_char": 3526,
+      "end_char": 3540,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-12",
+      "start_char": 3575,
+      "end_char": 3585,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexandra Ward",
+      "start_char": 3598,
+      "end_char": 3612,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "330533\n2026",
+      "start_char": 3640,
+      "end_char": 3651,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10",
+      "start_char": 3647,
+      "end_char": 3657,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Hughes",
+      "start_char": 3670,
+      "end_char": 3684,
+      "confidence": 0.59,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 619,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3719,
+  "error": null,
+  "raw_response": {}
+}

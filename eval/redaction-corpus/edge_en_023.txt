@@ -1,0 +1,5 @@
+Transfer Record
+Client: JJonathan Smith
+Account: [8280643]
+Wire Ref: WT-843670
+Amount: $36,564.44

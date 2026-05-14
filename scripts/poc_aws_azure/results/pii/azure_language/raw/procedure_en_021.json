@@ -1,0 +1,155 @@
+{
+  "tool": "azure_language",
+  "doc_id": "procedure_en_021",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-01-23",
+      "start_char": 66,
+      "end_char": 76,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Legal department",
+      "start_char": 187,
+      "end_char": 203,
+      "confidence": 0.75,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "employees",
+      "start_char": 376,
+      "end_char": 385,
+      "confidence": 0.99,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Legal department",
+      "start_char": 393,
+      "end_char": 409,
+      "confidence": 0.78,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "staff",
+      "start_char": 429,
+      "end_char": 434,
+      "confidence": 0.49,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "personnel",
+      "start_char": 485,
+      "end_char": 494,
+      "confidence": 0.94,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Compliance Officer",
+      "start_char": 598,
+      "end_char": 616,
+      "confidence": 0.94,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Branch Manager",
+      "start_char": 748,
+      "end_char": 762,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "staff",
+      "start_char": 780,
+      "end_char": 785,
+      "confidence": 0.92,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "reviewer",
+      "start_char": 924,
+      "end_char": 932,
+      "confidence": 0.69,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "department head",
+      "start_char": 1120,
+      "end_char": 1135,
+      "confidence": 0.72,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "reviewer",
+      "start_char": 1179,
+      "end_char": 1187,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "reviewer",
+      "start_char": 1340,
+      "end_char": 1348,
+      "confidence": 0.99,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "records management team",
+      "start_char": 1407,
+      "end_char": 1430,
+      "confidence": 0.94,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "department head",
+      "start_char": 1504,
+      "end_char": 1519,
+      "confidence": 0.91,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Chief Compliance Officer",
+      "start_char": 1657,
+      "end_char": 1681,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Corporate Governance Framework",
+      "start_char": 1719,
+      "end_char": 1749,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Compliance Manual",
+      "start_char": 1763,
+      "end_char": 1780,
+      "confidence": 0.49,
+      "original_type": "Organization"
+    }
+  ],
+  "latency_ms": 133,
+  "cost_estimate_usd": 0.002,
+  "char_count": 1837,
+  "error": null,
+  "raw_response": {}
+}

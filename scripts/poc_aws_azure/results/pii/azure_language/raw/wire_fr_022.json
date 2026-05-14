@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_022",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-28",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "François Lévesque",
+      "start_char": 155,
+      "end_char": 172,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7433891",
+      "start_char": 192,
+      "end_char": 199,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 240,
+      "end_char": 252,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Valérie Côté",
+      "start_char": 259,
+      "end_char": 271,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5703624",
+      "start_char": 291,
+      "end_char": 298,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Scotiabank",
+      "start_char": 313,
+      "end_char": 323,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thérèse Bérubé",
+      "start_char": 414,
+      "end_char": 428,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "247128713",
+      "start_char": 455,
+      "end_char": 464,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "therese.berube@testbank.ca",
+      "start_char": 476,
+      "end_char": 502,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 789-9841",
+      "start_char": 515,
+      "end_char": 529,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "C5R 6X6",
+      "start_char": 544,
+      "end_char": 551,
+      "confidence": 0.79,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "C5R 6X6",
+      "start_char": 544,
+      "end_char": 551,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-05",
+      "start_char": 593,
+      "end_char": 603,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 237,
+  "cost_estimate_usd": 0.001,
+  "char_count": 604,
+  "error": null,
+  "raw_response": {}
+}

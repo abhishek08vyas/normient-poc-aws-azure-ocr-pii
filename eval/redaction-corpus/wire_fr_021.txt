@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-08-21
+Reference : VIR-889842
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Éloïse Pelletier
+Numero de compte : 7456854
+Succursale : Laval
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Amélie Ouellet
+Numero de compte : 5930202
+Institution : Scotiabank
+
+DETAILS DU VIREMENT
+Montant : 121,209.91 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Émilie Lévesque
+NAS (pour verification) : 532898020
+Courriel : emilie.levesque@acmecorp.ca
+Telephone : (647) 508-8990
+Code postal : T2T 1V8
+
+Signature : ____________________
+Date : 2026-01-20

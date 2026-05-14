@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_021",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-03",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.99989914894104,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Frederick Rose",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999772310256958,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3036059",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9973549842834473,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Edmonton, Alberta",
+      "start_char": 179,
+      "end_char": 196,
+      "confidence": 0.9997411966323853,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Catherine Brandt",
+      "start_char": 226,
+      "end_char": 242,
+      "confidence": 0.9999514818191528,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8658158",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.9997374415397644,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Campos",
+      "start_char": 390,
+      "end_char": 402,
+      "confidence": 0.9999525547027588,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "278895792",
+      "start_char": 427,
+      "end_char": 436,
+      "confidence": 0.7862637639045715,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "sarah.campos@synthco.com",
+      "start_char": 444,
+      "end_char": 468,
+      "confidence": 0.999985933303833,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 761-7305",
+      "start_char": 476,
+      "end_char": 490,
+      "confidence": 0.999922513961792,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "H7T 4K4",
+      "start_char": 504,
+      "end_char": 511,
+      "confidence": 0.9998899698257446,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "H7T 4K4",
+      "start_char": 504,
+      "end_char": 511,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-29",
+      "start_char": 551,
+      "end_char": 561,
+      "confidence": 0.9999933838844299,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 562,
+  "error": null,
+  "raw_response": {}
+}

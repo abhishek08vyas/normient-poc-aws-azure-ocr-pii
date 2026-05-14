@@ -1,0 +1,83 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_018",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Perry Carrillo",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.9999572038650513,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5194357",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.9998315572738647,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14 21:20:01",
+      "start_char": 120,
+      "end_char": 139,
+      "confidence": 0.9518769383430481,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "perry.carrillo@example.com",
+      "start_char": 155,
+      "end_char": 181,
+      "confidence": 0.9998072981834412,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 260,
+      "end_char": 270,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 321,
+      "end_char": 331,
+      "confidence": 0.9999929070472717,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 382,
+      "end_char": 392,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-30",
+      "start_char": 504,
+      "end_char": 514,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

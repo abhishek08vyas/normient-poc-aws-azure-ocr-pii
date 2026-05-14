@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-29
+Account Holder: Thomas Smith
+Account Number: 7962689
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-07-18	Direct deposit	Brandy Robles		21,143.94	87,793.57	TXN-889794
+2025-12-02	Direct deposit	Brandy Robles	45,909.20		41,884.37	TXN-940715
+2026-01-12	Vendor payment	Jennifer Silva		18,152.54	60,036.91	TXN-641228
+2026-02-17	Wire transfer	Anthony Wells		35,909.52	95,946.44	TXN-252656
+2026-01-08	Payroll	Emily Whitney	20,142.38		75,804.06	TXN-188896
+2026-03-09	Service fee	Brandy Robles	37,983.70		37,820.36	TXN-555157
+2026-04-04	E-transfer	Kimberly Lane		2,984.71	40,805.07	TXN-258284
+2025-10-07	E-transfer	Kimberly Lane		26,036.94	66,842.01	TXN-937886
+2025-07-09	Bill payment	Anthony Wells		35,069.44	101,911.45	TXN-521530
+2026-03-28	Service fee	Jessica Watts		45,470.62	147,382.07	TXN-856601
+2026-02-01	Wire transfer	Jennifer Silva		30,559.01	177,941.08	TXN-393371
+2025-08-15	Direct deposit	Kimberly Lane	10,336.17		167,604.92	TXN-523559
+2025-05-25	Payroll	Tammy Patton		22,162.98	189,767.90	TXN-926636
+2025-12-21	Bill payment	Jennifer Silva		38,792.48	228,560.37	TXN-919528
+2026-02-09	Bill payment	Emily Whitney		19,560.68	248,121.05	TXN-138766
+2025-06-24	E-transfer	Kimberly Lane		27,085.43	275,206.48	TXN-232126
+2025-07-26	Direct deposit	Emily Whitney		26,114.66	301,321.14	TXN-636526
+2025-05-20	Service fee	Kimberly Lane	44,526.93		256,794.21	TXN-267800
+2025-10-31	Payroll	Tammy Patton	38,730.47		218,063.73	TXN-371256
+2025-09-11	E-transfer	Anthony Wells	3,091.29		214,972.44	TXN-629818
+2025-10-22	Bill payment	Jessica Watts		6,278.27	221,250.71	TXN-757446
+2025-07-10	Service fee	Kimberly Lane	28,664.52		192,586.19	TXN-230809
+2025-10-20	Wire transfer	Anthony Wells		40,288.84	232,875.03	TXN-455446
+2026-02-05	Payroll	Tammy Patton		31,424.44	264,299.47	TXN-849361
+2025-07-31	Payroll	Jennifer Silva	15,030.16		249,269.31	TXN-724478
+2025-10-19	E-transfer	Jennifer Silva		33,654.45	282,923.76	TXN-954672
+2025-11-23	E-transfer	Anthony Wells		5,350.82	288,274.58	TXN-644909
+2026-03-09	Payroll	Tammy Patton		18,127.25	306,401.83	TXN-301908
+2026-01-05	Wire transfer	Brandy Robles	20,661.44		285,740.39	TXN-846209
+2026-05-05	Wire transfer	Emily Whitney		23,865.03	309,605.42	TXN-545526
+2025-11-12	Vendor payment	Emily Whitney		20,197.41	329,802.83	TXN-487233
+2026-04-16	Payroll	Tammy Patton	13,258.32		316,544.51	TXN-916656
+2026-04-07	Vendor payment	Kimberly Lane		34,481.99	351,026.50	TXN-543990
+2026-02-22	Vendor payment	Kimberly Lane		7,302.87	358,329.38	TXN-537174
+2026-02-19	Direct deposit	Anthony Wells	48,404.79		309,924.59	TXN-845695
+2025-06-06	Payroll	Jennifer Silva	10,710.86		299,213.73	TXN-654844
+2026-02-11	Vendor payment	Emily Whitney	27,995.43		271,218.30	TXN-882758
+2025-07-05	Wire transfer	Tammy Patton	6,131.23		265,087.06	TXN-993719
+2025-11-30	Payroll	Jessica Watts		5,975.34	271,062.40	TXN-142238
+2025-08-01	Bill payment	Jessica Watts	1,496.09		269,566.31	TXN-417991
+2025-12-16	Direct deposit	Brandy Robles		2,527.69	272,093.99	TXN-921866
+2025-09-16	Bill payment	Jessica Watts	37,009.05		235,084.94	TXN-326053
+2026-01-25	Wire transfer	Emily Whitney	43,534.28		191,550.66	TXN-674134
+2025-11-14	Vendor payment	Anthony Wells	22,673.48		168,877.18	TXN-700896
+2025-12-03	Bill payment	Jennifer Silva	36,029.67		132,847.50	TXN-495633
+2025-10-06	Payroll	Brandy Robles	31,859.37		100,988.14	TXN-898963
+2025-09-11	Service fee	Anthony Wells	43,330.64		57,657.49	TXN-799631
+2025-07-19	Bill payment	Emily Whitney		31,217.11	88,874.61	TXN-938663
+2025-11-07	Vendor payment	Brandy Robles	2,386.40		86,488.20	TXN-514603
+2026-05-02	E-transfer	Anthony Wells	4,517.64		81,970.56	TXN-871660

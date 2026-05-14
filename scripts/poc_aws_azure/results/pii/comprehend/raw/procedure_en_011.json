@@ -1,0 +1,19 @@
+{
+  "tool": "comprehend",
+  "doc_id": "procedure_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-02",
+      "start_char": 69,
+      "end_char": 79,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 257,
+  "cost_estimate_usd": 0.0019,
+  "char_count": 1870,
+  "error": null,
+  "raw_response": {}
+}

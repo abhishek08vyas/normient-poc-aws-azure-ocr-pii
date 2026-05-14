@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-07-05
+Reference: WT-618317
+
+SENDER INFORMATION
+Name: Bruce Chandler
+Account Number: 3566765
+Branch: Vancouver, British Columbia
+
+RECIPIENT INFORMATION
+Name: Lauren Rodriguez
+Account Number: 8306261
+Institution: Desjardins
+
+TRANSFER DETAILS
+Amount: $305,555.52 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: James Herrera
+SIN (for verification): 284987765
+Email: james.herrera@synthco.com
+Phone: (438) 530-4022
+Postal Code: C4T 3T9
+
+Signature: ____________________
+Date: 2025-10-22

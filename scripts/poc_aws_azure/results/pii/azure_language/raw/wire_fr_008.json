@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_008",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-25",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.81,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Gauthier",
+      "start_char": 155,
+      "end_char": 173,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7553489",
+      "start_char": 193,
+      "end_char": 200,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 240,
+      "end_char": 252,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sébastien Gagné",
+      "start_char": 259,
+      "end_char": 274,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6172822",
+      "start_char": 294,
+      "end_char": 301,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 316,
+      "end_char": 331,
+      "confidence": 0.99,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raphaël Lévesque",
+      "start_char": 444,
+      "end_char": 460,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "409006335",
+      "start_char": 487,
+      "end_char": 496,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "raphael.levesque@testbank.ca",
+      "start_char": 508,
+      "end_char": 536,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 404-1497",
+      "start_char": 549,
+      "end_char": 563,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "A6A 0N3",
+      "start_char": 578,
+      "end_char": 585,
+      "confidence": 0.88,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "A6A 0N3",
+      "start_char": 578,
+      "end_char": 585,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-28",
+      "start_char": 627,
+      "end_char": 637,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 175,
+  "cost_estimate_usd": 0.001,
+  "char_count": 638,
+  "error": null,
+  "raw_response": {}
+}

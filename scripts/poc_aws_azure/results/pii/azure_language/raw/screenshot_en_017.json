@@ -1,0 +1,91 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_017",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Client",
+      "start_char": 24,
+      "end_char": 30,
+      "confidence": 0.68,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Caleb Russell",
+      "start_char": 37,
+      "end_char": 50,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "8531761",
+      "start_char": 60,
+      "end_char": 67,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10 06:45:55",
+      "start_char": 119,
+      "end_char": 138,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "caleb.russell@example.ca",
+      "start_char": 154,
+      "end_char": 178,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-05",
+      "start_char": 257,
+      "end_char": 267,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-03",
+      "start_char": 318,
+      "end_char": 328,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-16",
+      "start_char": 379,
+      "end_char": 389,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-23",
+      "start_char": 440,
+      "end_char": 450,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-03",
+      "start_char": 501,
+      "end_char": 511,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 141,
+  "cost_estimate_usd": 0.001,
+  "char_count": 562,
+  "error": null,
+  "raw_response": {}
+}

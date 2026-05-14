@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_049",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-12",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kevin Pope",
+      "start_char": 132,
+      "end_char": 142,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9826250",
+      "start_char": 159,
+      "end_char": 166,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Johnson",
+      "start_char": 222,
+      "end_char": 236,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2906718",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 274,
+      "end_char": 284,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Murphy",
+      "start_char": 379,
+      "end_char": 391,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "617758917",
+      "start_char": 416,
+      "end_char": 425,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "james.murphy@acmecorp.ca",
+      "start_char": 433,
+      "end_char": 457,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 829-0710",
+      "start_char": 465,
+      "end_char": 479,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X4T 0B7",
+      "start_char": 493,
+      "end_char": 500,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X4T 0B7",
+      "start_char": 493,
+      "end_char": 500,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-07",
+      "start_char": 540,
+      "end_char": 550,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 145,
+  "cost_estimate_usd": 0.001,
+  "char_count": 551,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_013",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999744296073914,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Debra Mack",
+      "start_char": 58,
+      "end_char": 68,
+      "confidence": 0.9999185800552368,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8627651",
+      "start_char": 85,
+      "end_char": 92,
+      "confidence": 0.9998934268951416,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-03",
+      "start_char": 156,
+      "end_char": 166,
+      "confidence": 0.999983549118042,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 178,
+      "end_char": 191,
+      "confidence": 0.9999142289161682,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 224,
+      "end_char": 234,
+      "confidence": 0.9999896883964539,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 247,
+      "end_char": 260,
+      "confidence": 0.9999157190322876,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-13",
+      "start_char": 293,
+      "end_char": 303,
+      "confidence": 0.9999896287918091,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 312,
+      "end_char": 325,
+      "confidence": 0.9998274445533752,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-08",
+      "start_char": 358,
+      "end_char": 368,
+      "confidence": 0.999988317489624,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 380,
+      "end_char": 395,
+      "confidence": 0.9998188614845276,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-17",
+      "start_char": 428,
+      "end_char": 438,
+      "confidence": 0.9999898076057434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 454,
+      "end_char": 468,
+      "confidence": 0.9998937845230103,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-01",
+      "start_char": 501,
+      "end_char": 511,
+      "confidence": 0.9999834299087524,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 527,
+      "end_char": 540,
+      "confidence": 0.9998739957809448,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-15",
+      "start_char": 574,
+      "end_char": 584,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 600,
+      "end_char": 613,
+      "confidence": 0.9998775720596313,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-18",
+      "start_char": 647,
+      "end_char": 657,
+      "confidence": 0.999993085861206,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 673,
+      "end_char": 686,
+      "confidence": 0.9998499751091003,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-27",
+      "start_char": 721,
+      "end_char": 731,
+      "confidence": 0.9999935030937195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 744,
+      "end_char": 759,
+      "confidence": 0.9997640252113342,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-19",
+      "start_char": 794,
+      "end_char": 804,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 816,
+      "end_char": 831,
+      "confidence": 0.9997144937515259,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-26",
+      "start_char": 866,
+      "end_char": 876,
+      "confidence": 0.9999909996986389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 885,
+      "end_char": 898,
+      "confidence": 0.9998108148574829,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-23",
+      "start_char": 932,
+      "end_char": 942,
+      "confidence": 0.9999894499778748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 957,
+      "end_char": 970,
+      "confidence": 0.9998465776443481,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-04",
+      "start_char": 1004,
+      "end_char": 1014,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 1023,
+      "end_char": 1038,
+      "confidence": 0.9997692108154297,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-24",
+      "start_char": 1072,
+      "end_char": 1082,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 1098,
+      "end_char": 1112,
+      "confidence": 0.9998816251754761,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-02",
+      "start_char": 1147,
+      "end_char": 1157,
+      "confidence": 0.9999836683273315,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 1172,
+      "end_char": 1185,
+      "confidence": 0.9998920559883118,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-15",
+      "start_char": 1220,
+      "end_char": 1230,
+      "confidence": 0.9999869465827942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 1246,
+      "end_char": 1259,
+      "confidence": 0.9998643398284912,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-05",
+      "start_char": 1294,
+      "end_char": 1304,
+      "confidence": 0.9999880790710449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 1320,
+      "end_char": 1334,
+      "confidence": 0.9998512268066406,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-26",
+      "start_char": 1369,
+      "end_char": 1379,
+      "confidence": 0.9999851584434509,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 1388,
+      "end_char": 1401,
+      "confidence": 0.9998819828033447,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-17",
+      "start_char": 1436,
+      "end_char": 1446,
+      "confidence": 0.9999849200248718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 1462,
+      "end_char": 1476,
+      "confidence": 0.9998448491096497,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-17",
+      "start_char": 1511,
+      "end_char": 1521,
+      "confidence": 0.9999818205833435,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 1537,
+      "end_char": 1552,
+      "confidence": 0.9997570514678955,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-18",
+      "start_char": 1587,
+      "end_char": 1597,
+      "confidence": 0.9999842643737793,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 1606,
+      "end_char": 1619,
+      "confidence": 0.999810516834259,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-28",
+      "start_char": 1653,
+      "end_char": 1663,
+      "confidence": 0.9999837279319763,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 1679,
+      "end_char": 1693,
+      "confidence": 0.9997633099555969,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-29",
+      "start_char": 1728,
+      "end_char": 1738,
+      "confidence": 0.9999849200248718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 1747,
+      "end_char": 1762,
+      "confidence": 0.998675525188446,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-19",
+      "start_char": 1796,
+      "end_char": 1806,
+      "confidence": 0.9999827146530151,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 1815,
+      "end_char": 1829,
+      "confidence": 0.9996860027313232,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-27",
+      "start_char": 1864,
+      "end_char": 1874,
+      "confidence": 0.9999867677688599,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 1886,
+      "end_char": 1899,
+      "confidence": 0.9997530579566956,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-17",
+      "start_char": 1934,
+      "end_char": 1944,
+      "confidence": 0.9999849796295166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 1956,
+      "end_char": 1970,
+      "confidence": 0.9997113347053528,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-26",
+      "start_char": 2005,
+      "end_char": 2015,
+      "confidence": 0.9999762177467346,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 2028,
+      "end_char": 2041,
+      "confidence": 0.9999080896377563,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-28",
+      "start_char": 2076,
+      "end_char": 2086,
+      "confidence": 0.9999809265136719,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 2099,
+      "end_char": 2113,
+      "confidence": 0.9999030828475952,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-24",
+      "start_char": 2148,
+      "end_char": 2158,
+      "confidence": 0.9999845027923584,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 2171,
+      "end_char": 2184,
+      "confidence": 0.9999095797538757,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 2219,
+      "end_char": 2229,
+      "confidence": 0.9999784231185913,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 2245,
+      "end_char": 2258,
+      "confidence": 0.9999107718467712,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 2293,
+      "end_char": 2303,
+      "confidence": 0.9999757409095764,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 2318,
+      "end_char": 2332,
+      "confidence": 0.9998992681503296,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-17",
+      "start_char": 2364,
+      "end_char": 2374,
+      "confidence": 0.999971866607666,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 2386,
+      "end_char": 2399,
+      "confidence": 0.9998978972434998,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-01",
+      "start_char": 2434,
+      "end_char": 2444,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 2459,
+      "end_char": 2472,
+      "confidence": 0.9999165534973145,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 2507,
+      "end_char": 2517,
+      "confidence": 0.9999898076057434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 2530,
+      "end_char": 2544,
+      "confidence": 0.9999110102653503,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-01",
+      "start_char": 2579,
+      "end_char": 2589,
+      "confidence": 0.9999910593032837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 2601,
+      "end_char": 2614,
+      "confidence": 0.999894380569458,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-11",
+      "start_char": 2649,
+      "end_char": 2659,
+      "confidence": 0.9999897480010986,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 2668,
+      "end_char": 2681,
+      "confidence": 0.9998223185539246,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-26",
+      "start_char": 2716,
+      "end_char": 2726,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 2740,
+      "end_char": 2753,
+      "confidence": 0.9999245405197144,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-22",
+      "start_char": 2788,
+      "end_char": 2798,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 2810,
+      "end_char": 2823,
+      "confidence": 0.9998921751976013,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-23",
+      "start_char": 2857,
+      "end_char": 2867,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Larry Edwards",
+      "start_char": 2883,
+      "end_char": 2896,
+      "confidence": 0.9998793005943298,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-26",
+      "start_char": 2930,
+      "end_char": 2940,
+      "confidence": 0.9999898672103882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 2956,
+      "end_char": 2970,
+      "confidence": 0.9998080730438232,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-03",
+      "start_char": 3005,
+      "end_char": 3015,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 3024,
+      "end_char": 3039,
+      "confidence": 0.9993531703948975,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-12",
+      "start_char": 3074,
+      "end_char": 3084,
+      "confidence": 0.9999860525131226,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 3097,
+      "end_char": 3112,
+      "confidence": 0.9992547631263733,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-23",
+      "start_char": 3147,
+      "end_char": 3157,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 3173,
+      "end_char": 3188,
+      "confidence": 0.9988765120506287,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-16",
+      "start_char": 3223,
+      "end_char": 3233,
+      "confidence": 0.9999853372573853,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Russell Beasley",
+      "start_char": 3242,
+      "end_char": 3257,
+      "confidence": 0.9860852360725403,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-08",
+      "start_char": 3292,
+      "end_char": 3302,
+      "confidence": 0.9999886155128479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 3311,
+      "end_char": 3325,
+      "confidence": 0.9996234178543091,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-07",
+      "start_char": 3360,
+      "end_char": 3370,
+      "confidence": 0.9999808669090271,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Wilcox",
+      "start_char": 3383,
+      "end_char": 3396,
+      "confidence": 0.9999311566352844,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-24",
+      "start_char": 3428,
+      "end_char": 3438,
+      "confidence": 0.9999780654907227,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 3451,
+      "end_char": 3465,
+      "confidence": 0.9998995065689087,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-25",
+      "start_char": 3500,
+      "end_char": 3510,
+      "confidence": 0.9999768733978271,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jonathan Mckay",
+      "start_char": 3519,
+      "end_char": 3533,
+      "confidence": 0.9998891949653625,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-06",
+      "start_char": 3567,
+      "end_char": 3577,
+      "confidence": 0.9999658465385437,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 3592,
+      "end_char": 3605,
+      "confidence": 0.9999184012413025,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-15",
+      "start_char": 3640,
+      "end_char": 3650,
+      "confidence": 0.9999756217002869,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raymond Blair",
+      "start_char": 3665,
+      "end_char": 3678,
+      "confidence": 0.9999186396598816,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 400,
+  "cost_estimate_usd": 0.0038,
+  "char_count": 3713,
+  "error": null,
+  "raw_response": {}
+}

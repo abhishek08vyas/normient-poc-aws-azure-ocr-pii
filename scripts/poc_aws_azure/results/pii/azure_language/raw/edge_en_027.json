@@ -1,0 +1,35 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_027",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Client",
+      "start_char": 16,
+      "end_char": 22,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patriicia Andersen",
+      "start_char": 24,
+      "end_char": 42,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5856444",
+      "start_char": 53,
+      "end_char": 60,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    }
+  ],
+  "latency_ms": 114,
+  "cost_estimate_usd": 0.001,
+  "char_count": 101,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-10-14
+Reference : VIR-635849
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Noël Chrétien
+Numero de compte : 7897060
+Succursale : Levis
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Amélie Gagné
+Numero de compte : 6058905
+Institution : HSBC Canada
+
+DETAILS DU VIREMENT
+Montant : 168,217.50 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : François Gauthier
+NAS (pour verification) : 797189248
+Courriel : francois.gauthier@example.com
+Telephone : (613) 846-6366
+Code postal : G5H 5V1
+
+Signature : ____________________
+Date : 2026-01-26

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Caleb Russell
+Account: 8531761
+Type: Business
+Balance: $51,637.86 CAD
+Last Login: 2026-05-10 06:45:55
+Email on file: caleb.russell@example.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-05  ATM withdrawal           -$9,044.54   $42,593.31
+2026-05-03  E-transfer               $9,473.95    $52,067.26
+2026-04-16  ATM withdrawal           $7,705.91    $59,773.17
+2026-04-23  POS purchase             $5,298.22    $65,071.40
+2026-05-03  Direct deposit           -$8,022.53   $57,048.87

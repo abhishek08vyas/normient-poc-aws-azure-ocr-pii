@@ -1,0 +1,163 @@
+{
+  "tool": "azure_language",
+  "doc_id": "procedure_en_030",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-05",
+      "start_char": 68,
+      "end_char": 78,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Management",
+      "start_char": 96,
+      "end_char": 106,
+      "confidence": 0.68,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Risk Management department",
+      "start_char": 201,
+      "end_char": 227,
+      "confidence": 0.99,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "employees",
+      "start_char": 400,
+      "end_char": 409,
+      "confidence": 0.99,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Risk Management department",
+      "start_char": 417,
+      "end_char": 443,
+      "confidence": 0.7,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "supporting staff",
+      "start_char": 452,
+      "end_char": 468,
+      "confidence": 0.72,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "personnel",
+      "start_char": 519,
+      "end_char": 528,
+      "confidence": 0.94,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Compliance Officer",
+      "start_char": 632,
+      "end_char": 650,
+      "confidence": 0.94,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Branch Manager",
+      "start_char": 782,
+      "end_char": 796,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "staff",
+      "start_char": 814,
+      "end_char": 819,
+      "confidence": 0.92,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "reviewer",
+      "start_char": 958,
+      "end_char": 966,
+      "confidence": 0.69,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "department head",
+      "start_char": 1154,
+      "end_char": 1169,
+      "confidence": 0.72,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "reviewer",
+      "start_char": 1213,
+      "end_char": 1221,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "reviewer",
+      "start_char": 1374,
+      "end_char": 1382,
+      "confidence": 0.99,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "records management team",
+      "start_char": 1441,
+      "end_char": 1464,
+      "confidence": 0.94,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "department head",
+      "start_char": 1538,
+      "end_char": 1553,
+      "confidence": 0.91,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Chief Compliance Officer",
+      "start_char": 1691,
+      "end_char": 1715,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Corporate Governance Framework",
+      "start_char": 1753,
+      "end_char": 1783,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Compliance Manual",
+      "start_char": 1797,
+      "end_char": 1814,
+      "confidence": 0.49,
+      "original_type": "Organization"
+    }
+  ],
+  "latency_ms": 250,
+  "cost_estimate_usd": 0.002,
+  "char_count": 1871,
+  "error": null,
+  "raw_response": {}
+}

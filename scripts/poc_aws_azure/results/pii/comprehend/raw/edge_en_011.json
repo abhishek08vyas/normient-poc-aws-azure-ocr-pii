@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Allison Cox",
+      "start_char": 32,
+      "end_char": 43,
+      "confidence": 0.9999644160270691,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "778-446-831",
+      "start_char": 49,
+      "end_char": 60,
+      "confidence": 0.9998244643211365,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "allison.cox@example.com",
+      "start_char": 70,
+      "end_char": 93,
+      "confidence": 0.9999829530715942,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 218,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 94,
+  "error": null,
+  "raw_response": {}
+}

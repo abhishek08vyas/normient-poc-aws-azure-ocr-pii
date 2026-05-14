@@ -1,0 +1,35 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_023",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Client",
+      "start_char": 16,
+      "end_char": 22,
+      "confidence": 0.65,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "JJonathan Smith",
+      "start_char": 24,
+      "end_char": 39,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8280643",
+      "start_char": 50,
+      "end_char": 57,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    }
+  ],
+  "latency_ms": 611,
+  "cost_estimate_usd": 0.001,
+  "char_count": 98,
+  "error": null,
+  "raw_response": {}
+}

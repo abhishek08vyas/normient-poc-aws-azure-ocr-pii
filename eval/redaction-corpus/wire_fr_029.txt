@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-04-21
+Reference : VIR-648055
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Geneviève Gagné
+Numero de compte : 2473390
+Succursale : Sherbrooke
+
+INFORMATIONS DU DESTINATAIRE
+Nom : René Desjardins
+Numero de compte : 5307726
+Institution : HSBC Canada
+
+DETAILS DU VIREMENT
+Montant : 223,015.22 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : André Tremblay
+NAS (pour verification) : 701184582
+Courriel : andre.tremblay@example.ca
+Telephone : (819) 873-0001
+Code postal : K4B 8M8
+
+Signature : ____________________
+Date : 2026-02-09

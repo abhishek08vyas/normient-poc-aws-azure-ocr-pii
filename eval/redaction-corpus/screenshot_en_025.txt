@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: James Smith
+Account: 9347057
+Type: Business
+Balance: $57,010.54 CAD
+Last Login: 2026-04-21 08:06:56
+Email on file: james.smith@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-24  Wire transfer            -$7,284.46   $49,726.08
+2026-04-19  POS purchase             -$9,951.23   $39,774.85
+2026-05-05  Bill payment             -$3,246.05   $36,528.80
+2026-04-18  E-transfer               -$2,991.62   $33,537.18
+2026-05-10  E-transfer               $4,289.85    $37,827.03

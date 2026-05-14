@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_030",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999831318855286,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brent Stein",
+      "start_char": 58,
+      "end_char": 69,
+      "confidence": 0.9998940229415894,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8615616",
+      "start_char": 86,
+      "end_char": 93,
+      "confidence": 0.9998879432678223,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 157,
+      "end_char": 167,
+      "confidence": 0.9999880194664001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 179,
+      "end_char": 192,
+      "confidence": 0.9999251961708069,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 226,
+      "end_char": 236,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 252,
+      "end_char": 266,
+      "confidence": 0.9999094605445862,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-19",
+      "start_char": 300,
+      "end_char": 310,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 324,
+      "end_char": 337,
+      "confidence": 0.9999053478240967,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-13",
+      "start_char": 371,
+      "end_char": 381,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 396,
+      "end_char": 410,
+      "confidence": 0.9998913407325745,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-14",
+      "start_char": 444,
+      "end_char": 454,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 470,
+      "end_char": 481,
+      "confidence": 0.9998851418495178,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-20",
+      "start_char": 514,
+      "end_char": 524,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 539,
+      "end_char": 550,
+      "confidence": 0.9998723864555359,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-29",
+      "start_char": 582,
+      "end_char": 592,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 608,
+      "end_char": 619,
+      "confidence": 0.9998998641967773,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-02",
+      "start_char": 651,
+      "end_char": 661,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 673,
+      "end_char": 686,
+      "confidence": 0.999891996383667,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 719,
+      "end_char": 729,
+      "confidence": 0.9999938607215881,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 738,
+      "end_char": 752,
+      "confidence": 0.9999200105667114,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-14",
+      "start_char": 784,
+      "end_char": 794,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 810,
+      "end_char": 824,
+      "confidence": 0.9999154806137085,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-31",
+      "start_char": 857,
+      "end_char": 867,
+      "confidence": 0.9999940991401672,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 880,
+      "end_char": 891,
+      "confidence": 0.9998475909233093,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-18",
+      "start_char": 924,
+      "end_char": 934,
+      "confidence": 0.9999927878379822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 947,
+      "end_char": 960,
+      "confidence": 0.9999086260795593,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-04",
+      "start_char": 992,
+      "end_char": 1002,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 1017,
+      "end_char": 1030,
+      "confidence": 0.999897837638855,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-30",
+      "start_char": 1062,
+      "end_char": 1072,
+      "confidence": 0.999994158744812,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 1087,
+      "end_char": 1098,
+      "confidence": 0.9999033808708191,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-07",
+      "start_char": 1131,
+      "end_char": 1141,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1155,
+      "end_char": 1168,
+      "confidence": 0.9998850226402283,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-16",
+      "start_char": 1200,
+      "end_char": 1210,
+      "confidence": 0.9999924302101135,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1225,
+      "end_char": 1238,
+      "confidence": 0.9998984932899475,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-21",
+      "start_char": 1270,
+      "end_char": 1280,
+      "confidence": 0.9999914765357971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1295,
+      "end_char": 1308,
+      "confidence": 0.9999048113822937,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 1342,
+      "end_char": 1352,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1365,
+      "end_char": 1378,
+      "confidence": 0.9998999238014221,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-11",
+      "start_char": 1412,
+      "end_char": 1422,
+      "confidence": 0.9999917149543762,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1438,
+      "end_char": 1451,
+      "confidence": 0.9999006390571594,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-06",
+      "start_char": 1485,
+      "end_char": 1495,
+      "confidence": 0.9999909400939941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 1507,
+      "end_char": 1520,
+      "confidence": 0.9998564124107361,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-23",
+      "start_char": 1554,
+      "end_char": 1564,
+      "confidence": 0.9999863505363464,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 1579,
+      "end_char": 1592,
+      "confidence": 0.9998737573623657,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-17",
+      "start_char": 1625,
+      "end_char": 1635,
+      "confidence": 0.9999845623970032,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 1648,
+      "end_char": 1659,
+      "confidence": 0.9998273253440857,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-08",
+      "start_char": 1693,
+      "end_char": 1703,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adam Pierce",
+      "start_char": 1717,
+      "end_char": 1728,
+      "confidence": 0.9998703002929688,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 1762,
+      "end_char": 1772,
+      "confidence": 0.999985933303833,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 1788,
+      "end_char": 1799,
+      "confidence": 0.9998102784156799,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-27",
+      "start_char": 1832,
+      "end_char": 1842,
+      "confidence": 0.9999875426292419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adam Pierce",
+      "start_char": 1851,
+      "end_char": 1862,
+      "confidence": 0.9997695088386536,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 1896,
+      "end_char": 1906,
+      "confidence": 0.9999879598617554,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1920,
+      "end_char": 1933,
+      "confidence": 0.9998612999916077,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 1966,
+      "end_char": 1976,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 1990,
+      "end_char": 2003,
+      "confidence": 0.9998559355735779,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-19",
+      "start_char": 2037,
+      "end_char": 2047,
+      "confidence": 0.9999828338623047,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 2056,
+      "end_char": 2069,
+      "confidence": 0.9998582601547241,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-22",
+      "start_char": 2102,
+      "end_char": 2112,
+      "confidence": 0.9999822378158569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 2121,
+      "end_char": 2134,
+      "confidence": 0.9998907446861267,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 2167,
+      "end_char": 2177,
+      "confidence": 0.9999819993972778,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 2193,
+      "end_char": 2204,
+      "confidence": 0.999822735786438,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-03",
+      "start_char": 2237,
+      "end_char": 2247,
+      "confidence": 0.9999815225601196,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adam Pierce",
+      "start_char": 2263,
+      "end_char": 2274,
+      "confidence": 0.999801754951477,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-20",
+      "start_char": 2308,
+      "end_char": 2318,
+      "confidence": 0.9999781847000122,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 2327,
+      "end_char": 2341,
+      "confidence": 0.99978107213974,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 2375,
+      "end_char": 2385,
+      "confidence": 0.9999867081642151,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adam Pierce",
+      "start_char": 2400,
+      "end_char": 2411,
+      "confidence": 0.9997630715370178,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 2445,
+      "end_char": 2455,
+      "confidence": 0.9999954700469971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 2470,
+      "end_char": 2481,
+      "confidence": 0.9998432397842407,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-27",
+      "start_char": 2515,
+      "end_char": 2525,
+      "confidence": 0.9999942183494568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adam Pierce",
+      "start_char": 2541,
+      "end_char": 2552,
+      "confidence": 0.9998884201049805,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-02",
+      "start_char": 2586,
+      "end_char": 2596,
+      "confidence": 0.9999947547912598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adam Pierce",
+      "start_char": 2609,
+      "end_char": 2620,
+      "confidence": 0.9998806118965149,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-14",
+      "start_char": 2654,
+      "end_char": 2664,
+      "confidence": 0.9999942183494568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 2679,
+      "end_char": 2693,
+      "confidence": 0.9998641014099121,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-15",
+      "start_char": 2726,
+      "end_char": 2736,
+      "confidence": 0.9999940991401672,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 2751,
+      "end_char": 2762,
+      "confidence": 0.999855101108551,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-21",
+      "start_char": 2797,
+      "end_char": 2807,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 2820,
+      "end_char": 2834,
+      "confidence": 0.9998377561569214,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-24",
+      "start_char": 2868,
+      "end_char": 2878,
+      "confidence": 0.999993622303009,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 2892,
+      "end_char": 2903,
+      "confidence": 0.999868631362915,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 2937,
+      "end_char": 2947,
+      "confidence": 0.9999935626983643,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 2961,
+      "end_char": 2974,
+      "confidence": 0.9999060034751892,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-27",
+      "start_char": 3007,
+      "end_char": 3017,
+      "confidence": 0.9999909996986389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 3030,
+      "end_char": 3044,
+      "confidence": 0.9999116659164429,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 3078,
+      "end_char": 3088,
+      "confidence": 0.9999906420707703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 3104,
+      "end_char": 3117,
+      "confidence": 0.9999224543571472,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-07",
+      "start_char": 3151,
+      "end_char": 3161,
+      "confidence": 0.9999931454658508,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 3177,
+      "end_char": 3191,
+      "confidence": 0.9999117255210876,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-02",
+      "start_char": 3224,
+      "end_char": 3234,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Russell",
+      "start_char": 3243,
+      "end_char": 3256,
+      "confidence": 0.9998987913131714,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 3289,
+      "end_char": 3299,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Love",
+      "start_char": 3315,
+      "end_char": 3326,
+      "confidence": 0.9998918175697327,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-27",
+      "start_char": 3361,
+      "end_char": 3371,
+      "confidence": 0.9999933838844299,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 3383,
+      "end_char": 3397,
+      "confidence": 0.9998719692230225,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-16",
+      "start_char": 3431,
+      "end_char": 3441,
+      "confidence": 0.9999738931655884,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Dana Williams",
+      "start_char": 3457,
+      "end_char": 3470,
+      "confidence": 0.9999082088470459,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-05",
+      "start_char": 3503,
+      "end_char": 3513,
+      "confidence": 0.9999805688858032,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 3522,
+      "end_char": 3536,
+      "confidence": 0.9998793005943298,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-19",
+      "start_char": 3570,
+      "end_char": 3580,
+      "confidence": 0.999973475933075,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Townsend",
+      "start_char": 3592,
+      "end_char": 3606,
+      "confidence": 0.9997199773788452,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 393,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3640,
+  "error": null,
+  "raw_response": {}
+}

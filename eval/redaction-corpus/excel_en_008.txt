@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-27
+Account Holder: Brandon Flynn
+Account Number: 2216878
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-11-07	E-transfer	Gregory Lynch	15,158.08		58,250.34	TXN-714483
+2025-08-20	Direct deposit	John Jenkins		39,612.94	97,863.28	TXN-867926
+2026-01-26	Vendor payment	Tyler Aguilar	48,440.27		49,423.01	TXN-432695
+2025-05-16	E-transfer	Patrick Vega	33,310.03		16,112.98	TXN-925220
+2026-04-27	Service fee	John Jenkins	34,456.07		-18,343.09	TXN-496764
+2026-03-21	Direct deposit	John Jenkins	35,130.22		-53,473.31	TXN-864234
+2025-11-09	Payroll	Gregory Lynch		48,262.68	-5,210.63	TXN-992083
+2026-04-27	Wire transfer	John Jenkins	40,459.47		-45,670.10	TXN-731650
+2025-09-01	Payroll	John Jenkins		46,840.72	1,170.62	TXN-770718
+2026-01-31	Direct deposit	Erin White	17,405.83		-16,235.20	TXN-881549
+2025-12-11	Bill payment	John Jenkins		4,527.43	-11,707.78	TXN-767090
+2025-07-13	E-transfer	Tyler Aguilar		16,853.90	5,146.12	TXN-770147
+2025-06-10	Wire transfer	Erin White	3,482.96		1,663.16	TXN-319869
+2025-10-31	Bill payment	Jesse Little		2,502.56	4,165.72	TXN-213282
+2025-09-24	Vendor payment	Tyler Aguilar		44,239.14	48,404.87	TXN-540038
+2025-12-27	Vendor payment	Gregory Lynch		5,161.29	53,566.15	TXN-468292
+2025-09-06	Vendor payment	Jesse Little		34,389.30	87,955.45	TXN-706135
+2026-01-16	Direct deposit	Gregory Lynch		1,767.30	89,722.75	TXN-177289
+2025-10-24	Wire transfer	Erin White		3,802.60	93,525.35	TXN-373812
+2026-02-05	Direct deposit	Gregory Lynch		27,397.61	120,922.96	TXN-268720
+2025-08-18	Wire transfer	Erin White		44,671.99	165,594.95	TXN-722886
+2025-11-06	E-transfer	Michael Jordan		8,333.36	173,928.31	TXN-552275
+2026-04-06	Vendor payment	John Jenkins	10,356.97		163,571.34	TXN-156157
+2025-09-07	Direct deposit	Gregory Lynch		46,286.12	209,857.46	TXN-831063
+2025-07-29	Payroll	Erin White	11,953.66		197,903.80	TXN-792687
+2025-10-09	Wire transfer	Gregory Lynch		24,598.32	222,502.12	TXN-699544
+2026-04-09	Wire transfer	Erin White	14,798.02		207,704.10	TXN-104000
+2025-11-16	E-transfer	Tyler Aguilar	4,939.65		202,764.46	TXN-729371
+2025-06-23	Direct deposit	John Jenkins	4,188.61		198,575.85	TXN-769191
+2025-08-13	Service fee	Michael Jordan		23,600.13	222,175.97	TXN-423331
+2025-10-08	E-transfer	Erin White		19,437.60	241,613.58	TXN-195563
+2025-12-21	Bill payment	Gregory Lynch	2,326.38		239,287.19	TXN-487345
+2025-09-29	Vendor payment	Gregory Lynch	13,501.24		225,785.95	TXN-376195
+2025-12-22	Wire transfer	John Jenkins		4,925.46	230,711.41	TXN-888775
+2025-09-04	E-transfer	Erin White		48,538.21	279,249.62	TXN-947438
+2026-02-08	Payroll	John Jenkins	19,416.59		259,833.02	TXN-680493
+2025-09-04	Payroll	Gregory Lynch		46,824.44	306,657.46	TXN-661527
+2025-05-21	Payroll	John Jenkins	19,800.74		286,856.72	TXN-599397
+2026-03-31	Service fee	Tyler Aguilar		45,032.71	331,889.43	TXN-136415
+2026-01-23	Service fee	Patrick Vega		7,457.64	339,347.07	TXN-810446
+2025-10-13	Service fee	Gregory Lynch		8,441.52	347,788.59	TXN-281276
+2025-08-27	Direct deposit	Jesse Little	21,226.41		326,562.18	TXN-302087
+2025-05-16	E-transfer	Gregory Lynch		31,398.59	357,960.77	TXN-311727
+2025-12-18	Service fee	Patrick Vega	36,382.44		321,578.33	TXN-370413
+2026-04-13	Service fee	Michael Jordan	19,928.01		301,650.31	TXN-191254
+2026-02-03	Bill payment	Jesse Little		45,866.38	347,516.69	TXN-389617
+2026-03-11	Wire transfer	Jesse Little		26,175.84	373,692.54	TXN-834435
+2026-02-26	Vendor payment	Michael Jordan	28,373.04		345,319.50	TXN-534574
+2025-06-01	Payroll	Jesse Little		28,177.92	373,497.42	TXN-205071
+2026-05-01	Wire transfer	Jesse Little		44,018.78	417,516.20	TXN-399990

@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-01-15
+Reference : VIR-802855
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Geneviève Lavoie
+Numero de compte : 7880270
+Succursale : Sherbrooke
+
+INFORMATIONS DU DESTINATAIRE
+Nom : François Lévesque
+Numero de compte : 8565450
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 354,840.70 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Raphaël Bérubé
+NAS (pour verification) : 243807013
+Courriel : raphael.berube@acmecorp.ca
+Telephone : (819) 551-6542
+Code postal : J6B 0L1
+
+Signature : ____________________
+Date : 2026-04-25

@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-01-04
+Reference : VIR-531256
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Étienne Pelletier
+Numero de compte : 7561407
+Succursale : Saguenay
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Désiré Beaulieu
+Numero de compte : 3938131
+Institution : Scotiabank
+
+DETAILS DU VIREMENT
+Montant : 349,323.95 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Amélie Ménard
+NAS (pour verification) : 432967628
+Courriel : amelie.menard@synthco.com
+Telephone : (647) 602-0715
+Code postal : K2L 8M1
+
+Signature : ____________________
+Date : 2026-04-09

@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_006",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999836683273315,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Wilson",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 0.9998869895935059,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7649508",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.9999010562896729,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-15",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.9999841451644897,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 182,
+      "end_char": 194,
+      "confidence": 0.9997661709785461,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-09",
+      "start_char": 228,
+      "end_char": 238,
+      "confidence": 0.9999896287918091,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 253,
+      "end_char": 265,
+      "confidence": 0.9997546076774597,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-21",
+      "start_char": 298,
+      "end_char": 308,
+      "confidence": 0.999988317489624,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 317,
+      "end_char": 331,
+      "confidence": 0.9995642304420471,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-21",
+      "start_char": 364,
+      "end_char": 374,
+      "confidence": 0.9999885559082031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyrone Moran",
+      "start_char": 387,
+      "end_char": 399,
+      "confidence": 0.9998931884765625,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 432,
+      "end_char": 442,
+      "confidence": 0.9999870657920837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Arnold",
+      "start_char": 458,
+      "end_char": 469,
+      "confidence": 0.9998664855957031,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-14",
+      "start_char": 501,
+      "end_char": 511,
+      "confidence": 0.9999875426292419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 525,
+      "end_char": 535,
+      "confidence": 0.9997255206108093,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-26",
+      "start_char": 568,
+      "end_char": 578,
+      "confidence": 0.9999889135360718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 591,
+      "end_char": 604,
+      "confidence": 0.9998476505279541,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-24",
+      "start_char": 637,
+      "end_char": 647,
+      "confidence": 0.9999868869781494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Weeks",
+      "start_char": 662,
+      "end_char": 675,
+      "confidence": 0.9998558759689331,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-27",
+      "start_char": 708,
+      "end_char": 718,
+      "confidence": 0.9999843835830688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 734,
+      "end_char": 744,
+      "confidence": 0.9998559355735779,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-13",
+      "start_char": 774,
+      "end_char": 784,
+      "confidence": 0.9999860525131226,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Weeks",
+      "start_char": 800,
+      "end_char": 813,
+      "confidence": 0.999843955039978,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-30",
+      "start_char": 847,
+      "end_char": 857,
+      "confidence": 0.9999854564666748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 872,
+      "end_char": 884,
+      "confidence": 0.9998303055763245,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-18",
+      "start_char": 918,
+      "end_char": 928,
+      "confidence": 0.9999770522117615,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Arnold",
+      "start_char": 942,
+      "end_char": 953,
+      "confidence": 0.9998674988746643,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-05",
+      "start_char": 987,
+      "end_char": 997,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyrone Moran",
+      "start_char": 1009,
+      "end_char": 1021,
+      "confidence": 0.9998645782470703,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-03",
+      "start_char": 1054,
+      "end_char": 1064,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 1073,
+      "end_char": 1083,
+      "confidence": 0.9998348951339722,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-26",
+      "start_char": 1115,
+      "end_char": 1125,
+      "confidence": 0.9999911785125732,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 1138,
+      "end_char": 1152,
+      "confidence": 0.9998384714126587,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-24",
+      "start_char": 1186,
+      "end_char": 1196,
+      "confidence": 0.999991238117218,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 1212,
+      "end_char": 1226,
+      "confidence": 0.9998746514320374,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-24",
+      "start_char": 1259,
+      "end_char": 1269,
+      "confidence": 0.9999856948852539,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 1282,
+      "end_char": 1294,
+      "confidence": 0.9997766613960266,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-19",
+      "start_char": 1328,
+      "end_char": 1338,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Weeks",
+      "start_char": 1350,
+      "end_char": 1363,
+      "confidence": 0.9998887181282043,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 1393,
+      "end_char": 1403,
+      "confidence": 0.9999869465827942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 1417,
+      "end_char": 1427,
+      "confidence": 0.9997708201408386,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-09",
+      "start_char": 1461,
+      "end_char": 1471,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 1487,
+      "end_char": 1497,
+      "confidence": 0.999824583530426,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-02",
+      "start_char": 1530,
+      "end_char": 1540,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyrone Moran",
+      "start_char": 1553,
+      "end_char": 1565,
+      "confidence": 0.9999170899391174,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-08",
+      "start_char": 1595,
+      "end_char": 1605,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyrone Moran",
+      "start_char": 1621,
+      "end_char": 1633,
+      "confidence": 0.9999408721923828,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-17",
+      "start_char": 1666,
+      "end_char": 1676,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 1690,
+      "end_char": 1704,
+      "confidence": 0.9998877644538879,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-24",
+      "start_char": 1737,
+      "end_char": 1747,
+      "confidence": 0.999988853931427,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Arnold",
+      "start_char": 1759,
+      "end_char": 1770,
+      "confidence": 0.9998862147331238,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-19",
+      "start_char": 1803,
+      "end_char": 1813,
+      "confidence": 0.9999901652336121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 1829,
+      "end_char": 1839,
+      "confidence": 0.9998778104782104,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-13",
+      "start_char": 1872,
+      "end_char": 1882,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 1898,
+      "end_char": 1911,
+      "confidence": 0.9998683929443359,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 1944,
+      "end_char": 1954,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 1966,
+      "end_char": 1979,
+      "confidence": 0.9998663067817688,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-10",
+      "start_char": 2012,
+      "end_char": 2022,
+      "confidence": 0.9999916553497314,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 2036,
+      "end_char": 2050,
+      "confidence": 0.9996126294136047,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-06",
+      "start_char": 2084,
+      "end_char": 2094,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 2109,
+      "end_char": 2121,
+      "confidence": 0.9993723630905151,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-05",
+      "start_char": 2154,
+      "end_char": 2164,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Weeks",
+      "start_char": 2173,
+      "end_char": 2186,
+      "confidence": 0.9996554851531982,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 2220,
+      "end_char": 2230,
+      "confidence": 0.9999909996986389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 2242,
+      "end_char": 2254,
+      "confidence": 0.9995193481445312,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-14",
+      "start_char": 2286,
+      "end_char": 2296,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 2311,
+      "end_char": 2323,
+      "confidence": 0.9992272853851318,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 2357,
+      "end_char": 2367,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 2380,
+      "end_char": 2393,
+      "confidence": 0.999426007270813,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-25",
+      "start_char": 2427,
+      "end_char": 2437,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 2449,
+      "end_char": 2462,
+      "confidence": 0.9993699193000793,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-07",
+      "start_char": 2495,
+      "end_char": 2505,
+      "confidence": 0.9999918341636658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 2520,
+      "end_char": 2530,
+      "confidence": 0.9997724890708923,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-13",
+      "start_char": 2563,
+      "end_char": 2573,
+      "confidence": 0.9999909400939941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 2587,
+      "end_char": 2601,
+      "confidence": 0.9998412728309631,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 2635,
+      "end_char": 2645,
+      "confidence": 0.9999908208847046,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 2654,
+      "end_char": 2664,
+      "confidence": 0.9995958209037781,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-08",
+      "start_char": 2697,
+      "end_char": 2707,
+      "confidence": 0.9999901652336121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 2721,
+      "end_char": 2733,
+      "confidence": 0.999609112739563,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-11",
+      "start_char": 2767,
+      "end_char": 2777,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Suarez",
+      "start_char": 2789,
+      "end_char": 2803,
+      "confidence": 0.9998123645782471,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-10",
+      "start_char": 2836,
+      "end_char": 2846,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 2861,
+      "end_char": 2874,
+      "confidence": 0.999777615070343,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-10",
+      "start_char": 2907,
+      "end_char": 2917,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 2933,
+      "end_char": 2945,
+      "confidence": 0.9916278123855591,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-19",
+      "start_char": 2979,
+      "end_char": 2989,
+      "confidence": 0.9999895095825195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 2998,
+      "end_char": 3011,
+      "confidence": 0.9991803765296936,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-29",
+      "start_char": 3045,
+      "end_char": 3055,
+      "confidence": 0.9999903440475464,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 3069,
+      "end_char": 3081,
+      "confidence": 0.9990676045417786,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-13",
+      "start_char": 3115,
+      "end_char": 3125,
+      "confidence": 0.9999884366989136,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyrone Moran",
+      "start_char": 3138,
+      "end_char": 3150,
+      "confidence": 0.9996667504310608,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-26",
+      "start_char": 3184,
+      "end_char": 3194,
+      "confidence": 0.9999879598617554,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Hill",
+      "start_char": 3209,
+      "end_char": 3221,
+      "confidence": 0.9942917823791504,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-12",
+      "start_char": 3255,
+      "end_char": 3265,
+      "confidence": 0.9999914765357971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyrone Moran",
+      "start_char": 3281,
+      "end_char": 3293,
+      "confidence": 0.9996439814567566,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-10",
+      "start_char": 3327,
+      "end_char": 3337,
+      "confidence": 0.9999861717224121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 3351,
+      "end_char": 3361,
+      "confidence": 0.999164879322052,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 3392,
+      "end_char": 3402,
+      "confidence": 0.9999758005142212,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mary Baird",
+      "start_char": 3418,
+      "end_char": 3428,
+      "confidence": 0.9998252987861633,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-24",
+      "start_char": 3462,
+      "end_char": 3472,
+      "confidence": 0.9999071955680847,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Arnold",
+      "start_char": 3488,
+      "end_char": 3499,
+      "confidence": 0.9998440742492676,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-08",
+      "start_char": 3533,
+      "end_char": 3543,
+      "confidence": 0.9999622106552124,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Hill",
+      "start_char": 3556,
+      "end_char": 3569,
+      "confidence": 0.999539315700531,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 397,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3603,
+  "error": null,
+  "raw_response": {}
+}

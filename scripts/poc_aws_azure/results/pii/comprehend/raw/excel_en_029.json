@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_029",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999816417694092,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Payne",
+      "start_char": 58,
+      "end_char": 70,
+      "confidence": 0.9998152852058411,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3778554",
+      "start_char": 87,
+      "end_char": 94,
+      "confidence": 0.9999575614929199,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-13",
+      "start_char": 158,
+      "end_char": 168,
+      "confidence": 0.9999848008155823,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 181,
+      "end_char": 195,
+      "confidence": 0.9998311996459961,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-15",
+      "start_char": 228,
+      "end_char": 238,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 253,
+      "end_char": 263,
+      "confidence": 0.999872088432312,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-25",
+      "start_char": 297,
+      "end_char": 307,
+      "confidence": 0.9999847412109375,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 316,
+      "end_char": 326,
+      "confidence": 0.9997807741165161,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-16",
+      "start_char": 360,
+      "end_char": 370,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 385,
+      "end_char": 396,
+      "confidence": 0.9998924136161804,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 429,
+      "end_char": 439,
+      "confidence": 0.9999900460243225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 454,
+      "end_char": 468,
+      "confidence": 0.9998357892036438,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 502,
+      "end_char": 512,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 525,
+      "end_char": 535,
+      "confidence": 0.999841570854187,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-17",
+      "start_char": 568,
+      "end_char": 578,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 592,
+      "end_char": 607,
+      "confidence": 0.999884843826294,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-17",
+      "start_char": 640,
+      "end_char": 650,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 665,
+      "end_char": 679,
+      "confidence": 0.9998214840888977,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-27",
+      "start_char": 711,
+      "end_char": 721,
+      "confidence": 0.9999939799308777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 730,
+      "end_char": 744,
+      "confidence": 0.9997413158416748,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 776,
+      "end_char": 786,
+      "confidence": 0.999993085861206,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 801,
+      "end_char": 811,
+      "confidence": 0.9997848868370056,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-29",
+      "start_char": 843,
+      "end_char": 853,
+      "confidence": 0.9999932050704956,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 866,
+      "end_char": 877,
+      "confidence": 0.9998542666435242,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 910,
+      "end_char": 920,
+      "confidence": 0.9999927878379822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 936,
+      "end_char": 947,
+      "confidence": 0.9998239278793335,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-30",
+      "start_char": 979,
+      "end_char": 989,
+      "confidence": 0.9999933242797852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 1001,
+      "end_char": 1012,
+      "confidence": 0.9998307228088379,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-09",
+      "start_char": 1045,
+      "end_char": 1055,
+      "confidence": 0.999994158744812,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 1071,
+      "end_char": 1085,
+      "confidence": 0.9999039173126221,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-07",
+      "start_char": 1119,
+      "end_char": 1129,
+      "confidence": 0.9999933242797852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 1144,
+      "end_char": 1155,
+      "confidence": 0.9999057650566101,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 1189,
+      "end_char": 1199,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 1215,
+      "end_char": 1230,
+      "confidence": 0.9999289512634277,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-13",
+      "start_char": 1264,
+      "end_char": 1274,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 1289,
+      "end_char": 1303,
+      "confidence": 0.9998462200164795,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-26",
+      "start_char": 1337,
+      "end_char": 1347,
+      "confidence": 0.9999929070472717,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 1362,
+      "end_char": 1377,
+      "confidence": 0.9999157190322876,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-24",
+      "start_char": 1411,
+      "end_char": 1421,
+      "confidence": 0.9999931454658508,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 1436,
+      "end_char": 1450,
+      "confidence": 0.9998704791069031,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-09",
+      "start_char": 1484,
+      "end_char": 1494,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 1510,
+      "end_char": 1520,
+      "confidence": 0.9999193549156189,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-21",
+      "start_char": 1554,
+      "end_char": 1564,
+      "confidence": 0.9999884366989136,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 1580,
+      "end_char": 1595,
+      "confidence": 0.9999006390571594,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-08",
+      "start_char": 1628,
+      "end_char": 1638,
+      "confidence": 0.9999848008155823,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 1651,
+      "end_char": 1661,
+      "confidence": 0.9998679757118225,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-02",
+      "start_char": 1692,
+      "end_char": 1702,
+      "confidence": 0.9999886751174927,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 1718,
+      "end_char": 1728,
+      "confidence": 0.9998455047607422,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-29",
+      "start_char": 1761,
+      "end_char": 1771,
+      "confidence": 0.9999911785125732,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 1786,
+      "end_char": 1797,
+      "confidence": 0.9998800754547119,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 1831,
+      "end_char": 1841,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 1855,
+      "end_char": 1865,
+      "confidence": 0.9998695850372314,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-14",
+      "start_char": 1899,
+      "end_char": 1909,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 1923,
+      "end_char": 1933,
+      "confidence": 0.9996902942657471,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-12",
+      "start_char": 1967,
+      "end_char": 1977,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 1991,
+      "end_char": 2001,
+      "confidence": 0.9998800754547119,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-24",
+      "start_char": 2035,
+      "end_char": 2045,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 2061,
+      "end_char": 2071,
+      "confidence": 0.9999319314956665,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 2104,
+      "end_char": 2114,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 2126,
+      "end_char": 2137,
+      "confidence": 0.999929666519165,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 2171,
+      "end_char": 2181,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 2195,
+      "end_char": 2210,
+      "confidence": 0.9999184608459473,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-22",
+      "start_char": 2243,
+      "end_char": 2253,
+      "confidence": 0.9999921917915344,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 2267,
+      "end_char": 2281,
+      "confidence": 0.9998946189880371,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-20",
+      "start_char": 2315,
+      "end_char": 2325,
+      "confidence": 0.9999909400939941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 2341,
+      "end_char": 2355,
+      "confidence": 0.9999040961265564,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-27",
+      "start_char": 2389,
+      "end_char": 2399,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 2415,
+      "end_char": 2430,
+      "confidence": 0.9999235272407532,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-15",
+      "start_char": 2464,
+      "end_char": 2474,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 2490,
+      "end_char": 2501,
+      "confidence": 0.9999051094055176,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-04",
+      "start_char": 2536,
+      "end_char": 2546,
+      "confidence": 0.9999929070472717,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 2558,
+      "end_char": 2568,
+      "confidence": 0.999901294708252,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-30",
+      "start_char": 2602,
+      "end_char": 2612,
+      "confidence": 0.9999932050704956,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 2628,
+      "end_char": 2643,
+      "confidence": 0.9999049305915833,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-30",
+      "start_char": 2678,
+      "end_char": 2688,
+      "confidence": 0.9999939799308777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 2700,
+      "end_char": 2711,
+      "confidence": 0.999856173992157,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-08",
+      "start_char": 2746,
+      "end_char": 2756,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Roberts",
+      "start_char": 2768,
+      "end_char": 2783,
+      "confidence": 0.9999021887779236,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-26",
+      "start_char": 2818,
+      "end_char": 2828,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 2844,
+      "end_char": 2854,
+      "confidence": 0.9998795986175537,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 2889,
+      "end_char": 2899,
+      "confidence": 0.9999935030937195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 2912,
+      "end_char": 2923,
+      "confidence": 0.9998688101768494,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-17",
+      "start_char": 2958,
+      "end_char": 2968,
+      "confidence": 0.9999915957450867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 2984,
+      "end_char": 2995,
+      "confidence": 0.9998895525932312,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-07",
+      "start_char": 3030,
+      "end_char": 3040,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 3052,
+      "end_char": 3066,
+      "confidence": 0.9998019337654114,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-26",
+      "start_char": 3101,
+      "end_char": 3111,
+      "confidence": 0.9999853372573853,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 3125,
+      "end_char": 3135,
+      "confidence": 0.9998692870140076,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-05",
+      "start_char": 3170,
+      "end_char": 3180,
+      "confidence": 0.9999897480010986,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 3195,
+      "end_char": 3209,
+      "confidence": 0.9998056888580322,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-24",
+      "start_char": 3244,
+      "end_char": 3254,
+      "confidence": 0.999991238117218,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 3270,
+      "end_char": 3281,
+      "confidence": 0.9998701214790344,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-07",
+      "start_char": 3316,
+      "end_char": 3326,
+      "confidence": 0.9999900460243225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Dudley",
+      "start_char": 3341,
+      "end_char": 3355,
+      "confidence": 0.9998550415039062,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-24",
+      "start_char": 3389,
+      "end_char": 3399,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 3415,
+      "end_char": 3425,
+      "confidence": 0.9997752904891968,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-26",
+      "start_char": 3460,
+      "end_char": 3470,
+      "confidence": 0.9999679327011108,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jared Bush",
+      "start_char": 3485,
+      "end_char": 3495,
+      "confidence": 0.9993771910667419,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-13",
+      "start_char": 3529,
+      "end_char": 3539,
+      "confidence": 0.9999369382858276,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Grant",
+      "start_char": 3548,
+      "end_char": 3558,
+      "confidence": 0.9998437762260437,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-15",
+      "start_char": 3593,
+      "end_char": 3603,
+      "confidence": 0.9999574422836304,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chelsea Lee",
+      "start_char": 3616,
+      "end_char": 3627,
+      "confidence": 0.9998515844345093,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 410,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3661,
+  "error": null,
+  "raw_response": {}
+}

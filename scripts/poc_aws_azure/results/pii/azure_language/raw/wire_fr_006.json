@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_006",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-15",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Geneviève Lavoie",
+      "start_char": 155,
+      "end_char": 171,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7880270",
+      "start_char": 191,
+      "end_char": 198,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 240,
+      "end_char": 252,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "François Lévesque",
+      "start_char": 259,
+      "end_char": 276,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8565450",
+      "start_char": 296,
+      "end_char": 303,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 318,
+      "end_char": 334,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raphaël Bérubé",
+      "start_char": 447,
+      "end_char": 461,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "243807013",
+      "start_char": 488,
+      "end_char": 497,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "raphael.berube@acmecorp.ca",
+      "start_char": 509,
+      "end_char": 535,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 551-6542",
+      "start_char": 548,
+      "end_char": 562,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "J6B 0L1",
+      "start_char": 577,
+      "end_char": 584,
+      "confidence": 0.86,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "J6B 0L1",
+      "start_char": 577,
+      "end_char": 584,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-25",
+      "start_char": 626,
+      "end_char": 636,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 208,
+  "cost_estimate_usd": 0.001,
+  "char_count": 637,
+  "error": null,
+  "raw_response": {}
+}

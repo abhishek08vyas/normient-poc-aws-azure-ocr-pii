@@ -1,0 +1,5 @@
+Transfer Record
+Client: JJeffery Jones
+Account: [6556840]
+Wire Ref: WT-308658
+Amount: $16,870.94

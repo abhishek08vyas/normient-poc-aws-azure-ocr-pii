@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_050",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-11",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Ramirez",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2232969",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Darlene Ross",
+      "start_char": 225,
+      "end_char": 237,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2355439",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 275,
+      "end_char": 290,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tina Herrera",
+      "start_char": 384,
+      "end_char": 396,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "392124996",
+      "start_char": 421,
+      "end_char": 430,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "tina.herrera@synthco.com",
+      "start_char": 438,
+      "end_char": 462,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 590-9787",
+      "start_char": 470,
+      "end_char": 484,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X4T 8Z6",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X4T 8Z6",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-22",
+      "start_char": 545,
+      "end_char": 555,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 129,
+  "cost_estimate_usd": 0.001,
+  "char_count": 556,
+  "error": null,
+  "raw_response": {}
+}

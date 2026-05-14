@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_029",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Heidi Turner",
+      "start_char": 37,
+      "end_char": 49,
+      "confidence": 0.9998998045921326,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8467726",
+      "start_char": 59,
+      "end_char": 66,
+      "confidence": 0.9988279938697815,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-13",
+      "start_char": 119,
+      "end_char": 129,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "02:06:27",
+      "start_char": 130,
+      "end_char": 138,
+      "confidence": 0.9999727606773376,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "heidi.turner@example.com",
+      "start_char": 154,
+      "end_char": 178,
+      "confidence": 0.9999737739562988,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 257,
+      "end_char": 267,
+      "confidence": 0.9999927878379822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 319,
+      "end_char": 329,
+      "confidence": 0.9999944567680359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 381,
+      "end_char": 391,
+      "confidence": 0.9999943375587463,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.9999939799308777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-08",
+      "start_char": 505,
+      "end_char": 515,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 229,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 567,
+  "error": null,
+  "raw_response": {}
+}

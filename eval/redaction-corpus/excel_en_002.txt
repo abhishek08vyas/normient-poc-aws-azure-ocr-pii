@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-13
+Account Holder: Jennifer West
+Account Number: 5993143
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-07-26	E-transfer	Jacqueline Nelson	17,505.28		55,935.81	TXN-612756
+2025-09-12	Service fee	Jacqueline Nelson	28,716.49		27,219.31	TXN-386741
+2025-06-28	Payroll	Alyssa Coleman		47,734.98	74,954.30	TXN-513697
+2026-02-25	Service fee	Heather Torres	47,770.15		27,184.14	TXN-404561
+2025-12-07	Wire transfer	Bonnie Kennedy		37,392.19	64,576.33	TXN-563864
+2026-03-05	Direct deposit	Heather Torres		46,657.89	111,234.23	TXN-968170
+2026-02-05	E-transfer	Bonnie Kennedy	37,070.46		74,163.77	TXN-243941
+2025-07-23	Direct deposit	Heather Torres		26,598.97	100,762.74	TXN-153231
+2025-07-26	E-transfer	Heather Torres	16,581.65		84,181.09	TXN-155040
+2025-08-05	Vendor payment	Christopher Walker		358.55	84,539.64	TXN-814281
+2026-02-23	Payroll	Heather Torres		44,044.31	128,583.95	TXN-526673
+2025-11-17	Vendor payment	Alyssa Coleman	48,199.31		80,384.64	TXN-782139
+2025-08-28	Bill payment	Bonnie Kennedy	38,459.38		41,925.26	TXN-777273
+2026-02-18	E-transfer	Julie Rivera		36,183.57	78,108.83	TXN-343500
+2025-12-27	Wire transfer	Heather Torres		8,871.86	86,980.69	TXN-538184
+2026-03-04	Wire transfer	John Martinez		9,396.95	96,377.64	TXN-516278
+2025-12-02	E-transfer	John Martinez		562.43	96,940.07	TXN-403528
+2025-12-30	Payroll	Julie Rivera		16,818.60	113,758.67	TXN-212512
+2025-08-30	Vendor payment	Jacqueline Nelson		44,474.07	158,232.74	TXN-669691
+2025-06-21	Direct deposit	John Martinez	9,721.29		148,511.46	TXN-628705
+2026-04-01	Wire transfer	Bonnie Kennedy		32,449.44	180,960.89	TXN-270387
+2025-07-27	E-transfer	Heather Torres		39,559.31	220,520.20	TXN-114768
+2025-09-05	Payroll	Jacqueline Nelson	30,586.63		189,933.57	TXN-894068
+2025-08-09	E-transfer	Alyssa Coleman	16,463.54		173,470.03	TXN-967161
+2025-09-30	Vendor payment	Jacqueline Nelson	7,116.53		166,353.50	TXN-200018
+2025-07-21	Bill payment	Heather Torres	11,852.51		154,500.99	TXN-107161
+2025-09-07	Service fee	Bonnie Kennedy	36,171.84		118,329.15	TXN-445637
+2025-05-18	Wire transfer	Bonnie Kennedy	11,891.50		106,437.65	TXN-785436
+2026-02-11	E-transfer	Christopher Walker	20,330.29		86,107.36	TXN-588002
+2025-12-06	Payroll	Jacqueline Nelson	5,959.05		80,148.32	TXN-907236
+2025-07-01	Bill payment	Bonnie Kennedy	47,872.29		32,276.03	TXN-744481
+2025-08-27	Vendor payment	Heather Torres		30,326.37	62,602.40	TXN-577079
+2025-05-30	Vendor payment	Jacqueline Nelson		37,891.79	100,494.19	TXN-675914
+2025-06-03	Service fee	Jacqueline Nelson	12,448.52		88,045.67	TXN-965708
+2025-12-13	Service fee	Julie Rivera	22,392.72		65,652.94	TXN-925618
+2025-09-03	E-transfer	Bonnie Kennedy		5,699.22	71,352.16	TXN-181896
+2026-02-07	Service fee	Julie Rivera	26,879.34		44,472.82	TXN-630041
+2025-07-01	Direct deposit	Bonnie Kennedy		5,900.38	50,373.19	TXN-995993
+2026-01-15	Direct deposit	Jacqueline Nelson	44,954.58		5,418.62	TXN-711474
+2026-04-15	Vendor payment	John Martinez	25,711.07		-20,292.45	TXN-158338
+2026-03-01	Vendor payment	Julie Rivera		33,671.11	13,378.66	TXN-160541
+2025-11-19	Bill payment	Jacqueline Nelson	40,841.02		-27,462.36	TXN-122827
+2025-06-21	E-transfer	Heather Torres	21,242.50		-48,704.86	TXN-706403
+2026-04-16	E-transfer	Christopher Walker		46,735.68	-1,969.18	TXN-667451
+2025-05-17	Wire transfer	Alyssa Coleman	9,081.07		-11,050.24	TXN-133276
+2025-12-21	Direct deposit	John Martinez		32,329.45	21,279.21	TXN-772687
+2025-08-31	Vendor payment	Bonnie Kennedy	45,864.04		-24,584.83	TXN-501058
+2025-11-11	Vendor payment	Alyssa Coleman		33,123.45	8,538.61	TXN-184148
+2025-11-14	Payroll	Heather Torres		6,019.80	14,558.41	TXN-785280
+2025-10-31	Payroll	Alyssa Coleman	48,938.35		-34,379.94	TXN-654531

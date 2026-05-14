@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_030",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Ross Wood",
+      "start_char": 37,
+      "end_char": 46,
+      "confidence": 0.9999485015869141,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3329967",
+      "start_char": 56,
+      "end_char": 63,
+      "confidence": 0.9997816681861877,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-08",
+      "start_char": 114,
+      "end_char": 124,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "12:03:52",
+      "start_char": 125,
+      "end_char": 133,
+      "confidence": 0.9966620802879333,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "ross.wood@example.ca",
+      "start_char": 149,
+      "end_char": 169,
+      "confidence": 0.9999456405639648,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 248,
+      "end_char": 258,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 308,
+      "end_char": 318,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 368,
+      "end_char": 378,
+      "confidence": 0.9999944567680359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 428,
+      "end_char": 438,
+      "confidence": 0.9999944567680359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 488,
+      "end_char": 498,
+      "confidence": 0.9999949932098389,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 238,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 549,
+  "error": null,
+  "raw_response": {}
+}

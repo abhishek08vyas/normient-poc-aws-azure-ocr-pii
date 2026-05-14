@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-09-19
+Reference : VIR-899897
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Émilie Bouchard
+Numero de compte : 8741026
+Succursale : Levis
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Raphaël Desjardins
+Numero de compte : 6715319
+Institution : Desjardins
+
+DETAILS DU VIREMENT
+Montant : 113,519.83 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Gabrielle Beaulieu
+NAS (pour verification) : 715366373
+Courriel : gabrielle.beaulieu@acmecorp.ca
+Telephone : (416) 583-2276
+Code postal : G4A 7P5
+
+Signature : ____________________
+Date : 2026-03-15

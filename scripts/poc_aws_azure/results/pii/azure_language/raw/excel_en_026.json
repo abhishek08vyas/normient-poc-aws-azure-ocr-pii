@@ -1,0 +1,1051 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_026",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-15",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.64,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kenneth Jones",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "9822092",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "9822092",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-06",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 185,
+      "end_char": 195,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "224269\n2025",
+      "start_char": 221,
+      "end_char": 232,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-19",
+      "start_char": 228,
+      "end_char": 238,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 251,
+      "end_char": 263,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "401950\n2025",
+      "start_char": 289,
+      "end_char": 300,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-01",
+      "start_char": 296,
+      "end_char": 306,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 322,
+      "end_char": 333,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-02",
+      "start_char": 366,
+      "end_char": 376,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 388,
+      "end_char": 399,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "538651\n2025",
+      "start_char": 424,
+      "end_char": 435,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-09",
+      "start_char": 431,
+      "end_char": 441,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 456,
+      "end_char": 468,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "374516\n2026",
+      "start_char": 495,
+      "end_char": 506,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-13",
+      "start_char": 502,
+      "end_char": 512,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 528,
+      "end_char": 546,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-06",
+      "start_char": 578,
+      "end_char": 588,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 603,
+      "end_char": 613,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "239675\n2025",
+      "start_char": 639,
+      "end_char": 650,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-22",
+      "start_char": 646,
+      "end_char": 656,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 672,
+      "end_char": 683,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-17",
+      "start_char": 716,
+      "end_char": 726,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 735,
+      "end_char": 747,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-14",
+      "start_char": 779,
+      "end_char": 789,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 803,
+      "end_char": 814,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "593808\n2026",
+      "start_char": 840,
+      "end_char": 851,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-28",
+      "start_char": 847,
+      "end_char": 857,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 869,
+      "end_char": 879,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-14",
+      "start_char": 912,
+      "end_char": 922,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 936,
+      "end_char": 948,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-24",
+      "start_char": 980,
+      "end_char": 990,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 999,
+      "end_char": 1009,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-17",
+      "start_char": 1041,
+      "end_char": 1051,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 1067,
+      "end_char": 1085,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "590822\n2026",
+      "start_char": 1112,
+      "end_char": 1123,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10",
+      "start_char": 1119,
+      "end_char": 1129,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 1138,
+      "end_char": 1150,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "248683\n2025",
+      "start_char": 1177,
+      "end_char": 1188,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-23",
+      "start_char": 1184,
+      "end_char": 1194,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 1210,
+      "end_char": 1220,
+      "confidence": 0.84,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-17",
+      "start_char": 1254,
+      "end_char": 1264,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 1280,
+      "end_char": 1292,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "376002\n2025",
+      "start_char": 1319,
+      "end_char": 1330,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-11",
+      "start_char": 1326,
+      "end_char": 1336,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 1350,
+      "end_char": 1368,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "556943\n2025",
+      "start_char": 1394,
+      "end_char": 1405,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-25",
+      "start_char": 1401,
+      "end_char": 1411,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1427,
+      "end_char": 1442,
+      "confidence": 0.83,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-05",
+      "start_char": 1475,
+      "end_char": 1485,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 1498,
+      "end_char": 1508,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-13",
+      "start_char": 1540,
+      "end_char": 1550,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 1566,
+      "end_char": 1576,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "593090\n2025",
+      "start_char": 1602,
+      "end_char": 1613,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-22",
+      "start_char": 1609,
+      "end_char": 1619,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 1635,
+      "end_char": 1650,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-28",
+      "start_char": 1684,
+      "end_char": 1694,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 1706,
+      "end_char": 1716,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "579995\n2025",
+      "start_char": 1743,
+      "end_char": 1754,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-10",
+      "start_char": 1750,
+      "end_char": 1760,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1773,
+      "end_char": 1788,
+      "confidence": 0.69,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "229660\n2025",
+      "start_char": 1815,
+      "end_char": 1826,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-22",
+      "start_char": 1822,
+      "end_char": 1832,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1846,
+      "end_char": 1861,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-19",
+      "start_char": 1896,
+      "end_char": 1906,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 1920,
+      "end_char": 1931,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-09",
+      "start_char": 1963,
+      "end_char": 1973,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 1986,
+      "end_char": 2001,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "536646\n2025",
+      "start_char": 2028,
+      "end_char": 2039,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-22",
+      "start_char": 2035,
+      "end_char": 2045,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 2061,
+      "end_char": 2076,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "444622\n2025",
+      "start_char": 2104,
+      "end_char": 2115,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-22",
+      "start_char": 2111,
+      "end_char": 2121,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 2133,
+      "end_char": 2148,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "513316\n2025",
+      "start_char": 2176,
+      "end_char": 2187,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-16",
+      "start_char": 2183,
+      "end_char": 2193,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2208,
+      "end_char": 2226,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "261245\n2025",
+      "start_char": 2254,
+      "end_char": 2265,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-12",
+      "start_char": 2261,
+      "end_char": 2271,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 2283,
+      "end_char": 2293,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "576111\n2025",
+      "start_char": 2321,
+      "end_char": 2332,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-25",
+      "start_char": 2328,
+      "end_char": 2338,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Perry",
+      "start_char": 2350,
+      "end_char": 2360,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "445429\n2025",
+      "start_char": 2388,
+      "end_char": 2399,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-06",
+      "start_char": 2395,
+      "end_char": 2405,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2421,
+      "end_char": 2439,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-14",
+      "start_char": 2474,
+      "end_char": 2484,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Hensley",
+      "start_char": 2497,
+      "end_char": 2512,
+      "confidence": 0.72,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "321634\n2025",
+      "start_char": 2539,
+      "end_char": 2550,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-04",
+      "start_char": 2546,
+      "end_char": 2556,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2570,
+      "end_char": 2588,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-25",
+      "start_char": 2621,
+      "end_char": 2631,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 2640,
+      "end_char": 2652,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-27",
+      "start_char": 2685,
+      "end_char": 2695,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 2708,
+      "end_char": 2720,
+      "confidence": 0.84,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-31",
+      "start_char": 2754,
+      "end_char": 2764,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 2780,
+      "end_char": 2792,
+      "confidence": 0.78,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "398776\n2025",
+      "start_char": 2819,
+      "end_char": 2830,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-01",
+      "start_char": 2826,
+      "end_char": 2836,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 2852,
+      "end_char": 2867,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "413048\n2025",
+      "start_char": 2894,
+      "end_char": 2905,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-30",
+      "start_char": 2901,
+      "end_char": 2911,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Ross",
+      "start_char": 2924,
+      "end_char": 2936,
+      "confidence": 0.79,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-21",
+      "start_char": 2970,
+      "end_char": 2980,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Robertson",
+      "start_char": 2995,
+      "end_char": 3013,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-31",
+      "start_char": 3047,
+      "end_char": 3057,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 3073,
+      "end_char": 3083,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "381521\n2026",
+      "start_char": 3110,
+      "end_char": 3121,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-20",
+      "start_char": 3117,
+      "end_char": 3127,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 3140,
+      "end_char": 3152,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-05",
+      "start_char": 3185,
+      "end_char": 3195,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Allen",
+      "start_char": 3207,
+      "end_char": 3219,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-22",
+      "start_char": 3253,
+      "end_char": 3263,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 3279,
+      "end_char": 3290,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-29",
+      "start_char": 3323,
+      "end_char": 3333,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 3349,
+      "end_char": 3364,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "404824\n2025",
+      "start_char": 3390,
+      "end_char": 3401,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-11",
+      "start_char": 3397,
+      "end_char": 3407,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Cole",
+      "start_char": 3420,
+      "end_char": 3430,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "414985\n2025",
+      "start_char": 3456,
+      "end_char": 3467,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-31",
+      "start_char": 3463,
+      "end_char": 3473,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Travis",
+      "start_char": 3487,
+      "end_char": 3498,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-07",
+      "start_char": 3532,
+      "end_char": 3542,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 3551,
+      "end_char": 3566,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-16",
+      "start_char": 3600,
+      "end_char": 3610,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Steven Peterson",
+      "start_char": 3626,
+      "end_char": 3641,
+      "confidence": 1.0,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 2681,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3675,
+  "error": null,
+  "raw_response": {}
+}

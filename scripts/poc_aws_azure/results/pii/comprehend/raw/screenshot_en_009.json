@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_009",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Loretta Potter",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.9999569654464722,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4717362",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.9993269443511963,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 120,
+      "end_char": 130,
+      "confidence": 0.9999935030937195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "00:14:32",
+      "start_char": 131,
+      "end_char": 139,
+      "confidence": 0.9914190769195557,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "loretta.potter@testbank.ca",
+      "start_char": 155,
+      "end_char": 181,
+      "confidence": 0.9998736381530762,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 260,
+      "end_char": 270,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 321,
+      "end_char": 331,
+      "confidence": 0.9999929070472717,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 382,
+      "end_char": 392,
+      "confidence": 0.999993085861206,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.9999932050704956,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 504,
+      "end_char": 514,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 235,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

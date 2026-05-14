@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999465346336365,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jason Hahn",
+      "start_char": 132,
+      "end_char": 142,
+      "confidence": 0.9999237060546875,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9164991",
+      "start_char": 159,
+      "end_char": 166,
+      "confidence": 0.8542261123657227,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Winnipeg, Manitoba",
+      "start_char": 175,
+      "end_char": 193,
+      "confidence": 0.9996785521507263,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nancy Edwards",
+      "start_char": 223,
+      "end_char": 236,
+      "confidence": 0.9998767971992493,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3597059",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.9930740594863892,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Foster",
+      "start_char": 377,
+      "end_char": 389,
+      "confidence": 0.9998453259468079,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "243098050",
+      "start_char": 414,
+      "end_char": 423,
+      "confidence": 0.9612014889717102,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "diana.foster@example.com",
+      "start_char": 431,
+      "end_char": 455,
+      "confidence": 0.9999854564666748,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 798-7811",
+      "start_char": 463,
+      "end_char": 477,
+      "confidence": 0.9999272227287292,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X8H 0W1",
+      "start_char": 491,
+      "end_char": 498,
+      "confidence": 0.9958219528198242,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X8H 0W1",
+      "start_char": 491,
+      "end_char": 498,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-16",
+      "start_char": 538,
+      "end_char": 548,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 230,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 549,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_009",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-14",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.78,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "George Daniel",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5076817",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Frank Gray",
+      "start_char": 225,
+      "end_char": 235,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8935169",
+      "start_char": 252,
+      "end_char": 259,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 273,
+      "end_char": 288,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Veronica Bowman",
+      "start_char": 375,
+      "end_char": 390,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "763116563",
+      "start_char": 415,
+      "end_char": 424,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "veronica.bowman@acmecorp.ca",
+      "start_char": 432,
+      "end_char": 459,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 946-0887",
+      "start_char": 467,
+      "end_char": 481,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "E0R 5E3",
+      "start_char": 495,
+      "end_char": 502,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "E0R 5E3",
+      "start_char": 495,
+      "end_char": 502,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-05",
+      "start_char": 542,
+      "end_char": 552,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 142,
+  "cost_estimate_usd": 0.001,
+  "char_count": 553,
+  "error": null,
+  "raw_response": {}
+}

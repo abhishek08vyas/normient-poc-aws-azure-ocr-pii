@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-07-26
+Reference : VIR-585171
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : François Fortin
+Numero de compte : 8251124
+Succursale : Saguenay
+
+INFORMATIONS DU DESTINATAIRE
+Nom : André Bélanger
+Numero de compte : 8965487
+Institution : HSBC Canada
+
+DETAILS DU VIREMENT
+Montant : 165,116.84 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : André Ménard
+NAS (pour verification) : 299493874
+Courriel : andre.menard@testbank.ca
+Telephone : (514) 207-2337
+Code postal : T1R 9K8
+
+Signature : ____________________
+Date : 2025-07-19

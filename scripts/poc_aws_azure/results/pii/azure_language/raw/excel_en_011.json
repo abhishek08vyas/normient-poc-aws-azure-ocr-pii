@@ -1,0 +1,979 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-30",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.59,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Sampson",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "8517846",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-25",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 185,
+      "end_char": 200,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "224473\n2025",
+      "start_char": 227,
+      "end_char": 238,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-03",
+      "start_char": 234,
+      "end_char": 244,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cory Jennings",
+      "start_char": 259,
+      "end_char": 272,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "523037\n2026",
+      "start_char": 298,
+      "end_char": 309,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-17",
+      "start_char": 305,
+      "end_char": 315,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cory Jennings",
+      "start_char": 330,
+      "end_char": 343,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-16",
+      "start_char": 377,
+      "end_char": 387,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 401,
+      "end_char": 415,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-30",
+      "start_char": 448,
+      "end_char": 458,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 472,
+      "end_char": 487,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-21",
+      "start_char": 520,
+      "end_char": 530,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 546,
+      "end_char": 561,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-01",
+      "start_char": 595,
+      "end_char": 605,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 617,
+      "end_char": 632,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-14",
+      "start_char": 665,
+      "end_char": 675,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 687,
+      "end_char": 697,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-19",
+      "start_char": 730,
+      "end_char": 740,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 753,
+      "end_char": 768,
+      "confidence": 0.88,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-15",
+      "start_char": 802,
+      "end_char": 812,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 827,
+      "end_char": 837,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-30",
+      "start_char": 870,
+      "end_char": 880,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 892,
+      "end_char": 906,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "212157\n2026",
+      "start_char": 931,
+      "end_char": 942,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-14",
+      "start_char": 938,
+      "end_char": 948,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 963,
+      "end_char": 977,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "326061\n2025",
+      "start_char": 1003,
+      "end_char": 1014,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-18",
+      "start_char": 1010,
+      "end_char": 1020,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 1032,
+      "end_char": 1047,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "213000\n2025",
+      "start_char": 1072,
+      "end_char": 1083,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-31",
+      "start_char": 1079,
+      "end_char": 1089,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 1101,
+      "end_char": 1115,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "229204\n2025",
+      "start_char": 1141,
+      "end_char": 1152,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-08",
+      "start_char": 1148,
+      "end_char": 1158,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 1170,
+      "end_char": 1184,
+      "confidence": 0.85,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 1217,
+      "end_char": 1227,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cory Jennings",
+      "start_char": 1236,
+      "end_char": 1249,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-06",
+      "start_char": 1282,
+      "end_char": 1292,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 1308,
+      "end_char": 1322,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-14",
+      "start_char": 1354,
+      "end_char": 1364,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 1373,
+      "end_char": 1383,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-01",
+      "start_char": 1415,
+      "end_char": 1425,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 1437,
+      "end_char": 1451,
+      "confidence": 0.8,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-26",
+      "start_char": 1484,
+      "end_char": 1494,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 1510,
+      "end_char": 1524,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-04",
+      "start_char": 1558,
+      "end_char": 1568,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 1582,
+      "end_char": 1596,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "459513\n2026",
+      "start_char": 1623,
+      "end_char": 1634,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-24",
+      "start_char": 1630,
+      "end_char": 1640,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 1656,
+      "end_char": 1666,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "532794\n2026",
+      "start_char": 1693,
+      "end_char": 1704,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-15",
+      "start_char": 1700,
+      "end_char": 1710,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 1719,
+      "end_char": 1734,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-11",
+      "start_char": 1768,
+      "end_char": 1778,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 1790,
+      "end_char": 1804,
+      "confidence": 0.87,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-17",
+      "start_char": 1838,
+      "end_char": 1848,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 1860,
+      "end_char": 1875,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-09",
+      "start_char": 1909,
+      "end_char": 1919,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 1931,
+      "end_char": 1941,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-09",
+      "start_char": 1975,
+      "end_char": 1985,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cory Jennings",
+      "start_char": 1997,
+      "end_char": 2010,
+      "confidence": 0.81,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-15",
+      "start_char": 2044,
+      "end_char": 2054,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 2063,
+      "end_char": 2077,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-27",
+      "start_char": 2111,
+      "end_char": 2121,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 2135,
+      "end_char": 2149,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-30",
+      "start_char": 2182,
+      "end_char": 2192,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 2208,
+      "end_char": 2218,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-14",
+      "start_char": 2252,
+      "end_char": 2262,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 2275,
+      "end_char": 2285,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "400538\n2025",
+      "start_char": 2311,
+      "end_char": 2322,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-28",
+      "start_char": 2318,
+      "end_char": 2328,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 2343,
+      "end_char": 2358,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "313910\n2026",
+      "start_char": 2384,
+      "end_char": 2395,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-11",
+      "start_char": 2391,
+      "end_char": 2401,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 2414,
+      "end_char": 2428,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "207458\n2025",
+      "start_char": 2455,
+      "end_char": 2466,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-08",
+      "start_char": 2462,
+      "end_char": 2472,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 2481,
+      "end_char": 2491,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-02",
+      "start_char": 2525,
+      "end_char": 2535,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 2544,
+      "end_char": 2559,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-08",
+      "start_char": 2593,
+      "end_char": 2603,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 2619,
+      "end_char": 2633,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-18",
+      "start_char": 2667,
+      "end_char": 2677,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cory Jennings",
+      "start_char": 2686,
+      "end_char": 2699,
+      "confidence": 0.64,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-19",
+      "start_char": 2733,
+      "end_char": 2743,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 2756,
+      "end_char": 2770,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-19",
+      "start_char": 2804,
+      "end_char": 2814,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 2826,
+      "end_char": 2841,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-24",
+      "start_char": 2875,
+      "end_char": 2885,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 2901,
+      "end_char": 2911,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "408467\n2026",
+      "start_char": 2938,
+      "end_char": 2949,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-24",
+      "start_char": 2945,
+      "end_char": 2955,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 2970,
+      "end_char": 2980,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "282237\n2026",
+      "start_char": 3006,
+      "end_char": 3017,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-14",
+      "start_char": 3013,
+      "end_char": 3023,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 3038,
+      "end_char": 3052,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "392670\n2025",
+      "start_char": 3078,
+      "end_char": 3089,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-23",
+      "start_char": 3085,
+      "end_char": 3095,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Sanders",
+      "start_char": 3104,
+      "end_char": 3119,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-03",
+      "start_char": 3153,
+      "end_char": 3163,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cory Jennings",
+      "start_char": 3179,
+      "end_char": 3192,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "261169\n2025",
+      "start_char": 3219,
+      "end_char": 3230,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-18",
+      "start_char": 3226,
+      "end_char": 3236,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 3249,
+      "end_char": 3263,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-29",
+      "start_char": 3297,
+      "end_char": 3307,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 3316,
+      "end_char": 3330,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "475479\n2026",
+      "start_char": 3357,
+      "end_char": 3368,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-15",
+      "start_char": 3364,
+      "end_char": 3374,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 3383,
+      "end_char": 3393,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "292800\n2026",
+      "start_char": 3420,
+      "end_char": 3431,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-15",
+      "start_char": 3427,
+      "end_char": 3437,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Martinez",
+      "start_char": 3453,
+      "end_char": 3467,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-13",
+      "start_char": 3500,
+      "end_char": 3510,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Levine",
+      "start_char": 3526,
+      "end_char": 3536,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-27",
+      "start_char": 3570,
+      "end_char": 3580,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Gibson",
+      "start_char": 3596,
+      "end_char": 3610,
+      "confidence": 0.97,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 613,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3644,
+  "error": null,
+  "raw_response": {}
+}

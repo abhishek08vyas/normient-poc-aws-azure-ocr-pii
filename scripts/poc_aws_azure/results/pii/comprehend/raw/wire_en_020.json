@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_020",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-12",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999210238456726,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Tucker",
+      "start_char": 132,
+      "end_char": 150,
+      "confidence": 0.9999257326126099,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3472189",
+      "start_char": 167,
+      "end_char": 174,
+      "confidence": 0.9997175335884094,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Calgary, Alberta",
+      "start_char": 183,
+      "end_char": 199,
+      "confidence": 0.9994204640388489,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chad Hodges",
+      "start_char": 229,
+      "end_char": 240,
+      "confidence": 0.9999707341194153,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1409790",
+      "start_char": 257,
+      "end_char": 264,
+      "confidence": 0.9997995495796204,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Katie Anderson",
+      "start_char": 380,
+      "end_char": 394,
+      "confidence": 0.9999504685401917,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "137917696",
+      "start_char": 419,
+      "end_char": 428,
+      "confidence": 0.7498809099197388,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "katie.anderson@example.ca",
+      "start_char": 436,
+      "end_char": 461,
+      "confidence": 0.999984860420227,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 706-6547",
+      "start_char": 469,
+      "end_char": 483,
+      "confidence": 0.9998927116394043,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K2A 1S3",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.9998393654823303,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K2A 1S3",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-11",
+      "start_char": 544,
+      "end_char": 554,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 240,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 555,
+  "error": null,
+  "raw_response": {}
+}

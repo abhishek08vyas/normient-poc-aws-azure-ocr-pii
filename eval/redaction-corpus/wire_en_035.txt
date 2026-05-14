@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-09-11
+Reference: WT-576919
+
+SENDER INFORMATION
+Name: Christopher Sandoval
+Account Number: 8893693
+Branch: Winnipeg, Manitoba
+
+RECIPIENT INFORMATION
+Name: Annette Stewart
+Account Number: 9706768
+Institution: Desjardins
+
+TRANSFER DETAILS
+Amount: $144,820.68 CAD
+Purpose: Vendor Payment
+
+AUTHORIZATION
+Approved by: Jose Santiago
+SIN (for verification): 674296710
+Email: jose.santiago@acmecorp.ca
+Phone: (613) 618-5460
+Postal Code: N1H 5S7
+
+Signature: ____________________
+Date: 2025-08-12

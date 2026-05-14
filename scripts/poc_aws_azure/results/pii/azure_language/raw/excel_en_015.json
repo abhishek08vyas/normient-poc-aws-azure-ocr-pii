@@ -1,0 +1,1043 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-07",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Lewis",
+      "start_char": 58,
+      "end_char": 70,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "4085098",
+      "start_char": 87,
+      "end_char": 94,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "4085098",
+      "start_char": 87,
+      "end_char": 94,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-07",
+      "start_char": 158,
+      "end_char": 168,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 184,
+      "end_char": 197,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-03",
+      "start_char": 229,
+      "end_char": 239,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 255,
+      "end_char": 269,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "208013\n2026",
+      "start_char": 296,
+      "end_char": 307,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-07",
+      "start_char": 303,
+      "end_char": 313,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 329,
+      "end_char": 340,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-05",
+      "start_char": 374,
+      "end_char": 384,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 397,
+      "end_char": 410,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "208976\n2026",
+      "start_char": 436,
+      "end_char": 447,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-05",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 465,
+      "end_char": 479,
+      "confidence": 0.78,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "424398\n2025",
+      "start_char": 506,
+      "end_char": 517,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-20",
+      "start_char": 513,
+      "end_char": 523,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 539,
+      "end_char": 553,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "237654\n2025",
+      "start_char": 579,
+      "end_char": 590,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-02",
+      "start_char": 586,
+      "end_char": 596,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 611,
+      "end_char": 624,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "440998\n2025",
+      "start_char": 651,
+      "end_char": 662,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-17",
+      "start_char": 658,
+      "end_char": 668,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 681,
+      "end_char": 692,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "385647\n2025",
+      "start_char": 718,
+      "end_char": 729,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-28",
+      "start_char": 725,
+      "end_char": 735,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 747,
+      "end_char": 758,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "285636\n2025",
+      "start_char": 785,
+      "end_char": 796,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-16",
+      "start_char": 792,
+      "end_char": 802,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 814,
+      "end_char": 825,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "556106\n2025",
+      "start_char": 850,
+      "end_char": 861,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-22",
+      "start_char": 857,
+      "end_char": 867,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 881,
+      "end_char": 894,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-27",
+      "start_char": 927,
+      "end_char": 937,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 953,
+      "end_char": 966,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "483551\n2025",
+      "start_char": 991,
+      "end_char": 1002,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-27",
+      "start_char": 998,
+      "end_char": 1008,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 1023,
+      "end_char": 1036,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-20",
+      "start_char": 1069,
+      "end_char": 1079,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 1093,
+      "end_char": 1106,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "591989\n2025",
+      "start_char": 1133,
+      "end_char": 1144,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-02",
+      "start_char": 1140,
+      "end_char": 1150,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1166,
+      "end_char": 1180,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "414164\n2025",
+      "start_char": 1206,
+      "end_char": 1217,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-07",
+      "start_char": 1213,
+      "end_char": 1223,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 1237,
+      "end_char": 1248,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "342446\n2025",
+      "start_char": 1275,
+      "end_char": 1286,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-05",
+      "start_char": 1282,
+      "end_char": 1292,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1308,
+      "end_char": 1322,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-10",
+      "start_char": 1356,
+      "end_char": 1366,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1378,
+      "end_char": 1392,
+      "confidence": 0.87,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-10",
+      "start_char": 1425,
+      "end_char": 1435,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 1451,
+      "end_char": 1465,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-23",
+      "start_char": 1499,
+      "end_char": 1509,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 1522,
+      "end_char": 1535,
+      "confidence": 0.89,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "398505\n2025",
+      "start_char": 1562,
+      "end_char": 1573,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-15",
+      "start_char": 1569,
+      "end_char": 1579,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1593,
+      "end_char": 1607,
+      "confidence": 0.87,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "297132\n2026",
+      "start_char": 1633,
+      "end_char": 1644,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-01",
+      "start_char": 1640,
+      "end_char": 1650,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 1664,
+      "end_char": 1677,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-27",
+      "start_char": 1711,
+      "end_char": 1721,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 1733,
+      "end_char": 1744,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-22",
+      "start_char": 1777,
+      "end_char": 1787,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 1802,
+      "end_char": 1813,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-27",
+      "start_char": 1846,
+      "end_char": 1856,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 1870,
+      "end_char": 1884,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-09",
+      "start_char": 1915,
+      "end_char": 1925,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 1940,
+      "end_char": 1954,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-14",
+      "start_char": 1988,
+      "end_char": 1998,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 2012,
+      "end_char": 2026,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "489438\n2026",
+      "start_char": 2052,
+      "end_char": 2063,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-12",
+      "start_char": 2059,
+      "end_char": 2069,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2083,
+      "end_char": 2096,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-25",
+      "start_char": 2128,
+      "end_char": 2138,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 2152,
+      "end_char": 2166,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-29",
+      "start_char": 2199,
+      "end_char": 2209,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 2222,
+      "end_char": 2235,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-29",
+      "start_char": 2266,
+      "end_char": 2276,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2289,
+      "end_char": 2303,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "503489\n2025",
+      "start_char": 2330,
+      "end_char": 2341,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-20",
+      "start_char": 2337,
+      "end_char": 2347,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2359,
+      "end_char": 2372,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "308855\n2025",
+      "start_char": 2398,
+      "end_char": 2409,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-07",
+      "start_char": 2405,
+      "end_char": 2415,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2424,
+      "end_char": 2438,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "595793\n2026",
+      "start_char": 2464,
+      "end_char": 2475,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-05",
+      "start_char": 2471,
+      "end_char": 2481,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2495,
+      "end_char": 2509,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-12",
+      "start_char": 2542,
+      "end_char": 2552,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 2561,
+      "end_char": 2572,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "228074\n2026",
+      "start_char": 2598,
+      "end_char": 2609,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-12",
+      "start_char": 2605,
+      "end_char": 2615,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 2631,
+      "end_char": 2644,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-11",
+      "start_char": 2677,
+      "end_char": 2687,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2702,
+      "end_char": 2716,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-22",
+      "start_char": 2746,
+      "end_char": 2756,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 2769,
+      "end_char": 2782,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-26",
+      "start_char": 2815,
+      "end_char": 2825,
+      "confidence": 0.8,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2840,
+      "end_char": 2853,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-21",
+      "start_char": 2886,
+      "end_char": 2896,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2905,
+      "end_char": 2919,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "489439\n2025",
+      "start_char": 2945,
+      "end_char": 2956,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-17",
+      "start_char": 2952,
+      "end_char": 2962,
+      "confidence": 0.67,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2978,
+      "end_char": 2991,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-12",
+      "start_char": 3025,
+      "end_char": 3035,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 3048,
+      "end_char": 3061,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-16",
+      "start_char": 3093,
+      "end_char": 3103,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 3112,
+      "end_char": 3125,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "231939\n2025",
+      "start_char": 3151,
+      "end_char": 3162,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-22",
+      "start_char": 3158,
+      "end_char": 3168,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 3177,
+      "end_char": 3190,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-02",
+      "start_char": 3224,
+      "end_char": 3234,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3249,
+      "end_char": 3263,
+      "confidence": 0.76,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "475565\n2025",
+      "start_char": 3290,
+      "end_char": 3301,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-26",
+      "start_char": 3297,
+      "end_char": 3307,
+      "confidence": 0.82,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3322,
+      "end_char": 3336,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-17",
+      "start_char": 3370,
+      "end_char": 3380,
+      "confidence": 0.55,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3392,
+      "end_char": 3406,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "298994\n2025",
+      "start_char": 3433,
+      "end_char": 3444,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-21",
+      "start_char": 3440,
+      "end_char": 3450,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3464,
+      "end_char": 3478,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "388698\n2025",
+      "start_char": 3505,
+      "end_char": 3516,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-16",
+      "start_char": 3512,
+      "end_char": 3522,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 3535,
+      "end_char": 3546,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "268132\n2025",
+      "start_char": 3572,
+      "end_char": 3583,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-18",
+      "start_char": 3579,
+      "end_char": 3589,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 3603,
+      "end_char": 3616,
+      "confidence": 0.99,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 527,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3647,
+  "error": null,
+  "raw_response": {}
+}

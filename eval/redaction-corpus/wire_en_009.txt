@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-12-14
+Reference: WT-542374
+
+SENDER INFORMATION
+Name: George Daniel
+Account Number: 5076817
+Branch: Edmonton, Alberta
+
+RECIPIENT INFORMATION
+Name: Frank Gray
+Account Number: 8935169
+Institution: Laurentian Bank
+
+TRANSFER DETAILS
+Amount: $96,603.45 CAD
+Purpose: Payroll
+
+AUTHORIZATION
+Approved by: Veronica Bowman
+SIN (for verification): 763116563
+Email: veronica.bowman@acmecorp.ca
+Phone: (450) 946-0887
+Postal Code: E0R 5E3
+
+Signature: ____________________
+Date: 2025-08-05

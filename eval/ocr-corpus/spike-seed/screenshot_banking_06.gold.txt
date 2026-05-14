@@ -1,0 +1,16 @@
+Acme Bank - Transaction Dashboard
+Client: Melissa Delacruz
+Account: 3741438
+Balance: $51,603.42
+
+Date	Description	Debit	Credit	Balance	Reference	Status	Approver
+2025-03-11	Interest payment	7,706.30		43,897.11	TXN-817870	Approved	Norman Chavez
+2025-01-15	E-transfer	2,750.63		41,146.48	TXN-944151	Approved	Mary Martin
+2025-02-24	Account transfer	5,042.39		36,104.09	TXN-429963	Completed	Michael Santiago
+2025-06-14	POS purchase	7,475.39		28,628.70	TXN-377746	Approved	Jacqueline Sutton
+2025-05-18	Payroll	5,876.98		22,751.72	TXN-712982	Completed	Charles Reid
+2025-04-03	E-transfer	7,582.24		15,169.48	TXN-634277	Approved	Amanda Sanchez
+2025-01-29	Bill payment		4,279.38	19,448.86	TXN-267753	Completed	Steven Nelson
+2025-01-17	ATM withdrawal		5,338.23	24,787.10	TXN-724834	Pending	Sara Watts
+2025-05-22	Wire transfer	8,859.41		15,927.69	TXN-855731	Completed	Jeffrey Nguyen
+2025-03-10	Service fee	4,591.86		11,335.83	TXN-407757	Approved	Kayla Brown

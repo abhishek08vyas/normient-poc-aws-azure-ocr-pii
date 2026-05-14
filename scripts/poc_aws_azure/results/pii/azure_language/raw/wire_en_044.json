@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_044",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-27",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jordan",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3204724",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bobby Diaz",
+      "start_char": 229,
+      "end_char": 239,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2512187",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Scotiabank",
+      "start_char": 277,
+      "end_char": 287,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sarah Stanton",
+      "start_char": 381,
+      "end_char": 394,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "356232850",
+      "start_char": 419,
+      "end_char": 428,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "sarah.stanton@synthco.com",
+      "start_char": 436,
+      "end_char": 461,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 368-4210",
+      "start_char": 469,
+      "end_char": 483,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V4N 1T1",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.84,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V4N 1T1",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-26",
+      "start_char": 544,
+      "end_char": 554,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 142,
+  "cost_estimate_usd": 0.001,
+  "char_count": 555,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-12
+Account Holder: Paul King
+Account Number: 3682671
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-02-23	Wire transfer	Michael Ponce		33,010.56	92,541.69	TXN-451475
+2026-02-03	Direct deposit	Michael Ponce	35,631.17		56,910.52	TXN-251631
+2026-05-02	Vendor payment	Brooke Hurley		48,052.21	104,962.73	TXN-424553
+2025-12-03	Bill payment	Michael Ponce		48,025.65	152,988.38	TXN-223264
+2025-06-18	Wire transfer	Brooke Hurley	42,785.01		110,203.37	TXN-112800
+2026-01-18	Payroll	Morgan Cook		11,970.13	122,173.50	TXN-737517
+2026-01-28	Payroll	Elizabeth Calderon	4,062.31		118,111.20	TXN-575779
+2025-10-24	Payroll	Morgan Cook		13,977.84	132,089.03	TXN-356600
+2025-11-26	E-transfer	Holly Myers	2,847.69		129,241.34	TXN-151295
+2025-09-30	Bill payment	Morgan Cook		33,383.13	162,624.47	TXN-252436
+2025-05-20	Service fee	Brooke Hurley		2,546.67	165,171.13	TXN-447195
+2025-09-30	Vendor payment	Michael Ponce		30,593.38	195,764.51	TXN-269172
+2025-09-09	E-transfer	Michael Ponce		18,073.41	213,837.93	TXN-577456
+2025-07-22	Wire transfer	Brandi Thomas	18,491.61		195,346.31	TXN-905843
+2025-08-04	Vendor payment	Brandi Thomas	27,568.51		167,777.81	TXN-895284
+2025-09-22	Bill payment	Elizabeth Calderon	42,984.46		124,793.35	TXN-241081
+2026-03-06	Bill payment	Latasha Li	10,531.64		114,261.70	TXN-650131
+2025-11-17	Wire transfer	Brandi Thomas		31,486.03	145,747.74	TXN-699121
+2025-07-26	Wire transfer	Elizabeth Calderon		46,701.19	192,448.93	TXN-859246
+2025-08-08	E-transfer	Brooke Hurley		15,892.78	208,341.71	TXN-547798
+2025-07-05	Payroll	Kyle Bennett		24,870.21	233,211.92	TXN-236014
+2025-07-12	E-transfer	Elizabeth Calderon		44,194.82	277,406.73	TXN-616428
+2025-06-11	Direct deposit	Brooke Hurley	1,296.94		276,109.79	TXN-302957
+2025-09-04	E-transfer	Brandi Thomas		39,998.26	316,108.05	TXN-873291
+2026-04-05	Vendor payment	Latasha Li	28,064.73		288,043.32	TXN-147702
+2026-03-15	E-transfer	Holly Myers		34,531.85	322,575.17	TXN-111846
+2025-06-21	Bill payment	Brandi Thomas	27,544.68		295,030.49	TXN-422722
+2025-11-26	Service fee	Morgan Cook		17,133.94	312,164.43	TXN-219366
+2026-03-08	E-transfer	Morgan Cook	16,592.69		295,571.74	TXN-972460
+2025-12-08	Bill payment	Elizabeth Calderon		32,318.05	327,889.79	TXN-597549
+2026-04-02	Vendor payment	Michael Ponce	43,274.70		284,615.10	TXN-757667
+2026-02-23	Bill payment	Elizabeth Calderon		46,396.72	331,011.82	TXN-922072
+2026-04-21	Wire transfer	Brooke Hurley		15,843.59	346,855.41	TXN-692385
+2025-12-03	Payroll	Morgan Cook		16,652.79	363,508.20	TXN-318379
+2025-05-27	Service fee	Kyle Bennett		14,094.96	377,603.16	TXN-169429
+2026-01-25	Wire transfer	Kyle Bennett		42,136.05	419,739.20	TXN-493468
+2025-09-20	Payroll	Latasha Li		43,243.23	462,982.43	TXN-296481
+2026-04-18	Service fee	Brooke Hurley		35,521.02	498,503.45	TXN-839525
+2026-03-06	Bill payment	Latasha Li	11,958.35		486,545.10	TXN-191014
+2026-01-08	Vendor payment	Brooke Hurley		8,833.14	495,378.23	TXN-326639
+2025-07-02	Bill payment	Morgan Cook	4,720.95		490,657.29	TXN-915572
+2025-12-30	Payroll	Morgan Cook	25,052.71		465,604.58	TXN-937838
+2025-10-06	Direct deposit	Kyle Bennett		26,229.04	491,833.61	TXN-606957
+2025-07-11	Service fee	Kyle Bennett		5,002.75	496,836.37	TXN-250255
+2025-07-15	Payroll	Michael Ponce		23,022.48	519,858.85	TXN-315154
+2025-07-22	E-transfer	Brandi Thomas	2,297.10		517,561.75	TXN-104309
+2026-03-31	Service fee	Brandi Thomas	2,402.37		515,159.38	TXN-449479
+2026-02-06	Payroll	Brooke Hurley		15,675.93	530,835.31	TXN-123572
+2026-03-08	Direct deposit	Kyle Bennett	13,904.81		516,930.50	TXN-310297
+2026-01-10	Bill payment	Elizabeth Calderon	7,551.10		509,379.39	TXN-803724

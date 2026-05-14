@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-04-25
+Reference: WT-751332
+
+SENDER INFORMATION
+Name: Stephen Baker
+Account Number: 7774229
+Branch: Hamilton, Ontario
+
+RECIPIENT INFORMATION
+Name: John Hoffman
+Account Number: 3011363
+Institution: TD Canada Trust
+
+TRANSFER DETAILS
+Amount: $229,155.06 CAD
+Purpose: Vendor Payment
+
+AUTHORIZATION
+Approved by: Jose Richards
+SIN (for verification): 539909168
+Email: jose.richards@synthco.com
+Phone: (613) 467-3346
+Postal Code: N3L 6G4
+
+Signature: ____________________
+Date: 2025-12-24

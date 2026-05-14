@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_050",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999617338180542,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Ramirez",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.9999693632125854,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2232969",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.986225962638855,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Brandon, Manitoba",
+      "start_char": 178,
+      "end_char": 195,
+      "confidence": 0.9985121488571167,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Darlene Ross",
+      "start_char": 225,
+      "end_char": 237,
+      "confidence": 0.9999651312828064,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2355439",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.9996168613433838,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tina Herrera",
+      "start_char": 384,
+      "end_char": 396,
+      "confidence": 0.999925971031189,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "392124996",
+      "start_char": 421,
+      "end_char": 430,
+      "confidence": 0.9428735971450806,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "tina.herrera@synthco.com",
+      "start_char": 438,
+      "end_char": 462,
+      "confidence": 0.9999208450317383,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 590-9787",
+      "start_char": 470,
+      "end_char": 484,
+      "confidence": 0.9998926520347595,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X4T 8Z6",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.9902912974357605,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X4T 8Z6",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-22",
+      "start_char": 545,
+      "end_char": 555,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 237,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 556,
+  "error": null,
+  "raw_response": {}
+}

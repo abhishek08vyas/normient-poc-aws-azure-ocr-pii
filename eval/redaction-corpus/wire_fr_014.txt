@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-08-16
+Reference : VIR-305222
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Raphaël Chrétien
+Numero de compte : 7399154
+Succursale : Saguenay
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Valérie Bélanger
+Numero de compte : 8170536
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 36,897.89 $ CAD
+Objet : Paiement fournisseur
+
+AUTORISATION
+Approuve par : Émilie Côté
+NAS (pour verification) : 714982824
+Courriel : emilie.cote@testbank.ca
+Telephone : (819) 674-5011
+Code postal : T4R 8Z7
+
+Signature : ____________________
+Date : 2025-05-14

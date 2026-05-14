@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_016",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Luis Fernandez",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.9999500513076782,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1633297",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.9992530941963196,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 120,
+      "end_char": 130,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "15:47:41",
+      "start_char": 131,
+      "end_char": 139,
+      "confidence": 0.9995617270469666,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "luis.fernandez@testbank.ca",
+      "start_char": 155,
+      "end_char": 181,
+      "confidence": 0.9998475313186646,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 260,
+      "end_char": 270,
+      "confidence": 0.9999925494194031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-24",
+      "start_char": 321,
+      "end_char": 331,
+      "confidence": 0.9999945759773254,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 382,
+      "end_char": 392,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 504,
+      "end_char": 514,
+      "confidence": 0.9999943375587463,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

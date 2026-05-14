@@ -1,0 +1,963 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_010",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-09",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.65,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Krystal Smith",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "3828735",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "3828735",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-04",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 182,
+      "end_char": 198,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "235691\n2025",
+      "start_char": 224,
+      "end_char": 235,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-06",
+      "start_char": 231,
+      "end_char": 241,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 257,
+      "end_char": 271,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-19",
+      "start_char": 303,
+      "end_char": 313,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 329,
+      "end_char": 342,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "491225\n2025",
+      "start_char": 369,
+      "end_char": 380,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-06",
+      "start_char": 376,
+      "end_char": 386,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 399,
+      "end_char": 412,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "299834\n2026",
+      "start_char": 436,
+      "end_char": 447,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-14",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 465,
+      "end_char": 478,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "337256\n2026",
+      "start_char": 505,
+      "end_char": 516,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-28",
+      "start_char": 512,
+      "end_char": 522,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 538,
+      "end_char": 554,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "502181\n2025",
+      "start_char": 581,
+      "end_char": 592,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-09",
+      "start_char": 588,
+      "end_char": 598,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 613,
+      "end_char": 629,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "412687\n2026",
+      "start_char": 656,
+      "end_char": 667,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-01",
+      "start_char": 663,
+      "end_char": 673,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 682,
+      "end_char": 695,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-09",
+      "start_char": 729,
+      "end_char": 739,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-07",
+      "start_char": 801,
+      "end_char": 811,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 824,
+      "end_char": 838,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-20",
+      "start_char": 871,
+      "end_char": 881,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 897,
+      "end_char": 910,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-18",
+      "start_char": 943,
+      "end_char": 953,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-27",
+      "start_char": 1013,
+      "end_char": 1023,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-06",
+      "start_char": 1080,
+      "end_char": 1090,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 1105,
+      "end_char": 1118,
+      "confidence": 0.86,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "213365\n2025",
+      "start_char": 1143,
+      "end_char": 1154,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-30",
+      "start_char": 1150,
+      "end_char": 1160,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1172,
+      "end_char": 1188,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "537020\n2025",
+      "start_char": 1213,
+      "end_char": 1224,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-27",
+      "start_char": 1220,
+      "end_char": 1230,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 1244,
+      "end_char": 1258,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-08",
+      "start_char": 1291,
+      "end_char": 1301,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1313,
+      "end_char": 1329,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "415743\n2025",
+      "start_char": 1354,
+      "end_char": 1365,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-20",
+      "start_char": 1361,
+      "end_char": 1371,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-27",
+      "start_char": 1425,
+      "end_char": 1435,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1448,
+      "end_char": 1464,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-19",
+      "start_char": 1496,
+      "end_char": 1506,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1521,
+      "end_char": 1537,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-12",
+      "start_char": 1570,
+      "end_char": 1580,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 1594,
+      "end_char": 1607,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "311469\n2026",
+      "start_char": 1632,
+      "end_char": 1643,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-22",
+      "start_char": 1639,
+      "end_char": 1649,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1665,
+      "end_char": 1681,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-07",
+      "start_char": 1712,
+      "end_char": 1722,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "345896\n2025",
+      "start_char": 1778,
+      "end_char": 1789,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-04",
+      "start_char": 1785,
+      "end_char": 1795,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 1810,
+      "end_char": 1823,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-10",
+      "start_char": 1857,
+      "end_char": 1867,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 1880,
+      "end_char": 1893,
+      "confidence": 0.81,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-05",
+      "start_char": 1926,
+      "end_char": 1936,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 1950,
+      "end_char": 1963,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "342389\n2025",
+      "start_char": 1991,
+      "end_char": 2002,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-04",
+      "start_char": 1998,
+      "end_char": 2008,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 2022,
+      "end_char": 2036,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-28",
+      "start_char": 2070,
+      "end_char": 2080,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 2095,
+      "end_char": 2108,
+      "confidence": 0.69,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "477712\n2026",
+      "start_char": 2136,
+      "end_char": 2147,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-25",
+      "start_char": 2143,
+      "end_char": 2153,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 2165,
+      "end_char": 2181,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-07",
+      "start_char": 2215,
+      "end_char": 2225,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 2240,
+      "end_char": 2253,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-08",
+      "start_char": 2287,
+      "end_char": 2297,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 2313,
+      "end_char": 2326,
+      "confidence": 0.87,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "381342\n2025",
+      "start_char": 2352,
+      "end_char": 2363,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-22",
+      "start_char": 2359,
+      "end_char": 2369,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "291752\n2025",
+      "start_char": 2422,
+      "end_char": 2433,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-27",
+      "start_char": 2429,
+      "end_char": 2439,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-25",
+      "start_char": 2503,
+      "end_char": 2513,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 2526,
+      "end_char": 2540,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-19",
+      "start_char": 2574,
+      "end_char": 2584,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 2600,
+      "end_char": 2613,
+      "confidence": 0.71,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-12",
+      "start_char": 2648,
+      "end_char": 2658,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 2674,
+      "end_char": 2690,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "536236\n2026",
+      "start_char": 2718,
+      "end_char": 2729,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-21",
+      "start_char": 2725,
+      "end_char": 2735,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 2744,
+      "end_char": 2757,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "559447\n2025",
+      "start_char": 2785,
+      "end_char": 2796,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-21",
+      "start_char": 2792,
+      "end_char": 2802,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 2816,
+      "end_char": 2829,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-22",
+      "start_char": 2864,
+      "end_char": 2874,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 2886,
+      "end_char": 2899,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-20",
+      "start_char": 2932,
+      "end_char": 2942,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 2958,
+      "end_char": 2972,
+      "confidence": 0.86,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-01",
+      "start_char": 3007,
+      "end_char": 3017,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 3032,
+      "end_char": 3045,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-19",
+      "start_char": 3079,
+      "end_char": 3089,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 3101,
+      "end_char": 3114,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "334865\n2026",
+      "start_char": 3141,
+      "end_char": 3152,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-07",
+      "start_char": 3148,
+      "end_char": 3158,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 3172,
+      "end_char": 3185,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-18",
+      "start_char": 3219,
+      "end_char": 3229,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 3245,
+      "end_char": 3258,
+      "confidence": 0.78,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-12",
+      "start_char": 3292,
+      "end_char": 3302,
+      "confidence": 0.78,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 3314,
+      "end_char": 3327,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "503572\n2025",
+      "start_char": 3354,
+      "end_char": 3365,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-29",
+      "start_char": 3361,
+      "end_char": 3371,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 3380,
+      "end_char": 3396,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-25",
+      "start_char": 3429,
+      "end_char": 3439,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 3452,
+      "end_char": 3466,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-05",
+      "start_char": 3499,
+      "end_char": 3509,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 3522,
+      "end_char": 3536,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "436208\n2025",
+      "start_char": 3564,
+      "end_char": 3575,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-03",
+      "start_char": 3571,
+      "end_char": 3581,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 3596,
+      "end_char": 3609,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "333524\n2025",
+      "start_char": 3637,
+      "end_char": 3648,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-05",
+      "start_char": 3644,
+      "end_char": 3654,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 3667,
+      "end_char": 3680,
+      "confidence": 0.99,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 621,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3715,
+  "error": null,
+  "raw_response": {}
+}

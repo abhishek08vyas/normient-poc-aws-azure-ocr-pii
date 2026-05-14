@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_018",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-17",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "René Gauthier",
+      "start_char": 155,
+      "end_char": 168,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8560833",
+      "start_char": 188,
+      "end_char": 195,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 237,
+      "end_char": 249,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Émilie Tremblay",
+      "start_char": 256,
+      "end_char": 271,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4566389",
+      "start_char": 291,
+      "end_char": 298,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Royal Bank of Canada",
+      "start_char": 313,
+      "end_char": 333,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raphaël Lévesque",
+      "start_char": 423,
+      "end_char": 439,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "230234676",
+      "start_char": 466,
+      "end_char": 475,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "raphael.levesque@synthco.com",
+      "start_char": 487,
+      "end_char": 515,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 851-2721",
+      "start_char": 528,
+      "end_char": 542,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "C4C 6E4",
+      "start_char": 557,
+      "end_char": 564,
+      "confidence": 0.81,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "C4C 6E4",
+      "start_char": 557,
+      "end_char": 564,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-06",
+      "start_char": 606,
+      "end_char": 616,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 152,
+  "cost_estimate_usd": 0.001,
+  "char_count": 617,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,107 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_045",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-08",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999114871025085,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Fleming",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 0.9999438524246216,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7619862",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.9975398778915405,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Red Deer, Alberta",
+      "start_char": 180,
+      "end_char": 197,
+      "confidence": 0.9989767670631409,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Elizabeth Gomez",
+      "start_char": 227,
+      "end_char": 242,
+      "confidence": 0.9999602437019348,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1233516",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.9994204044342041,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anita Baxter",
+      "start_char": 390,
+      "end_char": 402,
+      "confidence": 0.999956488609314,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "381754969",
+      "start_char": 427,
+      "end_char": 436,
+      "confidence": 0.797408938407898,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "anita.baxter@testbank.ca",
+      "start_char": 444,
+      "end_char": 468,
+      "confidence": 0.9999666213989258,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 891-3830",
+      "start_char": 476,
+      "end_char": 490,
+      "confidence": 0.9999058246612549,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "8N9",
+      "start_char": 508,
+      "end_char": 511,
+      "confidence": 0.941157877445221,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-27",
+      "start_char": 551,
+      "end_char": 561,
+      "confidence": 0.9999868869781494,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 232,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 562,
+  "error": null,
+  "raw_response": {}
+}

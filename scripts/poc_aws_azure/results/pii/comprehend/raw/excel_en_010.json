@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_010",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999789595603943,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Krystal Smith",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 0.9999042749404907,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3828735",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.9998712539672852,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-04",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.9999879598617554,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 182,
+      "end_char": 198,
+      "confidence": 0.9997453689575195,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-06",
+      "start_char": 231,
+      "end_char": 241,
+      "confidence": 0.9999911785125732,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 257,
+      "end_char": 271,
+      "confidence": 0.9998474717140198,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-19",
+      "start_char": 303,
+      "end_char": 313,
+      "confidence": 0.9999908804893494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 329,
+      "end_char": 342,
+      "confidence": 0.9998361468315125,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-06",
+      "start_char": 376,
+      "end_char": 386,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 399,
+      "end_char": 412,
+      "confidence": 0.9998050332069397,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-14",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 465,
+      "end_char": 478,
+      "confidence": 0.9998613595962524,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-28",
+      "start_char": 512,
+      "end_char": 522,
+      "confidence": 0.9999898672103882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 538,
+      "end_char": 554,
+      "confidence": 0.9997501969337463,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-09",
+      "start_char": 588,
+      "end_char": 598,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 613,
+      "end_char": 629,
+      "confidence": 0.9998205900192261,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 663,
+      "end_char": 673,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 682,
+      "end_char": 695,
+      "confidence": 0.9998182654380798,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-09",
+      "start_char": 729,
+      "end_char": 739,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 755,
+      "end_char": 768,
+      "confidence": 0.9996917247772217,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-07",
+      "start_char": 801,
+      "end_char": 811,
+      "confidence": 0.9999871850013733,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 824,
+      "end_char": 838,
+      "confidence": 0.9998553395271301,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-20",
+      "start_char": 871,
+      "end_char": 881,
+      "confidence": 0.9999827146530151,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 897,
+      "end_char": 910,
+      "confidence": 0.9998780488967896,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-18",
+      "start_char": 943,
+      "end_char": 953,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 968,
+      "end_char": 981,
+      "confidence": 0.9995425939559937,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-27",
+      "start_char": 1013,
+      "end_char": 1023,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 1035,
+      "end_char": 1048,
+      "confidence": 0.9992067217826843,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-06",
+      "start_char": 1080,
+      "end_char": 1090,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 1105,
+      "end_char": 1118,
+      "confidence": 0.9998434782028198,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-30",
+      "start_char": 1150,
+      "end_char": 1160,
+      "confidence": 0.9999919533729553,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1172,
+      "end_char": 1188,
+      "confidence": 0.9996467232704163,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-27",
+      "start_char": 1220,
+      "end_char": 1230,
+      "confidence": 0.9999908804893494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 1244,
+      "end_char": 1258,
+      "confidence": 0.9998557567596436,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-08",
+      "start_char": 1291,
+      "end_char": 1301,
+      "confidence": 0.9999908804893494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1313,
+      "end_char": 1329,
+      "confidence": 0.9996872544288635,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-20",
+      "start_char": 1361,
+      "end_char": 1371,
+      "confidence": 0.9999883770942688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 1380,
+      "end_char": 1393,
+      "confidence": 0.9997525215148926,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-27",
+      "start_char": 1425,
+      "end_char": 1435,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1448,
+      "end_char": 1464,
+      "confidence": 0.99972003698349,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-19",
+      "start_char": 1496,
+      "end_char": 1506,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1521,
+      "end_char": 1537,
+      "confidence": 0.9996353387832642,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-12",
+      "start_char": 1570,
+      "end_char": 1580,
+      "confidence": 0.9999931454658508,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 1594,
+      "end_char": 1607,
+      "confidence": 0.9998485445976257,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 1639,
+      "end_char": 1649,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 1665,
+      "end_char": 1681,
+      "confidence": 0.999862790107727,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-07",
+      "start_char": 1712,
+      "end_char": 1722,
+      "confidence": 0.9999904036521912,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 1738,
+      "end_char": 1751,
+      "confidence": 0.9995675683021545,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-04",
+      "start_char": 1785,
+      "end_char": 1795,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 1810,
+      "end_char": 1823,
+      "confidence": 0.9997686147689819,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-10",
+      "start_char": 1857,
+      "end_char": 1867,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 1880,
+      "end_char": 1893,
+      "confidence": 0.9997962117195129,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-05",
+      "start_char": 1926,
+      "end_char": 1936,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 1950,
+      "end_char": 1963,
+      "confidence": 0.9997960329055786,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-04",
+      "start_char": 1998,
+      "end_char": 2008,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 2022,
+      "end_char": 2036,
+      "confidence": 0.9998766183853149,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-28",
+      "start_char": 2070,
+      "end_char": 2080,
+      "confidence": 0.9999843835830688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 2095,
+      "end_char": 2108,
+      "confidence": 0.999154269695282,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-25",
+      "start_char": 2143,
+      "end_char": 2153,
+      "confidence": 0.9999701976776123,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 2165,
+      "end_char": 2181,
+      "confidence": 0.9997197389602661,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-07",
+      "start_char": 2215,
+      "end_char": 2225,
+      "confidence": 0.9999783635139465,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 2240,
+      "end_char": 2253,
+      "confidence": 0.9996879696846008,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-08",
+      "start_char": 2287,
+      "end_char": 2297,
+      "confidence": 0.9999517798423767,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 2313,
+      "end_char": 2326,
+      "confidence": 0.9997934103012085,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-22",
+      "start_char": 2359,
+      "end_char": 2369,
+      "confidence": 0.9999604821205139,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 2382,
+      "end_char": 2395,
+      "confidence": 0.9993937611579895,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-27",
+      "start_char": 2429,
+      "end_char": 2439,
+      "confidence": 0.9999616742134094,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Parker Little",
+      "start_char": 2455,
+      "end_char": 2468,
+      "confidence": 0.9993373155593872,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-25",
+      "start_char": 2503,
+      "end_char": 2513,
+      "confidence": 0.9999622106552124,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 2526,
+      "end_char": 2540,
+      "confidence": 0.999843418598175,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-19",
+      "start_char": 2574,
+      "end_char": 2584,
+      "confidence": 0.9999865293502808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 2600,
+      "end_char": 2613,
+      "confidence": 0.9997887015342712,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-12",
+      "start_char": 2648,
+      "end_char": 2658,
+      "confidence": 0.9999892711639404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 2674,
+      "end_char": 2690,
+      "confidence": 0.9997995495796204,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-21",
+      "start_char": 2725,
+      "end_char": 2735,
+      "confidence": 0.9999873638153076,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 2744,
+      "end_char": 2757,
+      "confidence": 0.9996957182884216,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-21",
+      "start_char": 2792,
+      "end_char": 2802,
+      "confidence": 0.9999848008155823,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 2816,
+      "end_char": 2829,
+      "confidence": 0.999704122543335,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-22",
+      "start_char": 2864,
+      "end_char": 2874,
+      "confidence": 0.9999858736991882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 2886,
+      "end_char": 2899,
+      "confidence": 0.999691367149353,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-20",
+      "start_char": 2932,
+      "end_char": 2942,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 2958,
+      "end_char": 2972,
+      "confidence": 0.9997352957725525,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-01",
+      "start_char": 3007,
+      "end_char": 3017,
+      "confidence": 0.9999896287918091,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 3032,
+      "end_char": 3045,
+      "confidence": 0.999786913394928,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-19",
+      "start_char": 3079,
+      "end_char": 3089,
+      "confidence": 0.9999886155128479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 3101,
+      "end_char": 3114,
+      "confidence": 0.9998124241828918,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-07",
+      "start_char": 3148,
+      "end_char": 3158,
+      "confidence": 0.9999846816062927,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 3172,
+      "end_char": 3185,
+      "confidence": 0.999772310256958,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-18",
+      "start_char": 3219,
+      "end_char": 3229,
+      "confidence": 0.9999865889549255,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 3245,
+      "end_char": 3258,
+      "confidence": 0.9997491240501404,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 3292,
+      "end_char": 3302,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sherry Murphy",
+      "start_char": 3314,
+      "end_char": 3327,
+      "confidence": 0.9997451305389404,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-29",
+      "start_char": 3361,
+      "end_char": 3371,
+      "confidence": 0.9999896287918091,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Richardson",
+      "start_char": 3380,
+      "end_char": 3396,
+      "confidence": 0.9997797608375549,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-25",
+      "start_char": 3429,
+      "end_char": 3439,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 3452,
+      "end_char": 3466,
+      "confidence": 0.9998805522918701,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-05",
+      "start_char": 3499,
+      "end_char": 3509,
+      "confidence": 0.9999839067459106,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathan Leonard",
+      "start_char": 3522,
+      "end_char": 3536,
+      "confidence": 0.9998676180839539,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-03",
+      "start_char": 3571,
+      "end_char": 3581,
+      "confidence": 0.9999854564666748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Harvey",
+      "start_char": 3596,
+      "end_char": 3609,
+      "confidence": 0.999779462814331,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-05",
+      "start_char": 3644,
+      "end_char": 3654,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kaitlyn Baker",
+      "start_char": 3667,
+      "end_char": 3680,
+      "confidence": 0.9998237490653992,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 399,
+  "cost_estimate_usd": 0.0038,
+  "char_count": 3715,
+  "error": null,
+  "raw_response": {}
+}

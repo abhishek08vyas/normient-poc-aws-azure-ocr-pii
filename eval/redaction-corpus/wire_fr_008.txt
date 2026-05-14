@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-10-25
+Reference : VIR-201295
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Gabrielle Gauthier
+Numero de compte : 7553489
+Succursale : Gatineau
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Sébastien Gagné
+Numero de compte : 6172822
+Institution : TD Canada Trust
+
+DETAILS DU VIREMENT
+Montant : 340,299.80 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Raphaël Lévesque
+NAS (pour verification) : 409006335
+Courriel : raphael.levesque@testbank.ca
+Telephone : (514) 404-1497
+Code postal : A6A 0N3
+
+Signature : ____________________
+Date : 2025-11-28

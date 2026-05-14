@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_035",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-11",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Sandoval",
+      "start_char": 132,
+      "end_char": 152,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8893693",
+      "start_char": 169,
+      "end_char": 176,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Annette Stewart",
+      "start_char": 233,
+      "end_char": 248,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9706768",
+      "start_char": 265,
+      "end_char": 272,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 286,
+      "end_char": 296,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jose Santiago",
+      "start_char": 391,
+      "end_char": 404,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "674296710",
+      "start_char": 429,
+      "end_char": 438,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jose.santiago@acmecorp.ca",
+      "start_char": 446,
+      "end_char": 471,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 618-5460",
+      "start_char": 479,
+      "end_char": 493,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "N1H 5S7",
+      "start_char": 507,
+      "end_char": 514,
+      "confidence": 0.85,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "N1H 5S7",
+      "start_char": 507,
+      "end_char": 514,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-12",
+      "start_char": 554,
+      "end_char": 564,
+      "confidence": 0.84,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 133,
+  "cost_estimate_usd": 0.001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

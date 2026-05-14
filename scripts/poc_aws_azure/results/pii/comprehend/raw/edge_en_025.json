@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_025",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Rodnney Graves",
+      "start_char": 24,
+      "end_char": 38,
+      "confidence": 0.9999582767486572,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6450711",
+      "start_char": 49,
+      "end_char": 56,
+      "confidence": 0.8710359334945679,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 223,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 97,
+  "error": null,
+  "raw_response": {}
+}

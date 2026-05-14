@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-03-30
+Reference: WT-343467
+
+SENDER INFORMATION
+Name: Melissa Wagner
+Account Number: 1485654
+Branch: Brandon, Manitoba
+
+RECIPIENT INFORMATION
+Name: John Odonnell
+Account Number: 1771600
+Institution: HSBC Canada
+
+TRANSFER DETAILS
+Amount: $341,884.16 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Brent Walters
+SIN (for verification): 304556236
+Email: brent.walters@synthco.com
+Phone: (819) 779-2950
+Postal Code: H2C 9R9
+
+Signature: ____________________
+Date: 2025-08-27

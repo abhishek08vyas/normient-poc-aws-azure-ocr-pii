@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-01-08
+Reference: WT-780776
+
+SENDER INFORMATION
+Name: Michael Fleming
+Account Number: 7619862
+Branch: Red Deer, Alberta
+
+RECIPIENT INFORMATION
+Name: Elizabeth Gomez
+Account Number: 1233516
+Institution: TD Canada Trust
+
+TRANSFER DETAILS
+Amount: $111,462.23 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Anita Baxter
+SIN (for verification): 381754969
+Email: anita.baxter@testbank.ca
+Phone: (647) 891-3830
+Postal Code: V0Z 8N9
+
+Signature: ____________________
+Date: 2026-02-27

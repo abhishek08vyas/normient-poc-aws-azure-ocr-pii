@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-05
+Account Holder: Ryan Cox
+Account Number: 6318841
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-08-25	E-transfer	Ryan Simon	41,469.78		9,027.92	TXN-461249
+2025-09-15	Payroll	Ryan Simon		6,538.74	15,566.67	TXN-290802
+2026-04-08	Payroll	Jasmine Graham	7,735.47		7,831.20	TXN-971776
+2025-08-16	Direct deposit	Jessica Sheppard		11,350.97	19,182.16	TXN-438334
+2026-03-31	Payroll	Joseph Morton	9,895.47		9,286.70	TXN-987025
+2026-05-10	Payroll	Joseph Morton		30,759.97	40,046.67	TXN-231250
+2025-06-15	Wire transfer	Ryan Simon	47,086.19		-7,039.52	TXN-772124
+2025-08-29	Direct deposit	Jessica Sheppard		45,109.84	38,070.32	TXN-790731
+2026-04-20	Bill payment	Ryan Simon		1,515.84	39,586.16	TXN-143195
+2025-11-04	Wire transfer	Ryan Simon		38,371.25	77,957.42	TXN-377511
+2025-08-15	Vendor payment	Ryan Simon	44,460.94		33,496.47	TXN-770030
+2026-02-28	Payroll	Joseph Morton		24,198.95	57,695.42	TXN-773088
+2025-11-09	Service fee	Amanda Webb	34,461.82		23,233.60	TXN-411882
+2025-12-20	Direct deposit	Amanda Webb	10,280.75		12,952.85	TXN-535810
+2026-01-05	Payroll	Jessica Sheppard		16,033.89	28,986.74	TXN-427766
+2026-01-27	Service fee	Joseph Morton	18,589.96		10,396.78	TXN-518084
+2025-10-07	Payroll	Jasmine Graham	6,213.84		4,182.94	TXN-434617
+2025-09-20	Vendor payment	Jessica Sheppard	14,581.58		-10,398.64	TXN-247720
+2025-05-24	Vendor payment	Ryan Simon	43,278.84		-53,677.48	TXN-538446
+2025-11-20	Direct deposit	Joseph Morton		9,572.72	-44,104.76	TXN-705748
+2026-04-08	Direct deposit	Amanda Webb	43,965.88		-88,070.64	TXN-639728
+2025-09-16	Vendor payment	Jasmine Graham		25,321.68	-62,748.96	TXN-194423
+2025-07-22	Direct deposit	Jessica Sheppard	2,621.97		-65,370.92	TXN-711680
+2025-11-18	Vendor payment	Ryan Simon		23,582.28	-41,788.64	TXN-983791
+2025-08-03	Payroll	Jasmine Graham	6,783.35		-48,571.99	TXN-988324
+2025-09-27	Bill payment	Joseph Morton	2,357.60		-50,929.59	TXN-900961
+2026-03-18	Wire transfer	Ryan Simon	27,705.82		-78,635.41	TXN-689107
+2025-08-21	Wire transfer	Amanda Webb	27,537.87		-106,173.28	TXN-628750
+2025-09-22	Service fee	Ryan Simon		6,520.30	-99,652.98	TXN-813449
+2025-08-29	Wire transfer	Amanda Webb		17,020.36	-82,632.62	TXN-491326
+2026-04-19	Bill payment	Jessica Sheppard		20,129.22	-62,503.41	TXN-308727
+2025-12-30	Wire transfer	Jasmine Graham	16,718.73		-79,222.14	TXN-140804
+2026-02-09	Vendor payment	Ryan Simon	44,667.27		-123,889.41	TXN-579187
+2026-04-19	Direct deposit	Joseph Morton	19,708.43		-143,597.84	TXN-742848
+2025-08-28	Payroll	Joseph Morton	41,431.64		-185,029.48	TXN-722565
+2025-12-14	Payroll	Amanda Webb		23,797.14	-161,232.34	TXN-843167
+2025-05-16	Wire transfer	Joseph Morton		48,996.91	-112,235.43	TXN-447329
+2025-11-29	Payroll	Joseph Morton		43,617.75	-68,617.69	TXN-935457
+2025-07-26	E-transfer	Jasmine Graham	48,356.83		-116,974.51	TXN-725905
+2025-06-15	Service fee	Ryan Simon	2,662.62		-119,637.14	TXN-705693
+2025-08-14	Vendor payment	Jessica Sheppard		31,024.82	-88,612.32	TXN-649697
+2026-02-16	Service fee	Amanda Webb		12,185.61	-76,426.71	TXN-254954
+2025-10-17	Payroll	Jasmine Graham	15,753.25		-92,179.97	TXN-300051
+2025-11-18	Direct deposit	Amanda Webb	25,140.79		-117,320.76	TXN-824042
+2025-12-14	Payroll	Amanda Webb		3,207.84	-114,112.92	TXN-989587
+2026-03-03	Direct deposit	Ryan Simon		49,906.33	-64,206.59	TXN-317413
+2025-08-14	Vendor payment	Ryan Simon	8,741.80		-72,948.39	TXN-495129
+2026-02-05	Payroll	Joseph Morton	38,622.29		-111,570.68	TXN-672808
+2025-11-13	E-transfer	Joseph Morton	47,871.14		-159,441.82	TXN-739711
+2026-01-18	Bill payment	Ryan Simon	48,648.24		-208,090.06	TXN-412999

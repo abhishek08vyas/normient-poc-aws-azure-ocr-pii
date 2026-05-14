@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-08-21
+Reference : VIR-782524
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : André Côté
+Numero de compte : 7787310
+Succursale : Montreal
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Hélène Lefebvre
+Numero de compte : 7976304
+Institution : National Bank of Canada
+
+DETAILS DU VIREMENT
+Montant : 354,855.10 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Amélie Thibault
+NAS (pour verification) : 456749167
+Courriel : amelie.thibault@example.com
+Telephone : (647) 594-9266
+Code postal : H3S 4P8
+
+Signature : ____________________
+Date : 2025-10-07

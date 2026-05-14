@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_006",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Durham",
+      "start_char": 35,
+      "end_char": 52,
+      "confidence": 0.9999242424964905,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "649 718 590",
+      "start_char": 78,
+      "end_char": 89,
+      "confidence": 0.9998983144760132,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5731119",
+      "start_char": 99,
+      "end_char": 106,
+      "confidence": 0.9893050193786621,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 234,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 107,
+  "error": null,
+  "raw_response": {}
+}

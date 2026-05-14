@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_028",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-19",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Isaiah Ford",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4050766",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nancy Jones",
+      "start_char": 226,
+      "end_char": 237,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9179730",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Royal Bank of Canada",
+      "start_char": 275,
+      "end_char": 295,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lindsey Chase",
+      "start_char": 390,
+      "end_char": 403,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "254549488",
+      "start_char": 428,
+      "end_char": 437,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "lindsey.chase@example.com",
+      "start_char": 445,
+      "end_char": 470,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 287-3954",
+      "start_char": 478,
+      "end_char": 492,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "S7X 3V7",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "S7X 3V7",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-31",
+      "start_char": 553,
+      "end_char": 563,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 123,
+  "cost_estimate_usd": 0.001,
+  "char_count": 564,
+  "error": null,
+  "raw_response": {}
+}

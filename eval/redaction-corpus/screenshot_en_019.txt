@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Kenneth Price
+Account: 1447451
+Type: Chequing
+Balance: $82,308.52 CAD
+Last Login: 2026-05-04 06:46:21
+Email on file: kenneth.price@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-09  Bill payment             $2,395.99    $84,704.52
+2026-05-09  Bill payment             -$2,284.16   $82,420.35
+2026-05-12  Wire transfer            $8,399.80    $90,820.16
+2026-04-23  Direct deposit           -$1,419.12   $89,401.04
+2026-05-06  ATM withdrawal           -$6,975.92   $82,425.13

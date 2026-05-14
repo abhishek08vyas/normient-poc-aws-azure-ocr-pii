@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Christopher Patterson
+Account: 9511546
+Type: Business
+Balance: $8,965.19 CAD
+Last Login: 2026-05-06 08:29:42
+Email on file: christopher.patterson@synthco.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-21  ATM withdrawal           -$483.17     $8,482.02
+2026-04-15  Bill payment             -$2,573.82   $5,908.20
+2026-04-25  Wire transfer            $3,480.78    $9,388.99
+2026-05-01  E-transfer               $1,081.46    $10,470.44
+2026-04-28  Bill payment             -$1,377.43   $9,093.02

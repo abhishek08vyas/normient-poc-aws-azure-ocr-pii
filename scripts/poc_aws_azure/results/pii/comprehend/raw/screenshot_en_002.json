@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_002",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Chandler",
+      "start_char": 37,
+      "end_char": 50,
+      "confidence": 0.9997442364692688,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3182975",
+      "start_char": 60,
+      "end_char": 67,
+      "confidence": 0.998991072177887,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 120,
+      "end_char": 130,
+      "confidence": 0.9999946355819702,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "04:02:17",
+      "start_char": 131,
+      "end_char": 139,
+      "confidence": 0.9993987679481506,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "ryan.chandler@synthco.com",
+      "start_char": 155,
+      "end_char": 180,
+      "confidence": 0.9998766183853149,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 259,
+      "end_char": 269,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 321,
+      "end_char": 331,
+      "confidence": 0.9999949336051941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-07",
+      "start_char": 383,
+      "end_char": 393,
+      "confidence": 0.9999945163726807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 445,
+      "end_char": 455,
+      "confidence": 0.999993622303009,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 507,
+      "end_char": 517,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 253,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 569,
+  "error": null,
+  "raw_response": {}
+}

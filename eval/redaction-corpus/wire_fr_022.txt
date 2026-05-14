@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-09-28
+Reference : VIR-221309
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : François Lévesque
+Numero de compte : 7433891
+Succursale : Longueuil
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Valérie Côté
+Numero de compte : 5703624
+Institution : Scotiabank
+
+DETAILS DU VIREMENT
+Montant : 404,415.29 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Thérèse Bérubé
+NAS (pour verification) : 247128713
+Courriel : therese.berube@testbank.ca
+Telephone : (514) 789-9841
+Code postal : C5R 6X6
+
+Signature : ____________________
+Date : 2026-02-05

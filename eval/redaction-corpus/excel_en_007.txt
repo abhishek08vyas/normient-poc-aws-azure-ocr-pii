@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-20
+Account Holder: Paul Alvarado
+Account Number: 5112546
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-07-11	Vendor payment	Tyler Johnson		31,833.50	42,407.51	TXN-344315
+2025-06-11	E-transfer	Tyler Johnson	32,899.46		9,508.05	TXN-451291
+2025-11-11	Service fee	Robert Pena	10,339.20		-831.15	TXN-862540
+2026-03-12	Direct deposit	Scott Fox		48,630.71	47,799.55	TXN-615929
+2025-08-23	Direct deposit	Robert Pena	46,071.59		1,727.96	TXN-393418
+2025-09-21	Service fee	Stephen Bowen		18,687.35	20,415.31	TXN-533121
+2026-01-10	E-transfer	Tyler Johnson	6,762.34		13,652.97	TXN-708982
+2026-02-06	Service fee	Scott Fox		3,207.91	16,860.88	TXN-178465
+2025-10-14	E-transfer	Wayne Lawrence	42,560.59		-25,699.71	TXN-348273
+2026-01-20	Service fee	Scott Fox		16,379.95	-9,319.76	TXN-834764
+2025-06-13	Vendor payment	Molly Sawyer	10,215.36		-19,535.12	TXN-344959
+2026-04-08	Service fee	Stephen Bowen	8,302.31		-27,837.43	TXN-214266
+2025-09-17	Vendor payment	Molly Sawyer	17,978.54		-45,815.97	TXN-526259
+2026-04-09	Service fee	Wayne Lawrence	13,323.90		-59,139.87	TXN-573869
+2026-01-29	Wire transfer	Tyler Johnson		15,280.33	-43,859.54	TXN-265271
+2026-04-11	E-transfer	Robert Pena	41,812.65		-85,672.19	TXN-732608
+2025-12-06	Bill payment	Wayne Lawrence		48,423.16	-37,249.03	TXN-195643
+2025-10-07	Vendor payment	Stephen Bowen		13,082.32	-24,166.70	TXN-151328
+2025-09-12	Direct deposit	Tyler Johnson		27,842.09	3,675.39	TXN-524035
+2026-01-11	Payroll	Wayne Lawrence	40,214.45		-36,539.06	TXN-199326
+2026-02-16	Direct deposit	Tyler Johnson	39,069.90		-75,608.96	TXN-112537
+2026-04-22	Direct deposit	Wayne Lawrence		18,674.76	-56,934.20	TXN-307757
+2026-03-03	E-transfer	Robert Pena		13,015.15	-43,919.05	TXN-188121
+2025-11-18	Service fee	Tyler Johnson		9,967.74	-33,951.31	TXN-122859
+2026-04-16	E-transfer	Scott Fox	45,263.39		-79,214.70	TXN-948611
+2025-12-09	Service fee	Molly Sawyer	23,103.65		-102,318.34	TXN-228479
+2025-05-26	Direct deposit	Stephen Bowen		19,810.43	-82,507.91	TXN-554197
+2026-01-07	Wire transfer	Scott Fox	17,761.77		-100,269.68	TXN-816400
+2025-06-08	Direct deposit	Molly Sawyer	7,516.71		-107,786.39	TXN-393448
+2025-08-12	Payroll	Stephen Bowen	14,825.75		-122,612.13	TXN-746947
+2026-01-13	Vendor payment	Stephen Bowen	14,060.82		-136,672.95	TXN-602300
+2026-02-02	Direct deposit	Scott Fox		39,880.18	-96,792.78	TXN-309146
+2026-05-05	Direct deposit	Robert Pena		1,074.55	-95,718.23	TXN-941134
+2025-09-01	Vendor payment	Robert Pena	39,093.61		-134,811.84	TXN-476556
+2025-08-09	Bill payment	Stephen Bowen	13,594.74		-148,406.58	TXN-626797
+2026-02-27	Wire transfer	Molly Sawyer	44,798.66		-193,205.25	TXN-726121
+2025-06-17	Service fee	Molly Sawyer		23,637.05	-169,568.20	TXN-161437
+2025-10-28	Bill payment	Stephen Bowen		5,096.70	-164,471.49	TXN-344068
+2025-06-20	E-transfer	Wayne Lawrence		39,582.74	-124,888.75	TXN-379473
+2026-03-04	E-transfer	Tyler Johnson		11,048.64	-113,840.12	TXN-901164
+2026-01-14	Service fee	Scott Fox		49,577.94	-64,262.17	TXN-472039
+2026-02-10	Direct deposit	Wayne Lawrence		40,329.89	-23,932.28	TXN-348041
+2026-04-16	E-transfer	Molly Sawyer	35,057.98		-58,990.27	TXN-720298
+2025-06-21	Payroll	Stephen Bowen		9,492.86	-49,497.41	TXN-249005
+2025-11-01	Service fee	Scott Fox	24,572.78		-74,070.19	TXN-668458
+2025-07-16	Wire transfer	Tyler Johnson		1,094.41	-72,975.78	TXN-343923
+2026-02-06	Vendor payment	Tyler Johnson		10,153.07	-62,822.71	TXN-447848
+2025-09-06	Direct deposit	Molly Sawyer	40,140.98		-102,963.69	TXN-851763
+2026-04-28	Service fee	Molly Sawyer	29,371.80		-132,335.48	TXN-162448
+2025-05-24	Direct deposit	Tyler Johnson		18,308.00	-114,027.48	TXN-987599

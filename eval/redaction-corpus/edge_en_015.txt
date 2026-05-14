@@ -1,0 +1,4 @@
+Payroll Authorization
+Employee: Franklin Bond
+SIN: 685-389-090
+Contact: franklin.bond@example.ca

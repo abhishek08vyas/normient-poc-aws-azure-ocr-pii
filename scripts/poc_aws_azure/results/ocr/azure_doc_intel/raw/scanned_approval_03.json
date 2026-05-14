@@ -1,0 +1,321 @@
+{
+  "tool": "azure_doc_intel",
+  "file": "scanned_approval_03.pdf",
+  "full_text": "WIRE TRANSFER APPROVAL FORM\nApprover Name: Anthony Gonzalez\nDate: 2026-05-12\nAccount Number:\n2867825\nAmount:\n$7,376.02\nAUTHORIZATION\nAuthorization Signature: Debra Gardner\nDate: 2026-05-12\nApproved: YES\nRemarks:\nApproved for processing.",
+  "words": [
+    {
+      "text": "WIRE",
+      "confidence": 0.991,
+      "bbox": {
+        "left": 1.1359,
+        "top": 1.0604,
+        "width": 0.5181,
+        "height": 0.2057
+      },
+      "page": 1
+    },
+    {
+      "text": "TRANSFER",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.7086,
+        "top": 1.0698,
+        "width": 1.0545000000000002,
+        "height": 0.21329999999999982
+      },
+      "page": 1
+    },
+    {
+      "text": "APPROVAL",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.8235,
+        "top": 1.0876,
+        "width": 1.0810999999999997,
+        "height": 0.21310000000000007
+      },
+      "page": 1
+    },
+    {
+      "text": "FORM",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 3.9644,
+        "top": 1.1051,
+        "width": 0.5844,
+        "height": 0.20690000000000008
+      },
+      "page": 1
+    },
+    {
+      "text": "Approver",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.1331,
+        "top": 1.6253,
+        "width": 0.6711,
+        "height": 0.19540000000000002
+      },
+      "page": 1
+    },
+    {
+      "text": "Name:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.838,
+        "top": 1.636,
+        "width": 0.5305,
+        "height": 0.18530000000000002
+      },
+      "page": 1
+    },
+    {
+      "text": "Anthony",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 1.1275,
+        "top": 1.9293,
+        "width": 0.7209000000000001,
+        "height": 0.16529999999999978
+      },
+      "page": 1
+    },
+    {
+      "text": "Gonzalez",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.9468,
+        "top": 1.9426,
+        "width": 0.8035000000000001,
+        "height": 0.15969999999999995
+      },
+      "page": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.123,
+        "top": 2.3962,
+        "width": 0.4154,
+        "height": 0.1614
+      },
+      "page": 1
+    },
+    {
+      "text": "2026-05-12",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 1.1223,
+        "top": 2.6824,
+        "width": 1.0190000000000001,
+        "height": 0.1621999999999999
+      },
+      "page": 1
+    },
+    {
+      "text": "Account",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.1045,
+        "top": 3.1527,
+        "width": 0.6193,
+        "height": 0.17790000000000017
+      },
+      "page": 1
+    },
+    {
+      "text": "Number:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.7696,
+        "top": 3.1618,
+        "width": 0.6486999999999998,
+        "height": 0.1764000000000001
+      },
+      "page": 1
+    },
+    {
+      "text": "2867825",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.1148,
+        "top": 3.4435,
+        "width": 0.7113,
+        "height": 0.15410000000000013
+      },
+      "page": 1
+    },
+    {
+      "text": "Amount:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.095,
+        "top": 3.9142,
+        "width": 0.6426000000000001,
+        "height": 0.1697999999999995
+      },
+      "page": 1
+    },
+    {
+      "text": "$7,376.02",
+      "confidence": 0.977,
+      "bbox": {
+        "left": 1.109,
+        "top": 4.2045,
+        "width": 0.9108999999999998,
+        "height": 0.17319999999999958
+      },
+      "page": 1
+    },
+    {
+      "text": "AUTHORIZATION",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.1544,
+        "top": 1.054,
+        "width": 1.6401999999999999,
+        "height": 0.21930000000000005
+      },
+      "page": 2
+    },
+    {
+      "text": "Authorization",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.1376,
+        "top": 1.6088,
+        "width": 0.9864999999999999,
+        "height": 0.20609999999999995
+      },
+      "page": 2
+    },
+    {
+      "text": "Signature:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.1741,
+        "top": 1.6306,
+        "width": 0.7753999999999999,
+        "height": 0.20179999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "Debra",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.1385,
+        "top": 1.9137,
+        "width": 0.508,
+        "height": 0.15700000000000003
+      },
+      "page": 2
+    },
+    {
+      "text": "Gardner",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.7565,
+        "top": 1.926,
+        "width": 0.7116000000000002,
+        "height": 0.16110000000000002
+      },
+      "page": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.1335,
+        "top": 2.3862,
+        "width": 0.4215,
+        "height": 0.1604000000000001
+      },
+      "page": 2
+    },
+    {
+      "text": "2026-05-12",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.1311,
+        "top": 2.6701,
+        "width": 1.0215999999999998,
+        "height": 0.1690999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "Approved:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.1169,
+        "top": 3.3131,
+        "width": 0.9678000000000002,
+        "height": 0.2218
+      },
+      "page": 2
+    },
+    {
+      "text": "YES",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.1514,
+        "top": 3.326,
+        "width": 0.3996999999999997,
+        "height": 0.21099999999999985
+      },
+      "page": 2
+    },
+    {
+      "text": "Remarks:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.1089,
+        "top": 3.8697,
+        "width": 0.7283,
+        "height": 0.17710000000000026
+      },
+      "page": 2
+    },
+    {
+      "text": "Approved",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0902,
+        "top": 4.1702,
+        "width": 0.8258999999999999,
+        "height": 0.18299999999999983
+      },
+      "page": 2
+    },
+    {
+      "text": "for",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.0189,
+        "top": 4.1881,
+        "width": 0.29959999999999987,
+        "height": 0.1725999999999992
+      },
+      "page": 2
+    },
+    {
+      "text": "processing.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.3939,
+        "top": 4.1953,
+        "width": 1.0979999999999999,
+        "height": 0.1883000000000008
+      },
+      "page": 2
+    }
+  ],
+  "tables": [],
+  "page_count": 2,
+  "latency_ms": 5358,
+  "cost_estimate_usd": 0.13,
+  "raw_response": {},
+  "error": null
+}

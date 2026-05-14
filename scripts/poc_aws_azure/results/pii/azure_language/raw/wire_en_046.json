@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_046",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-21",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Spears",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2957497",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Cherry",
+      "start_char": 233,
+      "end_char": 248,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3345069",
+      "start_char": 265,
+      "end_char": 272,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 286,
+      "end_char": 296,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lisa Keith",
+      "start_char": 396,
+      "end_char": 406,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "104711387",
+      "start_char": 431,
+      "end_char": 440,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "lisa.keith@example.ca",
+      "start_char": 448,
+      "end_char": 469,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 664-6078",
+      "start_char": 477,
+      "end_char": 491,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Y6Y 2S1",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.86,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "Y6Y 2S1",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-20",
+      "start_char": 552,
+      "end_char": 562,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 131,
+  "cost_estimate_usd": 0.001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

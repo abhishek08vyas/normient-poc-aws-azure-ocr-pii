@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_018",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-17",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999430775642395,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Martin",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 0.999970018863678,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7110622",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.8457185626029968,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Medicine Hat, Alberta",
+      "start_char": 181,
+      "end_char": 202,
+      "confidence": 0.9993590116500854,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Nielsen",
+      "start_char": 232,
+      "end_char": 249,
+      "confidence": 0.999971330165863,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8235969",
+      "start_char": 266,
+      "end_char": 273,
+      "confidence": 0.9949140548706055,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Samantha George",
+      "start_char": 386,
+      "end_char": 401,
+      "confidence": 0.9999573826789856,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "159514843",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.5926538109779358,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "samantha.george@acmecorp.ca",
+      "start_char": 443,
+      "end_char": 470,
+      "confidence": 0.9999637603759766,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 612-4844",
+      "start_char": 478,
+      "end_char": 492,
+      "confidence": 0.9998519420623779,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Y2J 6R2",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.9986689686775208,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "Y2J 6R2",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-19",
+      "start_char": 553,
+      "end_char": 563,
+      "confidence": 0.9999919533729553,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 302,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 564,
+  "error": null,
+  "raw_response": {}
+}

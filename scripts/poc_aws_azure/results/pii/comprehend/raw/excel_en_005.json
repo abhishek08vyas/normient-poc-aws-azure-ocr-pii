@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999779462814331,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Shea",
+      "start_char": 58,
+      "end_char": 69,
+      "confidence": 0.9998849034309387,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2637842",
+      "start_char": 86,
+      "end_char": 93,
+      "confidence": 0.9999197721481323,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-09",
+      "start_char": 157,
+      "end_char": 167,
+      "confidence": 0.9999806880950928,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 183,
+      "end_char": 199,
+      "confidence": 0.999905526638031,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-16",
+      "start_char": 232,
+      "end_char": 242,
+      "confidence": 0.9999862313270569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cynthia Vasquez",
+      "start_char": 257,
+      "end_char": 272,
+      "confidence": 0.99996018409729,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 304,
+      "end_char": 314,
+      "confidence": 0.9999834895133972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 327,
+      "end_char": 342,
+      "confidence": 0.9999070167541504,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-28",
+      "start_char": 374,
+      "end_char": 384,
+      "confidence": 0.9999862313270569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 400,
+      "end_char": 416,
+      "confidence": 0.9999227523803711,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-29",
+      "start_char": 449,
+      "end_char": 459,
+      "confidence": 0.9999895095825195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 472,
+      "end_char": 485,
+      "confidence": 0.9998906850814819,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-13",
+      "start_char": 519,
+      "end_char": 529,
+      "confidence": 0.9999784827232361,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 545,
+      "end_char": 558,
+      "confidence": 0.999901533126831,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-23",
+      "start_char": 590,
+      "end_char": 600,
+      "confidence": 0.9999879002571106,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 616,
+      "end_char": 629,
+      "confidence": 0.9998711347579956,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 662,
+      "end_char": 672,
+      "confidence": 0.9999860525131226,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 686,
+      "end_char": 704,
+      "confidence": 0.9999274015426636,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-09",
+      "start_char": 738,
+      "end_char": 748,
+      "confidence": 0.9999854564666748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 764,
+      "end_char": 780,
+      "confidence": 0.9998887777328491,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-08",
+      "start_char": 813,
+      "end_char": 823,
+      "confidence": 0.9999797344207764,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 835,
+      "end_char": 849,
+      "confidence": 0.9998734593391418,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-20",
+      "start_char": 883,
+      "end_char": 893,
+      "confidence": 0.9999799132347107,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 909,
+      "end_char": 922,
+      "confidence": 0.9998603463172913,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-03",
+      "start_char": 956,
+      "end_char": 966,
+      "confidence": 0.9999812841415405,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 982,
+      "end_char": 997,
+      "confidence": 0.9998719692230225,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-24",
+      "start_char": 1031,
+      "end_char": 1041,
+      "confidence": 0.9999858140945435,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 1050,
+      "end_char": 1068,
+      "confidence": 0.9999254941940308,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-30",
+      "start_char": 1101,
+      "end_char": 1111,
+      "confidence": 0.9999862313270569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 1125,
+      "end_char": 1143,
+      "confidence": 0.999920666217804,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-30",
+      "start_char": 1176,
+      "end_char": 1186,
+      "confidence": 0.9999852180480957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 1202,
+      "end_char": 1215,
+      "confidence": 0.9999145865440369,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-09",
+      "start_char": 1249,
+      "end_char": 1259,
+      "confidence": 0.9999798536300659,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1275,
+      "end_char": 1289,
+      "confidence": 0.9999194741249084,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-02",
+      "start_char": 1319,
+      "end_char": 1329,
+      "confidence": 0.9999669790267944,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 1345,
+      "end_char": 1360,
+      "confidence": 0.9999313354492188,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 1392,
+      "end_char": 1402,
+      "confidence": 0.9999829530715942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1415,
+      "end_char": 1429,
+      "confidence": 0.9999086260795593,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-10",
+      "start_char": 1463,
+      "end_char": 1473,
+      "confidence": 0.9999669194221497,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1488,
+      "end_char": 1502,
+      "confidence": 0.9999297857284546,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 1536,
+      "end_char": 1546,
+      "confidence": 0.9999825358390808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1555,
+      "end_char": 1569,
+      "confidence": 0.9999297261238098,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-04",
+      "start_char": 1603,
+      "end_char": 1613,
+      "confidence": 0.9999896287918091,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1626,
+      "end_char": 1640,
+      "confidence": 0.999930739402771,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-02",
+      "start_char": 1674,
+      "end_char": 1684,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 1697,
+      "end_char": 1707,
+      "confidence": 0.9999422430992126,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-31",
+      "start_char": 1741,
+      "end_char": 1751,
+      "confidence": 0.999988853931427,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 1765,
+      "end_char": 1780,
+      "confidence": 0.9999375939369202,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-24",
+      "start_char": 1815,
+      "end_char": 1825,
+      "confidence": 0.9999861121177673,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1838,
+      "end_char": 1852,
+      "confidence": 0.9999247789382935,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-12",
+      "start_char": 1886,
+      "end_char": 1896,
+      "confidence": 0.9999886751174927,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 1910,
+      "end_char": 1926,
+      "confidence": 0.9999436736106873,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-02",
+      "start_char": 1959,
+      "end_char": 1969,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1981,
+      "end_char": 1995,
+      "confidence": 0.9999274015426636,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-08",
+      "start_char": 2029,
+      "end_char": 2039,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 2051,
+      "end_char": 2061,
+      "confidence": 0.9999425411224365,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 2094,
+      "end_char": 2104,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 2118,
+      "end_char": 2134,
+      "confidence": 0.9999197721481323,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-30",
+      "start_char": 2169,
+      "end_char": 2179,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 2194,
+      "end_char": 2204,
+      "confidence": 0.9999414086341858,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-20",
+      "start_char": 2239,
+      "end_char": 2249,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 2263,
+      "end_char": 2276,
+      "confidence": 0.9998940825462341,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-08",
+      "start_char": 2310,
+      "end_char": 2320,
+      "confidence": 0.9999775290489197,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 2333,
+      "end_char": 2343,
+      "confidence": 0.9999264478683472,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-17",
+      "start_char": 2377,
+      "end_char": 2387,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 2401,
+      "end_char": 2416,
+      "confidence": 0.9998822808265686,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-29",
+      "start_char": 2450,
+      "end_char": 2460,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Roberts",
+      "start_char": 2469,
+      "end_char": 2484,
+      "confidence": 0.9998488426208496,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-24",
+      "start_char": 2518,
+      "end_char": 2528,
+      "confidence": 0.9999866485595703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 2541,
+      "end_char": 2559,
+      "confidence": 0.9999243021011353,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-12",
+      "start_char": 2592,
+      "end_char": 2602,
+      "confidence": 0.9999821186065674,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Roberts",
+      "start_char": 2617,
+      "end_char": 2632,
+      "confidence": 0.9999266862869263,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-04",
+      "start_char": 2666,
+      "end_char": 2676,
+      "confidence": 0.9999798536300659,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 2692,
+      "end_char": 2707,
+      "confidence": 0.999908447265625,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-19",
+      "start_char": 2741,
+      "end_char": 2751,
+      "confidence": 0.9999765157699585,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 2764,
+      "end_char": 2777,
+      "confidence": 0.9999125599861145,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-13",
+      "start_char": 2811,
+      "end_char": 2821,
+      "confidence": 0.9999779462814331,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 2833,
+      "end_char": 2846,
+      "confidence": 0.999889612197876,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-12",
+      "start_char": 2881,
+      "end_char": 2891,
+      "confidence": 0.999975323677063,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 2904,
+      "end_char": 2922,
+      "confidence": 0.9999179840087891,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-13",
+      "start_char": 2956,
+      "end_char": 2966,
+      "confidence": 0.999977707862854,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 2980,
+      "end_char": 2994,
+      "confidence": 0.9999278783798218,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-10",
+      "start_char": 3025,
+      "end_char": 3035,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 3048,
+      "end_char": 3066,
+      "confidence": 0.9999150037765503,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-12",
+      "start_char": 3100,
+      "end_char": 3110,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 3122,
+      "end_char": 3138,
+      "confidence": 0.9999147653579712,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-18",
+      "start_char": 3172,
+      "end_char": 3182,
+      "confidence": 0.9999931454658508,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 3198,
+      "end_char": 3211,
+      "confidence": 0.9999215006828308,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-13",
+      "start_char": 3245,
+      "end_char": 3255,
+      "confidence": 0.9999908208847046,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Roberts",
+      "start_char": 3268,
+      "end_char": 3283,
+      "confidence": 0.9999437928199768,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-18",
+      "start_char": 3316,
+      "end_char": 3326,
+      "confidence": 0.9999933242797852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 3339,
+      "end_char": 3353,
+      "confidence": 0.999923050403595,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-18",
+      "start_char": 3388,
+      "end_char": 3398,
+      "confidence": 0.9999926686286926,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cynthia Vasquez",
+      "start_char": 3413,
+      "end_char": 3428,
+      "confidence": 0.9999595284461975,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-08",
+      "start_char": 3462,
+      "end_char": 3472,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 3487,
+      "end_char": 3505,
+      "confidence": 0.9999260902404785,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-04",
+      "start_char": 3540,
+      "end_char": 3550,
+      "confidence": 0.9999789595603943,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 3566,
+      "end_char": 3576,
+      "confidence": 0.9999362230300903,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 3610,
+      "end_char": 3620,
+      "confidence": 0.9999802112579346,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 3634,
+      "end_char": 3649,
+      "confidence": 0.9998964667320251,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-26",
+      "start_char": 3683,
+      "end_char": 3693,
+      "confidence": 0.9999843835830688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 3708,
+      "end_char": 3724,
+      "confidence": 0.9999194145202637,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 414,
+  "cost_estimate_usd": 0.0038,
+  "char_count": 3757,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Caitlin Dodson
+Account: 5746166
+Type: Savings
+Balance: $156,020.63 CAD
+Last Login: 2026-05-05 10:12:46
+Email on file: caitlin.dodson@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-12  E-transfer               $5,998.96    $162,019.60
+2026-05-07  E-transfer               -$3,379.76   $158,639.84
+2026-05-03  POS purchase             -$6,799.87   $151,839.96
+2026-05-09  E-transfer               $8,523.08    $160,363.05
+2026-05-04  POS purchase             -$8,739.13   $151,623.91

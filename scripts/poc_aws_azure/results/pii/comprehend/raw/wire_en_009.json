@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_009",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-14",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.999814510345459,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "George Daniel",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.9999520182609558,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5076817",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.999388575553894,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Edmonton, Alberta",
+      "start_char": 178,
+      "end_char": 195,
+      "confidence": 0.9992713928222656,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Frank Gray",
+      "start_char": 225,
+      "end_char": 235,
+      "confidence": 0.9999622702598572,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8935169",
+      "start_char": 252,
+      "end_char": 259,
+      "confidence": 0.9995797276496887,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Veronica Bowman",
+      "start_char": 375,
+      "end_char": 390,
+      "confidence": 0.9999191164970398,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "763116563",
+      "start_char": 415,
+      "end_char": 424,
+      "confidence": 0.9641823172569275,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "veronica.bowman@acmecorp.ca",
+      "start_char": 432,
+      "end_char": 459,
+      "confidence": 0.9999688863754272,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 946-0887",
+      "start_char": 467,
+      "end_char": 481,
+      "confidence": 0.999798059463501,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "E0R 5E3",
+      "start_char": 495,
+      "end_char": 502,
+      "confidence": 0.9999047517776489,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "E0R 5E3",
+      "start_char": 495,
+      "end_char": 502,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-05",
+      "start_char": 542,
+      "end_char": 552,
+      "confidence": 0.9999655485153198,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 237,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 553,
+  "error": null,
+  "raw_response": {}
+}

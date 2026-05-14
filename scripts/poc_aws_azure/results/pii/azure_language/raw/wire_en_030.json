@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_030",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-06",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Timothy Hancock",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5638893",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Rachel Martin",
+      "start_char": 226,
+      "end_char": 239,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9801946",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 277,
+      "end_char": 293,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Aaron Myers",
+      "start_char": 393,
+      "end_char": 404,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "541343521",
+      "start_char": 429,
+      "end_char": 438,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "aaron.myers@testbank.ca",
+      "start_char": 446,
+      "end_char": 469,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 925-8751",
+      "start_char": 477,
+      "end_char": 491,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "G4B 0X4",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.77,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "G4B 0X4",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-12",
+      "start_char": 552,
+      "end_char": 562,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 164,
+  "cost_estimate_usd": 0.001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

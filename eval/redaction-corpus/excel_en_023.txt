@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-15
+Account Holder: Danielle Moody
+Account Number: 4697107
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-01-31	Bill payment	Charles Walsh		29,213.23	71,378.65	TXN-737692
+2025-11-03	Direct deposit	Kimberly Johnson	26,966.77		44,411.87	TXN-305222
+2025-10-04	Vendor payment	Michael Owen	24,574.22		19,837.65	TXN-636648
+2025-10-04	Payroll	Charles Walsh	7,482.50		12,355.15	TXN-799155
+2025-11-01	Service fee	Michael Reyes	708.32		11,646.83	TXN-487585
+2026-03-05	Bill payment	Carlos Osborne		43,727.66	55,374.49	TXN-423050
+2025-06-11	Wire transfer	Douglas Lawson		37,102.23	92,476.72	TXN-863209
+2025-12-21	Vendor payment	Ashley Jacobs	36,427.23		56,049.48	TXN-402654
+2025-07-05	Vendor payment	Michael Reyes		29,936.99	85,986.48	TXN-246347
+2025-12-04	Direct deposit	Douglas Lawson	43,389.54		42,596.94	TXN-417960
+2025-10-02	Bill payment	Michael Owen		4,513.57	47,110.51	TXN-719371
+2025-10-14	Vendor payment	Kimberly Johnson	23,159.79		23,950.72	TXN-534649
+2025-09-12	Payroll	Erin Cisneros	19,150.30		4,800.42	TXN-308936
+2026-01-20	Payroll	Ashley Jacobs		15,169.45	19,969.87	TXN-144284
+2025-08-29	Payroll	Kimberly Johnson		23,226.25	43,196.11	TXN-618101
+2025-08-17	Wire transfer	Charles Walsh	47,805.73		-4,609.61	TXN-261505
+2025-06-26	Service fee	Ashley Jacobs		44,645.06	40,035.44	TXN-230208
+2025-05-23	Vendor payment	Erin Cisneros		32,274.81	72,310.26	TXN-615780
+2026-02-22	Wire transfer	Michael Owen	49,717.21		22,593.04	TXN-901865
+2025-07-24	Wire transfer	Carlos Osborne	21,859.82		733.22	TXN-709291
+2025-11-22	Bill payment	Ashley Jacobs		18,722.79	19,456.02	TXN-827968
+2025-11-30	E-transfer	Charles Walsh	29,124.56		-9,668.54	TXN-986340
+2025-10-10	Direct deposit	Carlos Osborne		6,861.32	-2,807.22	TXN-583439
+2026-05-02	Direct deposit	Charles Walsh	31,848.73		-34,655.96	TXN-385915
+2025-12-17	Bill payment	Charles Walsh	31,983.43		-66,639.39	TXN-403936
+2025-06-27	Wire transfer	Douglas Lawson		38,258.00	-28,381.39	TXN-903673
+2025-08-22	Payroll	Erin Cisneros	15,878.90		-44,260.29	TXN-670123
+2026-03-09	Service fee	Kimberly Johnson		34,448.50	-9,811.79	TXN-384645
+2025-08-22	Wire transfer	Carlos Osborne	6,933.78		-16,745.57	TXN-963308
+2026-02-10	Bill payment	Carlos Osborne	17,081.62		-33,827.19	TXN-916639
+2025-11-02	Direct deposit	Michael Owen	11,133.56		-44,960.76	TXN-328459
+2025-08-04	Direct deposit	Michael Owen	3,912.38		-48,873.13	TXN-537619
+2026-01-05	Service fee	Erin Cisneros	15,647.52		-64,520.65	TXN-118223
+2025-08-31	Bill payment	Erin Cisneros	49,380.33		-113,900.98	TXN-956727
+2026-02-06	Payroll	Carlos Osborne		1,535.10	-112,365.88	TXN-280572
+2026-05-03	Service fee	Michael Owen	34,742.79		-147,108.66	TXN-333159
+2025-11-19	E-transfer	Douglas Lawson	6,597.89		-153,706.55	TXN-422361
+2025-07-29	Wire transfer	Michael Reyes		5,674.94	-148,031.62	TXN-824375
+2025-06-29	Wire transfer	Ashley Jacobs	9,897.91		-157,929.53	TXN-894122
+2025-07-04	Wire transfer	Charles Walsh	12,725.32		-170,654.85	TXN-591868
+2026-04-09	Wire transfer	Kimberly Johnson	4,915.53		-175,570.38	TXN-800015
+2025-06-10	Wire transfer	Douglas Lawson		9,320.61	-166,249.77	TXN-716146
+2025-11-04	Bill payment	Charles Walsh	37,335.28		-203,585.05	TXN-195189
+2025-07-19	Bill payment	Carlos Osborne	25,081.66		-228,666.71	TXN-469311
+2026-04-27	E-transfer	Douglas Lawson		5,045.37	-223,621.33	TXN-629435
+2026-02-14	Payroll	Charles Walsh	9,658.22		-233,279.56	TXN-654527
+2025-11-01	Bill payment	Erin Cisneros		48,681.64	-184,597.92	TXN-890645
+2025-06-16	Wire transfer	Douglas Lawson		23,788.30	-160,809.61	TXN-628687
+2026-03-23	E-transfer	Erin Cisneros		5,455.49	-155,354.12	TXN-561023
+2026-02-01	Service fee	Carlos Osborne	25,761.13		-181,115.25	TXN-498055

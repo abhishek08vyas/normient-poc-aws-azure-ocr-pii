@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_023",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-03",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999459981918335,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Caleb Smith",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 0.999958336353302,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7381734",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.9948215484619141,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Sherbrooke, Quebec",
+      "start_char": 176,
+      "end_char": 194,
+      "confidence": 0.999875009059906,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Chapman",
+      "start_char": 224,
+      "end_char": 238,
+      "confidence": 0.9999579787254333,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9002392",
+      "start_char": 255,
+      "end_char": 262,
+      "confidence": 0.9992989301681519,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adrian Zimmerman",
+      "start_char": 382,
+      "end_char": 398,
+      "confidence": 0.9999186396598816,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "154668891",
+      "start_char": 423,
+      "end_char": 432,
+      "confidence": 0.9138347506523132,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "adrian.zimmerman@example.ca",
+      "start_char": 440,
+      "end_char": 467,
+      "confidence": 0.999985933303833,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 424-4471",
+      "start_char": 475,
+      "end_char": 489,
+      "confidence": 0.9998577237129211,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "S7A 6N6",
+      "start_char": 503,
+      "end_char": 510,
+      "confidence": 0.9999062418937683,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "S7A 6N6",
+      "start_char": 503,
+      "end_char": 510,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-08",
+      "start_char": 550,
+      "end_char": 560,
+      "confidence": 0.999985933303833,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 229,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 561,
+  "error": null,
+  "raw_response": {}
+}

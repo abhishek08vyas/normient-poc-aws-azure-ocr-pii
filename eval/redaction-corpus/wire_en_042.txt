@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-02-10
+Reference: WT-702733
+
+SENDER INFORMATION
+Name: Bradley Cook
+Account Number: 5261032
+Branch: Steinbach, Manitoba
+
+RECIPIENT INFORMATION
+Name: David Whitney
+Account Number: 8710313
+Institution: Desjardins
+
+TRANSFER DETAILS
+Amount: $54,219.98 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Evan Ramos
+SIN (for verification): 307482174
+Email: evan.ramos@testbank.ca
+Phone: (438) 854-6951
+Postal Code: L7M 3R7
+
+Signature: ____________________
+Date: 2025-10-25

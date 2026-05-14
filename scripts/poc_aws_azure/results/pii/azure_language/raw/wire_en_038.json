@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_038",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-21",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Casey Sanchez",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4197911",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Kim",
+      "start_char": 227,
+      "end_char": 237,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9526867",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 275,
+      "end_char": 290,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amy Turner",
+      "start_char": 378,
+      "end_char": 388,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "621465848",
+      "start_char": 413,
+      "end_char": 422,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "amy.turner@example.com",
+      "start_char": 430,
+      "end_char": 452,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 943-4891",
+      "start_char": 460,
+      "end_char": 474,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V2T 8V5",
+      "start_char": 488,
+      "end_char": 495,
+      "confidence": 0.93,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V2T 8V5",
+      "start_char": 488,
+      "end_char": 495,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-20",
+      "start_char": 535,
+      "end_char": 545,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 118,
+  "cost_estimate_usd": 0.001,
+  "char_count": 546,
+  "error": null,
+  "raw_response": {}
+}

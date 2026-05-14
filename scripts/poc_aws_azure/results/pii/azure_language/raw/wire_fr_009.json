@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_009",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-16",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thérèse Tremblay",
+      "start_char": 155,
+      "end_char": 171,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6488523",
+      "start_char": 191,
+      "end_char": 198,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 238,
+      "end_char": 250,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Étienne Ouellet",
+      "start_char": 257,
+      "end_char": 272,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6413664",
+      "start_char": 292,
+      "end_char": 299,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "HSBC Canada",
+      "start_char": 314,
+      "end_char": 325,
+      "confidence": 0.98,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Raphaël Lévesque",
+      "start_char": 438,
+      "end_char": 454,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 455,
+      "end_char": 458,
+      "confidence": 0.56,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "539386615",
+      "start_char": 481,
+      "end_char": 490,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "raphael.levesque@example.ca",
+      "start_char": 502,
+      "end_char": 529,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 308-5842",
+      "start_char": 542,
+      "end_char": 556,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "N2A 6N0",
+      "start_char": 571,
+      "end_char": 578,
+      "confidence": 0.81,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "N2A 6N0",
+      "start_char": 571,
+      "end_char": 578,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-14",
+      "start_char": 620,
+      "end_char": 630,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 202,
+  "cost_estimate_usd": 0.001,
+  "char_count": 631,
+  "error": null,
+  "raw_response": {}
+}

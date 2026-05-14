@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_002",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-03",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Ménard",
+      "start_char": 155,
+      "end_char": 171,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1540377",
+      "start_char": 191,
+      "end_char": 198,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 241,
+      "end_char": 253,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benoît Desjardins",
+      "start_char": 260,
+      "end_char": 277,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3334293",
+      "start_char": 297,
+      "end_char": 304,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "CIBC",
+      "start_char": 319,
+      "end_char": 323,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "fournisseur",
+      "start_char": 389,
+      "end_char": 400,
+      "confidence": 0.55,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Hélène Desjardins",
+      "start_char": 430,
+      "end_char": 447,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "259999662",
+      "start_char": 474,
+      "end_char": 483,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "helene.desjardins@example.ca",
+      "start_char": 495,
+      "end_char": 523,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 265-8757",
+      "start_char": 536,
+      "end_char": 550,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "R3V 1N9",
+      "start_char": 565,
+      "end_char": 572,
+      "confidence": 0.87,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "R3V 1N9",
+      "start_char": 565,
+      "end_char": 572,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-18",
+      "start_char": 614,
+      "end_char": 624,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 145,
+  "cost_estimate_usd": 0.001,
+  "char_count": 625,
+  "error": null,
+  "raw_response": {}
+}

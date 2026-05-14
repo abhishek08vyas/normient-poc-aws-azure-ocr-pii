@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_041",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-30",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melissa Wagner",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1485654",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Odonnell",
+      "start_char": 226,
+      "end_char": 239,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1771600",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "HSBC Canada",
+      "start_char": 277,
+      "end_char": 288,
+      "confidence": 0.96,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brent Walters",
+      "start_char": 383,
+      "end_char": 396,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "304556236",
+      "start_char": 421,
+      "end_char": 430,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "brent.walters@synthco.com",
+      "start_char": 438,
+      "end_char": 463,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 779-2950",
+      "start_char": 471,
+      "end_char": 485,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "H2C 9R9",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.87,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "H2C 9R9",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-27",
+      "start_char": 546,
+      "end_char": 556,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 142,
+  "cost_estimate_usd": 0.001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

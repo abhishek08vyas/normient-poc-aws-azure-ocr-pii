@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-25
+Account Holder: Matthew Sheppard
+Account Number: 1058272
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-08-17	Vendor payment	Anna Torres		41,185.69	139,249.85	TXN-544730
+2025-06-28	Direct deposit	Brian Hernandez	9,505.17		129,744.67	TXN-462974
+2025-12-15	E-transfer	Shelley Woods		21,020.11	150,764.78	TXN-133782
+2026-03-05	Service fee	Shelley Woods	5,134.75		145,630.03	TXN-352356
+2025-10-21	Wire transfer	Brian Hernandez		43,623.40	189,253.43	TXN-726822
+2026-01-03	Direct deposit	Shelley Woods	27,034.01		162,219.42	TXN-521805
+2025-12-30	Service fee	Shelley Woods		14,534.25	176,753.66	TXN-246942
+2026-03-16	Service fee	Anna Torres		38,649.66	215,403.32	TXN-434394
+2026-01-08	Service fee	Charles Soto	7,248.70		208,154.63	TXN-348411
+2025-08-08	E-transfer	Anna Torres	13,830.18		194,324.44	TXN-331780
+2026-03-10	Payroll	Anna Torres		31,337.06	225,661.50	TXN-870925
+2025-12-01	Vendor payment	Anna Torres	17,286.30		208,375.20	TXN-619696
+2025-10-07	E-transfer	Brian Hernandez		34,845.79	243,220.99	TXN-923975
+2025-11-03	Vendor payment	Lynn Morales	37,745.36		205,475.63	TXN-414455
+2026-04-30	Vendor payment	Lynn Morales	42,891.31		162,584.32	TXN-990598
+2025-10-31	Direct deposit	Brian Hernandez		48,392.53	210,976.85	TXN-160423
+2025-09-05	Payroll	Anna Torres	12,824.28		198,152.57	TXN-240606
+2026-04-12	Bill payment	Shelley Woods		4,713.95	202,866.52	TXN-571635
+2025-12-27	E-transfer	Lynn Morales	33,716.23		169,150.29	TXN-154040
+2025-10-26	Payroll	Shelley Woods	38,108.65		131,041.64	TXN-176319
+2025-09-08	E-transfer	Anna Torres	43,486.75		87,554.90	TXN-327558
+2025-12-19	Bill payment	Charles Soto	9,582.18		77,972.71	TXN-116078
+2026-01-09	E-transfer	Shelley Woods		23,998.15	101,970.87	TXN-883159
+2025-06-05	Direct deposit	Anna Torres	45,764.81		56,206.06	TXN-837954
+2026-01-04	Payroll	Charles Soto	23,365.90		32,840.16	TXN-913185
+2026-02-24	E-transfer	Charles Soto	25,689.55		7,150.61	TXN-423404
+2025-06-20	Vendor payment	Brian Hernandez		36,148.44	43,299.05	TXN-203398
+2026-03-05	Service fee	Charles Soto	20,755.12		22,543.93	TXN-312994
+2025-08-01	Payroll	Lynn Morales	13,112.63		9,431.31	TXN-877259
+2026-01-10	Payroll	Anna Torres	7,705.33		1,725.98	TXN-854987
+2025-08-02	Bill payment	Lynn Morales		12,361.93	14,087.90	TXN-498290
+2025-08-23	Payroll	Charles Soto		24,482.19	38,570.10	TXN-369826
+2026-01-24	E-transfer	Brian Hernandez	39,769.28		-1,199.18	TXN-583214
+2025-06-13	Direct deposit	Lynn Morales		9,283.98	8,084.80	TXN-855303
+2025-07-12	Payroll	Shelley Woods	42,350.20		-34,265.40	TXN-649395
+2025-08-14	Service fee	Shelley Woods	6,960.83		-41,226.22	TXN-901467
+2025-07-19	E-transfer	Lynn Morales		556.16	-40,670.06	TXN-171269
+2025-12-13	Payroll	Brian Hernandez	31,922.66		-72,592.72	TXN-491329
+2025-06-11	Payroll	Brian Hernandez	429.96		-73,022.68	TXN-791309
+2025-07-12	Payroll	Brian Hernandez	36,137.42		-109,160.09	TXN-112426
+2025-05-14	Payroll	Charles Soto		34,923.17	-74,236.93	TXN-117975
+2025-10-18	Vendor payment	Lynn Morales		26,266.83	-47,970.10	TXN-212214
+2025-11-03	Direct deposit	Lynn Morales		40,779.20	-7,190.90	TXN-749887
+2026-02-04	Bill payment	Brian Hernandez	20,360.77		-27,551.67	TXN-182857
+2025-12-29	Payroll	Lynn Morales	34,233.68		-61,785.34	TXN-831105
+2025-11-11	Service fee	Shelley Woods		32,529.73	-29,255.61	TXN-785491
+2025-09-03	Wire transfer	Shelley Woods	27,679.80		-56,935.41	TXN-524965
+2025-05-25	Wire transfer	Shelley Woods	25,042.93		-81,978.34	TXN-836986
+2025-08-10	Vendor payment	Charles Soto		48,694.60	-33,283.74	TXN-693343
+2025-09-01	Payroll	Shelley Woods	43,419.03		-76,702.77	TXN-340927

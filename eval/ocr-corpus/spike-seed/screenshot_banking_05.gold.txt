@@ -1,0 +1,16 @@
+Acme Bank - Transaction Dashboard
+Client: Joshua Lewis
+Account: 8078673
+Balance: $12,860.44
+
+Date	Description	Debit	Credit	Balance	Reference	Status	Approver
+2025-01-24	E-transfer		5,656.33	18,516.77	TXN-629903	Approved	Kathryn Garcia
+2025-06-16	Interest payment	2,854.09		15,662.68	TXN-331148	Pending	Noah Howard
+2025-01-02	Bill payment	1,639.25		14,023.43	TXN-543143	Completed	Maurice Baker
+2025-03-28	Direct deposit	8,490.19		5,533.24	TXN-498382	Approved	Bradley Stevens
+2025-06-04	Payroll	1,335.78		4,197.46	TXN-865179	Approved	David Nielsen
+2025-04-07	Direct deposit		6,223.35	10,420.80	TXN-407419	Completed	Christian Carter
+2025-04-03	Account transfer	6,646.51		3,774.30	TXN-838797	Approved	Courtney Mcclure
+2025-03-16	Direct deposit	4,588.76		-814.46	TXN-205907	Approved	Michael Lee
+2025-04-04	Bill payment	2,743.08		-3,557.54	TXN-472528	Pending	Chad Stanley
+2025-06-24	Direct deposit	7,318.36		-10,875.90	TXN-765822	Completed	Kendra Galloway

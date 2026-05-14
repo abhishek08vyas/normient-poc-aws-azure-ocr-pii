@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_002",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999787211418152,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer West",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 0.9998769164085388,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5993143",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.9998495578765869,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-26",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 181,
+      "end_char": 198,
+      "confidence": 0.9999425411224365,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-12",
+      "start_char": 231,
+      "end_char": 241,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 254,
+      "end_char": 271,
+      "confidence": 0.9999422430992126,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-28",
+      "start_char": 304,
+      "end_char": 314,
+      "confidence": 0.9999883770942688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alyssa Coleman",
+      "start_char": 323,
+      "end_char": 337,
+      "confidence": 0.9998838305473328,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-25",
+      "start_char": 370,
+      "end_char": 380,
+      "confidence": 0.9999861717224121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 393,
+      "end_char": 407,
+      "confidence": 0.9999372363090515,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-07",
+      "start_char": 440,
+      "end_char": 450,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 465,
+      "end_char": 479,
+      "confidence": 0.9998880624771118,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 512,
+      "end_char": 522,
+      "confidence": 0.9999855756759644,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 538,
+      "end_char": 552,
+      "confidence": 0.9999353885650635,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-05",
+      "start_char": 586,
+      "end_char": 596,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 608,
+      "end_char": 622,
+      "confidence": 0.9999188780784607,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-23",
+      "start_char": 655,
+      "end_char": 665,
+      "confidence": 0.999991238117218,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 681,
+      "end_char": 695,
+      "confidence": 0.9999553561210632,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-26",
+      "start_char": 729,
+      "end_char": 739,
+      "confidence": 0.9999907612800598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 751,
+      "end_char": 765,
+      "confidence": 0.9999330639839172,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-05",
+      "start_char": 798,
+      "end_char": 808,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 824,
+      "end_char": 842,
+      "confidence": 0.9998838901519775,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-23",
+      "start_char": 872,
+      "end_char": 882,
+      "confidence": 0.9999799728393555,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 891,
+      "end_char": 905,
+      "confidence": 0.9999409914016724,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-17",
+      "start_char": 939,
+      "end_char": 949,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alyssa Coleman",
+      "start_char": 965,
+      "end_char": 979,
+      "confidence": 0.9998945593833923,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-28",
+      "start_char": 1012,
+      "end_char": 1022,
+      "confidence": 0.9999901652336121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 1036,
+      "end_char": 1050,
+      "confidence": 0.999908447265625,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-18",
+      "start_char": 1083,
+      "end_char": 1093,
+      "confidence": 0.9999849200248718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Julie Rivera",
+      "start_char": 1105,
+      "end_char": 1117,
+      "confidence": 0.9999181032180786,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-27",
+      "start_char": 1150,
+      "end_char": 1160,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 1175,
+      "end_char": 1189,
+      "confidence": 0.9998934268951416,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-04",
+      "start_char": 1221,
+      "end_char": 1231,
+      "confidence": 0.9999886751174927,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Martinez",
+      "start_char": 1246,
+      "end_char": 1259,
+      "confidence": 0.999847412109375,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-02",
+      "start_char": 1291,
+      "end_char": 1301,
+      "confidence": 0.9999836087226868,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Martinez",
+      "start_char": 1313,
+      "end_char": 1326,
+      "confidence": 0.9998568892478943,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-30",
+      "start_char": 1356,
+      "end_char": 1366,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Julie Rivera",
+      "start_char": 1375,
+      "end_char": 1387,
+      "confidence": 0.9999038577079773,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-30",
+      "start_char": 1421,
+      "end_char": 1431,
+      "confidence": 0.9999861717224121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 1447,
+      "end_char": 1464,
+      "confidence": 0.9999189972877502,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-21",
+      "start_char": 1498,
+      "end_char": 1508,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Martinez",
+      "start_char": 1524,
+      "end_char": 1537,
+      "confidence": 0.9998781681060791,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-01",
+      "start_char": 1570,
+      "end_char": 1580,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 1595,
+      "end_char": 1609,
+      "confidence": 0.9998586773872375,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-27",
+      "start_char": 1643,
+      "end_char": 1653,
+      "confidence": 0.9999880790710449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 1665,
+      "end_char": 1679,
+      "confidence": 0.9999371767044067,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-05",
+      "start_char": 1713,
+      "end_char": 1723,
+      "confidence": 0.9999906420707703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 1732,
+      "end_char": 1749,
+      "confidence": 0.9998958706855774,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-09",
+      "start_char": 1783,
+      "end_char": 1793,
+      "confidence": 0.9999858736991882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alyssa Coleman",
+      "start_char": 1805,
+      "end_char": 1819,
+      "confidence": 0.9999090433120728,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-30",
+      "start_char": 1853,
+      "end_char": 1863,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 1879,
+      "end_char": 1896,
+      "confidence": 0.9998924732208252,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-21",
+      "start_char": 1929,
+      "end_char": 1939,
+      "confidence": 0.9999876618385315,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 1953,
+      "end_char": 1967,
+      "confidence": 0.9999243021011353,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-07",
+      "start_char": 2001,
+      "end_char": 2011,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 2024,
+      "end_char": 2038,
+      "confidence": 0.999906063079834,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-18",
+      "start_char": 2072,
+      "end_char": 2082,
+      "confidence": 0.9999863505363464,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 2097,
+      "end_char": 2111,
+      "confidence": 0.9999063014984131,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-11",
+      "start_char": 2145,
+      "end_char": 2155,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 2167,
+      "end_char": 2185,
+      "confidence": 0.999908983707428,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-06",
+      "start_char": 2218,
+      "end_char": 2228,
+      "confidence": 0.9999806880950928,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 2237,
+      "end_char": 2254,
+      "confidence": 0.9999114274978638,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-01",
+      "start_char": 2286,
+      "end_char": 2296,
+      "confidence": 0.9999841451644897,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 2310,
+      "end_char": 2324,
+      "confidence": 0.9998921155929565,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-27",
+      "start_char": 2357,
+      "end_char": 2367,
+      "confidence": 0.9999783039093018,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 2383,
+      "end_char": 2397,
+      "confidence": 0.9999409914016724,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-30",
+      "start_char": 2430,
+      "end_char": 2440,
+      "confidence": 0.9999861717224121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 2456,
+      "end_char": 2473,
+      "confidence": 0.9999352097511292,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-03",
+      "start_char": 2507,
+      "end_char": 2517,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 2530,
+      "end_char": 2547,
+      "confidence": 0.9999145269393921,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-13",
+      "start_char": 2580,
+      "end_char": 2590,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Julie Rivera",
+      "start_char": 2603,
+      "end_char": 2615,
+      "confidence": 0.9999333024024963,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-03",
+      "start_char": 2648,
+      "end_char": 2658,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 2670,
+      "end_char": 2684,
+      "confidence": 0.9998878836631775,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-07",
+      "start_char": 2716,
+      "end_char": 2726,
+      "confidence": 0.9999905824661255,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Julie Rivera",
+      "start_char": 2739,
+      "end_char": 2751,
+      "confidence": 0.9999316930770874,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-01",
+      "start_char": 2784,
+      "end_char": 2794,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 2810,
+      "end_char": 2824,
+      "confidence": 0.9998929500579834,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-15",
+      "start_char": 2856,
+      "end_char": 2866,
+      "confidence": 0.9999866485595703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 2882,
+      "end_char": 2899,
+      "confidence": 0.9999272227287292,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 2931,
+      "end_char": 2941,
+      "confidence": 0.9999915957450867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Martinez",
+      "start_char": 2957,
+      "end_char": 2970,
+      "confidence": 0.9998874068260193,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-01",
+      "start_char": 3004,
+      "end_char": 3014,
+      "confidence": 0.9999873042106628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Julie Rivera",
+      "start_char": 3030,
+      "end_char": 3042,
+      "confidence": 0.9999426007270813,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-19",
+      "start_char": 3075,
+      "end_char": 3085,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Nelson",
+      "start_char": 3099,
+      "end_char": 3116,
+      "confidence": 0.9999008178710938,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-21",
+      "start_char": 3150,
+      "end_char": 3160,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 3172,
+      "end_char": 3186,
+      "confidence": 0.9998618364334106,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 3220,
+      "end_char": 3230,
+      "confidence": 0.9999809861183167,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Walker",
+      "start_char": 3242,
+      "end_char": 3260,
+      "confidence": 0.9998849630355835,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-17",
+      "start_char": 3293,
+      "end_char": 3303,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alyssa Coleman",
+      "start_char": 3318,
+      "end_char": 3332,
+      "confidence": 0.999874472618103,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 3365,
+      "end_char": 3375,
+      "confidence": 0.9999895095825195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Martinez",
+      "start_char": 3391,
+      "end_char": 3404,
+      "confidence": 0.9998732209205627,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-31",
+      "start_char": 3437,
+      "end_char": 3447,
+      "confidence": 0.9999862909317017,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bonnie Kennedy",
+      "start_char": 3463,
+      "end_char": 3477,
+      "confidence": 0.9997902512550354,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-11",
+      "start_char": 3511,
+      "end_char": 3521,
+      "confidence": 0.9999814033508301,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alyssa Coleman",
+      "start_char": 3537,
+      "end_char": 3551,
+      "confidence": 0.9997864961624146,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-14",
+      "start_char": 3583,
+      "end_char": 3593,
+      "confidence": 0.9999809265136719,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Torres",
+      "start_char": 3602,
+      "end_char": 3616,
+      "confidence": 0.99978107213974,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 3648,
+      "end_char": 3658,
+      "confidence": 0.9999722838401794,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alyssa Coleman",
+      "start_char": 3667,
+      "end_char": 3681,
+      "confidence": 0.9997088313102722,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 437,
+  "cost_estimate_usd": 0.0038,
+  "char_count": 3715,
+  "error": null,
+  "raw_response": {}
+}

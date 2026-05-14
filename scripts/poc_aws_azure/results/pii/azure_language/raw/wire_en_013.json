@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_013",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-23",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Reginald Robinson",
+      "start_char": 132,
+      "end_char": 149,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2229110",
+      "start_char": 166,
+      "end_char": 173,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Whitney Hicks",
+      "start_char": 229,
+      "end_char": 242,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4576135",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 280,
+      "end_char": 295,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Williams",
+      "start_char": 395,
+      "end_char": 415,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "542513544",
+      "start_char": 440,
+      "end_char": 449,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "christopher.williams@example.ca",
+      "start_char": 457,
+      "end_char": 488,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 756-4956",
+      "start_char": 496,
+      "end_char": 510,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X0X 4E2",
+      "start_char": 524,
+      "end_char": 531,
+      "confidence": 0.85,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X0X 4E2",
+      "start_char": 524,
+      "end_char": 531,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-10",
+      "start_char": 571,
+      "end_char": 581,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 169,
+  "cost_estimate_usd": 0.001,
+  "char_count": 582,
+  "error": null,
+  "raw_response": {}
+}

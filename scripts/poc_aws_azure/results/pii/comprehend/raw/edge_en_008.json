@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_008",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Margaret Gill",
+      "start_char": 35,
+      "end_char": 48,
+      "confidence": 0.9999608993530273,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "388 967 929",
+      "start_char": 74,
+      "end_char": 85,
+      "confidence": 0.999948263168335,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5346322",
+      "start_char": 95,
+      "end_char": 102,
+      "confidence": 0.995072066783905,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 221,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 103,
+  "error": null,
+  "raw_response": {}
+}

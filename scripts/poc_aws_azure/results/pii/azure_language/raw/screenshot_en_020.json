@@ -1,0 +1,91 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_020",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Client",
+      "start_char": 24,
+      "end_char": 30,
+      "confidence": 0.7,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Graham",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "8870361",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-15 08:23:37",
+      "start_char": 119,
+      "end_char": 138,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jeffrey.graham@acmecorp.ca",
+      "start_char": 154,
+      "end_char": 180,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-01",
+      "start_char": 259,
+      "end_char": 269,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 319,
+      "end_char": 329,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-02",
+      "start_char": 380,
+      "end_char": 390,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-21",
+      "start_char": 441,
+      "end_char": 451,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-05",
+      "start_char": 502,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 145,
+  "cost_estimate_usd": 0.001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

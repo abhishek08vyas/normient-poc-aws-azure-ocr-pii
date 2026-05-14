@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_004",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.99997478723526,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jasmine Warner",
+      "start_char": 58,
+      "end_char": 72,
+      "confidence": 0.9999290704727173,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8977571",
+      "start_char": 89,
+      "end_char": 96,
+      "confidence": 0.9996763467788696,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-30",
+      "start_char": 160,
+      "end_char": 170,
+      "confidence": 0.9999819993972778,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 185,
+      "end_char": 198,
+      "confidence": 0.9999210834503174,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-27",
+      "start_char": 231,
+      "end_char": 241,
+      "confidence": 0.999987006187439,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Moody",
+      "start_char": 256,
+      "end_char": 268,
+      "confidence": 0.9999038577079773,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-29",
+      "start_char": 301,
+      "end_char": 311,
+      "confidence": 0.9999822378158569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Moody",
+      "start_char": 320,
+      "end_char": 332,
+      "confidence": 0.9995735883712769,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-20",
+      "start_char": 365,
+      "end_char": 375,
+      "confidence": 0.9999866485595703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittany Lara",
+      "start_char": 390,
+      "end_char": 403,
+      "confidence": 0.9999508857727051,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 436,
+      "end_char": 446,
+      "confidence": 0.9999868869781494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 459,
+      "end_char": 471,
+      "confidence": 0.9998804330825806,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-02",
+      "start_char": 504,
+      "end_char": 514,
+      "confidence": 0.9999801516532898,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 527,
+      "end_char": 540,
+      "confidence": 0.9999040365219116,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-30",
+      "start_char": 574,
+      "end_char": 584,
+      "confidence": 0.9999895691871643,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 599,
+      "end_char": 616,
+      "confidence": 0.9999151229858398,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-30",
+      "start_char": 649,
+      "end_char": 659,
+      "confidence": 0.9999830722808838,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Moody",
+      "start_char": 675,
+      "end_char": 687,
+      "confidence": 0.9998842477798462,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-11",
+      "start_char": 720,
+      "end_char": 730,
+      "confidence": 0.9999854564666748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 739,
+      "end_char": 756,
+      "confidence": 0.9998939633369446,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-04",
+      "start_char": 790,
+      "end_char": 800,
+      "confidence": 0.9999815821647644,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittany Lara",
+      "start_char": 812,
+      "end_char": 825,
+      "confidence": 0.9999461770057678,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-08",
+      "start_char": 859,
+      "end_char": 869,
+      "confidence": 0.9999849796295166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 883,
+      "end_char": 900,
+      "confidence": 0.9998796582221985,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-08",
+      "start_char": 933,
+      "end_char": 943,
+      "confidence": 0.9999797940254211,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 955,
+      "end_char": 967,
+      "confidence": 0.999885082244873,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-16",
+      "start_char": 1001,
+      "end_char": 1011,
+      "confidence": 0.999984860420227,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 1027,
+      "end_char": 1040,
+      "confidence": 0.9999138712882996,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-26",
+      "start_char": 1073,
+      "end_char": 1083,
+      "confidence": 0.9999932050704956,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 1095,
+      "end_char": 1107,
+      "confidence": 0.9998281598091125,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-23",
+      "start_char": 1140,
+      "end_char": 1150,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Hall",
+      "start_char": 1164,
+      "end_char": 1176,
+      "confidence": 0.9999051690101624,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-08",
+      "start_char": 1209,
+      "end_char": 1219,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 1233,
+      "end_char": 1245,
+      "confidence": 0.9997552633285522,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-20",
+      "start_char": 1277,
+      "end_char": 1287,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 1303,
+      "end_char": 1315,
+      "confidence": 0.9998819231987,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-30",
+      "start_char": 1348,
+      "end_char": 1358,
+      "confidence": 0.9999916553497314,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Hall",
+      "start_char": 1373,
+      "end_char": 1385,
+      "confidence": 0.9999068379402161,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-13",
+      "start_char": 1419,
+      "end_char": 1429,
+      "confidence": 0.9999917149543762,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittany Lara",
+      "start_char": 1442,
+      "end_char": 1455,
+      "confidence": 0.9999371767044067,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-31",
+      "start_char": 1488,
+      "end_char": 1498,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Hall",
+      "start_char": 1511,
+      "end_char": 1523,
+      "confidence": 0.9999039173126221,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-28",
+      "start_char": 1557,
+      "end_char": 1567,
+      "confidence": 0.9999918341636658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 1583,
+      "end_char": 1600,
+      "confidence": 0.9999250173568726,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 1634,
+      "end_char": 1644,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittany Lara",
+      "start_char": 1660,
+      "end_char": 1673,
+      "confidence": 0.9999426007270813,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-27",
+      "start_char": 1706,
+      "end_char": 1716,
+      "confidence": 0.9999896883964539,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 1732,
+      "end_char": 1744,
+      "confidence": 0.9998886585235596,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-22",
+      "start_char": 1777,
+      "end_char": 1787,
+      "confidence": 0.9999898076057434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittany Lara",
+      "start_char": 1802,
+      "end_char": 1815,
+      "confidence": 0.9999473094940186,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-15",
+      "start_char": 1849,
+      "end_char": 1859,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 1875,
+      "end_char": 1892,
+      "confidence": 0.9999097585678101,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-02",
+      "start_char": 1925,
+      "end_char": 1935,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Hall",
+      "start_char": 1949,
+      "end_char": 1961,
+      "confidence": 0.9999064803123474,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-18",
+      "start_char": 1994,
+      "end_char": 2004,
+      "confidence": 0.9999891519546509,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 2017,
+      "end_char": 2029,
+      "confidence": 0.9999106526374817,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-23",
+      "start_char": 2062,
+      "end_char": 2072,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 2085,
+      "end_char": 2097,
+      "confidence": 0.999835729598999,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-17",
+      "start_char": 2129,
+      "end_char": 2139,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 2153,
+      "end_char": 2170,
+      "confidence": 0.9998499751091003,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-09",
+      "start_char": 2203,
+      "end_char": 2213,
+      "confidence": 0.999993622303009,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittany Lara",
+      "start_char": 2229,
+      "end_char": 2242,
+      "confidence": 0.9999359846115112,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-29",
+      "start_char": 2275,
+      "end_char": 2285,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 2294,
+      "end_char": 2306,
+      "confidence": 0.9997153282165527,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-02",
+      "start_char": 2339,
+      "end_char": 2349,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 2362,
+      "end_char": 2374,
+      "confidence": 0.99984210729599,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-12",
+      "start_char": 2407,
+      "end_char": 2417,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Hernandez",
+      "start_char": 2426,
+      "end_char": 2443,
+      "confidence": 0.9998348355293274,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-22",
+      "start_char": 2476,
+      "end_char": 2486,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 2498,
+      "end_char": 2510,
+      "confidence": 0.9998798966407776,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-27",
+      "start_char": 2543,
+      "end_char": 2553,
+      "confidence": 0.9999873638153076,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 2566,
+      "end_char": 2579,
+      "confidence": 0.9998837113380432,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-21",
+      "start_char": 2612,
+      "end_char": 2622,
+      "confidence": 0.9999910593032837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 2638,
+      "end_char": 2651,
+      "confidence": 0.9998801946640015,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-06",
+      "start_char": 2684,
+      "end_char": 2694,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 2708,
+      "end_char": 2721,
+      "confidence": 0.9998760223388672,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-29",
+      "start_char": 2754,
+      "end_char": 2764,
+      "confidence": 0.9999895095825195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 2779,
+      "end_char": 2791,
+      "confidence": 0.9998559951782227,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-28",
+      "start_char": 2824,
+      "end_char": 2834,
+      "confidence": 0.9999889731407166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 2843,
+      "end_char": 2855,
+      "confidence": 0.9998244643211365,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-25",
+      "start_char": 2887,
+      "end_char": 2897,
+      "confidence": 0.9999897480010986,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 2911,
+      "end_char": 2924,
+      "confidence": 0.9998745918273926,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-22",
+      "start_char": 2958,
+      "end_char": 2968,
+      "confidence": 0.999989926815033,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Hall",
+      "start_char": 2983,
+      "end_char": 2995,
+      "confidence": 0.9998888373374939,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-28",
+      "start_char": 3028,
+      "end_char": 3038,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 3054,
+      "end_char": 3067,
+      "confidence": 0.9998837113380432,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 3100,
+      "end_char": 3110,
+      "confidence": 0.9999901652336121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 3122,
+      "end_char": 3135,
+      "confidence": 0.9998812675476074,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-02",
+      "start_char": 3168,
+      "end_char": 3178,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 3191,
+      "end_char": 3203,
+      "confidence": 0.9998622536659241,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-20",
+      "start_char": 3236,
+      "end_char": 3246,
+      "confidence": 0.999979555606842,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 3255,
+      "end_char": 3268,
+      "confidence": 0.9998767375946045,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-11",
+      "start_char": 3301,
+      "end_char": 3311,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Wilson",
+      "start_char": 3327,
+      "end_char": 3339,
+      "confidence": 0.9998733401298523,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-30",
+      "start_char": 3372,
+      "end_char": 3382,
+      "confidence": 0.9999858140945435,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joseph Thomas",
+      "start_char": 3391,
+      "end_char": 3404,
+      "confidence": 0.9998754858970642,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-21",
+      "start_char": 3438,
+      "end_char": 3448,
+      "confidence": 0.9999821186065674,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Hall",
+      "start_char": 3464,
+      "end_char": 3476,
+      "confidence": 0.9997860193252563,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 3510,
+      "end_char": 3520,
+      "confidence": 0.9999412298202515,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 3535,
+      "end_char": 3547,
+      "confidence": 0.9994717836380005,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 3581,
+      "end_char": 3591,
+      "confidence": 0.9999505281448364,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Sparks",
+      "start_char": 3607,
+      "end_char": 3619,
+      "confidence": 0.9992871880531311,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 412,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3653,
+  "error": null,
+  "raw_response": {}
+}

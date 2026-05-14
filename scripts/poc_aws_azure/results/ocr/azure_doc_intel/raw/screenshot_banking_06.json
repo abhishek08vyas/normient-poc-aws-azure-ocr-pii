@@ -1,0 +1,1913 @@
+{
+  "tool": "azure_doc_intel",
+  "file": "screenshot_banking_06.png",
+  "full_text": "Acme Bank - Transaction Dashboard\nClient: Melissa Delacruz Account: 3741438 Balance: $51, 603.42\nDate\nDescription\nDebit\nCredit\nBalance\nReference\nStatus\nApprover\n2025-03-11\nInterest payment\n7,706.30\n43,897.11\nTXN-817870\nApproved\nNorman Chavez\n2025-01-15\nE-transfer\n2,750.63\n41,146.48\nTXN-944151\nApproved\nMary Martin\n2025-02-24\nAccount transfer\n5,042.39\n36,104.09\nTXN-429963\nCompleted\nMichael Santiago\n2025-06-14\nPOS purchase\n7,475.39\n28,628.70\nTXN-377746\nApproved\nJacqueline Sutton\n2025-05-18\nPayroll\n5,876.98\n22,751.72\nTXN-712982\nCompleted\nCharles Reid\n2025-04-03\nE-transfer\n7,582.24\n15,169.48\nTXN-634277\nApproved\nAmanda Sanchez\n2025-01-29\nBill payment\n4,279.38\n19,448.86\nTXN-267753\nCompleted\nSteven Nelson\n2025-01-17\nATM withdrawal\n5,338.23\n24,787.10\nTXN-724834\nPending\nSara Watts\n2025-05-22\nWire transfer\n8,859.41\n15,927.69\nTXN-855731\nCompleted\nJeffrey Nguyen\n2025-03-10\nService fee\n4,591.86\n11,335.83\nTXN-407757\nApproved\nKayla Brown",
+  "words": [
+    {
+      "text": "Acme",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 18.0,
+        "top": 22.0,
+        "width": 46.0,
+        "height": 15.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Bank",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 79.0,
+        "top": 22.0,
+        "width": 45.0,
+        "height": 15.0
+      },
+      "page": 1
+    },
+    {
+      "text": "-",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 141.0,
+        "top": 21.0,
+        "width": 8.0,
+        "height": 16.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Transaction",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 166.0,
+        "top": 21.0,
+        "width": 132.0,
+        "height": 16.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Dashboard",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 304.0,
+        "top": 21.0,
+        "width": 115.0,
+        "height": 16.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Client:",
+      "confidence": 0.977,
+      "bbox": {
+        "left": 19.0,
+        "top": 82.0,
+        "width": 54.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Melissa",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 83.0,
+        "top": 82.0,
+        "width": 57.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Delacruz",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 148.0,
+        "top": 82.0,
+        "width": 65.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Account:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 19.0,
+        "top": 107.0,
+        "width": 62.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "3741438",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 92.0,
+        "top": 106.0,
+        "width": 57.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Balance:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 19.0,
+        "top": 132.0,
+        "width": 62.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "$51,",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 92.0,
+        "top": 132.0,
+        "width": 29.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "603.42",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 125.0,
+        "top": 131.0,
+        "width": 48.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Date",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 23.0,
+        "top": 185.0,
+        "width": 35.0,
+        "height": 10.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Description",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 144.0,
+        "top": 185.0,
+        "width": 90.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Debit",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 324.0,
+        "top": 184.0,
+        "width": 42.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Credit",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 424.0,
+        "top": 184.0,
+        "width": 50.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Balance",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 524.0,
+        "top": 185.0,
+        "width": 58.0,
+        "height": 10.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Reference",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 644.0,
+        "top": 184.0,
+        "width": 74.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Status",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 764.0,
+        "top": 185.0,
+        "width": 50.0,
+        "height": 10.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Approver",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 864.0,
+        "top": 185.0,
+        "width": 66.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-03-11",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 25.0,
+        "top": 213.0,
+        "width": 81.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Interest",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 145.0,
+        "top": 214.0,
+        "width": 64.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "payment",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 216.0,
+        "top": 215.0,
+        "width": 58.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "7,706.30",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 325.0,
+        "top": 214.0,
+        "width": 65.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "43,897.11",
+      "confidence": 0.99,
+      "bbox": {
+        "left": 525.0,
+        "top": 213.0,
+        "width": 73.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-817870",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 644.0,
+        "top": 213.0,
+        "width": 82.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Approved",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 764.0,
+        "top": 214.0,
+        "width": 67.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Norman",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 864.0,
+        "top": 214.0,
+        "width": 49.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Chavez",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 921.0,
+        "top": 214.0,
+        "width": 49.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-01-15",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 24.0,
+        "top": 243.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "E-transfer",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 143.0,
+        "top": 244.0,
+        "width": 83.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2,750.63",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 324.0,
+        "top": 243.0,
+        "width": 66.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "41,146.48",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 525.0,
+        "top": 243.0,
+        "width": 73.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-944151",
+      "confidence": 0.99,
+      "bbox": {
+        "left": 644.0,
+        "top": 243.0,
+        "width": 81.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Approved",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 764.0,
+        "top": 244.0,
+        "width": 67.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Mary",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 864.0,
+        "top": 244.0,
+        "width": 33.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Martin",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 904.0,
+        "top": 244.0,
+        "width": 50.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-02-24",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 24.0,
+        "top": 273.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Account",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 144.0,
+        "top": 274.0,
+        "width": 57.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 209.0,
+        "top": 274.0,
+        "width": 65.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "5,042.39",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 325.0,
+        "top": 273.0,
+        "width": 65.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "36,104.09",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 524.0,
+        "top": 273.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-429963",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 644.0,
+        "top": 273.0,
+        "width": 82.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Completed",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 764.0,
+        "top": 273.0,
+        "width": 75.0,
+        "height": 14.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Michael",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 864.0,
+        "top": 274.0,
+        "width": 56.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Santiago",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 929.0,
+        "top": 274.0,
+        "width": 65.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-06-14",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 24.0,
+        "top": 303.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "POS",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 144.0,
+        "top": 304.0,
+        "width": 24.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "purchase",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 176.0,
+        "top": 304.0,
+        "width": 66.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "7,475.39",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 325.0,
+        "top": 303.0,
+        "width": 65.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "28,628.70",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 524.0,
+        "top": 303.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-377746",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 644.0,
+        "top": 303.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Approved",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 764.0,
+        "top": 304.0,
+        "width": 67.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Jacqueline",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 865.0,
+        "top": 304.0,
+        "width": 80.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Sutton",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 953.0,
+        "top": 304.0,
+        "width": 49.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-05-18",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 24.0,
+        "top": 333.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Payroll",
+      "confidence": 0.942,
+      "bbox": {
+        "left": 144.0,
+        "top": 334.0,
+        "width": 57.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "5,876.98",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 325.0,
+        "top": 334.0,
+        "width": 65.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "22,751.72",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 524.0,
+        "top": 333.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-712982",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 644.0,
+        "top": 333.0,
+        "width": 82.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Completed",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 764.0,
+        "top": 333.0,
+        "width": 75.0,
+        "height": 14.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Charles",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 864.0,
+        "top": 333.0,
+        "width": 56.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Reid",
+      "confidence": 0.991,
+      "bbox": {
+        "left": 928.0,
+        "top": 333.0,
+        "width": 35.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-04-03",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 24.0,
+        "top": 363.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "E-transfer",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 143.0,
+        "top": 364.0,
+        "width": 83.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "7,582.24",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 325.0,
+        "top": 363.0,
+        "width": 65.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "15,169.48",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 524.0,
+        "top": 363.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-634277",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 644.0,
+        "top": 363.0,
+        "width": 82.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Approved",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 764.0,
+        "top": 364.0,
+        "width": 67.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Amanda",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 864.0,
+        "top": 364.0,
+        "width": 49.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Sanchez",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 921.0,
+        "top": 364.0,
+        "width": 57.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-01-29",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 24.0,
+        "top": 393.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 144.0,
+        "top": 394.0,
+        "width": 32.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "payment",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 184.0,
+        "top": 395.0,
+        "width": 58.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "4,279.38",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 425.0,
+        "top": 393.0,
+        "width": 65.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "19,448.86",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 524.0,
+        "top": 393.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-267753",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 644.0,
+        "top": 393.0,
+        "width": 82.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Completed",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 764.0,
+        "top": 393.0,
+        "width": 75.0,
+        "height": 14.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Steven",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 864.0,
+        "top": 394.0,
+        "width": 49.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Nelson",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 920.0,
+        "top": 394.0,
+        "width": 50.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-01-17",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 24.0,
+        "top": 423.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "ATM",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 144.0,
+        "top": 424.0,
+        "width": 25.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "withdrawal",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 176.0,
+        "top": 424.0,
+        "width": 81.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "5,338.23",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 424.0,
+        "top": 423.0,
+        "width": 66.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "24,787.10",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 524.0,
+        "top": 423.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-724834",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 644.0,
+        "top": 423.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Pending",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 764.0,
+        "top": 424.0,
+        "width": 59.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Sara",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 864.0,
+        "top": 424.0,
+        "width": 33.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Watts",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 904.0,
+        "top": 424.0,
+        "width": 41.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-05-22",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 24.0,
+        "top": 453.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Wire",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 144.0,
+        "top": 455.0,
+        "width": 32.0,
+        "height": 10.0
+      },
+      "page": 1
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 185.0,
+        "top": 454.0,
+        "width": 65.0,
+        "height": 11.0
+      },
+      "page": 1
+    },
+    {
+      "text": "8,859.41",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 325.0,
+        "top": 454.0,
+        "width": 64.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "15,927.69",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 524.0,
+        "top": 453.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-855731",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 644.0,
+        "top": 453.0,
+        "width": 81.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Completed",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 764.0,
+        "top": 453.0,
+        "width": 75.0,
+        "height": 14.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Jeffrey",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 865.0,
+        "top": 454.0,
+        "width": 56.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Nguyen",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 928.0,
+        "top": 454.0,
+        "width": 50.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-03-10",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 24.0,
+        "top": 483.0,
+        "width": 82.0,
+        "height": 12.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Service",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 144.0,
+        "top": 485.0,
+        "width": 56.0,
+        "height": 10.0
+      },
+      "page": 1
+    },
+    {
+      "text": "fee",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 209.0,
+        "top": 485.0,
+        "width": 25.0,
+        "height": 10.0
+      },
+      "page": 1
+    },
+    {
+      "text": "4,591.86",
+      "confidence": 0.99,
+      "bbox": {
+        "left": 325.0,
+        "top": 483.0,
+        "width": 65.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "11,335.83",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 524.0,
+        "top": 483.0,
+        "width": 74.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "TXN-407757",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 644.0,
+        "top": 483.0,
+        "width": 82.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Approved",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 764.0,
+        "top": 484.0,
+        "width": 67.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Kayla",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 864.0,
+        "top": 484.0,
+        "width": 41.0,
+        "height": 13.0
+      },
+      "page": 1
+    },
+    {
+      "text": "Brown",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 913.0,
+        "top": 484.0,
+        "width": 41.0,
+        "height": 13.0
+      },
+      "page": 1
+    }
+  ],
+  "tables": [
+    {
+      "cells": [
+        {
+          "text": "Date",
+          "row_index": 0,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Description",
+          "row_index": 0,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Debit",
+          "row_index": 0,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Credit",
+          "row_index": 0,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Balance",
+          "row_index": 0,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Reference",
+          "row_index": 0,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Status",
+          "row_index": 0,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Approver",
+          "row_index": 0,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-03-11",
+          "row_index": 1,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Interest payment",
+          "row_index": 1,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "7,706.30",
+          "row_index": 1,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 1,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "43,897.11",
+          "row_index": 1,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-817870",
+          "row_index": 1,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Approved",
+          "row_index": 1,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Norman Chavez",
+          "row_index": 1,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-01-15",
+          "row_index": 2,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "E-transfer",
+          "row_index": 2,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2,750.63",
+          "row_index": 2,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 2,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "41,146.48",
+          "row_index": 2,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-944151",
+          "row_index": 2,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Approved",
+          "row_index": 2,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Mary Martin",
+          "row_index": 2,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-02-24",
+          "row_index": 3,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Account transfer",
+          "row_index": 3,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "5,042.39",
+          "row_index": 3,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 3,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "36,104.09",
+          "row_index": 3,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-429963",
+          "row_index": 3,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Completed",
+          "row_index": 3,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Michael Santiago",
+          "row_index": 3,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-06-14",
+          "row_index": 4,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "POS purchase",
+          "row_index": 4,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "7,475.39",
+          "row_index": 4,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 4,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "28,628.70",
+          "row_index": 4,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-377746",
+          "row_index": 4,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Approved",
+          "row_index": 4,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Jacqueline Sutton",
+          "row_index": 4,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-05-18",
+          "row_index": 5,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Payroll",
+          "row_index": 5,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "5,876.98",
+          "row_index": 5,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 5,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "22,751.72",
+          "row_index": 5,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-712982",
+          "row_index": 5,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Completed",
+          "row_index": 5,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Charles Reid",
+          "row_index": 5,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-04-03",
+          "row_index": 6,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "E-transfer",
+          "row_index": 6,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "7,582.24",
+          "row_index": 6,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 6,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "15,169.48",
+          "row_index": 6,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-634277",
+          "row_index": 6,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Approved",
+          "row_index": 6,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Amanda Sanchez",
+          "row_index": 6,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-01-29",
+          "row_index": 7,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Bill payment",
+          "row_index": 7,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 7,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "4,279.38",
+          "row_index": 7,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "19,448.86",
+          "row_index": 7,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-267753",
+          "row_index": 7,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Completed",
+          "row_index": 7,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Steven Nelson",
+          "row_index": 7,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-01-17",
+          "row_index": 8,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "ATM withdrawal",
+          "row_index": 8,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 8,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "5,338.23",
+          "row_index": 8,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "24,787.10",
+          "row_index": 8,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-724834",
+          "row_index": 8,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Pending",
+          "row_index": 8,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Sara Watts",
+          "row_index": 8,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-05-22",
+          "row_index": 9,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Wire transfer",
+          "row_index": 9,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "8,859.41",
+          "row_index": 9,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 9,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "15,927.69",
+          "row_index": 9,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-855731",
+          "row_index": 9,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Completed",
+          "row_index": 9,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Jeffrey Nguyen",
+          "row_index": 9,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "2025-03-10",
+          "row_index": 10,
+          "col_index": 0,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Service fee",
+          "row_index": 10,
+          "col_index": 1,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "4,591.86",
+          "row_index": 10,
+          "col_index": 2,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "",
+          "row_index": 10,
+          "col_index": 3,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "11,335.83",
+          "row_index": 10,
+          "col_index": 4,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "TXN-407757",
+          "row_index": 10,
+          "col_index": 5,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Approved",
+          "row_index": 10,
+          "col_index": 6,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        },
+        {
+          "text": "Kayla Brown",
+          "row_index": 10,
+          "col_index": 7,
+          "row_span": 1,
+          "col_span": 1,
+          "confidence": 1.0
+        }
+      ],
+      "row_count": 11,
+      "col_count": 8,
+      "page": 1
+    }
+  ],
+  "page_count": 1,
+  "latency_ms": 5317,
+  "cost_estimate_usd": 0.065,
+  "raw_response": {},
+  "error": null
+}

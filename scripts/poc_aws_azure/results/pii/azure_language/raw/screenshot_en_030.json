@@ -1,0 +1,75 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_030",
+  "detected_spans": [
+    {
+      "entity_type": "PHONE",
+      "text": "3329967",
+      "start_char": 56,
+      "end_char": 63,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-08 12:03:52",
+      "start_char": 114,
+      "end_char": 133,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "ross.wood@example.ca",
+      "start_char": 149,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 248,
+      "end_char": 258,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-13",
+      "start_char": 308,
+      "end_char": 318,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-03",
+      "start_char": 368,
+      "end_char": 378,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-06",
+      "start_char": 428,
+      "end_char": 438,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-18",
+      "start_char": 488,
+      "end_char": 498,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 148,
+  "cost_estimate_usd": 0.001,
+  "char_count": 549,
+  "error": null,
+  "raw_response": {}
+}

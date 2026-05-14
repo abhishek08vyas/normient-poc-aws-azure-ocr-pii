@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-09-03
+Reference : VIR-279750
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Gabrielle Ménard
+Numero de compte : 1540377
+Succursale : Quebec City
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Benoît Desjardins
+Numero de compte : 3334293
+Institution : CIBC
+
+DETAILS DU VIREMENT
+Montant : 481,007.13 $ CAD
+Objet : Paiement fournisseur
+
+AUTORISATION
+Approuve par : Hélène Desjardins
+NAS (pour verification) : 259999662
+Courriel : helene.desjardins@example.ca
+Telephone : (819) 265-8757
+Code postal : R3V 1N9
+
+Signature : ____________________
+Date : 2025-12-18

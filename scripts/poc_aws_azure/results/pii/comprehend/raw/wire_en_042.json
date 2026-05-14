@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_042",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-10",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999332427978516,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Cook",
+      "start_char": 132,
+      "end_char": 144,
+      "confidence": 0.9999555945396423,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5261032",
+      "start_char": 161,
+      "end_char": 168,
+      "confidence": 0.9955793023109436,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Steinbach, Manitoba",
+      "start_char": 177,
+      "end_char": 196,
+      "confidence": 0.9998102188110352,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Whitney",
+      "start_char": 226,
+      "end_char": 239,
+      "confidence": 0.9999422430992126,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8710313",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.9994561076164246,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Evan Ramos",
+      "start_char": 386,
+      "end_char": 396,
+      "confidence": 0.9999454021453857,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "307482174",
+      "start_char": 421,
+      "end_char": 430,
+      "confidence": 0.8851540088653564,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "evan.ramos@testbank.ca",
+      "start_char": 438,
+      "end_char": 460,
+      "confidence": 0.9999678134918213,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 854-6951",
+      "start_char": 468,
+      "end_char": 482,
+      "confidence": 0.9998182058334351,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "L7M 3R7",
+      "start_char": 496,
+      "end_char": 503,
+      "confidence": 0.9997743368148804,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "L7M 3R7",
+      "start_char": 496,
+      "end_char": 503,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-25",
+      "start_char": 543,
+      "end_char": 553,
+      "confidence": 0.9999925494194031,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 226,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 554,
+  "error": null,
+  "raw_response": {}
+}

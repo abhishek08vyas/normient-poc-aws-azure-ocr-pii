@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Elizabeth Nguyen
+Account: 7208460
+Type: Business
+Balance: $68,254.66 CAD
+Last Login: 2026-04-28 07:02:26
+Email on file: elizabeth.nguyen@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-09  POS purchase             $5,982.43    $74,237.09
+2026-04-19  Direct deposit           $1,616.23    $75,853.32
+2026-04-22  E-transfer               -$861.74     $74,991.58
+2026-05-03  ATM withdrawal           -$4,882.33   $70,109.25
+2026-05-01  Bill payment             $2,194.91    $72,304.16

@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-06-18
+Reference : VIR-391636
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Cécile Lefebvre
+Numero de compte : 3081317
+Succursale : Laval
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Cédric Côté
+Numero de compte : 6181620
+Institution : National Bank of Canada
+
+DETAILS DU VIREMENT
+Montant : 369,888.56 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Cécile Côté
+NAS (pour verification) : 263910259
+Courriel : cecile.cote@acmecorp.ca
+Telephone : (438) 406-2484
+Code postal : R3B 3Z7
+
+Signature : ____________________
+Date : 2025-07-22

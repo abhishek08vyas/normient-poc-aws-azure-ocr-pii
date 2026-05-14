@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_031",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-17",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998785257339478,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Mitchell",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 0.9999542832374573,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8875173",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.8713364601135254,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Thompson, Manitoba",
+      "start_char": 181,
+      "end_char": 199,
+      "confidence": 0.9992639422416687,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Cross",
+      "start_char": 229,
+      "end_char": 242,
+      "confidence": 0.9999681711196899,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9031491",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.9201696515083313,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Krista Stanley",
+      "start_char": 383,
+      "end_char": 397,
+      "confidence": 0.9999171495437622,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "452047111",
+      "start_char": 422,
+      "end_char": 431,
+      "confidence": 0.6373027563095093,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "krista.stanley@acmecorp.ca",
+      "start_char": 439,
+      "end_char": 465,
+      "confidence": 0.9999927282333374,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 275-9453",
+      "start_char": 473,
+      "end_char": 487,
+      "confidence": 0.999872624874115,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "B2G 9M1",
+      "start_char": 501,
+      "end_char": 508,
+      "confidence": 0.9986569285392761,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "B2G 9M1",
+      "start_char": 501,
+      "end_char": 508,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-11",
+      "start_char": 548,
+      "end_char": 558,
+      "confidence": 0.9999774694442749,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 275,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 559,
+  "error": null,
+  "raw_response": {}
+}

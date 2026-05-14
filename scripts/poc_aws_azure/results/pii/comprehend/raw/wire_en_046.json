@@ -1,0 +1,107 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_046",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-21",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999313354492188,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Eric Spears",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 0.9998894929885864,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2957497",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.9928262233734131,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Vancouver, British Columbia",
+      "start_char": 176,
+      "end_char": 203,
+      "confidence": 0.9997518658638,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Cherry",
+      "start_char": 233,
+      "end_char": 248,
+      "confidence": 0.9999390244483948,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3345069",
+      "start_char": 265,
+      "end_char": 272,
+      "confidence": 0.9970422387123108,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lisa Keith",
+      "start_char": 396,
+      "end_char": 406,
+      "confidence": 0.999845027923584,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "lisa.keith@example.ca",
+      "start_char": 448,
+      "end_char": 469,
+      "confidence": 0.9998542070388794,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 664-6078",
+      "start_char": 477,
+      "end_char": 491,
+      "confidence": 0.9995226263999939,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Y6Y 2S1",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.9963517785072327,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "Y6Y 2S1",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-20",
+      "start_char": 552,
+      "end_char": 562,
+      "confidence": 0.999980628490448,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 232,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

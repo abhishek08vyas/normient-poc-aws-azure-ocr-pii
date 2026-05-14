@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_006",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-29",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.999933660030365,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Calderon",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 0.9999164938926697,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8294150",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.9968198537826538,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Burnaby, British Columbia",
+      "start_char": 180,
+      "end_char": 205,
+      "confidence": 0.9994803071022034,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christine Hensley",
+      "start_char": 235,
+      "end_char": 252,
+      "confidence": 0.9998931884765625,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3653446",
+      "start_char": 269,
+      "end_char": 276,
+      "confidence": 0.998838484287262,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Barbara Bush",
+      "start_char": 400,
+      "end_char": 412,
+      "confidence": 0.9998173117637634,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "404828147",
+      "start_char": 437,
+      "end_char": 446,
+      "confidence": 0.5848272442817688,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "barbara.bush@synthco.com",
+      "start_char": 454,
+      "end_char": 478,
+      "confidence": 0.9999872446060181,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 356-6126",
+      "start_char": 486,
+      "end_char": 500,
+      "confidence": 0.9998698234558105,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "H8W 0Z5",
+      "start_char": 514,
+      "end_char": 521,
+      "confidence": 0.9860814809799194,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "H8W 0Z5",
+      "start_char": 514,
+      "end_char": 521,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-23",
+      "start_char": 561,
+      "end_char": 571,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 253,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 572,
+  "error": null,
+  "raw_response": {}
+}

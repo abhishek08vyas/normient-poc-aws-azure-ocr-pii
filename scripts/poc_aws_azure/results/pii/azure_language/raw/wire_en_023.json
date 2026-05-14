@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_023",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-03",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.78,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Caleb Smith",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7381734",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Chapman",
+      "start_char": 224,
+      "end_char": 238,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9002392",
+      "start_char": 255,
+      "end_char": 262,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "HSBC Canada",
+      "start_char": 276,
+      "end_char": 287,
+      "confidence": 0.96,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Adrian Zimmerman",
+      "start_char": 382,
+      "end_char": 398,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "154668891",
+      "start_char": 423,
+      "end_char": 432,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "adrian.zimmerman@example.ca",
+      "start_char": 440,
+      "end_char": 467,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 424-4471",
+      "start_char": 475,
+      "end_char": 489,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "S7A 6N6",
+      "start_char": 503,
+      "end_char": 510,
+      "confidence": 0.85,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "S7A 6N6",
+      "start_char": 503,
+      "end_char": 510,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-08",
+      "start_char": 550,
+      "end_char": 560,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 130,
+  "cost_estimate_usd": 0.001,
+  "char_count": 561,
+  "error": null,
+  "raw_response": {}
+}

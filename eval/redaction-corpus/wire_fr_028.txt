@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-05-05
+Reference : VIR-568957
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Geneviève Desjardins
+Numero de compte : 6005706
+Succursale : Trois-Rivieres
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Thérèse Fortin
+Numero de compte : 3101118
+Institution : Royal Bank of Canada
+
+DETAILS DU VIREMENT
+Montant : 347,912.73 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Émilie Ouellet
+NAS (pour verification) : 151826062
+Courriel : emilie.ouellet@synthco.com
+Telephone : (450) 265-8501
+Code postal : Y1J 1H9
+
+Signature : ____________________
+Date : 2026-04-24

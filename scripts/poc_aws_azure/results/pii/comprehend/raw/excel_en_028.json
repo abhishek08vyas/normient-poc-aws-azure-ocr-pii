@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_028",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999801516532898,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Smith",
+      "start_char": 58,
+      "end_char": 70,
+      "confidence": 0.9998864531517029,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7962689",
+      "start_char": 87,
+      "end_char": 94,
+      "confidence": 0.9998339414596558,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-18",
+      "start_char": 158,
+      "end_char": 168,
+      "confidence": 0.9999773502349854,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 184,
+      "end_char": 197,
+      "confidence": 0.998910129070282,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-02",
+      "start_char": 230,
+      "end_char": 240,
+      "confidence": 0.9999743103981018,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 256,
+      "end_char": 269,
+      "confidence": 0.9984146952629089,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-12",
+      "start_char": 302,
+      "end_char": 312,
+      "confidence": 0.9999780654907227,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 328,
+      "end_char": 342,
+      "confidence": 0.9997529983520508,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-17",
+      "start_char": 375,
+      "end_char": 385,
+      "confidence": 0.9999738335609436,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 400,
+      "end_char": 413,
+      "confidence": 0.9991990923881531,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-08",
+      "start_char": 446,
+      "end_char": 456,
+      "confidence": 0.9999784827232361,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 465,
+      "end_char": 478,
+      "confidence": 0.9993269443511963,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-09",
+      "start_char": 511,
+      "end_char": 521,
+      "confidence": 0.9999747276306152,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 534,
+      "end_char": 547,
+      "confidence": 0.9892992377281189,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-04",
+      "start_char": 580,
+      "end_char": 590,
+      "confidence": 0.9999854564666748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 602,
+      "end_char": 615,
+      "confidence": 0.9995757341384888,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-07",
+      "start_char": 647,
+      "end_char": 657,
+      "confidence": 0.999979555606842,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 669,
+      "end_char": 682,
+      "confidence": 0.9994437098503113,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-09",
+      "start_char": 715,
+      "end_char": 725,
+      "confidence": 0.9999806880950928,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 739,
+      "end_char": 752,
+      "confidence": 0.9997239708900452,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-28",
+      "start_char": 786,
+      "end_char": 796,
+      "confidence": 0.9999722242355347,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Watts",
+      "start_char": 809,
+      "end_char": 822,
+      "confidence": 0.9997068047523499,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-01",
+      "start_char": 856,
+      "end_char": 866,
+      "confidence": 0.9999757409095764,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 881,
+      "end_char": 895,
+      "confidence": 0.9996581077575684,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-15",
+      "start_char": 929,
+      "end_char": 939,
+      "confidence": 0.9999735355377197,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 955,
+      "end_char": 968,
+      "confidence": 0.9991171956062317,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-25",
+      "start_char": 1002,
+      "end_char": 1012,
+      "confidence": 0.9999796152114868,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Patton",
+      "start_char": 1021,
+      "end_char": 1033,
+      "confidence": 0.9995399117469788,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 1067,
+      "end_char": 1077,
+      "confidence": 0.9999865293502808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 1091,
+      "end_char": 1105,
+      "confidence": 0.9998878836631775,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-09",
+      "start_char": 1139,
+      "end_char": 1149,
+      "confidence": 0.9999868869781494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 1163,
+      "end_char": 1176,
+      "confidence": 0.9998812675476074,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-24",
+      "start_char": 1210,
+      "end_char": 1220,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 1232,
+      "end_char": 1245,
+      "confidence": 0.9998369812965393,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-26",
+      "start_char": 1279,
+      "end_char": 1289,
+      "confidence": 0.9999796152114868,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 1305,
+      "end_char": 1318,
+      "confidence": 0.9998822212219238,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-20",
+      "start_char": 1352,
+      "end_char": 1362,
+      "confidence": 0.9999865293502808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 1375,
+      "end_char": 1388,
+      "confidence": 0.9998524785041809,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 1422,
+      "end_char": 1432,
+      "confidence": 0.9999808073043823,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Patton",
+      "start_char": 1441,
+      "end_char": 1453,
+      "confidence": 0.9997186064720154,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-11",
+      "start_char": 1487,
+      "end_char": 1497,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 1509,
+      "end_char": 1522,
+      "confidence": 0.999786913394928,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-22",
+      "start_char": 1555,
+      "end_char": 1565,
+      "confidence": 0.9999856948852539,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Watts",
+      "start_char": 1579,
+      "end_char": 1592,
+      "confidence": 0.9998729825019836,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-10",
+      "start_char": 1625,
+      "end_char": 1635,
+      "confidence": 0.9999842047691345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 1648,
+      "end_char": 1661,
+      "confidence": 0.9998118877410889,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-20",
+      "start_char": 1695,
+      "end_char": 1705,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 1720,
+      "end_char": 1733,
+      "confidence": 0.9995819330215454,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-05",
+      "start_char": 1767,
+      "end_char": 1777,
+      "confidence": 0.9999871850013733,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Patton",
+      "start_char": 1786,
+      "end_char": 1798,
+      "confidence": 0.9997032284736633,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-31",
+      "start_char": 1832,
+      "end_char": 1842,
+      "confidence": 0.9999865889549255,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 1851,
+      "end_char": 1865,
+      "confidence": 0.9997411370277405,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-19",
+      "start_char": 1899,
+      "end_char": 1909,
+      "confidence": 0.9999850392341614,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 1921,
+      "end_char": 1935,
+      "confidence": 0.9997631311416626,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-23",
+      "start_char": 1969,
+      "end_char": 1979,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 1991,
+      "end_char": 2004,
+      "confidence": 0.9997458457946777,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-09",
+      "start_char": 2037,
+      "end_char": 2047,
+      "confidence": 0.9999837875366211,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Patton",
+      "start_char": 2056,
+      "end_char": 2068,
+      "confidence": 0.999302327632904,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-05",
+      "start_char": 2102,
+      "end_char": 2112,
+      "confidence": 0.9999906420707703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 2127,
+      "end_char": 2140,
+      "confidence": 0.9989120364189148,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 2174,
+      "end_char": 2184,
+      "confidence": 0.9999861717224121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 2199,
+      "end_char": 2212,
+      "confidence": 0.9994325637817383,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-12",
+      "start_char": 2246,
+      "end_char": 2256,
+      "confidence": 0.9999892115592957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 2272,
+      "end_char": 2285,
+      "confidence": 0.9995660781860352,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 2319,
+      "end_char": 2329,
+      "confidence": 0.999982476234436,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Patton",
+      "start_char": 2338,
+      "end_char": 2350,
+      "confidence": 0.998636782169342,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-07",
+      "start_char": 2384,
+      "end_char": 2394,
+      "confidence": 0.9999868273735046,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 2410,
+      "end_char": 2423,
+      "confidence": 0.999495267868042,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-22",
+      "start_char": 2457,
+      "end_char": 2467,
+      "confidence": 0.999989926815033,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Lane",
+      "start_char": 2483,
+      "end_char": 2496,
+      "confidence": 0.9998026490211487,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-19",
+      "start_char": 2529,
+      "end_char": 2539,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 2555,
+      "end_char": 2568,
+      "confidence": 0.9998815655708313,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-06",
+      "start_char": 2602,
+      "end_char": 2612,
+      "confidence": 0.999989926815033,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 2621,
+      "end_char": 2635,
+      "confidence": 0.9997898936271667,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-11",
+      "start_char": 2669,
+      "end_char": 2679,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 2695,
+      "end_char": 2708,
+      "confidence": 0.9998496174812317,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-05",
+      "start_char": 2742,
+      "end_char": 2752,
+      "confidence": 0.9999914765357971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tammy Patton",
+      "start_char": 2767,
+      "end_char": 2779,
+      "confidence": 0.9997841119766235,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-30",
+      "start_char": 2812,
+      "end_char": 2822,
+      "confidence": 0.9999903440475464,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Watts",
+      "start_char": 2831,
+      "end_char": 2844,
+      "confidence": 0.9998745918273926,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-01",
+      "start_char": 2877,
+      "end_char": 2887,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Watts",
+      "start_char": 2901,
+      "end_char": 2914,
+      "confidence": 0.9998713135719299,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-16",
+      "start_char": 2947,
+      "end_char": 2957,
+      "confidence": 0.999984622001648,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 2973,
+      "end_char": 2986,
+      "confidence": 0.9998746514320374,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-16",
+      "start_char": 3019,
+      "end_char": 3029,
+      "confidence": 0.9999879598617554,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Watts",
+      "start_char": 3043,
+      "end_char": 3056,
+      "confidence": 0.9998764395713806,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-25",
+      "start_char": 3090,
+      "end_char": 3100,
+      "confidence": 0.9999870657920837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 3115,
+      "end_char": 3128,
+      "confidence": 0.9997796416282654,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-14",
+      "start_char": 3162,
+      "end_char": 3172,
+      "confidence": 0.9999843835830688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 3188,
+      "end_char": 3201,
+      "confidence": 0.9997044801712036,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-03",
+      "start_char": 3235,
+      "end_char": 3245,
+      "confidence": 0.999984622001648,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Silva",
+      "start_char": 3259,
+      "end_char": 3273,
+      "confidence": 0.9998157024383545,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-06",
+      "start_char": 3307,
+      "end_char": 3317,
+      "confidence": 0.9999845623970032,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 3326,
+      "end_char": 3339,
+      "confidence": 0.9993970394134521,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-11",
+      "start_char": 3373,
+      "end_char": 3383,
+      "confidence": 0.9999889731407166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 3396,
+      "end_char": 3409,
+      "confidence": 0.9992839694023132,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-19",
+      "start_char": 3442,
+      "end_char": 3452,
+      "confidence": 0.9999808669090271,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Whitney",
+      "start_char": 3466,
+      "end_char": 3479,
+      "confidence": 0.9993299245834351,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-07",
+      "start_char": 3512,
+      "end_char": 3522,
+      "confidence": 0.9999852776527405,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandy Robles",
+      "start_char": 3538,
+      "end_char": 3551,
+      "confidence": 0.9980026483535767,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 3583,
+      "end_char": 3593,
+      "confidence": 0.9999839663505554,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Wells",
+      "start_char": 3605,
+      "end_char": 3618,
+      "confidence": 0.9985935688018799,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 670,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3650,
+  "error": null,
+  "raw_response": {}
+}

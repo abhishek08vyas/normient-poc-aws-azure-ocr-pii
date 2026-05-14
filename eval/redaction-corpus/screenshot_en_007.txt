@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Kevin Clark
+Account: 8225192
+Type: Chequing
+Balance: $79,140.45 CAD
+Last Login: 2026-05-12 02:18:31
+Email on file: kevin.clark@example.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-12  E-transfer               $2,339.60    $81,480.05
+2026-04-28  E-transfer               -$8,071.69   $73,408.36
+2026-05-05  E-transfer               -$470.91     $72,937.45
+2026-05-04  Wire transfer            $8,627.99    $81,565.45
+2026-05-04  POS purchase             $4,074.01    $85,639.46

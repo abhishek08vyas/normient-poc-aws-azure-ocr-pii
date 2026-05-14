@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_011",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Troy Sanchez",
+      "start_char": 37,
+      "end_char": 49,
+      "confidence": 0.9999589920043945,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1942411",
+      "start_char": 59,
+      "end_char": 66,
+      "confidence": 0.9988927245140076,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 118,
+      "end_char": 128,
+      "confidence": 0.999994158744812,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "05:02:15",
+      "start_char": 129,
+      "end_char": 137,
+      "confidence": 0.9978786110877991,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "troy.sanchez@testbank.ca",
+      "start_char": 153,
+      "end_char": 177,
+      "confidence": 0.999921441078186,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 256,
+      "end_char": 266,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 317,
+      "end_char": 327,
+      "confidence": 0.9999947547912598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 378,
+      "end_char": 388,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-21",
+      "start_char": 439,
+      "end_char": 449,
+      "confidence": 0.9999951124191284,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-08",
+      "start_char": 500,
+      "end_char": 510,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 452,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 561,
+  "error": null,
+  "raw_response": {}
+}

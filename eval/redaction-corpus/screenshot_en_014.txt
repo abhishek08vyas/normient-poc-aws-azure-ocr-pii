@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Phyllis Manning
+Account: 3372774
+Type: Savings
+Balance: $193,700.82 CAD
+Last Login: 2026-05-06 23:36:47
+Email on file: phyllis.manning@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-04  E-transfer               -$6,638.24   $187,062.57
+2026-04-25  E-transfer               -$9,383.12   $177,679.45
+2026-04-25  ATM withdrawal           -$6,452.76   $171,226.69
+2026-04-26  Direct deposit           $6,717.66    $177,944.35
+2026-05-08  E-transfer               $9,971.78    $187,916.14

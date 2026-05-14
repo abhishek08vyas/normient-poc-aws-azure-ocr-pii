@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_020",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Elliott",
+      "start_char": 32,
+      "end_char": 46,
+      "confidence": 0.9999538660049438,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "454-510-520",
+      "start_char": 52,
+      "end_char": 63,
+      "confidence": 0.999818742275238,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "robert.elliott@testbank.ca",
+      "start_char": 73,
+      "end_char": 99,
+      "confidence": 0.9998754262924194,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 219,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 100,
+  "error": null,
+  "raw_response": {}
+}

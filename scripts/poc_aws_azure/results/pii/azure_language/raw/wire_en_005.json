@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-06",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.77,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Munoz",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7073292",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lindsay Blair",
+      "start_char": 233,
+      "end_char": 246,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4679591",
+      "start_char": 263,
+      "end_char": 270,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 284,
+      "end_char": 299,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Dudley",
+      "start_char": 399,
+      "end_char": 412,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "287101224",
+      "start_char": 437,
+      "end_char": 446,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "amanda.dudley@acmecorp.ca",
+      "start_char": 454,
+      "end_char": 479,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 594-6252",
+      "start_char": 487,
+      "end_char": 501,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "T8L 8A1",
+      "start_char": 515,
+      "end_char": 522,
+      "confidence": 0.89,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "T8L 8A1",
+      "start_char": 515,
+      "end_char": 522,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-11",
+      "start_char": 562,
+      "end_char": 572,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 276,
+  "cost_estimate_usd": 0.001,
+  "char_count": 573,
+  "error": null,
+  "raw_response": {}
+}

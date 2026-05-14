@@ -1,0 +1,123 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_045",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-08",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Fleming",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7619862",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Red Deer",
+      "start_char": 180,
+      "end_char": 188,
+      "confidence": 0.58,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Elizabeth Gomez",
+      "start_char": 227,
+      "end_char": 242,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1233516",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 280,
+      "end_char": 295,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anita Baxter",
+      "start_char": 390,
+      "end_char": 402,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "381754969",
+      "start_char": 427,
+      "end_char": 436,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "anita.baxter@testbank.ca",
+      "start_char": 444,
+      "end_char": 468,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 891-3830",
+      "start_char": 476,
+      "end_char": 490,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "V0Z 8N9",
+      "start_char": 504,
+      "end_char": 511,
+      "confidence": 0.86,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "V0Z 8N9",
+      "start_char": 504,
+      "end_char": 511,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-27",
+      "start_char": 551,
+      "end_char": 561,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 130,
+  "cost_estimate_usd": 0.001,
+  "char_count": 562,
+  "error": null,
+  "raw_response": {}
+}

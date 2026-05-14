@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Steven Grant
+Account: 4158134
+Type: Business
+Balance: $97,747.66 CAD
+Last Login: 2026-04-19 19:58:13
+Email on file: steven.grant@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-05  Direct deposit           -$9,579.34   $88,168.32
+2026-04-19  Bill payment             -$9,824.74   $78,343.59
+2026-05-05  E-transfer               -$1,766.96   $76,576.63
+2026-05-08  ATM withdrawal           $9,910.31    $86,486.94
+2026-05-10  POS purchase             -$1,629.52   $84,857.41

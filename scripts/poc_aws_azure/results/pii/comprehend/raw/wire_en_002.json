@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_002",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-28",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998838305473328,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Henderson",
+      "start_char": 132,
+      "end_char": 153,
+      "confidence": 0.9999019503593445,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1109031",
+      "start_char": 170,
+      "end_char": 177,
+      "confidence": 0.9987994432449341,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "London, Ontario",
+      "start_char": 186,
+      "end_char": 201,
+      "confidence": 0.9991053342819214,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anthony Robinson",
+      "start_char": 231,
+      "end_char": 247,
+      "confidence": 0.9999446868896484,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3678638",
+      "start_char": 264,
+      "end_char": 271,
+      "confidence": 0.9997380375862122,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Johnson",
+      "start_char": 394,
+      "end_char": 409,
+      "confidence": 0.9999186396598816,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "665423513",
+      "start_char": 434,
+      "end_char": 443,
+      "confidence": 0.9601539969444275,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "william.johnson@example.com",
+      "start_char": 451,
+      "end_char": 478,
+      "confidence": 0.9999791383743286,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 299-5881",
+      "start_char": 486,
+      "end_char": 500,
+      "confidence": 0.9999080896377563,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "P9L 0T8",
+      "start_char": 514,
+      "end_char": 521,
+      "confidence": 0.9990144371986389,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "P9L 0T8",
+      "start_char": 514,
+      "end_char": 521,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-14",
+      "start_char": 561,
+      "end_char": 571,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 238,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 572,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-07-13
+Reference : VIR-757428
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Thérèse Desjardins
+Numero de compte : 3429724
+Succursale : Laval
+
+INFORMATIONS DU DESTINATAIRE
+Nom : René Beaulieu
+Numero de compte : 4519295
+Institution : Desjardins
+
+DETAILS DU VIREMENT
+Montant : 325,398.80 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Émilie Ménard
+NAS (pour verification) : 230591265
+Courriel : emilie.menard@acmecorp.ca
+Telephone : (905) 257-1573
+Code postal : P7H 0E8
+
+Signature : ____________________
+Date : 2025-10-16

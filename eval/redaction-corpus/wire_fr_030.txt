@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-03-06
+Reference : VIR-578221
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Éloïse Béland
+Numero de compte : 4977883
+Succursale : Levis
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Raphaël Gauthier
+Numero de compte : 1616293
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 325,234.70 $ CAD
+Objet : Paiement fournisseur
+
+AUTORISATION
+Approuve par : Geneviève Gagné
+NAS (pour verification) : 224329839
+Courriel : genevieve.gagne@synthco.com
+Telephone : (613) 484-2105
+Code postal : S1X 4L6
+
+Signature : ____________________
+Date : 2025-09-09

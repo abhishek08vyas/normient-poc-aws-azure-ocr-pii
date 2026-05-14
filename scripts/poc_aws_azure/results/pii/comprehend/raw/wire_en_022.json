@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_022",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-16",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999251961708069,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Ross",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.9999496340751648,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2299954",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.997866690158844,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Gatineau, Quebec",
+      "start_char": 178,
+      "end_char": 194,
+      "confidence": 0.9997696280479431,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Emily Brooks",
+      "start_char": 224,
+      "end_char": 236,
+      "confidence": 0.9999575614929199,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5793722",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.9996497631072998,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Rachel Hayes",
+      "start_char": 389,
+      "end_char": 401,
+      "confidence": 0.9999409914016724,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "245581228",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.5976654291152954,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "rachel.hayes@example.ca",
+      "start_char": 443,
+      "end_char": 466,
+      "confidence": 0.9999898672103882,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 910-2503",
+      "start_char": 474,
+      "end_char": 488,
+      "confidence": 0.9999441504478455,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "J1S 6N8",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.999478816986084,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "J1S 6N8",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-07",
+      "start_char": 549,
+      "end_char": 559,
+      "confidence": 0.9999873638153076,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 241,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 560,
+  "error": null,
+  "raw_response": {}
+}

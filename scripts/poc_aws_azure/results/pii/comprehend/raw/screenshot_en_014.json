@@ -1,0 +1,83 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_014",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Phyllis Manning",
+      "start_char": 37,
+      "end_char": 52,
+      "confidence": 0.9998965263366699,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3372774",
+      "start_char": 62,
+      "end_char": 69,
+      "confidence": 0.9999293088912964,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06 23:36:47",
+      "start_char": 121,
+      "end_char": 140,
+      "confidence": 0.9660525321960449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "phyllis.manning@testbank.ca",
+      "start_char": 156,
+      "end_char": 183,
+      "confidence": 0.9999284744262695,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 262,
+      "end_char": 272,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 324,
+      "end_char": 334,
+      "confidence": 0.9999946355819702,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 386,
+      "end_char": 396,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-26",
+      "start_char": 448,
+      "end_char": 458,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-08",
+      "start_char": 510,
+      "end_char": 520,
+      "confidence": 0.9999946355819702,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 227,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 572,
+  "error": null,
+  "raw_response": {}
+}

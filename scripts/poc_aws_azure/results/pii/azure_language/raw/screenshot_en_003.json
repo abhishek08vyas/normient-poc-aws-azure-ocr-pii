@@ -1,0 +1,91 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_003",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Client",
+      "start_char": 24,
+      "end_char": 30,
+      "confidence": 0.92,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Rachel Lee",
+      "start_char": 37,
+      "end_char": 47,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9089795",
+      "start_char": 57,
+      "end_char": 64,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-16 02:17:29",
+      "start_char": 116,
+      "end_char": 135,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "rachel.lee@example.ca",
+      "start_char": 151,
+      "end_char": 172,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-04",
+      "start_char": 251,
+      "end_char": 261,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-13",
+      "start_char": 312,
+      "end_char": 322,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-08",
+      "start_char": 373,
+      "end_char": 383,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-09",
+      "start_char": 434,
+      "end_char": 444,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-22",
+      "start_char": 495,
+      "end_char": 505,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 189,
+  "cost_estimate_usd": 0.001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

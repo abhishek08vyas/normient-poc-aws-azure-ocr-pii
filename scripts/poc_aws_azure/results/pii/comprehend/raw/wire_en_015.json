@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-23",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999401569366455,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tasha Valencia",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999558329582214,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7194416",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9950634837150574,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Laval, Quebec",
+      "start_char": 179,
+      "end_char": 192,
+      "confidence": 0.9998153448104858,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexander Le",
+      "start_char": 222,
+      "end_char": 234,
+      "confidence": 0.9994527697563171,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3484601",
+      "start_char": 251,
+      "end_char": 258,
+      "confidence": 0.9999181032180786,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Herrera",
+      "start_char": 387,
+      "end_char": 399,
+      "confidence": 0.9999369978904724,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "420450538",
+      "start_char": 424,
+      "end_char": 433,
+      "confidence": 0.9155657887458801,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "erin.herrera@example.ca",
+      "start_char": 441,
+      "end_char": 464,
+      "confidence": 0.9999741315841675,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 562-9173",
+      "start_char": 472,
+      "end_char": 486,
+      "confidence": 0.9999087452888489,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "S9G 3H2",
+      "start_char": 500,
+      "end_char": 507,
+      "confidence": 0.9997541308403015,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "S9G 3H2",
+      "start_char": 500,
+      "end_char": 507,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-06",
+      "start_char": 547,
+      "end_char": 557,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 228,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 558,
+  "error": null,
+  "raw_response": {}
+}

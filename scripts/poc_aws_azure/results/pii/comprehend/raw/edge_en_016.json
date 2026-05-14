@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_016",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Scott Frazier",
+      "start_char": 32,
+      "end_char": 45,
+      "confidence": 0.999959409236908,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "683-215-289",
+      "start_char": 51,
+      "end_char": 62,
+      "confidence": 0.9998173713684082,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "scott.frazier@example.com",
+      "start_char": 72,
+      "end_char": 97,
+      "confidence": 0.999935507774353,
+      "original_type": "EMAIL"
+    }
+  ],
+  "latency_ms": 217,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 98,
+  "error": null,
+  "raw_response": {}
+}

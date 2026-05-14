@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2026-05-11
+Reference: WT-550961
+
+SENDER INFORMATION
+Name: Tammy Ramirez
+Account Number: 2232969
+Branch: Brandon, Manitoba
+
+RECIPIENT INFORMATION
+Name: Darlene Ross
+Account Number: 2355439
+Institution: TD Canada Trust
+
+TRANSFER DETAILS
+Amount: $50,490.05 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Tina Herrera
+SIN (for verification): 392124996
+Email: tina.herrera@synthco.com
+Phone: (613) 590-9787
+Postal Code: X4T 8Z6
+
+Signature: ____________________
+Date: 2025-05-22

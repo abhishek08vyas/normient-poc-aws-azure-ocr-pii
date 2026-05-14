@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Ryan Chandler
+Account: 3182975
+Type: Chequing
+Balance: $119,360.69 CAD
+Last Login: 2026-04-29 04:02:17
+Email on file: ryan.chandler@synthco.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-04  POS purchase             $5,638.75    $124,999.44
+2026-05-12  ATM withdrawal           $3,568.30    $128,567.74
+2026-05-07  ATM withdrawal           $8,687.52    $137,255.26
+2026-04-18  Bill payment             -$6,024.08   $131,231.18
+2026-05-01  POS purchase             -$5,098.75   $126,132.42

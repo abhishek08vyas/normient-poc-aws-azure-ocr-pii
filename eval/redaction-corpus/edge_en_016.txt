@@ -1,0 +1,4 @@
+Payroll Authorization
+Employee: Scott Frazier
+SIN: 683-215-289
+Contact: scott.frazier@example.com

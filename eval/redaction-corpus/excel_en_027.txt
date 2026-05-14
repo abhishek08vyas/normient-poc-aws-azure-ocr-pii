@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-25
+Account Holder: Melanie Jordan
+Account Number: 5251016
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-06-19	Wire transfer	Erin Wilson	37,051.76		-4,114.34	TXN-627899
+2025-10-12	Vendor payment	Michael Morales	19,708.57		-23,822.91	TXN-924366
+2025-10-04	Wire transfer	Angela Jones	29,401.70		-53,224.61	TXN-838594
+2026-03-17	Vendor payment	Erin Wilson	40,410.92		-93,635.53	TXN-802818
+2025-09-21	Bill payment	Erin Wilson	9,335.86		-102,971.39	TXN-949352
+2025-12-15	E-transfer	William Duran		5,405.90	-97,565.49	TXN-371914
+2026-05-12	Payroll	Jessica Gallagher	763.90		-98,329.39	TXN-106131
+2025-10-01	E-transfer	Angela Jones		43,452.15	-54,877.24	TXN-582515
+2026-03-02	E-transfer	William Duran	30,963.12		-85,840.36	TXN-861173
+2025-07-08	Payroll	Ashley Lee		34,545.64	-51,294.72	TXN-824211
+2025-07-29	Vendor payment	Erin Wilson	6,842.19		-58,136.91	TXN-417358
+2026-01-01	Direct deposit	Jessica Gallagher	48,528.97		-106,665.87	TXN-955604
+2025-11-26	Service fee	Jessica Gallagher	7,343.19		-114,009.07	TXN-319393
+2025-10-15	Direct deposit	Angela Jones		39,521.58	-74,487.49	TXN-982995
+2025-11-23	Direct deposit	Jessica Gallagher		7,493.47	-66,994.03	TXN-415535
+2025-05-28	Vendor payment	Jessica Gallagher	7,705.87		-74,699.90	TXN-222115
+2025-05-30	E-transfer	Angela Jones	43,003.84		-117,703.74	TXN-608608
+2025-05-28	Payroll	Michael Morales	41,489.59		-159,193.33	TXN-311118
+2025-07-05	Vendor payment	Jessica Gallagher	31,557.45		-190,750.78	TXN-450067
+2026-02-14	E-transfer	Angela Jones		36,880.21	-153,870.58	TXN-535878
+2025-09-19	Payroll	Joshua Hays		1,947.16	-151,923.42	TXN-681230
+2026-03-21	Vendor payment	Angela Jones		30,613.62	-121,309.80	TXN-638292
+2025-11-12	E-transfer	Erin Wilson	3,129.16		-124,438.97	TXN-611601
+2025-11-30	Wire transfer	Angela Jones	3,269.18		-127,708.14	TXN-704402
+2025-11-06	E-transfer	Angela Jones	31,172.56		-158,880.71	TXN-596330
+2025-07-09	E-transfer	Ashley Lee		1,138.27	-157,742.44	TXN-570103
+2026-01-03	Bill payment	Joshua Hays	21,961.72		-179,704.17	TXN-301537
+2026-04-24	Payroll	Michael Morales		17,023.73	-162,680.43	TXN-716204
+2025-11-29	Payroll	Erin Wilson		23,476.52	-139,203.91	TXN-983390
+2025-07-06	Bill payment	Joshua Hays	20,901.37		-160,105.28	TXN-845941
+2025-09-17	E-transfer	Joshua Hays	23,669.01		-183,774.29	TXN-870267
+2026-05-09	Service fee	Michael Morales	34,565.81		-218,340.10	TXN-752048
+2026-01-06	Wire transfer	Joshua Hays	10,054.26		-228,394.36	TXN-606346
+2025-09-13	Payroll	Angela Jones		47,158.43	-181,235.93	TXN-205805
+2025-07-15	Vendor payment	Ashley Lee	2,447.76		-183,683.69	TXN-346120
+2025-10-12	Wire transfer	Ashley Lee	8,014.41		-191,698.11	TXN-373477
+2026-01-07	Service fee	Erin Wilson	3,276.91		-194,975.02	TXN-627935
+2026-02-24	Vendor payment	Jessica Gallagher	28,142.87		-223,117.89	TXN-747561
+2026-04-05	Vendor payment	Ashley Lee		38,491.76	-184,626.14	TXN-456855
+2025-09-06	Service fee	William Duran		42,685.07	-141,941.07	TXN-380484
+2025-12-29	Service fee	William Duran		35,349.61	-106,591.46	TXN-733643
+2025-09-20	Vendor payment	Erin Wilson		37,812.64	-68,778.82	TXN-579341
+2025-11-26	Wire transfer	Erin Wilson		42,933.53	-25,845.29	TXN-740231
+2026-03-30	Wire transfer	Erin Wilson	5,360.01		-31,205.31	TXN-689795
+2025-11-26	E-transfer	Jessica Gallagher		7,935.92	-23,269.38	TXN-315363
+2025-12-05	Bill payment	Joshua Hays		24,969.71	1,700.33	TXN-562965
+2025-11-19	Service fee	Jessica Gallagher		16,796.92	18,497.25	TXN-261790
+2026-02-12	Direct deposit	Jessica Gallagher	48,484.87		-29,987.62	TXN-989816
+2025-12-17	Service fee	Erin Wilson	40,476.35		-70,463.97	TXN-106907
+2025-09-06	Bill payment	Ashley Lee	13,374.18		-83,838.15	TXN-629554

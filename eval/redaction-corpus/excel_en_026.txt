@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-15
+Account Holder: Kenneth Jones
+Account Number: 9822092
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-07-06	Vendor payment	David Cole	10,236.95		69,365.39	TXN-224269
+2025-06-19	Service fee	Michael Ross		19,165.47	88,530.85	TXN-401950
+2025-06-01	Vendor payment	Luis Travis	41,222.04		47,308.82	TXN-729232
+2025-09-02	E-transfer	Luis Travis	39,643.93		7,664.89	TXN-538651
+2025-10-09	Wire transfer	Michael Ross	22,603.74		-14,938.85	TXN-374516
+2026-04-13	Direct deposit	Kathleen Robertson		22,962.39	8,023.54	TXN-711218
+2026-01-06	Wire transfer	David Cole		48,722.52	56,746.06	TXN-239675
+2025-10-22	Vendor payment	Luis Travis	21,222.22		35,523.84	TXN-847986
+2025-08-17	Payroll	Michael Ross	3,031.74		32,492.10	TXN-176604
+2026-04-14	Bill payment	Luis Travis		49,837.30	82,329.40	TXN-593808
+2026-04-28	E-transfer	Eric Perry	31,020.93		51,308.47	TXN-105621
+2025-07-14	Bill payment	Daniel Allen	48,406.08		2,902.39	TXN-803869
+2026-03-24	Payroll	Eric Perry	8,576.34		-5,673.95	TXN-708684
+2025-09-17	Vendor payment	Kathleen Robertson	15,934.14		-21,608.09	TXN-590822
+2026-05-10	Payroll	Daniel Allen	15,732.15		-37,340.24	TXN-248683
+2025-12-23	Direct deposit	David Cole	18,093.55		-55,433.80	TXN-975355
+2026-02-17	Vendor payment	Michael Ross		38,102.04	-17,331.76	TXN-376002
+2025-09-11	Bill payment	Kathleen Robertson		15,845.59	-1,486.16	TXN-556943
+2025-07-25	Vendor payment	Douglas Hensley		32,905.23	31,419.07	TXN-682667
+2026-03-05	Service fee	David Cole	2,822.90		28,596.17	TXN-155807
+2025-07-13	Direct deposit	Eric Perry	35,327.55		-6,731.38	TXN-593090
+2025-11-22	Vendor payment	Steven Peterson	17,890.35		-24,621.73	TXN-618951
+2025-11-28	E-transfer	David Cole	42,307.33		-66,929.07	TXN-579995
+2025-11-10	Service fee	Douglas Hensley	10,266.31		-77,195.38	TXN-229660
+2025-11-22	Bill payment	Douglas Hensley	25,486.01		-102,681.39	TXN-975512
+2026-04-19	Bill payment	Luis Travis		305.87	-102,375.52	TXN-711893
+2025-09-09	Service fee	Douglas Hensley		12,383.26	-89,992.27	TXN-536646
+2025-11-22	Vendor payment	Steven Peterson	34,097.49		-124,089.75	TXN-444622
+2025-05-22	E-transfer	Steven Peterson	46,464.51		-170,554.26	TXN-513316
+2025-06-16	Wire transfer	Kathleen Robertson	23,065.64		-193,619.89	TXN-261245
+2025-10-12	E-transfer	David Cole		13,538.99	-180,080.90	TXN-576111
+2025-11-25	E-transfer	Eric Perry		32,843.02	-147,237.88	TXN-445429
+2025-11-06	Vendor payment	Kathleen Robertson		45,353.23	-101,884.65	TXN-867080
+2025-08-14	Service fee	Douglas Hensley		40,097.74	-61,786.91	TXN-321634
+2025-08-04	Bill payment	Kathleen Robertson	3,629.13		-65,416.04	TXN-936917
+2025-12-25	Payroll	Daniel Allen	8,982.74		-74,398.78	TXN-197046
+2025-09-27	Service fee	Daniel Allen	10,490.31		-84,889.10	TXN-193520
+2025-05-31	Vendor payment	Daniel Allen		47,726.18	-37,162.92	TXN-398776
+2025-06-01	Direct deposit	Steven Peterson	21,674.69		-58,837.60	TXN-413048
+2025-08-30	Service fee	Michael Ross		18,016.31	-40,821.29	TXN-818234
+2025-11-21	Wire transfer	Kathleen Robertson	22,327.58		-63,148.87	TXN-637555
+2025-12-31	Vendor payment	David Cole		21,211.22	-41,937.65	TXN-381521
+2026-04-20	Service fee	Daniel Allen	9,399.16		-51,336.80	TXN-950389
+2026-04-05	E-transfer	Daniel Allen	17,153.07		-68,489.87	TXN-197462
+2026-01-22	Vendor payment	Luis Travis		7,837.98	-60,651.89	TXN-779068
+2026-01-29	Vendor payment	Steven Peterson	4,051.24		-64,703.13	TXN-404824
+2025-11-11	Service fee	David Cole	6,476.71		-71,179.84	TXN-414985
+2025-08-31	Bill payment	Luis Travis	28,469.93		-99,649.77	TXN-648501
+2025-12-07	Payroll	Steven Peterson		25,581.51	-74,068.26	TXN-147285
+2025-05-16	Vendor payment	Steven Peterson		28,467.06	-45,601.19	TXN-587227

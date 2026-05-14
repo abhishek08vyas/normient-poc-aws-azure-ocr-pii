@@ -1,0 +1,12 @@
+{
+  "tool": "azure_doc_intel",
+  "file": "transactions_08.xlsx",
+  "full_text": "",
+  "words": [],
+  "tables": [],
+  "page_count": 0,
+  "latency_ms": 0,
+  "cost_estimate_usd": 0.0,
+  "raw_response": {},
+  "error": "unsupported_format"
+}

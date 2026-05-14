@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-11-08
+Reference : VIR-579757
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Étienne Tremblay
+Numero de compte : 1361814
+Succursale : Longueuil
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Émilie Fortin
+Numero de compte : 7581459
+Institution : Royal Bank of Canada
+
+DETAILS DU VIREMENT
+Montant : 433,061.86 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Désiré Tremblay
+NAS (pour verification) : 367566189
+Courriel : desire.tremblay@testbank.ca
+Telephone : (438) 913-3196
+Code postal : Y6E 2N9
+
+Signature : ____________________
+Date : 2025-09-08

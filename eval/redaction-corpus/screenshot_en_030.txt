@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Ross Wood
+Account: 3329967
+Type: Savings
+Balance: $10,125.39 CAD
+Last Login: 2026-05-08 12:03:52
+Email on file: ross.wood@example.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-29  POS purchase             -$5,744.16   $4,381.23
+2026-04-13  POS purchase             $1,341.22    $5,722.45
+2026-05-03  Wire transfer            $3,127.44    $8,849.89
+2026-05-06  E-transfer               -$4,812.72   $4,037.17
+2026-04-18  ATM withdrawal           -$8,242.23   $-4,205.05

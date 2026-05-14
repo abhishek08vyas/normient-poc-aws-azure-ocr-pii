@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_024",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-07",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999064803123474,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Johnson",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999410510063171,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7610562",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.9978525638580322,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Mississauga, Ontario",
+      "start_char": 179,
+      "end_char": 199,
+      "confidence": 0.9995079040527344,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mark Palmer",
+      "start_char": 229,
+      "end_char": 240,
+      "confidence": 0.9999401569366455,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1454696",
+      "start_char": 257,
+      "end_char": 264,
+      "confidence": 0.9988033771514893,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Washington",
+      "start_char": 388,
+      "end_char": 405,
+      "confidence": 0.9998856782913208,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "162720460",
+      "start_char": 430,
+      "end_char": 439,
+      "confidence": 0.9370352029800415,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "joshua.washington@testbank.ca",
+      "start_char": 447,
+      "end_char": 476,
+      "confidence": 0.9999667406082153,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 665-5355",
+      "start_char": 484,
+      "end_char": 498,
+      "confidence": 0.9996073842048645,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "N6L 6L1",
+      "start_char": 512,
+      "end_char": 519,
+      "confidence": 0.9998909831047058,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "N6L 6L1",
+      "start_char": 512,
+      "end_char": 519,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-02",
+      "start_char": 559,
+      "end_char": 569,
+      "confidence": 0.9999780654907227,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 229,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 570,
+  "error": null,
+  "raw_response": {}
+}

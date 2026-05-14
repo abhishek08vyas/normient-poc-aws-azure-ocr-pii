@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_024",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "JJeffery Jones",
+      "start_char": 24,
+      "end_char": 38,
+      "confidence": 0.9997360110282898,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6556840",
+      "start_char": 49,
+      "end_char": 56,
+      "confidence": 0.6753419637680054,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 224,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 97,
+  "error": null,
+  "raw_response": {}
+}

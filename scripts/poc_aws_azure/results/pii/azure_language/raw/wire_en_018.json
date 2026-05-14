@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_018",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-17",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.86,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Nathaniel Martin",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7110622",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Nielsen",
+      "start_char": 232,
+      "end_char": 249,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8235969",
+      "start_char": 266,
+      "end_char": 273,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "CIBC",
+      "start_char": 287,
+      "end_char": 291,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Samantha George",
+      "start_char": 386,
+      "end_char": 401,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "159514843",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "samantha.george@acmecorp.ca",
+      "start_char": 443,
+      "end_char": 470,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 612-4844",
+      "start_char": 478,
+      "end_char": 492,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Y2J 6R2",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.93,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "Y2J 6R2",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-19",
+      "start_char": 553,
+      "end_char": 563,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 181,
+  "cost_estimate_usd": 0.001,
+  "char_count": 564,
+  "error": null,
+  "raw_response": {}
+}

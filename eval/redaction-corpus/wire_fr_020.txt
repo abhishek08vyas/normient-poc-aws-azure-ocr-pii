@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-12-20
+Reference : VIR-608072
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Benoît Lévesque
+Numero de compte : 1430846
+Succursale : Terrebonne
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Hélène Beaulieu
+Numero de compte : 3061828
+Institution : Scotiabank
+
+DETAILS DU VIREMENT
+Montant : 339,286.78 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Jérôme Bélanger
+NAS (pour verification) : 784357972
+Courriel : jerome.belanger@synthco.com
+Telephone : (819) 876-3079
+Code postal : A5A 5B5
+
+Signature : ____________________
+Date : 2025-05-16

@@ -1,0 +1,19 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_026",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Amberr Brown",
+      "start_char": 24,
+      "end_char": 36,
+      "confidence": 0.9999647736549377,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 220,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 94,
+  "error": null,
+  "raw_response": {}
+}

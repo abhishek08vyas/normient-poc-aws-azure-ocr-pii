@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-06",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998491406440735,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Munoz",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.999938428401947,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7073292",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.9986145496368408,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Burnaby, British Columbia",
+      "start_char": 178,
+      "end_char": 203,
+      "confidence": 0.9997742176055908,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lindsay Blair",
+      "start_char": 233,
+      "end_char": 246,
+      "confidence": 0.9999579191207886,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4679591",
+      "start_char": 263,
+      "end_char": 270,
+      "confidence": 0.9997101426124573,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Dudley",
+      "start_char": 399,
+      "end_char": 412,
+      "confidence": 0.9999483227729797,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "287101224",
+      "start_char": 437,
+      "end_char": 446,
+      "confidence": 0.7977517247200012,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "amanda.dudley@acmecorp.ca",
+      "start_char": 454,
+      "end_char": 479,
+      "confidence": 0.9999628067016602,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 594-6252",
+      "start_char": 487,
+      "end_char": 501,
+      "confidence": 0.999837338924408,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "T8L 8A1",
+      "start_char": 515,
+      "end_char": 522,
+      "confidence": 0.9998661875724792,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "T8L 8A1",
+      "start_char": 515,
+      "end_char": 522,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-11",
+      "start_char": 562,
+      "end_char": 572,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 264,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 573,
+  "error": null,
+  "raw_response": {}
+}

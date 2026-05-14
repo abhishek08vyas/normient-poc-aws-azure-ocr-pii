@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-05
+Account Holder: Jasmine Warner
+Account Number: 8977571
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-12-30	Wire transfer	Joseph Thomas		28,219.14	42,409.72	TXN-393992
+2026-02-27	Wire transfer	Joseph Moody	48,077.31		-5,667.59	TXN-991737
+2026-03-29	Payroll	Joseph Moody		41,063.03	35,395.44	TXN-888795
+2025-12-20	Wire transfer	Brittany Lara		28,378.13	63,773.56	TXN-270341
+2026-05-05	Service fee	James Wilson		16,653.32	80,426.88	TXN-809922
+2025-09-02	Service fee	Joseph Thomas		34,496.60	114,923.48	TXN-246748
+2025-10-30	Wire transfer	Jeffrey Hernandez		2,779.45	117,702.93	TXN-881667
+2025-06-30	Vendor payment	Joseph Moody	30,297.92		87,405.01	TXN-979414
+2025-11-11	Payroll	Jeffrey Hernandez		16,386.19	103,791.20	TXN-515973
+2026-02-04	E-transfer	Brittany Lara		24,581.11	128,372.32	TXN-921609
+2025-09-08	Bill payment	Jeffrey Hernandez	34,016.77		94,355.54	TXN-493663
+2026-02-08	E-transfer	James Wilson		14,839.44	109,194.98	TXN-189856
+2025-10-16	Direct deposit	Joseph Thomas	7,795.63		101,399.35	TXN-177077
+2025-08-26	E-transfer	Brian Sparks	19,542.14		81,857.22	TXN-764693
+2025-11-23	Bill payment	Charles Hall	15,482.55		66,374.67	TXN-195966
+2025-12-08	Bill payment	Brian Sparks	4,456.13		61,918.54	TXN-382870
+2025-11-20	Vendor payment	James Wilson		20,461.40	82,379.94	TXN-684041
+2025-10-30	Wire transfer	Charles Hall		29,886.54	112,266.48	TXN-471106
+2025-06-13	Service fee	Brittany Lara	20,749.12		91,517.36	TXN-503951
+2025-12-31	Service fee	Charles Hall		45,269.86	136,787.21	TXN-860053
+2025-05-28	Direct deposit	Jeffrey Hernandez	19,098.53		117,688.69	TXN-646417
+2026-04-23	Direct deposit	Brittany Lara	7,382.15		110,306.54	TXN-415759
+2025-10-27	Direct deposit	James Wilson	24,263.14		86,043.40	TXN-389366
+2026-02-22	Wire transfer	Brittany Lara		36,072.88	122,116.28	TXN-363926
+2025-09-15	Vendor payment	Jeffrey Hernandez	5,437.92		116,678.36	TXN-746624
+2026-01-02	Bill payment	Charles Hall	31,047.59		85,630.77	TXN-514913
+2025-08-18	Service fee	Brian Sparks	21,587.75		64,043.02	TXN-445549
+2025-05-23	Service fee	Brian Sparks		6,892.61	70,935.63	TXN-782661
+2025-06-17	Bill payment	Jeffrey Hernandez	15,777.75		55,157.88	TXN-829066
+2025-08-09	Vendor payment	Brittany Lara		31,681.83	86,839.72	TXN-405605
+2026-01-29	Payroll	Brian Sparks	14,086.98		72,752.74	TXN-354200
+2026-04-02	Service fee	James Wilson	28,236.14		44,516.60	TXN-482746
+2026-04-12	Payroll	Jeffrey Hernandez		27,549.95	72,066.55	TXN-288667
+2025-12-22	E-transfer	James Wilson	39,904.51		32,162.04	TXN-842776
+2025-12-27	Service fee	Joseph Thomas		39,803.28	71,965.31	TXN-172518
+2025-05-21	Vendor payment	Joseph Thomas	15,211.35		56,753.97	TXN-623557
+2026-03-06	Bill payment	Joseph Thomas		39,474.93	96,228.90	TXN-261630
+2026-01-29	Wire transfer	James Wilson	20,100.17		76,128.72	TXN-726979
+2026-03-28	Payroll	Brian Sparks	1,934.58		74,194.14	TXN-825309
+2025-08-25	Bill payment	Joseph Thomas		31,945.20	106,139.34	TXN-951755
+2025-12-22	Wire transfer	Charles Hall	33,268.22		72,871.12	TXN-906306
+2025-05-28	Direct deposit	Joseph Thomas	49,182.05		23,689.07	TXN-742439
+2026-03-05	E-transfer	Joseph Thomas		16,646.68	40,335.74	TXN-519029
+2026-03-02	Service fee	James Wilson	13,011.04		27,324.70	TXN-211090
+2025-07-20	Payroll	Joseph Thomas		34,414.45	61,739.15	TXN-643998
+2025-11-11	Direct deposit	James Wilson	38,639.88		23,099.27	TXN-492292
+2025-11-30	Payroll	Joseph Thomas	49,885.37		-26,786.09	TXN-624776
+2026-01-21	Vendor payment	Charles Hall	48,090.22		-74,876.31	TXN-409783
+2025-10-31	Wire transfer	Brian Sparks	15,663.33		-90,539.64	TXN-865618
+2026-05-03	Vendor payment	Brian Sparks		17,480.18	-73,059.46	TXN-316916

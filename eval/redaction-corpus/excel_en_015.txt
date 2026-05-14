@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-07
+Account Holder: Robert Lewis
+Account Number: 4085098
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-09-07	Direct deposit	Tommy Estrada		4,095.23	25,348.82	TXN-880009
+2025-08-03	Direct deposit	Brandon Foster	46,846.00		-21,497.18	TXN-208013
+2026-03-07	Vendor payment	Carol Smith	19,910.92		-41,408.11	TXN-156440
+2025-07-05	Service fee	Daniel Jordan	7,848.19		-49,256.30	TXN-208976
+2026-03-05	E-transfer	Brandon Foster	36,905.90		-86,162.20	TXN-424398
+2025-08-20	Vendor payment	Justin Gregory		8,613.34	-77,548.86	TXN-237654
+2025-09-02	Wire transfer	Tommy Estrada		23,412.95	-54,135.91	TXN-440998
+2025-09-17	Service fee	Carol Smith		6,842.23	-47,293.67	TXN-385647
+2025-06-28	E-transfer	Carol Smith		22,881.52	-24,412.16	TXN-285636
+2025-05-16	E-transfer	Carol Smith		32,012.46	7,600.30	TXN-556106
+2025-11-22	Bill payment	Tommy Estrada		40,254.92	47,855.22	TXN-605048
+2026-02-27	Vendor payment	Tommy Estrada	7,870.31		39,984.92	TXN-483551
+2025-10-27	Wire transfer	Daniel Jordan		42,412.53	82,397.45	TXN-648736
+2025-07-20	Bill payment	Tommy Estrada		34,419.72	116,817.17	TXN-591989
+2025-07-02	Vendor payment	Brandon Foster	21,578.72		95,238.45	TXN-414164
+2025-10-07	Bill payment	Carol Smith		27,455.79	122,694.23	TXN-342446
+2025-12-05	Direct deposit	Brandon Foster	12,569.82		110,124.42	TXN-687783
+2026-02-10	E-transfer	Brandon Foster	13,222.72		96,901.70	TXN-968668
+2025-08-10	Vendor payment	Justin Gregory		45,506.72	142,408.43	TXN-641704
+2025-11-23	Service fee	Tommy Estrada		26,644.02	169,052.45	TXN-398505
+2025-12-15	Bill payment	Brandon Foster		9,202.12	178,254.56	TXN-297132
+2026-04-01	Bill payment	Daniel Jordan	22,693.08		155,561.48	TXN-767830
+2026-01-27	E-transfer	Carol Smith	1,067.83		154,493.65	TXN-615895
+2026-03-22	Wire transfer	Carol Smith	5,203.45		149,290.20	TXN-123205
+2025-09-27	Bill payment	Justin Gregory	509.38		148,780.82	TXN-849937
+2025-06-09	Wire transfer	Justin Gregory	17,161.45		131,619.37	TXN-115440
+2025-10-14	Bill payment	Brandon Foster	39,592.09		92,027.27	TXN-489438
+2026-04-12	Bill payment	Daniel Jordan		7,389.78	99,417.06	TXN-984522
+2026-02-25	Bill payment	Brandon Foster		9,162.03	108,579.08	TXN-174852
+2025-05-29	Service fee	Tommy Estrada	729.51		107,849.57	TXN-956949
+2025-10-29	Service fee	Justin Gregory		22,203.75	130,053.32	TXN-503489
+2025-05-20	E-transfer	Daniel Jordan	38,572.70		91,480.62	TXN-308855
+2025-11-07	Payroll	Justin Gregory	48,064.57		43,416.05	TXN-595793
+2026-05-05	Bill payment	Justin Gregory		37,261.76	80,677.80	TXN-759726
+2025-06-12	Payroll	Carol Smith	31,962.15		48,715.66	TXN-228074
+2026-04-12	Direct deposit	Tommy Estrada		10,967.63	59,683.29	TXN-154617
+2025-09-11	Wire transfer	Justin Gregory	851.88		58,831.41	TXN-763653
+2025-12-22	Service fee	Tommy Estrada	39,478.27		19,353.14	TXN-713099
+2025-10-26	Wire transfer	Daniel Jordan		23,816.01	43,169.14	TXN-709303
+2025-12-21	Payroll	Justin Gregory		12,511.24	55,680.38	TXN-489439
+2025-10-17	Vendor payment	Daniel Jordan		46,549.35	102,229.74	TXN-819265
+2026-02-12	Service fee	Daniel Jordan	7,780.53		94,449.21	TXN-162678
+2026-01-16	Payroll	Daniel Jordan	15,905.30		78,543.90	TXN-231939
+2025-10-22	Payroll	Tommy Estrada		36,686.12	115,230.03	TXN-944654
+2025-09-02	Wire transfer	Brandon Foster		12,609.74	127,839.77	TXN-475565
+2025-06-26	Wire transfer	Brandon Foster	14,806.26		113,033.51	TXN-840951
+2025-10-17	E-transfer	Brandon Foster		27,226.67	140,260.18	TXN-298994
+2025-05-21	Bill payment	Brandon Foster		29,974.13	170,234.31	TXN-388698
+2025-09-16	Service fee	Carol Smith	7,835.77		162,398.53	TXN-268132
+2025-07-18	Bill payment	Tommy Estrada	135.92		162,262.61	TXN-667915

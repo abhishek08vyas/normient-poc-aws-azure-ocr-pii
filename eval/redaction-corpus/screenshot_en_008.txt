@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Emma Dixon
+Account: 5857259
+Type: Savings
+Balance: $9,067.03 CAD
+Last Login: 2026-04-22 04:16:56
+Email on file: emma.dixon@example.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-17  Bill payment             $1,760.14    $10,827.17
+2026-04-26  ATM withdrawal           $8,328.66    $19,155.82
+2026-05-08  Wire transfer            -$4,395.28   $14,760.54
+2026-04-29  ATM withdrawal           $5,909.27    $20,669.81
+2026-04-17  ATM withdrawal           $8,711.72    $29,381.53

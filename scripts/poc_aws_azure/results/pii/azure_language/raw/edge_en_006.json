@@ -1,0 +1,43 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_006",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Employee",
+      "start_char": 0,
+      "end_char": 8,
+      "confidence": 1.0,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jacqueline Durham",
+      "start_char": 35,
+      "end_char": 52,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CASocialInsuranceNumber",
+      "text": "649 718 590",
+      "start_char": 78,
+      "end_char": 89,
+      "confidence": 0.85,
+      "original_type": "CASocialInsuranceNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "5731119",
+      "start_char": 99,
+      "end_char": 106,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    }
+  ],
+  "latency_ms": 127,
+  "cost_estimate_usd": 0.001,
+  "char_count": 107,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-14
+Account Holder: Charles Murray
+Account Number: 4506598
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-03-23	Payroll	Melissa Gilbert	36,523.19		-8,181.07	TXN-675458
+2025-12-21	Direct deposit	Paula Cole		18,892.67	10,711.61	TXN-832697
+2026-01-21	E-transfer	Angela Conner	3,099.49		7,612.12	TXN-145594
+2025-07-25	Direct deposit	Paula Cole	23,301.54		-15,689.43	TXN-747983
+2025-09-14	Wire transfer	Brian Decker		33,182.78	17,493.36	TXN-507523
+2026-01-02	E-transfer	Melissa Gilbert	43,383.78		-25,890.43	TXN-213132
+2025-11-13	E-transfer	William Ford		25,476.16	-414.26	TXN-342397
+2025-11-23	E-transfer	Brian Decker	29,895.61		-30,309.87	TXN-430779
+2025-07-10	Wire transfer	Chase Lin		22,953.51	-7,356.36	TXN-308535
+2025-06-06	E-transfer	Brian Decker	26,517.83		-33,874.19	TXN-141683
+2025-11-03	Bill payment	William Ford		1,016.77	-32,857.41	TXN-512509
+2025-06-22	E-transfer	Melissa Gilbert		11,886.62	-20,970.79	TXN-472640
+2026-03-23	Payroll	Melissa Gilbert	12,958.20		-33,928.99	TXN-951331
+2026-04-27	Vendor payment	Brian Decker		11,356.58	-22,572.42	TXN-681896
+2026-04-03	Bill payment	William Ford	36,521.49		-59,093.91	TXN-788842
+2025-09-23	Payroll	Paula Cole		34,357.51	-24,736.40	TXN-742198
+2026-02-14	Vendor payment	Chase Lin	48,529.80		-73,266.20	TXN-700727
+2025-06-14	Payroll	Melissa Gilbert		10,417.19	-62,849.02	TXN-570988
+2025-11-24	Direct deposit	Angela Conner		10,195.28	-52,653.73	TXN-667650
+2026-01-18	Direct deposit	Melissa Gilbert		26,237.89	-26,415.84	TXN-821978
+2025-07-19	Direct deposit	William Ford	46,658.19		-73,074.04	TXN-907455
+2025-05-28	Direct deposit	Melissa Gilbert		47,435.22	-25,638.82	TXN-171108
+2025-08-17	Wire transfer	Chase Lin		7,361.59	-18,277.23	TXN-433025
+2026-02-11	Wire transfer	Melissa Gilbert		15,237.07	-3,040.16	TXN-534152
+2025-10-30	E-transfer	Paula Cole	38,977.48		-42,017.64	TXN-874205
+2025-10-30	Wire transfer	Chase Lin	49,299.18		-91,316.82	TXN-293720
+2025-12-02	Payroll	Melissa Gilbert		11,622.48	-79,694.35	TXN-735022
+2025-12-02	Direct deposit	Chase Lin	4,065.82		-83,760.17	TXN-820767
+2026-01-04	Service fee	William Ford		30,275.12	-53,485.06	TXN-240600
+2025-07-13	E-transfer	Paula Cole	19,434.27		-72,919.32	TXN-492124
+2025-10-01	Vendor payment	Chase Lin	1,708.25		-74,627.58	TXN-271742
+2025-10-04	Service fee	Brian Decker		11,205.46	-63,422.12	TXN-382967
+2026-05-04	E-transfer	Chase Lin	8,936.20		-72,358.33	TXN-894586
+2025-08-30	Vendor payment	Angela Conner		43,352.07	-29,006.26	TXN-613742
+2025-10-10	Direct deposit	William Ford		30,435.70	1,429.45	TXN-524533
+2025-10-18	Service fee	William Ford	30,614.09		-29,184.65	TXN-855185
+2026-03-09	E-transfer	Angela Conner		32,105.55	2,920.91	TXN-722650
+2025-09-21	E-transfer	Brian Decker	22,899.33		-19,978.43	TXN-645940
+2026-01-31	Wire transfer	Chase Lin		49,193.15	29,214.72	TXN-643899
+2025-12-31	Wire transfer	Angela Conner		31,569.36	60,784.09	TXN-506216
+2025-06-02	Wire transfer	Chase Lin	44,231.44		16,552.65	TXN-405323
+2026-03-15	Service fee	Melissa Gilbert	14,791.54		1,761.10	TXN-583757
+2026-01-13	Wire transfer	Paula Cole		23,232.59	24,993.69	TXN-642081
+2026-01-19	E-transfer	William Ford		5,747.26	30,740.95	TXN-194834
+2025-09-19	Service fee	Angela Conner		19,714.03	50,454.98	TXN-829928
+2025-06-07	Bill payment	William Ford	29,556.74		20,898.24	TXN-126122
+2025-09-18	E-transfer	Chase Lin	16,271.33		4,626.91	TXN-576769
+2025-06-18	E-transfer	Paula Cole	36,689.79		-32,062.88	TXN-935176
+2025-12-15	Wire transfer	Brian Decker	18,210.88		-50,273.76	TXN-840532
+2026-01-31	Payroll	Paula Cole		48,762.05	-1,511.70	TXN-502744

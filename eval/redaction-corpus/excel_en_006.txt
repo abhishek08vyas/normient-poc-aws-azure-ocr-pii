@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-20
+Account Holder: Steven Wilson
+Account Number: 7649508
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-03-15	Service fee	William Hill		35,214.53	110,553.48	TXN-550081
+2026-04-09	Wire transfer	William Hill	29,724.61		80,828.88	TXN-599968
+2025-10-21	Payroll	William Suarez	34,810.30		46,018.58	TXN-566686
+2025-09-21	Service fee	Tyrone Moran		23,937.24	69,955.82	TXN-542828
+2026-05-10	Direct deposit	John Arnold		5,211.12	75,166.94	TXN-193670
+2026-03-14	Bill payment	Mary Baird	38,695.68		36,471.26	TXN-413791
+2025-11-26	Service fee	Michelle Hill		33,889.14	70,360.40	TXN-239613
+2025-08-24	Wire transfer	Patrick Weeks	32,536.01		37,824.39	TXN-690653
+2026-03-27	Vendor payment	Mary Baird	37,438.61		385.78	TXN-857524
+2025-05-13	Vendor payment	Patrick Weeks	10,940.51		-10,554.73	TXN-819916
+2025-08-30	Wire transfer	William Hill	36,527.46		-47,082.19	TXN-888996
+2026-02-18	Bill payment	John Arnold		12,464.54	-34,617.65	TXN-429780
+2025-09-05	E-transfer	Tyrone Moran		30,040.39	-4,577.25	TXN-360221
+2026-04-03	Payroll	Mary Baird		1,438.54	-3,138.72	TXN-916808
+2025-12-26	Service fee	William Suarez	30,385.65		-33,524.37	TXN-416302
+2025-12-24	Direct deposit	William Suarez	2,823.00		-36,347.37	TXN-510780
+2026-01-24	Service fee	William Hill	12,129.98		-48,477.35	TXN-618927
+2025-11-19	E-transfer	Patrick Weeks		48,887.08	409.73	TXN-174461
+2026-04-14	Bill payment	Mary Baird	41,964.77		-41,555.04	TXN-238394
+2025-07-09	Vendor payment	Mary Baird		38,160.02	-3,395.01	TXN-672896
+2025-11-02	Service fee	Tyrone Moran		788.29	-2,606.72	TXN-117500
+2025-12-08	Direct deposit	Tyrone Moran		19,958.95	17,352.23	TXN-163406
+2025-11-17	Bill payment	William Suarez		20,830.06	38,182.29	TXN-847245
+2025-09-24	E-transfer	John Arnold		26,929.00	65,111.29	TXN-186431
+2025-09-19	Direct deposit	Mary Baird	25,614.10		39,497.19	TXN-187657
+2025-12-13	Direct deposit	Michelle Hill		19,597.50	59,094.69	TXN-262924
+2026-03-05	E-transfer	Michelle Hill		32,193.41	91,288.10	TXN-975064
+2025-12-10	Bill payment	William Suarez		42,338.76	133,626.86	TXN-558737
+2025-10-06	Wire transfer	William Hill		5,887.73	139,514.59	TXN-190400
+2025-11-05	Payroll	Patrick Weeks	37,110.51		102,404.09	TXN-157701
+2026-05-10	E-transfer	William Hill	6,946.87		95,457.22	TXN-225245
+2025-09-14	Wire transfer	William Hill		26,197.97	121,655.18	TXN-620526
+2026-04-15	Service fee	Michelle Hill	18,656.28		102,998.90	TXN-855777
+2025-07-25	E-transfer	Michelle Hill		5,991.03	108,989.93	TXN-381819
+2026-02-07	Wire transfer	Mary Baird	26,240.33		82,749.61	TXN-946313
+2025-08-13	Bill payment	William Suarez		24,857.76	107,607.37	TXN-704663
+2025-12-21	Payroll	Mary Baird	28,387.62		79,219.75	TXN-158132
+2025-10-08	Bill payment	William Hill		44,723.99	123,943.75	TXN-367508
+2025-08-11	E-transfer	William Suarez	25,490.36		98,453.38	TXN-220936
+2026-04-10	Wire transfer	Michelle Hill	23,641.05		74,812.33	TXN-112884
+2026-03-10	Vendor payment	William Hill		42,888.51	117,700.84	TXN-287654
+2025-10-19	Payroll	Michelle Hill		21,026.53	138,727.37	TXN-848705
+2025-05-29	Bill payment	William Hill		16,064.76	154,792.13	TXN-536476
+2025-09-13	Service fee	Tyrone Moran	25,151.84		129,640.29	TXN-699298
+2026-02-26	Wire transfer	William Hill		49,072.55	178,712.84	TXN-334026
+2025-11-12	Vendor payment	Tyrone Moran		38,699.02	217,411.86	TXN-587686
+2026-02-10	Bill payment	Mary Baird		497.66	217,909.53	TXN-190581
+2026-05-02	Direct deposit	Mary Baird		37,004.84	254,914.37	TXN-691194
+2026-03-24	Direct deposit	John Arnold		24,718.70	279,633.06	TXN-486162
+2025-10-08	Service fee	Michelle Hill		27,373.31	307,006.37	TXN-304915

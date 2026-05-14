@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_027",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-05",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bruce Chandler",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3566765",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Rodriguez",
+      "start_char": 236,
+      "end_char": 252,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8306261",
+      "start_char": 269,
+      "end_char": 276,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 290,
+      "end_char": 300,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Herrera",
+      "start_char": 400,
+      "end_char": 413,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "284987765",
+      "start_char": 438,
+      "end_char": 447,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "james.herrera@synthco.com",
+      "start_char": 455,
+      "end_char": 480,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 530-4022",
+      "start_char": 488,
+      "end_char": 502,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "C4T 3T9",
+      "start_char": 516,
+      "end_char": 523,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "C4T 3T9",
+      "start_char": 516,
+      "end_char": 523,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-22",
+      "start_char": 563,
+      "end_char": 573,
+      "confidence": 0.81,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 125,
+  "cost_estimate_usd": 0.001,
+  "char_count": 574,
+  "error": null,
+  "raw_response": {}
+}

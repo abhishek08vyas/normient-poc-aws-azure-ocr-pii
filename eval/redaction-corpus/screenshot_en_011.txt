@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Troy Sanchez
+Account: 1942411
+Type: Business
+Balance: $19,467.18 CAD
+Last Login: 2026-04-14 05:02:15
+Email on file: troy.sanchez@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-18  ATM withdrawal           -$4,546.54   $14,920.64
+2026-05-03  Bill payment             $813.47      $15,734.11
+2026-04-23  Wire transfer            $6,169.33    $21,903.44
+2026-04-21  ATM withdrawal           $5,824.28    $27,727.72
+2026-05-08  E-transfer               -$8,963.97   $18,763.75

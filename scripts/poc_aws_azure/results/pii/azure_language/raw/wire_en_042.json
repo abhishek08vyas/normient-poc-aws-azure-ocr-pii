@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_042",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-10",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Cook",
+      "start_char": 132,
+      "end_char": 144,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5261032",
+      "start_char": 161,
+      "end_char": 168,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Whitney",
+      "start_char": 226,
+      "end_char": 239,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8710313",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 277,
+      "end_char": 287,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Evan Ramos",
+      "start_char": 386,
+      "end_char": 396,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "307482174",
+      "start_char": 421,
+      "end_char": 430,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "evan.ramos@testbank.ca",
+      "start_char": 438,
+      "end_char": 460,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 854-6951",
+      "start_char": 468,
+      "end_char": 482,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "L7M 3R7",
+      "start_char": 496,
+      "end_char": 503,
+      "confidence": 0.86,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "L7M 3R7",
+      "start_char": 496,
+      "end_char": 503,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-25",
+      "start_char": 543,
+      "end_char": 553,
+      "confidence": 0.82,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 156,
+  "cost_estimate_usd": 0.001,
+  "char_count": 554,
+  "error": null,
+  "raw_response": {}
+}

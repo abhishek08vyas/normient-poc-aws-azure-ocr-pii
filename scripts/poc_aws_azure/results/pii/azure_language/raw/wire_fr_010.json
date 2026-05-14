@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_010",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-14",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.79,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Noël Chrétien",
+      "start_char": 155,
+      "end_char": 168,
+      "confidence": 0.79,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7897060",
+      "start_char": 188,
+      "end_char": 195,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 232,
+      "end_char": 244,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amélie Gagné",
+      "start_char": 251,
+      "end_char": 263,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6058905",
+      "start_char": 283,
+      "end_char": 290,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "HSBC Canada",
+      "start_char": 305,
+      "end_char": 316,
+      "confidence": 0.98,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "François Gauthier",
+      "start_char": 429,
+      "end_char": 446,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 447,
+      "end_char": 450,
+      "confidence": 0.5,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "797189248",
+      "start_char": 473,
+      "end_char": 482,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "francois.gauthier@example.com",
+      "start_char": 494,
+      "end_char": 523,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 846-6366",
+      "start_char": 536,
+      "end_char": 550,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "G5H 5V1",
+      "start_char": 565,
+      "end_char": 572,
+      "confidence": 0.82,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "G5H 5V1",
+      "start_char": 565,
+      "end_char": 572,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-26",
+      "start_char": 614,
+      "end_char": 624,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 205,
+  "cost_estimate_usd": 0.001,
+  "char_count": 625,
+  "error": null,
+  "raw_response": {}
+}

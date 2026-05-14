@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_028",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Thoomas Mitchell",
+      "start_char": 24,
+      "end_char": 40,
+      "confidence": 0.9999651312828064,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2929715",
+      "start_char": 51,
+      "end_char": 58,
+      "confidence": 0.9300237894058228,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 217,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 99,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_023",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.999968409538269,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Danielle Moody",
+      "start_char": 58,
+      "end_char": 72,
+      "confidence": 0.999836266040802,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4697107",
+      "start_char": 89,
+      "end_char": 96,
+      "confidence": 0.9998393058776855,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-31",
+      "start_char": 160,
+      "end_char": 170,
+      "confidence": 0.999963104724884,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 184,
+      "end_char": 197,
+      "confidence": 0.9999344348907471,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-03",
+      "start_char": 230,
+      "end_char": 240,
+      "confidence": 0.9999784231185913,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Johnson",
+      "start_char": 256,
+      "end_char": 272,
+      "confidence": 0.9999212026596069,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-04",
+      "start_char": 305,
+      "end_char": 315,
+      "confidence": 0.9999724626541138,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Owen",
+      "start_char": 331,
+      "end_char": 343,
+      "confidence": 0.9998751878738403,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-04",
+      "start_char": 376,
+      "end_char": 386,
+      "confidence": 0.9999794960021973,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 395,
+      "end_char": 408,
+      "confidence": 0.9999179244041443,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-01",
+      "start_char": 440,
+      "end_char": 450,
+      "confidence": 0.999972939491272,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Reyes",
+      "start_char": 463,
+      "end_char": 476,
+      "confidence": 0.999900221824646,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 506,
+      "end_char": 516,
+      "confidence": 0.9999785423278809,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 530,
+      "end_char": 544,
+      "confidence": 0.9998927712440491,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-11",
+      "start_char": 577,
+      "end_char": 587,
+      "confidence": 0.9999873638153076,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 602,
+      "end_char": 616,
+      "confidence": 0.999913215637207,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 649,
+      "end_char": 659,
+      "confidence": 0.9999868869781494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Jacobs",
+      "start_char": 675,
+      "end_char": 688,
+      "confidence": 0.9999106526374817,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-05",
+      "start_char": 721,
+      "end_char": 731,
+      "confidence": 0.9999858736991882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Reyes",
+      "start_char": 747,
+      "end_char": 760,
+      "confidence": 0.9999038577079773,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-04",
+      "start_char": 793,
+      "end_char": 803,
+      "confidence": 0.9999884366989136,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 819,
+      "end_char": 833,
+      "confidence": 0.9998743534088135,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-02",
+      "start_char": 866,
+      "end_char": 876,
+      "confidence": 0.9999849200248718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Owen",
+      "start_char": 890,
+      "end_char": 902,
+      "confidence": 0.999846339225769,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-14",
+      "start_char": 934,
+      "end_char": 944,
+      "confidence": 0.9999901056289673,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Johnson",
+      "start_char": 960,
+      "end_char": 976,
+      "confidence": 0.999861478805542,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-12",
+      "start_char": 1009,
+      "end_char": 1019,
+      "confidence": 0.999988317489624,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 1028,
+      "end_char": 1041,
+      "confidence": 0.999863862991333,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-20",
+      "start_char": 1073,
+      "end_char": 1083,
+      "confidence": 0.9999943375587463,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Jacobs",
+      "start_char": 1092,
+      "end_char": 1105,
+      "confidence": 0.999915361404419,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-29",
+      "start_char": 1138,
+      "end_char": 1148,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Johnson",
+      "start_char": 1157,
+      "end_char": 1173,
+      "confidence": 0.9999072551727295,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-17",
+      "start_char": 1206,
+      "end_char": 1216,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 1231,
+      "end_char": 1244,
+      "confidence": 0.9999250769615173,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-26",
+      "start_char": 1277,
+      "end_char": 1287,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Jacobs",
+      "start_char": 1300,
+      "end_char": 1313,
+      "confidence": 0.9998982548713684,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-23",
+      "start_char": 1346,
+      "end_char": 1356,
+      "confidence": 0.9999916553497314,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 1372,
+      "end_char": 1385,
+      "confidence": 0.9998223185539246,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-22",
+      "start_char": 1418,
+      "end_char": 1428,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Owen",
+      "start_char": 1443,
+      "end_char": 1455,
+      "confidence": 0.9998800754547119,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-24",
+      "start_char": 1488,
+      "end_char": 1498,
+      "confidence": 0.9999926686286926,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 1513,
+      "end_char": 1527,
+      "confidence": 0.9998841285705566,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 1557,
+      "end_char": 1567,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Jacobs",
+      "start_char": 1581,
+      "end_char": 1594,
+      "confidence": 0.9999232292175293,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-30",
+      "start_char": 1627,
+      "end_char": 1637,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 1649,
+      "end_char": 1662,
+      "confidence": 0.9998891353607178,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-10",
+      "start_char": 1695,
+      "end_char": 1705,
+      "confidence": 0.9999920725822449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 1721,
+      "end_char": 1735,
+      "confidence": 0.999886691570282,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 1767,
+      "end_char": 1777,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 1793,
+      "end_char": 1806,
+      "confidence": 0.9998752474784851,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-17",
+      "start_char": 1840,
+      "end_char": 1850,
+      "confidence": 0.9999920725822449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 1864,
+      "end_char": 1877,
+      "confidence": 0.9998568892478943,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-27",
+      "start_char": 1911,
+      "end_char": 1921,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 1936,
+      "end_char": 1950,
+      "confidence": 0.9999074339866638,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-22",
+      "start_char": 1984,
+      "end_char": 1994,
+      "confidence": 0.9999919533729553,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 2003,
+      "end_char": 2016,
+      "confidence": 0.9999189972877502,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-09",
+      "start_char": 2050,
+      "end_char": 2060,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Johnson",
+      "start_char": 2073,
+      "end_char": 2089,
+      "confidence": 0.9999272227287292,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-22",
+      "start_char": 2122,
+      "end_char": 2132,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 2147,
+      "end_char": 2161,
+      "confidence": 0.9998576641082764,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-10",
+      "start_char": 2194,
+      "end_char": 2204,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 2218,
+      "end_char": 2232,
+      "confidence": 0.9998385906219482,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-02",
+      "start_char": 2266,
+      "end_char": 2276,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Owen",
+      "start_char": 2292,
+      "end_char": 2304,
+      "confidence": 0.9998997449874878,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-04",
+      "start_char": 2338,
+      "end_char": 2348,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Owen",
+      "start_char": 2364,
+      "end_char": 2376,
+      "confidence": 0.9998958110809326,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-05",
+      "start_char": 2409,
+      "end_char": 2419,
+      "confidence": 0.9999912977218628,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 2432,
+      "end_char": 2445,
+      "confidence": 0.9999037981033325,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-31",
+      "start_char": 2479,
+      "end_char": 2489,
+      "confidence": 0.9999955892562866,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 2503,
+      "end_char": 2516,
+      "confidence": 0.9999041557312012,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-06",
+      "start_char": 2551,
+      "end_char": 2561,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 2570,
+      "end_char": 2584,
+      "confidence": 0.9998837113380432,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 2618,
+      "end_char": 2628,
+      "confidence": 0.9999950528144836,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Owen",
+      "start_char": 2641,
+      "end_char": 2653,
+      "confidence": 0.9998883008956909,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-19",
+      "start_char": 2688,
+      "end_char": 2698,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 2710,
+      "end_char": 2724,
+      "confidence": 0.9999087452888489,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-29",
+      "start_char": 2758,
+      "end_char": 2768,
+      "confidence": 0.9999952912330627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Reyes",
+      "start_char": 2783,
+      "end_char": 2796,
+      "confidence": 0.9999211430549622,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-29",
+      "start_char": 2830,
+      "end_char": 2840,
+      "confidence": 0.9999955296516418,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Jacobs",
+      "start_char": 2855,
+      "end_char": 2868,
+      "confidence": 0.9999379515647888,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-04",
+      "start_char": 2902,
+      "end_char": 2912,
+      "confidence": 0.9999952912330627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 2927,
+      "end_char": 2940,
+      "confidence": 0.9999298453330994,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-09",
+      "start_char": 2975,
+      "end_char": 2985,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Johnson",
+      "start_char": 3000,
+      "end_char": 3016,
+      "confidence": 0.9999012351036072,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-10",
+      "start_char": 3050,
+      "end_char": 3060,
+      "confidence": 0.9999934434890747,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 3075,
+      "end_char": 3089,
+      "confidence": 0.9998970031738281,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-04",
+      "start_char": 3123,
+      "end_char": 3133,
+      "confidence": 0.999993085861206,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 3147,
+      "end_char": 3160,
+      "confidence": 0.9998834729194641,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-19",
+      "start_char": 3195,
+      "end_char": 3205,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 3219,
+      "end_char": 3233,
+      "confidence": 0.9998656511306763,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-27",
+      "start_char": 3268,
+      "end_char": 3278,
+      "confidence": 0.9999907612800598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 3290,
+      "end_char": 3304,
+      "confidence": 0.9998549222946167,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-14",
+      "start_char": 3338,
+      "end_char": 3348,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Walsh",
+      "start_char": 3357,
+      "end_char": 3370,
+      "confidence": 0.9998919367790222,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-01",
+      "start_char": 3404,
+      "end_char": 3414,
+      "confidence": 0.9999780654907227,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 3428,
+      "end_char": 3441,
+      "confidence": 0.9997003078460693,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-16",
+      "start_char": 3476,
+      "end_char": 3486,
+      "confidence": 0.9999650120735168,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Douglas Lawson",
+      "start_char": 3501,
+      "end_char": 3515,
+      "confidence": 0.9995640516281128,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-23",
+      "start_char": 3550,
+      "end_char": 3560,
+      "confidence": 0.9999634623527527,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Cisneros",
+      "start_char": 3572,
+      "end_char": 3585,
+      "confidence": 0.9996482133865356,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-01",
+      "start_char": 3619,
+      "end_char": 3629,
+      "confidence": 0.9999496340751648,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carlos Osborne",
+      "start_char": 3642,
+      "end_char": 3656,
+      "confidence": 0.9997754693031311,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 392,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3691,
+  "error": null,
+  "raw_response": {}
+}

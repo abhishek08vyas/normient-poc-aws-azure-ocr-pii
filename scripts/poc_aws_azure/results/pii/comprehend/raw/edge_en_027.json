@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_027",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Patriicia Andersen",
+      "start_char": 24,
+      "end_char": 42,
+      "confidence": 0.9999309778213501,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5856444",
+      "start_char": 53,
+      "end_char": 60,
+      "confidence": 0.9394763708114624,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 237,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 101,
+  "error": null,
+  "raw_response": {}
+}

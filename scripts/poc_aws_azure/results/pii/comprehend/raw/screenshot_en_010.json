@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_010",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "John Alvarez",
+      "start_char": 37,
+      "end_char": 49,
+      "confidence": 0.9999662041664124,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3972018",
+      "start_char": 59,
+      "end_char": 66,
+      "confidence": 0.9988111257553101,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-17",
+      "start_char": 118,
+      "end_char": 128,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "11:25:42",
+      "start_char": 129,
+      "end_char": 137,
+      "confidence": 0.9999645352363586,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "john.alvarez@acmecorp.ca",
+      "start_char": 153,
+      "end_char": 177,
+      "confidence": 0.9998506307601929,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 256,
+      "end_char": 266,
+      "confidence": 0.9999920725822449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 318,
+      "end_char": 328,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 380,
+      "end_char": 390,
+      "confidence": 0.9999935626983643,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 442,
+      "end_char": 452,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 504,
+      "end_char": 514,
+      "confidence": 0.9999949932098389,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 230,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 566,
+  "error": null,
+  "raw_response": {}
+}

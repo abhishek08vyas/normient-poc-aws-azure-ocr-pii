@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_025",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "James Smith",
+      "start_char": 37,
+      "end_char": 48,
+      "confidence": 0.9999294281005859,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9347057",
+      "start_char": 58,
+      "end_char": 65,
+      "confidence": 0.9994624257087708,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-21",
+      "start_char": 117,
+      "end_char": 127,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "08:06:56",
+      "start_char": 128,
+      "end_char": 136,
+      "confidence": 0.9999625086784363,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "james.smith@testbank.ca",
+      "start_char": 152,
+      "end_char": 175,
+      "confidence": 0.9998648166656494,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-24",
+      "start_char": 254,
+      "end_char": 264,
+      "confidence": 0.999993085861206,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-19",
+      "start_char": 315,
+      "end_char": 325,
+      "confidence": 0.9999942183494568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 376,
+      "end_char": 386,
+      "confidence": 0.9999944567680359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 437,
+      "end_char": 447,
+      "confidence": 0.999993622303009,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 498,
+      "end_char": 508,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 232,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 559,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_007",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sébastien Thibault",
+      "start_char": 155,
+      "end_char": 173,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "5065012",
+      "start_char": 193,
+      "end_char": 200,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 240,
+      "end_char": 252,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sébastien Pelletier",
+      "start_char": 259,
+      "end_char": 278,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8343784",
+      "start_char": 298,
+      "end_char": 305,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 320,
+      "end_char": 336,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "fournisseur",
+      "start_char": 402,
+      "end_char": 413,
+      "confidence": 0.55,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "François Béland",
+      "start_char": 443,
+      "end_char": 458,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "274220912",
+      "start_char": 485,
+      "end_char": 494,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "francois.beland@example.ca",
+      "start_char": 506,
+      "end_char": 532,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 327-8759",
+      "start_char": 545,
+      "end_char": 559,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "R2C 0L2",
+      "start_char": 574,
+      "end_char": 581,
+      "confidence": 0.74,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "R2C 0L2",
+      "start_char": 574,
+      "end_char": 581,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-29",
+      "start_char": 623,
+      "end_char": 633,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 169,
+  "cost_estimate_usd": 0.001,
+  "char_count": 634,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,851 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-07",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999812245368958,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Lewis",
+      "start_char": 58,
+      "end_char": 70,
+      "confidence": 0.9998775720596313,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4085098",
+      "start_char": 87,
+      "end_char": 94,
+      "confidence": 0.9987415671348572,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-07",
+      "start_char": 158,
+      "end_char": 168,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 184,
+      "end_char": 197,
+      "confidence": 0.9998878836631775,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-03",
+      "start_char": 229,
+      "end_char": 239,
+      "confidence": 0.9999909400939941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 255,
+      "end_char": 269,
+      "confidence": 0.9999313950538635,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-07",
+      "start_char": 303,
+      "end_char": 313,
+      "confidence": 0.9999919533729553,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 329,
+      "end_char": 340,
+      "confidence": 0.999923586845398,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-05",
+      "start_char": 374,
+      "end_char": 384,
+      "confidence": 0.9999898672103882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 397,
+      "end_char": 410,
+      "confidence": 0.9999004602432251,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 443,
+      "end_char": 453,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 465,
+      "end_char": 479,
+      "confidence": 0.9999396204948425,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-20",
+      "start_char": 513,
+      "end_char": 523,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 539,
+      "end_char": 553,
+      "confidence": 0.9998989701271057,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-02",
+      "start_char": 586,
+      "end_char": 596,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 611,
+      "end_char": 624,
+      "confidence": 0.9997361898422241,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-17",
+      "start_char": 658,
+      "end_char": 668,
+      "confidence": 0.999988853931427,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 681,
+      "end_char": 692,
+      "confidence": 0.9998534917831421,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-28",
+      "start_char": 725,
+      "end_char": 735,
+      "confidence": 0.9999911785125732,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 747,
+      "end_char": 758,
+      "confidence": 0.9998889565467834,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-16",
+      "start_char": 792,
+      "end_char": 802,
+      "confidence": 0.9999893307685852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 814,
+      "end_char": 825,
+      "confidence": 0.9998053312301636,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 857,
+      "end_char": 867,
+      "confidence": 0.9999896287918091,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 881,
+      "end_char": 894,
+      "confidence": 0.9997735023498535,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-27",
+      "start_char": 927,
+      "end_char": 937,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 953,
+      "end_char": 966,
+      "confidence": 0.9997243881225586,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-27",
+      "start_char": 998,
+      "end_char": 1008,
+      "confidence": 0.999988853931427,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 1023,
+      "end_char": 1036,
+      "confidence": 0.9998811483383179,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-20",
+      "start_char": 1069,
+      "end_char": 1079,
+      "confidence": 0.9999840259552002,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 1093,
+      "end_char": 1106,
+      "confidence": 0.999910831451416,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-02",
+      "start_char": 1140,
+      "end_char": 1150,
+      "confidence": 0.9999819397926331,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1166,
+      "end_char": 1180,
+      "confidence": 0.9999269843101501,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-07",
+      "start_char": 1213,
+      "end_char": 1223,
+      "confidence": 0.9999859929084778,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 1237,
+      "end_char": 1248,
+      "confidence": 0.9999200105667114,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-05",
+      "start_char": 1282,
+      "end_char": 1292,
+      "confidence": 0.999980628490448,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1308,
+      "end_char": 1322,
+      "confidence": 0.999927282333374,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-10",
+      "start_char": 1356,
+      "end_char": 1366,
+      "confidence": 0.9999739527702332,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1378,
+      "end_char": 1392,
+      "confidence": 0.9999110102653503,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-10",
+      "start_char": 1425,
+      "end_char": 1435,
+      "confidence": 0.999983012676239,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 1451,
+      "end_char": 1465,
+      "confidence": 0.9998799562454224,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-23",
+      "start_char": 1499,
+      "end_char": 1509,
+      "confidence": 0.9999817609786987,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 1522,
+      "end_char": 1535,
+      "confidence": 0.9998365640640259,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-15",
+      "start_char": 1569,
+      "end_char": 1579,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 1593,
+      "end_char": 1607,
+      "confidence": 0.9999502897262573,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-01",
+      "start_char": 1640,
+      "end_char": 1650,
+      "confidence": 0.9999942183494568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 1664,
+      "end_char": 1677,
+      "confidence": 0.9999300241470337,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-27",
+      "start_char": 1711,
+      "end_char": 1721,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 1733,
+      "end_char": 1744,
+      "confidence": 0.9999293088912964,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-22",
+      "start_char": 1777,
+      "end_char": 1787,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 1802,
+      "end_char": 1813,
+      "confidence": 0.9999212622642517,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-27",
+      "start_char": 1846,
+      "end_char": 1856,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 1870,
+      "end_char": 1884,
+      "confidence": 0.9998913407325745,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-09",
+      "start_char": 1915,
+      "end_char": 1925,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 1940,
+      "end_char": 1954,
+      "confidence": 0.9998683333396912,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-14",
+      "start_char": 1988,
+      "end_char": 1998,
+      "confidence": 0.9999938607215881,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 2012,
+      "end_char": 2026,
+      "confidence": 0.9999422430992126,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-12",
+      "start_char": 2059,
+      "end_char": 2069,
+      "confidence": 0.9999924302101135,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2083,
+      "end_char": 2096,
+      "confidence": 0.9998778104782104,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-25",
+      "start_char": 2128,
+      "end_char": 2138,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 2152,
+      "end_char": 2166,
+      "confidence": 0.999947190284729,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-29",
+      "start_char": 2199,
+      "end_char": 2209,
+      "confidence": 0.9999908208847046,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 2222,
+      "end_char": 2235,
+      "confidence": 0.9998886585235596,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-29",
+      "start_char": 2266,
+      "end_char": 2276,
+      "confidence": 0.9999874234199524,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2289,
+      "end_char": 2303,
+      "confidence": 0.9998053312301636,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-20",
+      "start_char": 2337,
+      "end_char": 2347,
+      "confidence": 0.999988317489624,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2359,
+      "end_char": 2372,
+      "confidence": 0.9998616576194763,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-07",
+      "start_char": 2405,
+      "end_char": 2415,
+      "confidence": 0.9999855160713196,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2424,
+      "end_char": 2438,
+      "confidence": 0.9997377991676331,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 2471,
+      "end_char": 2481,
+      "confidence": 0.999989926815033,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2495,
+      "end_char": 2509,
+      "confidence": 0.999851644039154,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-12",
+      "start_char": 2542,
+      "end_char": 2552,
+      "confidence": 0.9999936819076538,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 2561,
+      "end_char": 2572,
+      "confidence": 0.99989914894104,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-12",
+      "start_char": 2605,
+      "end_char": 2615,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 2631,
+      "end_char": 2644,
+      "confidence": 0.9998735189437866,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-11",
+      "start_char": 2677,
+      "end_char": 2687,
+      "confidence": 0.9999939799308777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2702,
+      "end_char": 2716,
+      "confidence": 0.999829888343811,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-22",
+      "start_char": 2746,
+      "end_char": 2756,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 2769,
+      "end_char": 2782,
+      "confidence": 0.9998376965522766,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-26",
+      "start_char": 2815,
+      "end_char": 2825,
+      "confidence": 0.9999918341636658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2840,
+      "end_char": 2853,
+      "confidence": 0.9998673796653748,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 2886,
+      "end_char": 2896,
+      "confidence": 0.9999920725822449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Justin Gregory",
+      "start_char": 2905,
+      "end_char": 2919,
+      "confidence": 0.9998273849487305,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-17",
+      "start_char": 2952,
+      "end_char": 2962,
+      "confidence": 0.999992311000824,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 2978,
+      "end_char": 2991,
+      "confidence": 0.9998924732208252,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-12",
+      "start_char": 3025,
+      "end_char": 3035,
+      "confidence": 0.9999761581420898,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 3048,
+      "end_char": 3061,
+      "confidence": 0.9998822808265686,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-16",
+      "start_char": 3093,
+      "end_char": 3103,
+      "confidence": 0.9999808073043823,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Jordan",
+      "start_char": 3112,
+      "end_char": 3125,
+      "confidence": 0.9998655319213867,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-22",
+      "start_char": 3158,
+      "end_char": 3168,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 3177,
+      "end_char": 3190,
+      "confidence": 0.9999036192893982,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-02",
+      "start_char": 3224,
+      "end_char": 3234,
+      "confidence": 0.999988317489624,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3249,
+      "end_char": 3263,
+      "confidence": 0.9999266862869263,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-26",
+      "start_char": 3297,
+      "end_char": 3307,
+      "confidence": 0.9999877214431763,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3322,
+      "end_char": 3336,
+      "confidence": 0.9999250173568726,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-17",
+      "start_char": 3370,
+      "end_char": 3380,
+      "confidence": 0.9999880790710449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3392,
+      "end_char": 3406,
+      "confidence": 0.9999223351478577,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-21",
+      "start_char": 3440,
+      "end_char": 3450,
+      "confidence": 0.9999914765357971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Foster",
+      "start_char": 3464,
+      "end_char": 3478,
+      "confidence": 0.9999287724494934,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:IP_ADDRESS",
+      "text": "170,234.31",
+      "start_char": 3490,
+      "end_char": 3500,
+      "confidence": 0.5950586795806885,
+      "original_type": "IP_ADDRESS"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-16",
+      "start_char": 3512,
+      "end_char": 3522,
+      "confidence": 0.9999082684516907,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Carol Smith",
+      "start_char": 3535,
+      "end_char": 3546,
+      "confidence": 0.9998845458030701,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-18",
+      "start_char": 3579,
+      "end_char": 3589,
+      "confidence": 0.9999418258666992,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tommy Estrada",
+      "start_char": 3603,
+      "end_char": 3616,
+      "confidence": 0.999903678894043,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:IP_ADDRESS",
+      "text": "162,262.61",
+      "start_char": 3625,
+      "end_char": 3635,
+      "confidence": 0.6533766388893127,
+      "original_type": "IP_ADDRESS"
+    }
+  ],
+  "latency_ms": 435,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3647,
+  "error": null,
+  "raw_response": {}
+}

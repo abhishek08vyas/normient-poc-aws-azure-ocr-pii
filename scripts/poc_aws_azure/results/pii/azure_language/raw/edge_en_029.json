@@ -1,0 +1,35 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_029",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Client",
+      "start_char": 16,
+      "end_char": 22,
+      "confidence": 0.6,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Hectoor Taylor",
+      "start_char": 24,
+      "end_char": 38,
+      "confidence": 0.91,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4165340",
+      "start_char": 49,
+      "end_char": 56,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    }
+  ],
+  "latency_ms": 160,
+  "cost_estimate_usd": 0.001,
+  "char_count": 97,
+  "error": null,
+  "raw_response": {}
+}

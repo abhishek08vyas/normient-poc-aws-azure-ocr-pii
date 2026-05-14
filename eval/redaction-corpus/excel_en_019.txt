@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-04
+Account Holder: Lisa Martin
+Account Number: 5590865
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-03-13	Payroll	John Sheppard	27,172.18		-15,799.08	TXN-639031
+2025-11-11	Payroll	Cheryl Goodwin	35,247.25		-51,046.33	TXN-384218
+2026-04-29	Bill payment	John Sheppard	15,637.74		-66,684.07	TXN-356717
+2026-04-02	Bill payment	John Sheppard	1,546.74		-68,230.80	TXN-565198
+2025-07-27	E-transfer	Bradley Diaz	4,397.37		-72,628.17	TXN-211072
+2025-10-02	Vendor payment	Jennifer Montes		29,678.54	-42,949.63	TXN-838908
+2026-01-31	Service fee	Kristen Young	16,683.37		-59,633.01	TXN-746253
+2025-12-20	Direct deposit	John Sheppard		37,811.57	-21,821.43	TXN-182361
+2025-10-31	Vendor payment	John Sheppard	40,137.29		-61,958.72	TXN-238197
+2025-11-08	E-transfer	Kristen Young	34,255.45		-96,214.17	TXN-201987
+2026-03-07	E-transfer	Kristen Young	11,267.34		-107,481.52	TXN-593403
+2025-08-30	Service fee	John Sheppard		19,664.64	-87,816.88	TXN-370587
+2026-03-11	E-transfer	Cheryl Goodwin		16,305.58	-71,511.30	TXN-927094
+2025-10-08	Vendor payment	Bradley Diaz	17,636.90		-89,148.20	TXN-168540
+2025-11-24	Vendor payment	Jennifer Montes		30,261.57	-58,886.63	TXN-395968
+2025-12-03	Direct deposit	John Sheppard	35,742.23		-94,628.86	TXN-207932
+2025-10-22	Wire transfer	Cheryl Goodwin		39,642.30	-54,986.55	TXN-683165
+2025-07-14	Payroll	Kristen Young		12,004.91	-42,981.65	TXN-520286
+2026-03-26	Direct deposit	John Sheppard		19,252.44	-23,729.21	TXN-266744
+2025-07-29	Bill payment	Jennifer Montes		21,614.31	-2,114.90	TXN-953452
+2026-03-20	Vendor payment	John Sheppard	34,737.24		-36,852.14	TXN-925571
+2026-01-02	Direct deposit	Bradley Diaz		28,752.00	-8,100.14	TXN-875282
+2025-07-05	Vendor payment	Bradley Diaz		16,336.37	8,236.22	TXN-720928
+2026-04-17	Wire transfer	Kristen Young	20,349.11		-12,112.88	TXN-284731
+2025-08-18	Payroll	Bradley Diaz		38,590.03	26,477.15	TXN-818807
+2025-06-02	Vendor payment	Cheryl Goodwin		3,167.96	29,645.11	TXN-618306
+2026-01-17	Direct deposit	Jennifer Montes		31,843.03	61,488.14	TXN-708979
+2025-11-15	Wire transfer	Jennifer Montes	26,609.67		34,878.48	TXN-792984
+2026-04-17	Vendor payment	John Sheppard	10,362.52		24,515.96	TXN-706005
+2025-10-04	Bill payment	Cheryl Goodwin		34,009.99	58,525.95	TXN-697978
+2025-12-14	Vendor payment	Cheryl Goodwin		30,613.39	89,139.34	TXN-193624
+2026-05-10	Payroll	Kristen Young	14,779.81		74,359.52	TXN-988811
+2025-06-21	Bill payment	John Sheppard	28,045.51		46,314.01	TXN-155708
+2026-02-13	Bill payment	Bradley Diaz		11,838.53	58,152.55	TXN-395917
+2026-04-06	E-transfer	John Sheppard		35,617.51	93,770.05	TXN-513420
+2025-11-29	Vendor payment	Kristen Young		33,158.13	126,928.18	TXN-556329
+2026-04-08	Vendor payment	Jennifer Montes		42,182.05	169,110.23	TXN-297370
+2025-06-30	Bill payment	Kristen Young	43,649.51		125,460.72	TXN-261760
+2025-08-31	Direct deposit	Jennifer Montes	883.82		124,576.90	TXN-112166
+2025-06-14	E-transfer	Kristen Young	49,511.86		75,065.04	TXN-789886
+2026-03-05	Wire transfer	Jennifer Montes		43,021.62	118,086.67	TXN-773440
+2025-07-14	Service fee	John Sheppard		22,774.28	140,860.94	TXN-546383
+2025-08-26	Vendor payment	John Sheppard	17,829.83		123,031.11	TXN-959907
+2025-11-03	Direct deposit	Kristen Young	24,958.03		98,073.08	TXN-733941
+2026-04-29	E-transfer	Jennifer Montes		20,600.81	118,673.89	TXN-846722
+2025-11-28	Payroll	John Sheppard	1,989.47		116,684.42	TXN-484795
+2025-07-09	Vendor payment	Cheryl Goodwin		48,090.71	164,775.14	TXN-218661
+2026-03-31	Wire transfer	Jennifer Montes		49,180.60	213,955.73	TXN-865654
+2025-10-29	Service fee	Cheryl Goodwin		26,215.50	240,171.24	TXN-587521
+2025-06-17	Payroll	Bradley Diaz	37,110.14		203,061.10	TXN-357143

@@ -1,0 +1,83 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_015",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Todd Allen",
+      "start_char": 37,
+      "end_char": 47,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "2567880",
+      "start_char": 57,
+      "end_char": 64,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-05 07:03:58",
+      "start_char": 116,
+      "end_char": 135,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "todd.allen@acmecorp.ca",
+      "start_char": 151,
+      "end_char": 173,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-16",
+      "start_char": 252,
+      "end_char": 262,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-26",
+      "start_char": 313,
+      "end_char": 323,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-24",
+      "start_char": 374,
+      "end_char": 384,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-26",
+      "start_char": 435,
+      "end_char": 445,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 496,
+      "end_char": 506,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 172,
+  "cost_estimate_usd": 0.001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

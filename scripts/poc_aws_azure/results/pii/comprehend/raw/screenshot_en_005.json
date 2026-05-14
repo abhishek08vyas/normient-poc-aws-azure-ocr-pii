@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Elizabeth Nguyen",
+      "start_char": 37,
+      "end_char": 53,
+      "confidence": 0.9999570846557617,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7208460",
+      "start_char": 63,
+      "end_char": 70,
+      "confidence": 0.9991258978843689,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-28",
+      "start_char": 122,
+      "end_char": 132,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "07:02:26",
+      "start_char": 133,
+      "end_char": 141,
+      "confidence": 0.9997411966323853,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "elizabeth.nguyen@testbank.ca",
+      "start_char": 157,
+      "end_char": 185,
+      "confidence": 0.9999136924743652,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 264,
+      "end_char": 274,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-19",
+      "start_char": 325,
+      "end_char": 335,
+      "confidence": 0.9999919533729553,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-22",
+      "start_char": 386,
+      "end_char": 396,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 447,
+      "end_char": 457,
+      "confidence": 0.9999919533729553,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 508,
+      "end_char": 518,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 250,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 569,
+  "error": null,
+  "raw_response": {}
+}

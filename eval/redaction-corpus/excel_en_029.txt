@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-25
+Account Holder: Amanda Payne
+Account Number: 3778554
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-09-13	Service fee	Jeffrey Dudley		32,231.32	93,710.85	TXN-688297
+2025-11-15	Wire transfer	John Grant		37,905.00	131,615.85	TXN-748758
+2025-09-25	Payroll	Jared Bush		25,181.68	156,797.52	TXN-298595
+2025-12-16	Wire transfer	Chelsea Lee		9,069.20	165,866.72	TXN-790229
+2026-05-10	Wire transfer	Jeffrey Dudley	41,501.56		124,365.16	TXN-924974
+2026-05-10	Service fee	Jared Bush	26,723.84		97,641.32	TXN-565808
+2026-03-17	Bill payment	Kenneth Roberts	43,112.52		54,528.80	TXN-717499
+2026-02-17	Wire transfer	Jeffrey Dudley	1,300.44		53,228.36	TXN-558245
+2025-08-27	Payroll	Jeffrey Dudley	5,820.77		47,407.59	TXN-500567
+2025-09-01	Wire transfer	Jared Bush	9,215.18		38,192.41	TXN-276324
+2025-06-29	Service fee	Chelsea Lee	20,423.09		17,769.32	TXN-261719
+2025-12-21	Direct deposit	Chelsea Lee		9,154.75	26,924.07	TXN-744324
+2026-01-30	E-transfer	Chelsea Lee	16,070.07		10,854.00	TXN-412501
+2025-12-09	Vendor payment	Jeffrey Dudley	41,404.30		-30,550.30	TXN-370463
+2025-10-07	Wire transfer	Chelsea Lee	29,890.53		-60,440.83	TXN-312398
+2026-04-25	Direct deposit	Kenneth Roberts		19,313.93	-41,126.90	TXN-633328
+2025-10-13	Wire transfer	Jeffrey Dudley	27,700.74		-68,827.64	TXN-163577
+2026-03-26	Wire transfer	Kenneth Roberts	11,763.65		-80,591.29	TXN-130310
+2025-09-24	Wire transfer	Jeffrey Dudley		33,787.36	-46,803.93	TXN-680990
+2026-03-09	Direct deposit	Jared Bush		15,300.18	-31,503.75	TXN-783200
+2026-03-21	Vendor payment	Kenneth Roberts		25,071.58	-6,432.17	TXN-187984
+2025-07-08	Service fee	John Grant		8,492.60	2,060.42	TXN-491438
+2025-09-02	Direct deposit	Jared Bush		27,802.10	29,862.52	TXN-544336
+2025-05-29	Wire transfer	Chelsea Lee	41,485.65		-11,623.13	TXN-952118
+2025-09-01	Bill payment	John Grant	46,098.35		-57,721.48	TXN-100569
+2026-02-14	Bill payment	Jared Bush		19,069.66	-38,651.82	TXN-363076
+2025-06-12	Bill payment	John Grant		14,137.43	-24,514.39	TXN-713583
+2025-09-24	Direct deposit	Jared Bush	4,576.78		-29,091.17	TXN-690433
+2026-05-06	E-transfer	Chelsea Lee	27,868.31		-56,959.48	TXN-970840
+2025-10-31	Bill payment	Kenneth Roberts		47,875.12	-9,084.36	TXN-321092
+2026-01-22	Bill payment	Jeffrey Dudley	37,659.43		-46,743.79	TXN-766023
+2025-08-20	Vendor payment	Jeffrey Dudley		16,149.75	-30,594.05	TXN-357874
+2026-02-27	Direct deposit	Kenneth Roberts	45,709.51		-76,303.56	TXN-728635
+2025-11-15	Direct deposit	Chelsea Lee	45,082.11		-121,385.66	TXN-738359
+2025-08-04	E-transfer	John Grant		34,854.85	-86,530.81	TXN-533232
+2025-07-30	Vendor payment	Kenneth Roberts	43,848.34		-130,379.16	TXN-664271
+2026-03-30	E-transfer	Chelsea Lee	41,620.98		-172,000.14	TXN-664814
+2025-12-08	E-transfer	Kenneth Roberts	48,604.75		-220,604.89	TXN-804900
+2025-08-26	Vendor payment	Jared Bush	41,973.38		-262,578.26	TXN-475354
+2026-05-10	Service fee	Chelsea Lee	46,818.77		-309,397.03	TXN-230824
+2025-12-17	Vendor payment	Chelsea Lee		37,945.21	-271,451.82	TXN-332281
+2026-02-07	E-transfer	Jeffrey Dudley	30,710.79		-302,162.61	TXN-300814
+2025-08-26	Bill payment	John Grant		48,368.10	-253,794.52	TXN-345637
+2025-07-05	Wire transfer	Jeffrey Dudley		35,377.70	-218,416.82	TXN-616777
+2025-06-24	Direct deposit	Chelsea Lee		31,957.96	-186,458.85	TXN-305611
+2026-01-07	Wire transfer	Jeffrey Dudley		8,606.81	-177,852.05	TXN-696746
+2026-02-24	Direct deposit	Jared Bush		28,300.50	-149,551.55	TXN-804827
+2025-12-26	Wire transfer	Jared Bush		6,458.80	-143,092.75	TXN-234476
+2025-08-13	Payroll	John Grant		13,788.97	-129,303.78	TXN-648489
+2025-08-15	Service fee	Chelsea Lee		30,761.38	-98,542.40	TXN-826648

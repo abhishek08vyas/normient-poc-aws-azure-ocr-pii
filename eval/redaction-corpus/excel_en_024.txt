@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-29
+Account Holder: Tammy Downs
+Account Number: 7838023
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-07-30	Bill payment	Jenna Pierce	6,882.03		71,644.82	TXN-588533
+2026-03-16	Service fee	Eric Mckinney	36,134.61		35,510.21	TXN-838963
+2025-07-05	Wire transfer	Eric Mckinney	14,252.21		21,258.00	TXN-617695
+2025-08-12	Payroll	Eric Mckinney		22,253.40	43,511.39	TXN-820420
+2026-03-15	Payroll	Isabella Thompson		21,455.29	64,966.68	TXN-404704
+2025-11-20	Service fee	Jenna Pierce		46,960.19	111,926.87	TXN-981913
+2025-05-23	Bill payment	Kelly Evans		24,633.25	136,560.13	TXN-113406
+2025-09-30	Wire transfer	Isabella Thompson		33,858.28	170,418.41	TXN-559337
+2025-12-14	Wire transfer	Kelly Evans	29,568.81		140,849.60	TXN-513989
+2025-12-21	Wire transfer	Kelly Evans	10,034.41		130,815.19	TXN-167853
+2025-10-03	Direct deposit	Michael Walker		6,225.83	137,041.02	TXN-985029
+2025-11-10	Service fee	Isabella Thompson	38,264.37		98,776.66	TXN-860427
+2026-03-21	Service fee	Michael Walker	39,495.69		59,280.97	TXN-722487
+2025-12-13	E-transfer	Isabella Thompson	30,197.96		29,083.01	TXN-473395
+2025-07-02	Vendor payment	Isabella Thompson	38,423.18		-9,340.16	TXN-636256
+2026-01-05	Wire transfer	Jenna Pierce	11,618.01		-20,958.17	TXN-362867
+2026-04-21	Direct deposit	Jenna Pierce		41,532.59	20,574.42	TXN-204441
+2025-06-15	Vendor payment	Jenna Pierce	33,992.30		-13,417.88	TXN-287795
+2025-06-07	Direct deposit	Eric Mckinney		38,032.56	24,614.68	TXN-752179
+2025-09-10	E-transfer	Michael Walker	23,354.49		1,260.19	TXN-904857
+2025-10-14	Bill payment	Isabella Thompson		27,167.66	28,427.85	TXN-614064
+2026-02-15	Service fee	Michael Walker	38,221.85		-9,794.00	TXN-673172
+2026-02-16	Vendor payment	Jenna Pierce	42,658.43		-52,452.43	TXN-502265
+2025-11-14	Vendor payment	Isabella Thompson	27,877.66		-80,330.09	TXN-137728
+2025-12-03	Service fee	Eric Mckinney	21,590.99		-101,921.07	TXN-840356
+2025-10-19	Bill payment	Isabella Thompson		28,485.88	-73,435.20	TXN-611133
+2026-03-07	Vendor payment	Michael Walker		23,543.94	-49,891.26	TXN-818666
+2025-10-19	Payroll	Kelly Evans	13,243.21		-63,134.47	TXN-631297
+2026-03-28	Payroll	Isabella Thompson		38,346.89	-24,787.58	TXN-746908
+2025-12-22	Bill payment	Eric Mckinney	2,351.41		-27,138.99	TXN-164407
+2025-06-10	Service fee	Eric Mckinney		29,239.95	2,100.96	TXN-465823
+2025-06-30	Service fee	Eric Mckinney	17,322.64		-15,221.68	TXN-499060
+2025-09-13	Bill payment	Isabella Thompson	12,287.02		-27,508.70	TXN-468332
+2026-01-17	Direct deposit	Eric Mckinney	34,430.76		-61,939.46	TXN-721314
+2025-06-10	Service fee	Eric Mckinney	1,083.63		-63,023.09	TXN-220031
+2025-11-03	Bill payment	Jenna Pierce		21,181.40	-41,841.68	TXN-583298
+2025-11-09	Payroll	Isabella Thompson	23,538.03		-65,379.71	TXN-379570
+2026-02-01	Wire transfer	Eric Mckinney		16,188.83	-49,190.88	TXN-496086
+2025-11-29	Wire transfer	Isabella Thompson		10,374.82	-38,816.06	TXN-204917
+2025-09-23	Vendor payment	Michael Walker		17,043.02	-21,773.04	TXN-950874
+2025-07-01	Payroll	Eric Mckinney		10,167.76	-11,605.29	TXN-480983
+2026-04-18	E-transfer	Jenna Pierce		10,782.60	-822.69	TXN-981202
+2026-03-30	Bill payment	Jenna Pierce		20,161.16	19,338.48	TXN-411762
+2026-03-12	Direct deposit	Michael Walker		35,913.57	55,252.05	TXN-878974
+2025-12-13	Payroll	Jenna Pierce	3,456.76		51,795.29	TXN-720615
+2026-01-16	Service fee	Michael Walker	17,431.09		34,364.19	TXN-598355
+2025-12-27	Wire transfer	Eric Mckinney		21,702.23	56,066.43	TXN-629152
+2025-07-22	Payroll	Eric Mckinney	12,638.11		43,428.31	TXN-309795
+2026-03-07	Payroll	Isabella Thompson		9,111.98	52,540.30	TXN-804181
+2025-07-02	Wire transfer	Michael Walker		10,726.34	63,266.64	TXN-295600

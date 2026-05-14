@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-09
+Account Holder: Krystal Smith
+Account Number: 3828735
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-01-04	Service fee	David Richardson		31,711.03	85,772.97	TXN-235691
+2025-08-06	Vendor payment	Nathan Leonard	1,982.49		83,790.47	TXN-600590
+2026-01-19	Direct deposit	Sherry Murphy		44,611.12	128,401.59	TXN-491225
+2025-06-06	Service fee	Thomas Harvey	305.78		128,095.81	TXN-299834
+2026-01-14	E-transfer	Kaitlyn Baker		17,283.05	145,378.87	TXN-337256
+2026-03-28	Direct deposit	David Richardson		15,375.14	160,754.01	TXN-502181
+2025-11-09	Wire transfer	David Richardson		22,850.72	183,604.73	TXN-412687
+2026-05-01	Payroll	Thomas Harvey	44,409.90		139,194.83	TXN-649577
+2026-02-09	Direct deposit	Parker Little	9,502.46		129,692.37	TXN-613989
+2025-09-07	Service fee	Nathan Leonard	36,385.72		93,306.64	TXN-120053
+2026-01-20	Direct deposit	Kaitlyn Baker	25,281.21		68,025.43	TXN-869735
+2025-10-18	Wire transfer	Parker Little		1,964.44	69,989.86	TXN-845652
+2025-06-27	E-transfer	Parker Little		2,524.49	72,514.35	TXN-908713
+2025-07-06	Wire transfer	Sherry Murphy		1,085.11	73,599.47	TXN-213365
+2025-05-30	E-transfer	David Richardson	6,267.39		67,332.07	TXN-537020
+2025-05-27	Bill payment	Nathan Leonard	34,790.08		32,541.99	TXN-835962
+2025-09-08	E-transfer	David Richardson	5,138.89		27,403.10	TXN-415743
+2025-11-20	Payroll	Parker Little		6,944.46	34,347.56	TXN-753050
+2025-06-27	Service fee	David Richardson		5,974.95	40,322.51	TXN-636435
+2025-06-19	Wire transfer	David Richardson	10,067.49		30,255.02	TXN-621917
+2025-08-12	Bill payment	Thomas Harvey	20,546.84		9,708.18	TXN-311469
+2026-04-22	Direct deposit	David Richardson	10,463.93		-755.75	TXN-674765
+2025-12-07	Vendor payment	Parker Little	33,614.49		-34,370.24	TXN-345896
+2025-07-04	Wire transfer	Thomas Harvey	47,477.36		-81,847.60	TXN-801520
+2025-10-10	Service fee	Thomas Harvey		5,154.39	-76,693.20	TXN-178693
+2025-11-05	Bill payment	Sherry Murphy	48,866.82		-125,560.02	TXN-342389
+2025-10-04	Bill payment	Nathan Leonard	8,817.62		-134,377.64	TXN-152512
+2026-01-28	Wire transfer	Parker Little		15,704.08	-118,673.56	TXN-477712
+2026-02-25	E-transfer	David Richardson		44,525.57	-74,147.98	TXN-199613
+2026-02-07	Wire transfer	Kaitlyn Baker		16,500.18	-57,647.81	TXN-795578
+2025-12-08	Vendor payment	Thomas Harvey		4,738.27	-52,909.54	TXN-381342
+2025-10-22	Service fee	Parker Little	20,072.49		-72,982.03	TXN-291752
+2025-12-27	Vendor payment	Parker Little	42,548.51		-115,530.54	TXN-976303
+2026-02-25	Service fee	Nathan Leonard		8,422.26	-107,108.28	TXN-780364
+2026-02-19	Direct deposit	Sherry Murphy	47,129.10		-154,237.38	TXN-861697
+2025-07-12	Direct deposit	David Richardson		24,185.48	-130,051.91	TXN-536236
+2026-04-21	Payroll	Sherry Murphy	19,049.56		-149,101.47	TXN-559447
+2025-10-21	Bill payment	Thomas Harvey		44,009.52	-105,091.95	TXN-130216
+2026-01-22	E-transfer	Kaitlyn Baker		5,735.58	-99,356.37	TXN-606545
+2025-06-20	Vendor payment	Nathan Leonard	32,783.18		-132,139.55	TXN-148205
+2026-04-01	Wire transfer	Sherry Murphy		37,206.83	-94,932.73	TXN-810859
+2025-11-19	E-transfer	Thomas Harvey		33,525.23	-61,407.49	TXN-334865
+2026-01-07	Bill payment	Thomas Harvey		30,950.13	-30,457.36	TXN-648513
+2025-10-18	Vendor payment	Sherry Murphy	17,352.90		-47,810.26	TXN-861949
+2026-05-12	E-transfer	Sherry Murphy	41,339.25		-89,149.51	TXN-503572
+2025-08-29	Payroll	David Richardson		7,930.68	-81,218.84	TXN-112210
+2025-05-25	Service fee	Nathan Leonard	8,353.65		-89,572.49	TXN-993251
+2026-02-05	Service fee	Nathan Leonard	48,510.24		-138,082.73	TXN-436208
+2025-10-03	Wire transfer	Thomas Harvey		18,994.02	-119,088.71	TXN-333524
+2025-08-05	Service fee	Kaitlyn Baker	40,082.94		-159,171.65	TXN-182659

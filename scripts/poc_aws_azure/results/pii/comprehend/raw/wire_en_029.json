@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_029",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-16",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9998338222503662,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Denise Fernandez",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 0.9999681711196899,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5081983",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.9998056292533875,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Quebec City, Quebec",
+      "start_char": 181,
+      "end_char": 200,
+      "confidence": 0.9932094812393188,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Alexis Davis",
+      "start_char": 230,
+      "end_char": 242,
+      "confidence": 0.9999627470970154,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6137284",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.9998418092727661,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karen Young",
+      "start_char": 390,
+      "end_char": 401,
+      "confidence": 0.9999606609344482,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "695788562",
+      "start_char": 426,
+      "end_char": 435,
+      "confidence": 0.9041077494621277,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "karen.young@synthco.com",
+      "start_char": 443,
+      "end_char": 466,
+      "confidence": 0.9999399185180664,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 560-7434",
+      "start_char": 474,
+      "end_char": 488,
+      "confidence": 0.9999428391456604,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "L4L 3E3",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.9998931288719177,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "L4L 3E3",
+      "start_char": 502,
+      "end_char": 509,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-16",
+      "start_char": 549,
+      "end_char": 559,
+      "confidence": 0.9999790191650391,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 227,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 560,
+  "error": null,
+  "raw_response": {}
+}

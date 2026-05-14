@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-12-24
+Reference : VIR-160022
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Émilie Lévesque
+Numero de compte : 1702283
+Succursale : Terrebonne
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Hélène Gagné
+Numero de compte : 2624736
+Institution : Desjardins
+
+DETAILS DU VIREMENT
+Montant : 332,874.06 $ CAD
+Objet : Paie
+
+AUTORISATION
+Approuve par : Noël Côté
+NAS (pour verification) : 280698473
+Courriel : noel.cote@acmecorp.ca
+Telephone : (613) 818-7036
+Code postal : N5N 5K5
+
+Signature : ____________________
+Date : 2026-02-16

@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-09-16
+Reference : VIR-169223
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Thérèse Tremblay
+Numero de compte : 6488523
+Succursale : Gatineau
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Étienne Ouellet
+Numero de compte : 6413664
+Institution : HSBC Canada
+
+DETAILS DU VIREMENT
+Montant : 195,204.14 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Raphaël Lévesque
+NAS (pour verification) : 539386615
+Courriel : raphael.levesque@example.ca
+Telephone : (514) 308-5842
+Code postal : N2A 6N0
+
+Signature : ____________________
+Date : 2025-06-14

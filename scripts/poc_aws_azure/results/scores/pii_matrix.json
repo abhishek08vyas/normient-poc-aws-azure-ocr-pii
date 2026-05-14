@@ -1,0 +1,82 @@
+{
+  "comprehend": {
+    "per_entity": {
+      "SIN": {
+        "recall": 0.13,
+        "tp": 13,
+        "fn": 87
+      },
+      "ACCOUNT": {
+        "recall": 0.7458333333333333,
+        "tp": 179,
+        "fn": 61
+      },
+      "PERSON": {
+        "recall": 0.9475409836065574,
+        "tp": 1734,
+        "fn": 96
+      },
+      "EMAIL": {
+        "recall": 0.75,
+        "tp": 90,
+        "fn": 30
+      },
+      "PHONE": {
+        "recall": 0.625,
+        "tp": 50,
+        "fn": 30
+      },
+      "POSTAL_CODE": {
+        "recall": 0.6,
+        "tp": 48,
+        "fn": 32
+      }
+    },
+    "overall_precision": 0.9985829003306566,
+    "french_person_recall": 0.0,
+    "edge_sin_recall": 0.0,
+    "negative_control_fp_count": 0,
+    "total_cost": 0.24639999999999962,
+    "avg_latency_ms": 272.565
+  },
+  "azure_language": {
+    "per_entity": {
+      "SIN": {
+        "recall": 0.0,
+        "tp": 0,
+        "fn": 100
+      },
+      "ACCOUNT": {
+        "recall": 0.0,
+        "tp": 0,
+        "fn": 240
+      },
+      "PERSON": {
+        "recall": 0.9491803278688524,
+        "tp": 1737,
+        "fn": 93
+      },
+      "EMAIL": {
+        "recall": 1.0,
+        "tp": 120,
+        "fn": 0
+      },
+      "PHONE": {
+        "recall": 1.0,
+        "tp": 80,
+        "fn": 0
+      },
+      "POSTAL_CODE": {
+        "recall": 1.0,
+        "tp": 80,
+        "fn": 0
+      }
+    },
+    "overall_precision": 0.6886309320587232,
+    "french_person_recall": 1.0,
+    "edge_sin_recall": 0.0,
+    "negative_control_fp_count": 0,
+    "total_cost": 0.32000000000000023,
+    "avg_latency_ms": 245.8
+  }
+}

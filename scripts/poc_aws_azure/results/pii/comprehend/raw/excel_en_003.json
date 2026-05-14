@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_003",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999857544898987,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Matthew Sheppard",
+      "start_char": 58,
+      "end_char": 74,
+      "confidence": 0.9998266696929932,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1058272",
+      "start_char": 91,
+      "end_char": 98,
+      "confidence": 0.9998263716697693,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-17",
+      "start_char": 162,
+      "end_char": 172,
+      "confidence": 0.9999877214431763,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 188,
+      "end_char": 199,
+      "confidence": 0.9999235272407532,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-28",
+      "start_char": 233,
+      "end_char": 243,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 259,
+      "end_char": 274,
+      "confidence": 0.9999051094055176,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-15",
+      "start_char": 307,
+      "end_char": 317,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 329,
+      "end_char": 342,
+      "confidence": 0.9998463988304138,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 376,
+      "end_char": 386,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 399,
+      "end_char": 412,
+      "confidence": 0.9998427629470825,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-21",
+      "start_char": 445,
+      "end_char": 455,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 470,
+      "end_char": 485,
+      "confidence": 0.9998763203620911,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-03",
+      "start_char": 519,
+      "end_char": 529,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 545,
+      "end_char": 558,
+      "confidence": 0.9998920559883118,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-30",
+      "start_char": 592,
+      "end_char": 602,
+      "confidence": 0.9999895095825195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 615,
+      "end_char": 628,
+      "confidence": 0.9999492764472961,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-16",
+      "start_char": 662,
+      "end_char": 672,
+      "confidence": 0.9999732971191406,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 685,
+      "end_char": 696,
+      "confidence": 0.9999551177024841,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-08",
+      "start_char": 730,
+      "end_char": 740,
+      "confidence": 0.9999809861183167,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 753,
+      "end_char": 765,
+      "confidence": 0.9999358654022217,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-08",
+      "start_char": 798,
+      "end_char": 808,
+      "confidence": 0.9999759793281555,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 820,
+      "end_char": 831,
+      "confidence": 0.9999482035636902,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-10",
+      "start_char": 865,
+      "end_char": 875,
+      "confidence": 0.9999735355377197,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 884,
+      "end_char": 895,
+      "confidence": 0.999944269657135,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-01",
+      "start_char": 929,
+      "end_char": 939,
+      "confidence": 0.9999769926071167,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 955,
+      "end_char": 966,
+      "confidence": 0.9999513626098633,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-07",
+      "start_char": 1000,
+      "end_char": 1010,
+      "confidence": 0.9999839067459106,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 1022,
+      "end_char": 1037,
+      "confidence": 0.9999386072158813,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-03",
+      "start_char": 1071,
+      "end_char": 1081,
+      "confidence": 0.9999875426292419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 1097,
+      "end_char": 1109,
+      "confidence": 0.9998975396156311,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-30",
+      "start_char": 1143,
+      "end_char": 1153,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 1169,
+      "end_char": 1181,
+      "confidence": 0.9999081492424011,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 1215,
+      "end_char": 1225,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 1241,
+      "end_char": 1256,
+      "confidence": 0.9998809695243835,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-05",
+      "start_char": 1290,
+      "end_char": 1300,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 1309,
+      "end_char": 1320,
+      "confidence": 0.9999055862426758,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-12",
+      "start_char": 1354,
+      "end_char": 1364,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 1378,
+      "end_char": 1391,
+      "confidence": 0.9999101758003235,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-27",
+      "start_char": 1424,
+      "end_char": 1434,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 1446,
+      "end_char": 1458,
+      "confidence": 0.9998750686645508,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-26",
+      "start_char": 1492,
+      "end_char": 1502,
+      "confidence": 0.9999905824661255,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 1511,
+      "end_char": 1524,
+      "confidence": 0.9999456405639648,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-08",
+      "start_char": 1558,
+      "end_char": 1568,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 1580,
+      "end_char": 1591,
+      "confidence": 0.9999498128890991,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-19",
+      "start_char": 1624,
+      "end_char": 1634,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 1648,
+      "end_char": 1660,
+      "confidence": 0.9998754262924194,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-09",
+      "start_char": 1692,
+      "end_char": 1702,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 1714,
+      "end_char": 1727,
+      "confidence": 0.9999189972877502,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-05",
+      "start_char": 1761,
+      "end_char": 1771,
+      "confidence": 0.9999889731407166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 1787,
+      "end_char": 1798,
+      "confidence": 0.9999490976333618,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-04",
+      "start_char": 1831,
+      "end_char": 1841,
+      "confidence": 0.9999889135360718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 1850,
+      "end_char": 1862,
+      "confidence": 0.9997625350952148,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-24",
+      "start_char": 1895,
+      "end_char": 1905,
+      "confidence": 0.9999865293502808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 1917,
+      "end_char": 1929,
+      "confidence": 0.9998176693916321,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-20",
+      "start_char": 1961,
+      "end_char": 1971,
+      "confidence": 0.9999897480010986,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 1987,
+      "end_char": 2002,
+      "confidence": 0.9999168515205383,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-05",
+      "start_char": 2035,
+      "end_char": 2045,
+      "confidence": 0.999987006187439,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 2058,
+      "end_char": 2070,
+      "confidence": 0.9996948838233948,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-01",
+      "start_char": 2103,
+      "end_char": 2113,
+      "confidence": 0.9999889731407166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 2122,
+      "end_char": 2134,
+      "confidence": 0.9999025464057922,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-10",
+      "start_char": 2166,
+      "end_char": 2176,
+      "confidence": 0.999983549118042,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Anna Torres",
+      "start_char": 2185,
+      "end_char": 2196,
+      "confidence": 0.999908983707428,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-02",
+      "start_char": 2227,
+      "end_char": 2237,
+      "confidence": 0.9999852180480957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 2251,
+      "end_char": 2263,
+      "confidence": 0.9998467564582825,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-23",
+      "start_char": 2296,
+      "end_char": 2306,
+      "confidence": 0.999982476234436,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 2315,
+      "end_char": 2327,
+      "confidence": 0.9992895126342773,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-24",
+      "start_char": 2360,
+      "end_char": 2370,
+      "confidence": 0.9999844431877136,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 2382,
+      "end_char": 2397,
+      "confidence": 0.9998903274536133,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-13",
+      "start_char": 2430,
+      "end_char": 2440,
+      "confidence": 0.9999823570251465,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 2456,
+      "end_char": 2468,
+      "confidence": 0.9998919367790222,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-12",
+      "start_char": 2499,
+      "end_char": 2509,
+      "confidence": 0.9999858736991882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 2518,
+      "end_char": 2531,
+      "confidence": 0.9999248385429382,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-14",
+      "start_char": 2565,
+      "end_char": 2575,
+      "confidence": 0.9999812841415405,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 2588,
+      "end_char": 2601,
+      "confidence": 0.9999274611473083,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-19",
+      "start_char": 2634,
+      "end_char": 2644,
+      "confidence": 0.9999822378158569,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 2656,
+      "end_char": 2668,
+      "confidence": 0.9998978972434998,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-13",
+      "start_char": 2699,
+      "end_char": 2709,
+      "confidence": 0.9999750256538391,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 2718,
+      "end_char": 2733,
+      "confidence": 0.9998586773872375,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-11",
+      "start_char": 2767,
+      "end_char": 2777,
+      "confidence": 0.999983549118042,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 2786,
+      "end_char": 2801,
+      "confidence": 0.9998508095741272,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-12",
+      "start_char": 2832,
+      "end_char": 2842,
+      "confidence": 0.9999825358390808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 2851,
+      "end_char": 2866,
+      "confidence": 0.9998847842216492,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-14",
+      "start_char": 2901,
+      "end_char": 2911,
+      "confidence": 0.9999696016311646,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 2920,
+      "end_char": 2932,
+      "confidence": 0.9998668432235718,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-18",
+      "start_char": 2966,
+      "end_char": 2976,
+      "confidence": 0.9999775290489197,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 2992,
+      "end_char": 3004,
+      "confidence": 0.9998285174369812,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-03",
+      "start_char": 3038,
+      "end_char": 3048,
+      "confidence": 0.9999667406082153,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 3064,
+      "end_char": 3076,
+      "confidence": 0.9998817443847656,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-04",
+      "start_char": 3109,
+      "end_char": 3119,
+      "confidence": 0.9999622702598572,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Hernandez",
+      "start_char": 3133,
+      "end_char": 3148,
+      "confidence": 0.9998246431350708,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-29",
+      "start_char": 3182,
+      "end_char": 3192,
+      "confidence": 0.9999619722366333,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lynn Morales",
+      "start_char": 3201,
+      "end_char": 3213,
+      "confidence": 0.9998543858528137,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-11",
+      "start_char": 3247,
+      "end_char": 3257,
+      "confidence": 0.999962329864502,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 3270,
+      "end_char": 3283,
+      "confidence": 0.9998129606246948,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-03",
+      "start_char": 3317,
+      "end_char": 3327,
+      "confidence": 0.9999887347221375,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 3342,
+      "end_char": 3355,
+      "confidence": 0.999871015548706,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-25",
+      "start_char": 3389,
+      "end_char": 3399,
+      "confidence": 0.9999885559082031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 3414,
+      "end_char": 3427,
+      "confidence": 0.9998989105224609,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-10",
+      "start_char": 3461,
+      "end_char": 3471,
+      "confidence": 0.9999869465827942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Charles Soto",
+      "start_char": 3487,
+      "end_char": 3499,
+      "confidence": 0.9998311400413513,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 3533,
+      "end_char": 3543,
+      "confidence": 0.99998539686203,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shelley Woods",
+      "start_char": 3552,
+      "end_char": 3565,
+      "confidence": 0.9998957514762878,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 392,
+  "cost_estimate_usd": 0.0036000000000000003,
+  "char_count": 3599,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_003",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-20",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999276995658875,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Debra Gardner",
+      "start_char": 132,
+      "end_char": 145,
+      "confidence": 0.9999653100967407,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4226067",
+      "start_char": 162,
+      "end_char": 169,
+      "confidence": 0.9941856861114502,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Gatineau, Quebec",
+      "start_char": 178,
+      "end_char": 194,
+      "confidence": 0.9998436570167542,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Lawrence",
+      "start_char": 224,
+      "end_char": 240,
+      "confidence": 0.9999572038650513,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2166941",
+      "start_char": 257,
+      "end_char": 264,
+      "confidence": 0.9991094470024109,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lisa Smith",
+      "start_char": 388,
+      "end_char": 398,
+      "confidence": 0.9999545812606812,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "134131648",
+      "start_char": 423,
+      "end_char": 432,
+      "confidence": 0.9124564528465271,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "lisa.smith@acmecorp.ca",
+      "start_char": 440,
+      "end_char": 462,
+      "confidence": 0.9999488592147827,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 366-6065",
+      "start_char": 470,
+      "end_char": 484,
+      "confidence": 0.9998199343681335,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "P3L 1Z2",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.9998258948326111,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "P3L 1Z2",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-13",
+      "start_char": 545,
+      "end_char": 555,
+      "confidence": 0.9999870657920837,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 259,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 556,
+  "error": null,
+  "raw_response": {}
+}

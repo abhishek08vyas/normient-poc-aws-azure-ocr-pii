@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_048",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-06",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.86,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristin Rodriguez",
+      "start_char": 132,
+      "end_char": 149,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4475523",
+      "start_char": 166,
+      "end_char": 173,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Monica Garrison",
+      "start_char": 239,
+      "end_char": 254,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4623062",
+      "start_char": 271,
+      "end_char": 278,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 292,
+      "end_char": 308,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Velasquez",
+      "start_char": 403,
+      "end_char": 420,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "735290421",
+      "start_char": 445,
+      "end_char": 454,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jeffrey.velasquez@example.ca",
+      "start_char": 462,
+      "end_char": 490,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 378-1801",
+      "start_char": 498,
+      "end_char": 512,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "A2A 5K9",
+      "start_char": 526,
+      "end_char": 533,
+      "confidence": 0.93,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "A2A 5K9",
+      "start_char": 526,
+      "end_char": 533,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-24",
+      "start_char": 573,
+      "end_char": 583,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 131,
+  "cost_estimate_usd": 0.001,
+  "char_count": 584,
+  "error": null,
+  "raw_response": {}
+}

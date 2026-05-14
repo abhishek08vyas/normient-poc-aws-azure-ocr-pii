@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2026-02-02
+Reference : VIR-827424
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Jérôme Bouchard
+Numero de compte : 9197782
+Succursale : Longueuil
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Étienne Lévesque
+Numero de compte : 6078288
+Institution : HSBC Canada
+
+DETAILS DU VIREMENT
+Montant : 12,490.35 $ CAD
+Objet : Transfert d'investissement
+
+AUTORISATION
+Approuve par : Cécile Fortin
+NAS (pour verification) : 692617640
+Courriel : cecile.fortin@acmecorp.ca
+Telephone : (613) 211-1966
+Code postal : E1E 7W3
+
+Signature : ____________________
+Date : 2025-11-23

@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-08-22
+Reference: WT-519093
+
+SENDER INFORMATION
+Name: Danielle Rodriguez
+Account Number: 5163555
+Branch: Richmond, British Columbia
+
+RECIPIENT INFORMATION
+Name: Ryan Chavez
+Account Number: 5476257
+Institution: CIBC
+
+TRANSFER DETAILS
+Amount: $483,477.66 CAD
+Purpose: Investment Transfer
+
+AUTHORIZATION
+Approved by: Stephanie Liu
+SIN (for verification): 216073379
+Email: stephanie.liu@testbank.ca
+Phone: (438) 433-3652
+Postal Code: A3R 5L1
+
+Signature: ____________________
+Date: 2025-11-22

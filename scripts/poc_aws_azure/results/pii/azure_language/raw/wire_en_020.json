@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_020",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-12",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Tucker",
+      "start_char": 132,
+      "end_char": 150,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3472189",
+      "start_char": 167,
+      "end_char": 174,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Chad Hodges",
+      "start_char": 229,
+      "end_char": 240,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1409790",
+      "start_char": 257,
+      "end_char": 264,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 278,
+      "end_char": 293,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Katie Anderson",
+      "start_char": 380,
+      "end_char": 394,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "137917696",
+      "start_char": 419,
+      "end_char": 428,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "katie.anderson@example.ca",
+      "start_char": 436,
+      "end_char": 461,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 706-6547",
+      "start_char": 469,
+      "end_char": 483,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K2A 1S3",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.92,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K2A 1S3",
+      "start_char": 497,
+      "end_char": 504,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-11",
+      "start_char": 544,
+      "end_char": 554,
+      "confidence": 0.83,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 125,
+  "cost_estimate_usd": 0.001,
+  "char_count": 555,
+  "error": null,
+  "raw_response": {}
+}

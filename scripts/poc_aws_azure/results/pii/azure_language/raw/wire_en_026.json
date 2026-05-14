@@ -1,0 +1,123 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_026",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-17",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Donna Gomez",
+      "start_char": 132,
+      "end_char": 143,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7654757",
+      "start_char": 160,
+      "end_char": 167,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Red Deer",
+      "start_char": 176,
+      "end_char": 184,
+      "confidence": 0.58,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Shields",
+      "start_char": 223,
+      "end_char": 237,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4327421",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 275,
+      "end_char": 290,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Valdez",
+      "start_char": 385,
+      "end_char": 397,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "193149192",
+      "start_char": 422,
+      "end_char": 431,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "brian.valdez@example.com",
+      "start_char": 439,
+      "end_char": 463,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 745-7018",
+      "start_char": 471,
+      "end_char": 485,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "P1W 5A6",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.95,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "P1W 5A6",
+      "start_char": 499,
+      "end_char": 506,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-19",
+      "start_char": 546,
+      "end_char": 556,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 135,
+  "cost_estimate_usd": 0.001,
+  "char_count": 557,
+  "error": null,
+  "raw_response": {}
+}

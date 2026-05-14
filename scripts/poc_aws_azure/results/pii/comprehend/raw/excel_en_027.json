@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_027",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999769330024719,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Melanie Jordan",
+      "start_char": 58,
+      "end_char": 72,
+      "confidence": 0.9998421669006348,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5251016",
+      "start_char": 89,
+      "end_char": 96,
+      "confidence": 0.9995902180671692,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-19",
+      "start_char": 160,
+      "end_char": 170,
+      "confidence": 0.9999830722808838,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 185,
+      "end_char": 196,
+      "confidence": 0.9995648860931396,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-12",
+      "start_char": 229,
+      "end_char": 239,
+      "confidence": 0.9999849796295166,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Morales",
+      "start_char": 255,
+      "end_char": 270,
+      "confidence": 0.9998084306716919,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-04",
+      "start_char": 304,
+      "end_char": 314,
+      "confidence": 0.9999789595603943,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 329,
+      "end_char": 341,
+      "confidence": 0.9998944401741028,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-17",
+      "start_char": 375,
+      "end_char": 385,
+      "confidence": 0.9999814629554749,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 401,
+      "end_char": 412,
+      "confidence": 0.9994375109672546,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-21",
+      "start_char": 446,
+      "end_char": 456,
+      "confidence": 0.9999818801879883,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 470,
+      "end_char": 481,
+      "confidence": 0.9992119669914246,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-15",
+      "start_char": 515,
+      "end_char": 525,
+      "confidence": 0.9999828338623047,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Duran",
+      "start_char": 537,
+      "end_char": 550,
+      "confidence": 0.9997815489768982,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 583,
+      "end_char": 593,
+      "confidence": 0.9999915957450867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 602,
+      "end_char": 619,
+      "confidence": 0.9998958110809326,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-01",
+      "start_char": 650,
+      "end_char": 660,
+      "confidence": 0.9999838471412659,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 672,
+      "end_char": 684,
+      "confidence": 0.9998754858970642,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-02",
+      "start_char": 718,
+      "end_char": 728,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Duran",
+      "start_char": 740,
+      "end_char": 753,
+      "confidence": 0.9998424053192139,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-08",
+      "start_char": 787,
+      "end_char": 797,
+      "confidence": 0.9999811053276062,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Lee",
+      "start_char": 806,
+      "end_char": 816,
+      "confidence": 0.9998732805252075,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-29",
+      "start_char": 850,
+      "end_char": 860,
+      "confidence": 0.9999898672103882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 876,
+      "end_char": 887,
+      "confidence": 0.9997677206993103,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-01",
+      "start_char": 920,
+      "end_char": 930,
+      "confidence": 0.999972403049469,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 946,
+      "end_char": 963,
+      "confidence": 0.9998791217803955,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-26",
+      "start_char": 998,
+      "end_char": 1008,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 1021,
+      "end_char": 1038,
+      "confidence": 0.9998976588249207,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-15",
+      "start_char": 1072,
+      "end_char": 1082,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 1098,
+      "end_char": 1110,
+      "confidence": 0.9998987913131714,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-23",
+      "start_char": 1144,
+      "end_char": 1154,
+      "confidence": 0.9999916553497314,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 1170,
+      "end_char": 1187,
+      "confidence": 0.9998964071273804,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-28",
+      "start_char": 1220,
+      "end_char": 1230,
+      "confidence": 0.9999943971633911,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 1246,
+      "end_char": 1263,
+      "confidence": 0.9998834729194641,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-30",
+      "start_char": 1296,
+      "end_char": 1306,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 1318,
+      "end_char": 1330,
+      "confidence": 0.9999129772186279,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-28",
+      "start_char": 1365,
+      "end_char": 1375,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Morales",
+      "start_char": 1384,
+      "end_char": 1399,
+      "confidence": 0.9998399615287781,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-05",
+      "start_char": 1434,
+      "end_char": 1444,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 1460,
+      "end_char": 1477,
+      "confidence": 0.9998573660850525,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-14",
+      "start_char": 1512,
+      "end_char": 1522,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 1534,
+      "end_char": 1546,
+      "confidence": 0.9999221563339233,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-19",
+      "start_char": 1581,
+      "end_char": 1591,
+      "confidence": 0.999989926815033,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Hays",
+      "start_char": 1600,
+      "end_char": 1611,
+      "confidence": 0.9999098181724548,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-21",
+      "start_char": 1645,
+      "end_char": 1655,
+      "confidence": 0.9999884366989136,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 1671,
+      "end_char": 1683,
+      "confidence": 0.9999212622642517,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-12",
+      "start_char": 1718,
+      "end_char": 1728,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 1740,
+      "end_char": 1751,
+      "confidence": 0.9999290108680725,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-30",
+      "start_char": 1785,
+      "end_char": 1795,
+      "confidence": 0.9999915957450867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 1810,
+      "end_char": 1822,
+      "confidence": 0.9999293088912964,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-06",
+      "start_char": 1856,
+      "end_char": 1866,
+      "confidence": 0.999991238117218,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 1878,
+      "end_char": 1890,
+      "confidence": 0.999923586845398,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-09",
+      "start_char": 1925,
+      "end_char": 1935,
+      "confidence": 0.9999910593032837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Lee",
+      "start_char": 1947,
+      "end_char": 1957,
+      "confidence": 0.9999392032623291,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-03",
+      "start_char": 1991,
+      "end_char": 2001,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Hays",
+      "start_char": 2015,
+      "end_char": 2026,
+      "confidence": 0.999854564666748,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-24",
+      "start_char": 2061,
+      "end_char": 2071,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Morales",
+      "start_char": 2080,
+      "end_char": 2095,
+      "confidence": 0.9998626708984375,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-29",
+      "start_char": 2130,
+      "end_char": 2140,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 2149,
+      "end_char": 2160,
+      "confidence": 0.9997766613960266,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-06",
+      "start_char": 2195,
+      "end_char": 2205,
+      "confidence": 0.9999914765357971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Hays",
+      "start_char": 2219,
+      "end_char": 2230,
+      "confidence": 0.9998515248298645,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-17",
+      "start_char": 2265,
+      "end_char": 2275,
+      "confidence": 0.9999898672103882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Hays",
+      "start_char": 2287,
+      "end_char": 2298,
+      "confidence": 0.9998552203178406,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 2333,
+      "end_char": 2343,
+      "confidence": 0.9999907612800598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Morales",
+      "start_char": 2356,
+      "end_char": 2371,
+      "confidence": 0.9998695254325867,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-06",
+      "start_char": 2406,
+      "end_char": 2416,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Hays",
+      "start_char": 2431,
+      "end_char": 2442,
+      "confidence": 0.999915599822998,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-13",
+      "start_char": 2477,
+      "end_char": 2487,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Angela Jones",
+      "start_char": 2496,
+      "end_char": 2508,
+      "confidence": 0.9998795986175537,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-15",
+      "start_char": 2543,
+      "end_char": 2553,
+      "confidence": 0.9999911785125732,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Lee",
+      "start_char": 2569,
+      "end_char": 2579,
+      "confidence": 0.9999088644981384,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-12",
+      "start_char": 2613,
+      "end_char": 2623,
+      "confidence": 0.9999914169311523,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Lee",
+      "start_char": 2638,
+      "end_char": 2648,
+      "confidence": 0.9998775720596313,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-07",
+      "start_char": 2682,
+      "end_char": 2692,
+      "confidence": 0.9999876618385315,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 2705,
+      "end_char": 2716,
+      "confidence": 0.9998374581336975,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-24",
+      "start_char": 2750,
+      "end_char": 2760,
+      "confidence": 0.9999892115592957,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 2776,
+      "end_char": 2793,
+      "confidence": 0.9998838305473328,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-05",
+      "start_char": 2828,
+      "end_char": 2838,
+      "confidence": 0.9999921917915344,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Lee",
+      "start_char": 2854,
+      "end_char": 2864,
+      "confidence": 0.9998927116394043,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-06",
+      "start_char": 2899,
+      "end_char": 2909,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Duran",
+      "start_char": 2922,
+      "end_char": 2935,
+      "confidence": 0.9998329281806946,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-29",
+      "start_char": 2970,
+      "end_char": 2980,
+      "confidence": 0.9999910593032837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William Duran",
+      "start_char": 2993,
+      "end_char": 3006,
+      "confidence": 0.9998717904090881,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-20",
+      "start_char": 3041,
+      "end_char": 3051,
+      "confidence": 0.9999931454658508,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 3067,
+      "end_char": 3078,
+      "confidence": 0.9998297095298767,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-26",
+      "start_char": 3112,
+      "end_char": 3122,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 3137,
+      "end_char": 3148,
+      "confidence": 0.9998031854629517,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-30",
+      "start_char": 3182,
+      "end_char": 3192,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 3207,
+      "end_char": 3218,
+      "confidence": 0.9996864795684814,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-26",
+      "start_char": 3251,
+      "end_char": 3261,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 3273,
+      "end_char": 3290,
+      "confidence": 0.9999220371246338,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-05",
+      "start_char": 3323,
+      "end_char": 3333,
+      "confidence": 0.9999920725822449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Hays",
+      "start_char": 3347,
+      "end_char": 3358,
+      "confidence": 0.9999467134475708,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-19",
+      "start_char": 3390,
+      "end_char": 3400,
+      "confidence": 0.99998539686203,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 3413,
+      "end_char": 3430,
+      "confidence": 0.9999094009399414,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-12",
+      "start_char": 3463,
+      "end_char": 3473,
+      "confidence": 0.9999780654907227,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jessica Gallagher",
+      "start_char": 3489,
+      "end_char": 3506,
+      "confidence": 0.9999167323112488,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-17",
+      "start_char": 3540,
+      "end_char": 3550,
+      "confidence": 0.999976396560669,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Wilson",
+      "start_char": 3563,
+      "end_char": 3574,
+      "confidence": 0.9999119639396667,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-06",
+      "start_char": 3608,
+      "end_char": 3618,
+      "confidence": 0.9999751448631287,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ashley Lee",
+      "start_char": 3632,
+      "end_char": 3642,
+      "confidence": 0.9999348521232605,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 427,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3676,
+  "error": null,
+  "raw_response": {}
+}

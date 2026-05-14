@@ -1,0 +1,12 @@
+WIRE TRANSFER APPROVAL FORM
+Approver Name: Anthony Gonzalez
+Date: 2026-05-12
+Account Number: 2867825
+Amount: $7,376.02
+
+--- PAGE 2 ---
+AUTHORIZATION
+Authorization Signature: Debra Gardner
+Date: 2026-05-12
+Approved: YES
+Remarks: Approved for processing.

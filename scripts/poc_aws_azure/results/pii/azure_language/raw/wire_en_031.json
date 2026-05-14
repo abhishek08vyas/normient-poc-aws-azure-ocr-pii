@@ -1,0 +1,123 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_031",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-17",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.86,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Mitchell",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8875173",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Thompson",
+      "start_char": 181,
+      "end_char": 189,
+      "confidence": 0.91,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Cross",
+      "start_char": 229,
+      "end_char": 242,
+      "confidence": 0.74,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9031491",
+      "start_char": 259,
+      "end_char": 266,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "TD Canada Trust",
+      "start_char": 280,
+      "end_char": 295,
+      "confidence": 0.95,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Krista Stanley",
+      "start_char": 383,
+      "end_char": 397,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "452047111",
+      "start_char": 422,
+      "end_char": 431,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "krista.stanley@acmecorp.ca",
+      "start_char": 439,
+      "end_char": 465,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(450) 275-9453",
+      "start_char": 473,
+      "end_char": 487,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "B2G 9M1",
+      "start_char": 501,
+      "end_char": 508,
+      "confidence": 0.84,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "B2G 9M1",
+      "start_char": 501,
+      "end_char": 508,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-11",
+      "start_char": 548,
+      "end_char": 558,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 135,
+  "cost_estimate_usd": 0.001,
+  "char_count": 559,
+  "error": null,
+  "raw_response": {}
+}

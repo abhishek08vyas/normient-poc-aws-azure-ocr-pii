@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Perry Carrillo
+Account: 5194357
+Type: Business
+Balance: $98,715.18 CAD
+Last Login: 2026-04-14 21:20:01
+Email on file: perry.carrillo@example.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-10  Bill payment             -$5,567.68   $93,147.50
+2026-05-01  POS purchase             -$8,519.10   $84,628.40
+2026-05-06  Direct deposit           $2,764.27    $87,392.67
+2026-04-13  Direct deposit           -$8,318.91   $79,073.75
+2026-04-30  Direct deposit           $8,176.20    $87,249.95

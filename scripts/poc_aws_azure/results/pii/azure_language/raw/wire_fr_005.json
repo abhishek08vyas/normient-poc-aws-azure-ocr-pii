@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_005",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-04",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Étienne Pelletier",
+      "start_char": 155,
+      "end_char": 172,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "7561407",
+      "start_char": 192,
+      "end_char": 199,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 239,
+      "end_char": 251,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Désiré Beaulieu",
+      "start_char": 258,
+      "end_char": 273,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3938131",
+      "start_char": 293,
+      "end_char": 300,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Scotiabank",
+      "start_char": 315,
+      "end_char": 325,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amélie Ménard",
+      "start_char": 438,
+      "end_char": 451,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 452,
+      "end_char": 455,
+      "confidence": 0.64,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "432967628",
+      "start_char": 478,
+      "end_char": 487,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "amelie.menard@synthco.com",
+      "start_char": 499,
+      "end_char": 524,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 602-0715",
+      "start_char": 537,
+      "end_char": 551,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K2L 8M1",
+      "start_char": 566,
+      "end_char": 573,
+      "confidence": 0.89,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K2L 8M1",
+      "start_char": 566,
+      "end_char": 573,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-09",
+      "start_char": 615,
+      "end_char": 625,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 212,
+  "cost_estimate_usd": 0.001,
+  "char_count": 626,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_008",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-03",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999580383300781,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Wood",
+      "start_char": 132,
+      "end_char": 144,
+      "confidence": 0.99994957447052,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5159166",
+      "start_char": 161,
+      "end_char": 168,
+      "confidence": 0.9964655637741089,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Sherbrooke, Quebec",
+      "start_char": 177,
+      "end_char": 195,
+      "confidence": 0.999874472618103,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jason Adams",
+      "start_char": 225,
+      "end_char": 236,
+      "confidence": 0.9999602437019348,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4769795",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.996019184589386,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sharon Wong",
+      "start_char": 380,
+      "end_char": 391,
+      "confidence": 0.9999446868896484,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "150983930",
+      "start_char": 416,
+      "end_char": 425,
+      "confidence": 0.8385290503501892,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "sharon.wong@example.com",
+      "start_char": 433,
+      "end_char": 456,
+      "confidence": 0.9999878406524658,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(647) 924-0964",
+      "start_char": 464,
+      "end_char": 478,
+      "confidence": 0.9998939037322998,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K1B 5C8",
+      "start_char": 492,
+      "end_char": 499,
+      "confidence": 0.9998794794082642,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K1B 5C8",
+      "start_char": 492,
+      "end_char": 499,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-13",
+      "start_char": 539,
+      "end_char": 549,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 229,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 550,
+  "error": null,
+  "raw_response": {}
+}

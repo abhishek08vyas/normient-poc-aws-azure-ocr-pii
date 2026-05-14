@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_017",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-28",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kathleen Romero",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1463060",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Garrett",
+      "start_char": 225,
+      "end_char": 239,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2935113",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 277,
+      "end_char": 287,
+      "confidence": 0.83,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Meagan Romero",
+      "start_char": 374,
+      "end_char": 387,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "329401962",
+      "start_char": 412,
+      "end_char": 421,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "meagan.romero@testbank.ca",
+      "start_char": 429,
+      "end_char": 454,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 646-9932",
+      "start_char": 462,
+      "end_char": 476,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X1R 9J4",
+      "start_char": 490,
+      "end_char": 497,
+      "confidence": 0.8,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X1R 9J4",
+      "start_char": 490,
+      "end_char": 497,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-10",
+      "start_char": 537,
+      "end_char": 547,
+      "confidence": 0.87,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 122,
+  "cost_estimate_usd": 0.001,
+  "char_count": 548,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-05-12
+Account Holder: Douglas Patterson
+Account Number: 2521139
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2025-10-04	Bill payment	Michael Duncan	38,348.75		19,767.61	TXN-982042
+2025-08-19	E-transfer	Jacob Barnett		48,378.90	68,146.51	TXN-285197
+2026-02-27	E-transfer	Jacob Barnett		44,833.39	112,979.90	TXN-413388
+2025-05-19	E-transfer	Andrew Marks	44,272.19		68,707.71	TXN-476712
+2025-09-28	Vendor payment	Andrew Marks	9,735.33		58,972.39	TXN-298667
+2026-03-15	E-transfer	Kristin Romero	3,243.33		55,729.05	TXN-350069
+2025-06-08	Payroll	Andrew Marks	48,251.20		7,477.86	TXN-422679
+2025-09-23	Service fee	Stephanie Stephens	2,897.12		4,580.74	TXN-117215
+2025-08-14	Service fee	Andrew Marks	10,662.74		-6,082.00	TXN-144894
+2026-02-21	E-transfer	Andrew Marks	33,936.08		-40,018.09	TXN-648530
+2026-01-23	Service fee	Kristin Romero		11,725.98	-28,292.10	TXN-256189
+2026-01-11	Wire transfer	Michael Duncan	32,726.19		-61,018.29	TXN-871185
+2025-06-22	Vendor payment	Kristin Romero	32,474.44		-93,492.74	TXN-148026
+2026-03-08	Wire transfer	Jacob Barnett	15,436.13		-108,928.87	TXN-763393
+2025-12-24	Service fee	Michael Duncan		41,784.07	-67,144.80	TXN-578344
+2026-02-22	Wire transfer	Bradley Hughes	24,907.46		-92,052.26	TXN-957179
+2026-03-02	Service fee	Kristin Romero	10,211.79		-102,264.05	TXN-331287
+2025-09-19	Bill payment	Bradley Hughes		33,952.05	-68,312.00	TXN-976500
+2025-07-03	Bill payment	Michael Duncan		6,952.74	-61,359.26	TXN-817318
+2025-05-30	Service fee	Bradley Hughes		29,694.95	-31,664.31	TXN-323589
+2025-09-26	Bill payment	Michael Duncan	37,901.75		-69,566.06	TXN-226610
+2025-12-11	Direct deposit	Andrew Marks		21,989.19	-47,576.86	TXN-487896
+2025-09-21	Payroll	Michael Duncan	42,383.60		-89,960.46	TXN-239849
+2026-03-24	Payroll	Stephanie Stephens	43,993.38		-133,953.84	TXN-915437
+2026-01-17	Wire transfer	Michael Duncan	4,548.15		-138,501.99	TXN-107574
+2025-07-19	E-transfer	Kristin Romero	40,389.85		-178,891.84	TXN-397514
+2026-03-31	Service fee	Stephanie Stephens	7,240.08		-186,131.93	TXN-825990
+2026-03-11	Bill payment	Kristin Romero	46,910.67		-233,042.60	TXN-572298
+2026-02-02	Payroll	Andrew Marks		35,888.22	-197,154.38	TXN-139448
+2025-11-09	Payroll	Michael Duncan		15,129.87	-182,024.51	TXN-757658
+2026-02-07	Vendor payment	Michael Duncan	5,963.64		-187,988.15	TXN-684801
+2025-11-14	Payroll	Michael Duncan	38,080.30		-226,068.45	TXN-748985
+2026-01-13	Payroll	Kristin Romero	31,360.57		-257,429.02	TXN-329927
+2025-07-22	Direct deposit	Alexandra Ward	39,850.99		-297,280.00	TXN-155646
+2026-03-24	E-transfer	Bradley Hughes	8,072.00		-305,352.01	TXN-597457
+2025-07-04	Wire transfer	Michael Duncan	10,558.53		-315,910.54	TXN-776185
+2025-06-06	Bill payment	Alexandra Ward		37,944.56	-277,965.98	TXN-746781
+2026-02-15	Wire transfer	Michael Duncan	26,914.30		-304,880.27	TXN-876383
+2026-03-10	Direct deposit	Bradley Hughes	5,891.65		-310,771.92	TXN-130477
+2025-11-06	Direct deposit	Andrew Marks		16,366.02	-294,405.90	TXN-566428
+2025-05-27	Direct deposit	Andrew Marks		11,580.16	-282,825.75	TXN-809731
+2025-09-03	Wire transfer	Alexandra Ward	36,913.62		-319,739.36	TXN-338846
+2025-07-30	Service fee	Jacob Barnett		3,769.13	-315,970.23	TXN-493774
+2025-05-30	Payroll	Stephanie Stephens		7,332.57	-308,637.66	TXN-156978
+2026-03-16	Payroll	Stephanie Stephens	6,906.59		-315,544.25	TXN-286710
+2025-07-29	E-transfer	Jacob Barnett	13,557.76		-329,102.01	TXN-762722
+2026-04-22	Bill payment	Jacob Barnett		3,076.62	-326,025.39	TXN-133653
+2025-05-29	Direct deposit	Michael Duncan	20,969.37		-346,994.76	TXN-993021
+2025-09-12	Service fee	Alexandra Ward		30,221.44	-316,773.32	TXN-330533
+2026-05-10	Service fee	Bradley Hughes		45,288.35	-271,484.97	TXN-768990

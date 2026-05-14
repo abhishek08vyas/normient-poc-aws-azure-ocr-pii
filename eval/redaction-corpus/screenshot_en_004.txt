@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Michael Jones
+Account: 5487028
+Type: Chequing
+Balance: $58,287.73 CAD
+Last Login: 2026-04-29 23:17:18
+Email on file: michael.jones@example.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-28  Bill payment             -$9,219.30   $49,068.43
+2026-04-19  Direct deposit           $8,705.13    $57,773.56
+2026-04-27  ATM withdrawal           $742.37      $58,515.94
+2026-05-07  Wire transfer            $962.99      $59,478.93
+2026-04-28  ATM withdrawal           -$4,227.33   $55,251.59

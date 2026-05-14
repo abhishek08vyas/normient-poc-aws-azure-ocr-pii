@@ -1,0 +1,51 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_019",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Payroll",
+      "start_char": 0,
+      "end_char": 7,
+      "confidence": 0.74,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Employee",
+      "start_char": 22,
+      "end_char": 30,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brian Anderson",
+      "start_char": 32,
+      "end_char": 46,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CASocialInsuranceNumber",
+      "text": "680-797-057",
+      "start_char": 52,
+      "end_char": 63,
+      "confidence": 0.85,
+      "original_type": "CASocialInsuranceNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "brian.anderson@synthco.com",
+      "start_char": 73,
+      "end_char": 99,
+      "confidence": 0.8,
+      "original_type": "Email"
+    }
+  ],
+  "latency_ms": 93,
+  "cost_estimate_usd": 0.001,
+  "char_count": 100,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_033",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-07",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999056458473206,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Calhoun",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999065399169922,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5886520",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.989767849445343,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Portage la Prairie, Manitoba",
+      "start_char": 179,
+      "end_char": 207,
+      "confidence": 0.9991719722747803,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Amanda Brown",
+      "start_char": 237,
+      "end_char": 249,
+      "confidence": 0.9999388456344604,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1547605",
+      "start_char": 266,
+      "end_char": 273,
+      "confidence": 0.9990788698196411,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "William York",
+      "start_char": 385,
+      "end_char": 397,
+      "confidence": 0.9998925924301147,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "244713491",
+      "start_char": 422,
+      "end_char": 431,
+      "confidence": 0.563404381275177,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "william.york@example.ca",
+      "start_char": 439,
+      "end_char": 462,
+      "confidence": 0.9999881982803345,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 317-8922",
+      "start_char": 470,
+      "end_char": 484,
+      "confidence": 0.9998899698257446,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "K2L 2C0",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.9998186826705933,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "K2L 2C0",
+      "start_char": 498,
+      "end_char": 505,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-29",
+      "start_char": 545,
+      "end_char": 555,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 247,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 556,
+  "error": null,
+  "raw_response": {}
+}

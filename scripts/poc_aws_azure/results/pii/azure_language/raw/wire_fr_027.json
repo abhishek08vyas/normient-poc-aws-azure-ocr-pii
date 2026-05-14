@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_027",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-02",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jérôme Bouchard",
+      "start_char": 155,
+      "end_char": 170,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "9197782",
+      "start_char": 190,
+      "end_char": 197,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 238,
+      "end_char": 250,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Étienne Lévesque",
+      "start_char": 257,
+      "end_char": 273,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "6078288",
+      "start_char": 293,
+      "end_char": 300,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "HSBC Canada",
+      "start_char": 315,
+      "end_char": 326,
+      "confidence": 0.98,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cécile Fortin",
+      "start_char": 438,
+      "end_char": 451,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "692617640",
+      "start_char": 478,
+      "end_char": 487,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "cecile.fortin@acmecorp.ca",
+      "start_char": 499,
+      "end_char": 524,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(613) 211-1966",
+      "start_char": 537,
+      "end_char": 551,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "E1E 7W3",
+      "start_char": 566,
+      "end_char": 573,
+      "confidence": 0.91,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "E1E 7W3",
+      "start_char": 566,
+      "end_char": 573,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-23",
+      "start_char": 615,
+      "end_char": 625,
+      "confidence": 0.75,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 189,
+  "cost_estimate_usd": 0.001,
+  "char_count": 626,
+  "error": null,
+  "raw_response": {}
+}

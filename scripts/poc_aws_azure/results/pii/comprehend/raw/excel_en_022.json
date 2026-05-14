@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_022",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-09",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999749660491943,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kyle Sanders",
+      "start_char": 58,
+      "end_char": 70,
+      "confidence": 0.9999198913574219,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4853765",
+      "start_char": 87,
+      "end_char": 94,
+      "confidence": 0.9998351335525513,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-15",
+      "start_char": 158,
+      "end_char": 168,
+      "confidence": 0.9999836683273315,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 177,
+      "end_char": 189,
+      "confidence": 0.9998226165771484,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-25",
+      "start_char": 222,
+      "end_char": 232,
+      "confidence": 0.9999865293502808,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 246,
+      "end_char": 260,
+      "confidence": 0.9998928308486938,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-30",
+      "start_char": 293,
+      "end_char": 303,
+      "confidence": 0.9999840259552002,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 319,
+      "end_char": 336,
+      "confidence": 0.9998487830162048,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 369,
+      "end_char": 379,
+      "confidence": 0.999984622001648,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 388,
+      "end_char": 404,
+      "confidence": 0.9997588992118835,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-10",
+      "start_char": 438,
+      "end_char": 448,
+      "confidence": 0.9999842047691345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 463,
+      "end_char": 477,
+      "confidence": 0.9998922944068909,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-21",
+      "start_char": 511,
+      "end_char": 521,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 537,
+      "end_char": 547,
+      "confidence": 0.9998502135276794,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-24",
+      "start_char": 580,
+      "end_char": 590,
+      "confidence": 0.9999811053276062,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 603,
+      "end_char": 617,
+      "confidence": 0.9999218583106995,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-21",
+      "start_char": 649,
+      "end_char": 659,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 672,
+      "end_char": 686,
+      "confidence": 0.9999163150787354,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-05",
+      "start_char": 720,
+      "end_char": 730,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 746,
+      "end_char": 763,
+      "confidence": 0.9998032450675964,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 796,
+      "end_char": 806,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 821,
+      "end_char": 833,
+      "confidence": 0.9998497366905212,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-02",
+      "start_char": 866,
+      "end_char": 876,
+      "confidence": 0.9999920725822449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 889,
+      "end_char": 899,
+      "confidence": 0.9998525977134705,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 933,
+      "end_char": 943,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 959,
+      "end_char": 975,
+      "confidence": 0.9996049404144287,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-18",
+      "start_char": 1008,
+      "end_char": 1018,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 1032,
+      "end_char": 1044,
+      "confidence": 0.9998477101325989,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-30",
+      "start_char": 1078,
+      "end_char": 1088,
+      "confidence": 0.999990701675415,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 1103,
+      "end_char": 1115,
+      "confidence": 0.9998971223831177,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-24",
+      "start_char": 1148,
+      "end_char": 1158,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 1174,
+      "end_char": 1191,
+      "confidence": 0.9998446702957153,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-20",
+      "start_char": 1225,
+      "end_char": 1235,
+      "confidence": 0.9999880790710449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 1248,
+      "end_char": 1264,
+      "confidence": 0.9998897314071655,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-14",
+      "start_char": 1298,
+      "end_char": 1308,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 1322,
+      "end_char": 1336,
+      "confidence": 0.9998467564582825,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-19",
+      "start_char": 1370,
+      "end_char": 1380,
+      "confidence": 0.9999777674674988,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 1395,
+      "end_char": 1409,
+      "confidence": 0.9998668432235718,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-24",
+      "start_char": 1443,
+      "end_char": 1453,
+      "confidence": 0.999985933303833,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 1467,
+      "end_char": 1484,
+      "confidence": 0.9998242855072021,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-12",
+      "start_char": 1518,
+      "end_char": 1528,
+      "confidence": 0.9999902844429016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 1537,
+      "end_char": 1553,
+      "confidence": 0.9998194575309753,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-27",
+      "start_char": 1587,
+      "end_char": 1597,
+      "confidence": 0.9999927282333374,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 1612,
+      "end_char": 1624,
+      "confidence": 0.9998500347137451,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-01",
+      "start_char": 1658,
+      "end_char": 1668,
+      "confidence": 0.9999909996986389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 1680,
+      "end_char": 1696,
+      "confidence": 0.9998374581336975,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-28",
+      "start_char": 1730,
+      "end_char": 1740,
+      "confidence": 0.9999917149543762,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 1754,
+      "end_char": 1771,
+      "confidence": 0.9996657967567444,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-22",
+      "start_char": 1805,
+      "end_char": 1815,
+      "confidence": 0.9999886155128479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 1830,
+      "end_char": 1847,
+      "confidence": 0.9997222423553467,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-10",
+      "start_char": 1881,
+      "end_char": 1891,
+      "confidence": 0.9999881982803345,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 1904,
+      "end_char": 1918,
+      "confidence": 0.9998792409896851,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-04",
+      "start_char": 1952,
+      "end_char": 1962,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 1971,
+      "end_char": 1988,
+      "confidence": 0.9996899962425232,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-14",
+      "start_char": 2022,
+      "end_char": 2032,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 2044,
+      "end_char": 2058,
+      "confidence": 0.999891996383667,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-21",
+      "start_char": 2092,
+      "end_char": 2102,
+      "confidence": 0.9999918937683105,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 2117,
+      "end_char": 2129,
+      "confidence": 0.9998779296875,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-13",
+      "start_char": 2163,
+      "end_char": 2173,
+      "confidence": 0.9999908804893494,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 2188,
+      "end_char": 2204,
+      "confidence": 0.9998696446418762,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-17",
+      "start_char": 2237,
+      "end_char": 2247,
+      "confidence": 0.9999917149543762,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 2263,
+      "end_char": 2279,
+      "confidence": 0.9998367428779602,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-24",
+      "start_char": 2312,
+      "end_char": 2322,
+      "confidence": 0.9999915957450867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 2338,
+      "end_char": 2348,
+      "confidence": 0.999835193157196,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-04",
+      "start_char": 2382,
+      "end_char": 2392,
+      "confidence": 0.9999918341636658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 2404,
+      "end_char": 2418,
+      "confidence": 0.9998790621757507,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-09",
+      "start_char": 2451,
+      "end_char": 2461,
+      "confidence": 0.9999878406524658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 2474,
+      "end_char": 2490,
+      "confidence": 0.999843418598175,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-02",
+      "start_char": 2524,
+      "end_char": 2534,
+      "confidence": 0.9999910593032837,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 2550,
+      "end_char": 2560,
+      "confidence": 0.9998712539672852,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-02",
+      "start_char": 2594,
+      "end_char": 2604,
+      "confidence": 0.9999867677688599,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 2620,
+      "end_char": 2630,
+      "confidence": 0.9998816847801208,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-15",
+      "start_char": 2664,
+      "end_char": 2674,
+      "confidence": 0.9999877214431763,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Diana Nelson",
+      "start_char": 2690,
+      "end_char": 2702,
+      "confidence": 0.9998821020126343,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-25",
+      "start_char": 2736,
+      "end_char": 2746,
+      "confidence": 0.9999911785125732,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 2760,
+      "end_char": 2776,
+      "confidence": 0.999853789806366,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-16",
+      "start_char": 2810,
+      "end_char": 2820,
+      "confidence": 0.9999834299087524,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 2834,
+      "end_char": 2848,
+      "confidence": 0.9998929500579834,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-04",
+      "start_char": 2882,
+      "end_char": 2892,
+      "confidence": 0.9999904632568359,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 2908,
+      "end_char": 2918,
+      "confidence": 0.9998766779899597,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-01",
+      "start_char": 2952,
+      "end_char": 2962,
+      "confidence": 0.9999896883964539,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 2978,
+      "end_char": 2994,
+      "confidence": 0.9998147487640381,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-26",
+      "start_char": 3027,
+      "end_char": 3037,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 3051,
+      "end_char": 3061,
+      "confidence": 0.9998236894607544,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-02",
+      "start_char": 3095,
+      "end_char": 3105,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 3121,
+      "end_char": 3131,
+      "confidence": 0.9998455047607422,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-29",
+      "start_char": 3165,
+      "end_char": 3175,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 3189,
+      "end_char": 3205,
+      "confidence": 0.9998611807823181,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-19",
+      "start_char": 3239,
+      "end_char": 3249,
+      "confidence": 0.9999721646308899,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 3258,
+      "end_char": 3275,
+      "confidence": 0.9997167587280273,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 3309,
+      "end_char": 3319,
+      "confidence": 0.9999906420707703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Deborah Mitchell",
+      "start_char": 3335,
+      "end_char": 3351,
+      "confidence": 0.9997559189796448,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-02",
+      "start_char": 3384,
+      "end_char": 3394,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 3406,
+      "end_char": 3416,
+      "confidence": 0.9998061060905457,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-26",
+      "start_char": 3450,
+      "end_char": 3460,
+      "confidence": 0.9999921917915344,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michelle Williams",
+      "start_char": 3476,
+      "end_char": 3493,
+      "confidence": 0.9998262524604797,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-06",
+      "start_char": 3527,
+      "end_char": 3537,
+      "confidence": 0.9999773502349854,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 3553,
+      "end_char": 3563,
+      "confidence": 0.9997968673706055,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-28",
+      "start_char": 3597,
+      "end_char": 3607,
+      "confidence": 0.9999790787696838,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thomas Johnson",
+      "start_char": 3619,
+      "end_char": 3633,
+      "confidence": 0.9998531937599182,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-27",
+      "start_char": 3666,
+      "end_char": 3676,
+      "confidence": 0.9999828338623047,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lauren Kim",
+      "start_char": 3688,
+      "end_char": 3698,
+      "confidence": 0.9997162222862244,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 399,
+  "cost_estimate_usd": 0.0038,
+  "char_count": 3732,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,896 @@
+2026-05-13 22:48:50 INFO     [poc] Found 10 files in OCR corpus
+2026-05-13 22:49:09 INFO     [poc] Found 10 files in OCR corpus
+2026-05-13 22:49:33 INFO     [poc] Found 10 files in OCR corpus
+2026-05-13 22:49:34 DEBUG    [poc] Uploaded clean_policy_01.pdf to s3://normient-poc-spike-dev/poc-input/clean_policy_01.pdf
+2026-05-13 22:49:38 DEBUG    [poc] Started Textract job ff25525f54be0b3a38da4ba7885f64e966857e52af7971662232f1afad7e1ad7 for clean_policy_01.pdf
+2026-05-13 22:49:43 DEBUG    [poc] Textract job ff25525f54be0b3a38da4ba7885f64e966857e52af7971662232f1afad7e1ad7 status: IN_PROGRESS (attempt 1/10)
+2026-05-13 22:49:54 DEBUG    [poc] Textract job ff25525f54be0b3a38da4ba7885f64e966857e52af7971662232f1afad7e1ad7 completed: 816 blocks
+2026-05-13 22:49:54 DEBUG    [poc] Verified deletion of s3://normient-poc-spike-dev/poc-input/clean_policy_01.pdf
+2026-05-13 22:49:54 INFO     [poc] OCR textract clean_policy_01.pdf -> 10 pages, 20293ms, $0.6500
+2026-05-13 22:49:54 DEBUG    [poc] Uploaded clean_policy_02.pdf to s3://normient-poc-spike-dev/poc-input/clean_policy_02.pdf
+2026-05-13 22:49:54 DEBUG    [poc] Started Textract job 099e7c11acafe1f911ca6b0bce2e630506983800e9f8a26baed9e049d95ae9cb for clean_policy_02.pdf
+2026-05-13 22:49:59 DEBUG    [poc] Textract job 099e7c11acafe1f911ca6b0bce2e630506983800e9f8a26baed9e049d95ae9cb status: IN_PROGRESS (attempt 1/10)
+2026-05-13 22:50:10 DEBUG    [poc] Textract job 099e7c11acafe1f911ca6b0bce2e630506983800e9f8a26baed9e049d95ae9cb completed: 812 blocks
+2026-05-13 22:50:11 DEBUG    [poc] Verified deletion of s3://normient-poc-spike-dev/poc-input/clean_policy_02.pdf
+2026-05-13 22:50:11 INFO     [poc] OCR textract clean_policy_02.pdf -> 10 pages, 16659ms, $0.6500
+2026-05-13 22:50:11 DEBUG    [poc] Uploaded multicolumn_control_09.pdf to s3://normient-poc-spike-dev/poc-input/multicolumn_control_09.pdf
+2026-05-13 22:50:11 DEBUG    [poc] Started Textract job 7d53b4d3e641ec4b48a7a4cd0f98239e51d4956a700608827e7176980a9442f1 for multicolumn_control_09.pdf
+2026-05-13 22:50:17 DEBUG    [poc] Textract job 7d53b4d3e641ec4b48a7a4cd0f98239e51d4956a700608827e7176980a9442f1 completed: 1481 blocks
+2026-05-13 22:50:17 DEBUG    [poc] Verified deletion of s3://normient-poc-spike-dev/poc-input/multicolumn_control_09.pdf
+2026-05-13 22:50:17 INFO     [poc] OCR textract multicolumn_control_09.pdf -> 6 pages, 6232ms, $0.3900
+2026-05-13 22:50:17 DEBUG    [poc] Uploaded multicolumn_control_10.pdf to s3://normient-poc-spike-dev/poc-input/multicolumn_control_10.pdf
+2026-05-13 22:50:17 DEBUG    [poc] Started Textract job 601b7af3f8a08415f91816ddcbcb3eb2a8214edb0db64d9c1d27b46659f52042 for multicolumn_control_10.pdf
+2026-05-13 22:50:23 DEBUG    [poc] Textract job 601b7af3f8a08415f91816ddcbcb3eb2a8214edb0db64d9c1d27b46659f52042 status: IN_PROGRESS (attempt 1/10)
+2026-05-13 22:50:34 DEBUG    [poc] Textract job 601b7af3f8a08415f91816ddcbcb3eb2a8214edb0db64d9c1d27b46659f52042 completed: 1481 blocks
+2026-05-13 22:50:34 DEBUG    [poc] Verified deletion of s3://normient-poc-spike-dev/poc-input/multicolumn_control_10.pdf
+2026-05-13 22:50:34 INFO     [poc] OCR textract multicolumn_control_10.pdf -> 6 pages, 16842ms, $0.3900
+2026-05-13 22:50:34 DEBUG    [poc] Uploaded scanned_approval_03.pdf to s3://normient-poc-spike-dev/poc-input/scanned_approval_03.pdf
+2026-05-13 22:50:34 DEBUG    [poc] Started Textract job 98e6adacb3b7c10a7127d922276579809146cf4841b7957198e3a9f34e96fdab for scanned_approval_03.pdf
+2026-05-13 22:50:40 DEBUG    [poc] Textract job 98e6adacb3b7c10a7127d922276579809146cf4841b7957198e3a9f34e96fdab completed: 63 blocks
+2026-05-13 22:50:40 DEBUG    [poc] Verified deletion of s3://normient-poc-spike-dev/poc-input/scanned_approval_03.pdf
+2026-05-13 22:50:40 INFO     [poc] OCR textract scanned_approval_03.pdf -> 2 pages, 5772ms, $0.1300
+2026-05-13 22:50:40 DEBUG    [poc] Uploaded scanned_approval_04.pdf to s3://normient-poc-spike-dev/poc-input/scanned_approval_04.pdf
+2026-05-13 22:50:40 DEBUG    [poc] Started Textract job 60151014db798c13e75ad0078cf2698dfe66e4ef23ddc3c35d498f510bee0379 for scanned_approval_04.pdf
+2026-05-13 22:50:45 DEBUG    [poc] Textract job 60151014db798c13e75ad0078cf2698dfe66e4ef23ddc3c35d498f510bee0379 completed: 63 blocks
+2026-05-13 22:50:45 DEBUG    [poc] Verified deletion of s3://normient-poc-spike-dev/poc-input/scanned_approval_04.pdf
+2026-05-13 22:50:45 INFO     [poc] OCR textract scanned_approval_04.pdf -> 2 pages, 5667ms, $0.1300
+2026-05-13 22:50:48 INFO     [poc] OCR textract screenshot_banking_05.png -> 1 pages, 2259ms, $0.0650
+2026-05-13 22:50:50 INFO     [poc] OCR textract screenshot_banking_06.png -> 1 pages, 2267ms, $0.0650
+2026-05-13 22:50:50 INFO     [poc] Textract total cost: $2.4700
+2026-05-13 22:50:50 INFO     [poc] S3 cleanup verified: no objects under poc-input/
+2026-05-13 22:55:52 INFO     [poc] Found 10 files in OCR corpus
+2026-05-13 22:57:40 INFO     [poc] Found 10 files in OCR corpus
+2026-05-13 22:57:47 INFO     [poc] OCR azure_doc_intel clean_policy_01.pdf -> 2 pages, 6555ms, $0.1300
+2026-05-13 22:57:52 INFO     [poc] OCR azure_doc_intel clean_policy_02.pdf -> 2 pages, 5294ms, $0.1300
+2026-05-13 22:57:58 INFO     [poc] OCR azure_doc_intel multicolumn_control_09.pdf -> 2 pages, 5409ms, $0.1300
+2026-05-13 22:58:03 INFO     [poc] OCR azure_doc_intel multicolumn_control_10.pdf -> 2 pages, 5412ms, $0.1300
+2026-05-13 22:58:09 INFO     [poc] OCR azure_doc_intel scanned_approval_03.pdf -> 2 pages, 5358ms, $0.1300
+2026-05-13 22:58:14 INFO     [poc] OCR azure_doc_intel scanned_approval_04.pdf -> 2 pages, 5293ms, $0.1300
+2026-05-13 22:58:42 INFO     [poc] OCR azure_doc_intel screenshot_banking_05.png -> 1 pages, 28381ms, $0.0650
+2026-05-13 22:58:48 INFO     [poc] OCR azure_doc_intel screenshot_banking_06.png -> 1 pages, 5317ms, $0.0650
+2026-05-13 22:58:48 INFO     [poc] Azure Doc Intel total cost: $0.9100
+2026-05-14 12:42:39 INFO     [poc] Found 200 PII documents
+2026-05-14 12:43:32 ERROR    [poc] Comprehend error on wire_fr_001: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:32 ERROR    [poc] Comprehend error on wire_fr_002: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:33 ERROR    [poc] Comprehend error on wire_fr_003: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:33 ERROR    [poc] Comprehend error on wire_fr_004: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:33 ERROR    [poc] Comprehend error on wire_fr_005: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:33 ERROR    [poc] Comprehend error on wire_fr_006: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:34 ERROR    [poc] Comprehend error on wire_fr_007: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:34 ERROR    [poc] Comprehend error on wire_fr_008: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:34 ERROR    [poc] Comprehend error on wire_fr_009: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:35 ERROR    [poc] Comprehend error on wire_fr_010: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:35 ERROR    [poc] Comprehend error on wire_fr_011: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:35 ERROR    [poc] Comprehend error on wire_fr_012: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:35 ERROR    [poc] Comprehend error on wire_fr_013: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:35 ERROR    [poc] Comprehend error on wire_fr_014: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:36 ERROR    [poc] Comprehend error on wire_fr_015: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:36 ERROR    [poc] Comprehend error on wire_fr_016: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:36 ERROR    [poc] Comprehend error on wire_fr_017: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:36 ERROR    [poc] Comprehend error on wire_fr_018: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:37 ERROR    [poc] Comprehend error on wire_fr_019: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:37 ERROR    [poc] Comprehend error on wire_fr_020: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:37 ERROR    [poc] Comprehend error on wire_fr_021: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:37 ERROR    [poc] Comprehend error on wire_fr_022: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:38 ERROR    [poc] Comprehend error on wire_fr_023: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:38 ERROR    [poc] Comprehend error on wire_fr_024: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:38 ERROR    [poc] Comprehend error on wire_fr_025: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:38 ERROR    [poc] Comprehend error on wire_fr_026: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:38 ERROR    [poc] Comprehend error on wire_fr_027: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:39 ERROR    [poc] Comprehend error on wire_fr_028: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:39 ERROR    [poc] Comprehend error on wire_fr_029: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:39 ERROR    [poc] Comprehend error on wire_fr_030: ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]
+2026-05-14 12:43:39 INFO     [poc] Comprehend: processed 200 docs, 30 errors, total cost $0.2464
+2026-05-14 12:51:40 INFO     [poc] Found 200 PII documents
+2026-05-14 12:51:41 ERROR    [poc] Azure Language error on edge_en_001: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:41 ERROR    [poc] Azure Language error on edge_en_002: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_003: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_004: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_005: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_006: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_007: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_008: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_009: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_010: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_011: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_012: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_013: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_014: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_015: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_016: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:42 ERROR    [poc] Azure Language error on edge_en_017: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_018: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_019: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_020: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_021: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_022: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_023: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_024: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_025: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_026: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_027: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_028: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_029: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on edge_en_030: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on excel_en_001: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on excel_en_002: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on excel_en_003: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:43 ERROR    [poc] Azure Language error on excel_en_004: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_005: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_006: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_007: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_008: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_009: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_010: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_011: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_012: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_013: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_014: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_015: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_016: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_017: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_018: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_019: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_020: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_021: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:44 ERROR    [poc] Azure Language error on excel_en_022: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_023: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_024: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_025: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_026: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_027: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_028: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_029: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on excel_en_030: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_001: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_002: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_003: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_004: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_005: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_006: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_007: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_008: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_009: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:45 ERROR    [poc] Azure Language error on procedure_en_010: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_011: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_012: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_013: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_014: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_015: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_016: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_017: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_018: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_019: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_020: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_021: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_022: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_023: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_024: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_025: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_026: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:46 ERROR    [poc] Azure Language error on procedure_en_027: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on procedure_en_028: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on procedure_en_029: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on procedure_en_030: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_001: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_002: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_003: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_004: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_005: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_006: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_007: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_008: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_009: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_010: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_011: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_012: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_013: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:47 ERROR    [poc] Azure Language error on screenshot_en_014: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_015: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_016: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_017: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_018: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_019: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_020: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_021: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_022: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_023: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_024: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_025: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_026: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_027: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_028: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_029: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on screenshot_en_030: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on wire_en_001: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:48 ERROR    [poc] Azure Language error on wire_en_002: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_003: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_004: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_005: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_006: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_007: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_008: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_009: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_010: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_011: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_012: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_013: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_014: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_015: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_016: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_017: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_018: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:49 ERROR    [poc] Azure Language error on wire_en_019: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_020: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_021: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_022: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_023: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_024: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_025: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_026: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_027: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_028: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_029: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_030: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_031: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_032: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_033: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_034: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_035: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:50 ERROR    [poc] Azure Language error on wire_en_036: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_037: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_038: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_039: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_040: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_041: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_042: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_043: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_044: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_045: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_046: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_047: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_048: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_049: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_en_050: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_fr_001: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_fr_002: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_fr_003: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:51 ERROR    [poc] Azure Language error on wire_fr_004: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_005: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_006: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_007: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_008: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_009: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_010: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_011: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_012: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_013: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_014: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_015: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_016: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_017: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_018: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_019: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:52 ERROR    [poc] Azure Language error on wire_fr_020: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_021: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_022: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_023: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_024: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_025: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_026: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_027: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_028: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_029: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 ERROR    [poc] Azure Language error on wire_fr_030: 401 (401) Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+Code: 401
+Message: Access denied due to invalid subscription key or wrong API endpoint. Make sure to provide a valid key for an active subscription and use a correct regional API endpoint for your resource.
+2026-05-14 12:51:53 INFO     [poc] Azure Language: processed 200 docs, 200 errors, total cost $0.3200
+2026-05-14 12:57:22 INFO     [poc] Found 200 PII documents
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_001 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_002 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_003 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_004 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_005 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_006 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_007 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_008 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_009 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_010 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_011 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_012 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_013 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_014 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_015 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_016 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_017 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_018 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_019 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_020 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_021 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_022 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_023 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_024 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_025 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_026 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_027 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_028 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_029 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: edge_en_030 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_001 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_002 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_003 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_004 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_005 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_006 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_007 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_008 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_009 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_010 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_011 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_012 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_013 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_014 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_015 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_016 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_017 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_018 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_019 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_020 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_021 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_022 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_023 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_024 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_025 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_026 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_027 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_028 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_029 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: excel_en_030 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_001 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_002 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_003 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_004 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_005 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_006 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_007 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_008 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_009 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_010 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_011 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_012 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_013 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_014 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_015 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_016 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_017 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_018 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_019 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_020 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_021 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_022 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_023 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_024 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_025 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_026 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_027 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_028 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_029 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: procedure_en_030 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_001 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_002 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_003 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_004 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_005 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_006 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_007 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_008 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_009 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_010 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_011 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_012 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_013 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_014 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_015 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_016 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_017 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_018 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_019 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_020 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_021 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_022 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_023 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_024 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_025 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_026 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_027 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_028 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_029 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: screenshot_en_030 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_001 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_002 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_003 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_004 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_005 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_006 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_007 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_008 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_009 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_010 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_011 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_012 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_013 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_014 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_015 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_016 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_017 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_018 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_019 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_020 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_021 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_022 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_023 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_024 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_025 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_026 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_027 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_028 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_029 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_030 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_031 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_032 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_033 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_034 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_035 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_036 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_037 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_038 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_039 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_040 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_041 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_042 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_043 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_044 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_045 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_046 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_047 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_048 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_049 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_en_050 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_001 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_002 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_003 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_004 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_005 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_006 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_007 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_008 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_009 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_010 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_011 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_012 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_013 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_014 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_015 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_016 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_017 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_018 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_019 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_020 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_021 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_022 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_023 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_024 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_025 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_026 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_027 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_028 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_029 already processed (azure_language)
+2026-05-14 12:57:22 DEBUG    [poc] SKIP: wire_fr_030 already processed (azure_language)
+2026-05-14 12:57:22 INFO     [poc] Azure Language: processed 0 docs, 0 errors, total cost $0.0000
+2026-05-14 12:57:30 INFO     [poc] Found 200 PII documents
+2026-05-14 12:58:20 INFO     [poc] Azure Language: processed 200 docs, 0 errors, total cost $0.3200
+2026-05-14 13:03:44 INFO     [poc] Scoring OCR results...
+2026-05-14 13:03:44 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\ocr_matrix.json
+2026-05-14 13:03:44 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\ocr_matrix.md
+2026-05-14 13:08:16 INFO     [poc] Scoring PII results...
+2026-05-14 13:08:16 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\pii_matrix.json
+2026-05-14 13:08:16 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\pii_matrix.md
+2026-05-14 15:54:43 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md

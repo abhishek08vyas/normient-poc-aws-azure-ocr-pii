@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-05-27
+Reference: WT-483542
+
+SENDER INFORMATION
+Name: Angela Jordan
+Account Number: 3204724
+Branch: Medicine Hat, Alberta
+
+RECIPIENT INFORMATION
+Name: Bobby Diaz
+Account Number: 2512187
+Institution: Scotiabank
+
+TRANSFER DETAILS
+Amount: $71,237.75 CAD
+Purpose: Vendor Payment
+
+AUTHORIZATION
+Approved by: Sarah Stanton
+SIN (for verification): 356232850
+Email: sarah.stanton@synthco.com
+Phone: (438) 368-4210
+Postal Code: V4N 1T1
+
+Signature: ____________________
+Date: 2026-04-26

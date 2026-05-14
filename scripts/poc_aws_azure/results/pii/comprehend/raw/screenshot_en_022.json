@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_022",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Patterson",
+      "start_char": 37,
+      "end_char": 58,
+      "confidence": 0.9999037384986877,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9511546",
+      "start_char": 68,
+      "end_char": 75,
+      "confidence": 0.9998551607131958,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-06",
+      "start_char": 126,
+      "end_char": 136,
+      "confidence": 0.9999945163726807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "08:29:42",
+      "start_char": 137,
+      "end_char": 145,
+      "confidence": 0.999839723110199,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "christopher.patterson@synthco.com",
+      "start_char": 161,
+      "end_char": 194,
+      "confidence": 0.9996063113212585,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-21",
+      "start_char": 273,
+      "end_char": 283,
+      "confidence": 0.9999932050704956,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 333,
+      "end_char": 343,
+      "confidence": 0.999995231628418,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 393,
+      "end_char": 403,
+      "confidence": 0.9999946355819702,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 453,
+      "end_char": 463,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-28",
+      "start_char": 514,
+      "end_char": 524,
+      "confidence": 0.9999951720237732,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 248,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 574,
+  "error": null,
+  "raw_response": {}
+}

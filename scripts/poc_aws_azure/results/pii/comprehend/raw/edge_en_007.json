@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_007",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Katherine Pham",
+      "start_char": 35,
+      "end_char": 49,
+      "confidence": 0.9999613761901855,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "549 102 564",
+      "start_char": 75,
+      "end_char": 86,
+      "confidence": 0.9999567866325378,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4031181",
+      "start_char": 96,
+      "end_char": 103,
+      "confidence": 0.9918924570083618,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 240,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 104,
+  "error": null,
+  "raw_response": {}
+}

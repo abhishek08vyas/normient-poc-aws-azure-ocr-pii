@@ -1,0 +1,1019 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_019",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-04",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.78,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Lisa Martin",
+      "start_char": 58,
+      "end_char": 69,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "5590865",
+      "start_char": 86,
+      "end_char": 93,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-13",
+      "start_char": 157,
+      "end_char": 167,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 176,
+      "end_char": 189,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-11",
+      "start_char": 223,
+      "end_char": 233,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 242,
+      "end_char": 256,
+      "confidence": 0.84,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "384218\n2026",
+      "start_char": 283,
+      "end_char": 294,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 290,
+      "end_char": 300,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 314,
+      "end_char": 327,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "356717\n2026",
+      "start_char": 354,
+      "end_char": 365,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-02",
+      "start_char": 361,
+      "end_char": 371,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 385,
+      "end_char": 398,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "565198\n2025",
+      "start_char": 424,
+      "end_char": 435,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-27",
+      "start_char": 431,
+      "end_char": 441,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 453,
+      "end_char": 465,
+      "confidence": 0.83,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "211072\n2025",
+      "start_char": 491,
+      "end_char": 502,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-02",
+      "start_char": 498,
+      "end_char": 508,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 524,
+      "end_char": 539,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-31",
+      "start_char": 573,
+      "end_char": 583,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 596,
+      "end_char": 609,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-20",
+      "start_char": 643,
+      "end_char": 653,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 669,
+      "end_char": 682,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-31",
+      "start_char": 716,
+      "end_char": 726,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 742,
+      "end_char": 755,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "238197\n2025",
+      "start_char": 782,
+      "end_char": 793,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-08",
+      "start_char": 789,
+      "end_char": 799,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 811,
+      "end_char": 824,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "201987\n2026",
+      "start_char": 851,
+      "end_char": 862,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-07",
+      "start_char": 858,
+      "end_char": 868,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 880,
+      "end_char": 893,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "593403\n2025",
+      "start_char": 921,
+      "end_char": 932,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-30",
+      "start_char": 928,
+      "end_char": 938,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 951,
+      "end_char": 964,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "370587\n2026",
+      "start_char": 991,
+      "end_char": 1002,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-11",
+      "start_char": 998,
+      "end_char": 1008,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 1020,
+      "end_char": 1034,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-08",
+      "start_char": 1068,
+      "end_char": 1078,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 1094,
+      "end_char": 1106,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-24",
+      "start_char": 1140,
+      "end_char": 1150,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 1166,
+      "end_char": 1181,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "395968\n2025",
+      "start_char": 1208,
+      "end_char": 1219,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-03",
+      "start_char": 1215,
+      "end_char": 1225,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 1241,
+      "end_char": 1254,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "207932\n2025",
+      "start_char": 1281,
+      "end_char": 1292,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-22",
+      "start_char": 1288,
+      "end_char": 1298,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 1313,
+      "end_char": 1327,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-14",
+      "start_char": 1361,
+      "end_char": 1371,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 1380,
+      "end_char": 1393,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "520286\n2026",
+      "start_char": 1420,
+      "end_char": 1431,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-26",
+      "start_char": 1427,
+      "end_char": 1437,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 1453,
+      "end_char": 1466,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "266744\n2025",
+      "start_char": 1493,
+      "end_char": 1504,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-29",
+      "start_char": 1500,
+      "end_char": 1510,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 1524,
+      "end_char": 1539,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-20",
+      "start_char": 1572,
+      "end_char": 1582,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 1598,
+      "end_char": 1611,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-02",
+      "start_char": 1645,
+      "end_char": 1655,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 1671,
+      "end_char": 1683,
+      "confidence": 0.9,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-05",
+      "start_char": 1716,
+      "end_char": 1726,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 1742,
+      "end_char": 1754,
+      "confidence": 0.77,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-17",
+      "start_char": 1786,
+      "end_char": 1796,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 1811,
+      "end_char": 1824,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "284731\n2025",
+      "start_char": 1851,
+      "end_char": 1862,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-18",
+      "start_char": 1858,
+      "end_char": 1868,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 1877,
+      "end_char": 1889,
+      "confidence": 0.89,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-02",
+      "start_char": 1922,
+      "end_char": 1932,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 1948,
+      "end_char": 1962,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-17",
+      "start_char": 1994,
+      "end_char": 2004,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 2020,
+      "end_char": 2035,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-15",
+      "start_char": 2068,
+      "end_char": 2078,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 2093,
+      "end_char": 2108,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-17",
+      "start_char": 2141,
+      "end_char": 2151,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 2167,
+      "end_char": 2180,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-04",
+      "start_char": 2213,
+      "end_char": 2223,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 2237,
+      "end_char": 2251,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-14",
+      "start_char": 2284,
+      "end_char": 2294,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 2310,
+      "end_char": 2324,
+      "confidence": 0.89,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10",
+      "start_char": 2357,
+      "end_char": 2367,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 2376,
+      "end_char": 2389,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-21",
+      "start_char": 2422,
+      "end_char": 2432,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 2446,
+      "end_char": 2459,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-13",
+      "start_char": 2492,
+      "end_char": 2502,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 2516,
+      "end_char": 2528,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "395917\n2026",
+      "start_char": 2554,
+      "end_char": 2565,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-06",
+      "start_char": 2561,
+      "end_char": 2571,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 2583,
+      "end_char": 2596,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "513420\n2025",
+      "start_char": 2622,
+      "end_char": 2633,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-29",
+      "start_char": 2629,
+      "end_char": 2639,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 2655,
+      "end_char": 2668,
+      "confidence": 0.88,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "556329\n2026",
+      "start_char": 2695,
+      "end_char": 2706,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-08",
+      "start_char": 2702,
+      "end_char": 2712,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 2728,
+      "end_char": 2743,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "297370\n2025",
+      "start_char": 2770,
+      "end_char": 2781,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-30",
+      "start_char": 2777,
+      "end_char": 2787,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 2801,
+      "end_char": 2814,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "261760\n2025",
+      "start_char": 2841,
+      "end_char": 2852,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-31",
+      "start_char": 2848,
+      "end_char": 2858,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 2874,
+      "end_char": 2889,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-14",
+      "start_char": 2920,
+      "end_char": 2930,
+      "confidence": 0.73,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 2942,
+      "end_char": 2955,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-05",
+      "start_char": 2988,
+      "end_char": 2998,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 3013,
+      "end_char": 3028,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-14",
+      "start_char": 3062,
+      "end_char": 3072,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 3085,
+      "end_char": 3098,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "546383\n2025",
+      "start_char": 3125,
+      "end_char": 3136,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-26",
+      "start_char": 3132,
+      "end_char": 3142,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 3158,
+      "end_char": 3171,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-03",
+      "start_char": 3205,
+      "end_char": 3215,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kristen Young",
+      "start_char": 3231,
+      "end_char": 3244,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-29",
+      "start_char": 3277,
+      "end_char": 3287,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 3299,
+      "end_char": 3314,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-28",
+      "start_char": 3348,
+      "end_char": 3358,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Sheppard",
+      "start_char": 3367,
+      "end_char": 3380,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "484795\n2025",
+      "start_char": 3406,
+      "end_char": 3417,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-09",
+      "start_char": 3413,
+      "end_char": 3423,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 3439,
+      "end_char": 3453,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "218661\n2026",
+      "start_char": 3480,
+      "end_char": 3491,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 3487,
+      "end_char": 3497,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jennifer Montes",
+      "start_char": 3512,
+      "end_char": 3527,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-29",
+      "start_char": 3561,
+      "end_char": 3571,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cheryl Goodwin",
+      "start_char": 3584,
+      "end_char": 3598,
+      "confidence": 0.92,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "587521\n2025",
+      "start_char": 3625,
+      "end_char": 3636,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-17",
+      "start_char": 3632,
+      "end_char": 3642,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Bradley Diaz",
+      "start_char": 3651,
+      "end_char": 3663,
+      "confidence": 0.66,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 540,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3697,
+  "error": null,
+  "raw_response": {}
+}

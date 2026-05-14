@@ -1,0 +1,963 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_009",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-26",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.67,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Catherine Crawford",
+      "start_char": 58,
+      "end_char": 76,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "7893590",
+      "start_char": 93,
+      "end_char": 100,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-25",
+      "start_char": 164,
+      "end_char": 174,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Taylor",
+      "start_char": 190,
+      "end_char": 201,
+      "confidence": 0.87,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-24",
+      "start_char": 233,
+      "end_char": 243,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Laurie Robinson",
+      "start_char": 259,
+      "end_char": 274,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-01",
+      "start_char": 307,
+      "end_char": 317,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 332,
+      "end_char": 346,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "447596\n2026",
+      "start_char": 371,
+      "end_char": 382,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-21",
+      "start_char": 378,
+      "end_char": 388,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 404,
+      "end_char": 414,
+      "confidence": 0.94,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "490532\n2025",
+      "start_char": 440,
+      "end_char": 451,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-03",
+      "start_char": 447,
+      "end_char": 457,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 471,
+      "end_char": 481,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "393964\n2025",
+      "start_char": 507,
+      "end_char": 518,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-17",
+      "start_char": 514,
+      "end_char": 524,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Hall",
+      "start_char": 536,
+      "end_char": 549,
+      "confidence": 0.58,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "339030\n2026",
+      "start_char": 575,
+      "end_char": 586,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-01",
+      "start_char": 582,
+      "end_char": 592,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benjamin Kramer",
+      "start_char": 608,
+      "end_char": 623,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-04",
+      "start_char": 657,
+      "end_char": 667,
+      "confidence": 0.92,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Colton Burton",
+      "start_char": 676,
+      "end_char": 689,
+      "confidence": 0.76,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-16",
+      "start_char": 723,
+      "end_char": 733,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 746,
+      "end_char": 760,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-27",
+      "start_char": 794,
+      "end_char": 804,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benjamin Kramer",
+      "start_char": 818,
+      "end_char": 833,
+      "confidence": 0.86,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-21",
+      "start_char": 866,
+      "end_char": 876,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Colton Burton",
+      "start_char": 890,
+      "end_char": 903,
+      "confidence": 0.81,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-20",
+      "start_char": 937,
+      "end_char": 947,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Taylor",
+      "start_char": 956,
+      "end_char": 967,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-29",
+      "start_char": 1002,
+      "end_char": 1012,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benjamin Kramer",
+      "start_char": 1028,
+      "end_char": 1043,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-03",
+      "start_char": 1078,
+      "end_char": 1088,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Colton",
+      "start_char": 1102,
+      "end_char": 1108,
+      "confidence": 0.52,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "308781\n2026",
+      "start_char": 1143,
+      "end_char": 1154,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-14",
+      "start_char": 1150,
+      "end_char": 1160,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 1169,
+      "end_char": 1183,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-08",
+      "start_char": 1218,
+      "end_char": 1228,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 1244,
+      "end_char": 1254,
+      "confidence": 0.85,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-18",
+      "start_char": 1288,
+      "end_char": 1298,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 1311,
+      "end_char": 1325,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-02",
+      "start_char": 1360,
+      "end_char": 1370,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "King",
+      "start_char": 1389,
+      "end_char": 1393,
+      "confidence": 0.65,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-05",
+      "start_char": 1427,
+      "end_char": 1437,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 1452,
+      "end_char": 1466,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-23",
+      "start_char": 1501,
+      "end_char": 1511,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benjamin Kramer",
+      "start_char": 1527,
+      "end_char": 1542,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "332103\n2026",
+      "start_char": 1570,
+      "end_char": 1581,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-02",
+      "start_char": 1577,
+      "end_char": 1587,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Colton Burton",
+      "start_char": 1601,
+      "end_char": 1614,
+      "confidence": 0.76,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "529399\n2025",
+      "start_char": 1641,
+      "end_char": 1652,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-26",
+      "start_char": 1648,
+      "end_char": 1658,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Colton Burton",
+      "start_char": 1671,
+      "end_char": 1684,
+      "confidence": 0.73,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-31",
+      "start_char": 1717,
+      "end_char": 1727,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Taylor",
+      "start_char": 1743,
+      "end_char": 1754,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-15",
+      "start_char": 1788,
+      "end_char": 1798,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 1811,
+      "end_char": 1821,
+      "confidence": 0.71,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-20",
+      "start_char": 1855,
+      "end_char": 1865,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 1881,
+      "end_char": 1895,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-02",
+      "start_char": 1929,
+      "end_char": 1939,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 1955,
+      "end_char": 1965,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-29",
+      "start_char": 1999,
+      "end_char": 2009,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-16",
+      "start_char": 2064,
+      "end_char": 2074,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benjamin Kramer",
+      "start_char": 2087,
+      "end_char": 2102,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "492408\n2026",
+      "start_char": 2128,
+      "end_char": 2139,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-22",
+      "start_char": 2135,
+      "end_char": 2145,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 2159,
+      "end_char": 2169,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-04",
+      "start_char": 2201,
+      "end_char": 2211,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Colton Burton",
+      "start_char": 2225,
+      "end_char": 2238,
+      "confidence": 0.86,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "440930\n2026",
+      "start_char": 2264,
+      "end_char": 2275,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-26",
+      "start_char": 2271,
+      "end_char": 2281,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "413305\n2026",
+      "start_char": 2331,
+      "end_char": 2342,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-16",
+      "start_char": 2338,
+      "end_char": 2348,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-21",
+      "start_char": 2410,
+      "end_char": 2420,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Colton Burton",
+      "start_char": 2436,
+      "end_char": 2449,
+      "confidence": 0.69,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "435109\n2026",
+      "start_char": 2475,
+      "end_char": 2486,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-21",
+      "start_char": 2482,
+      "end_char": 2492,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 2504,
+      "end_char": 2518,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "409963\n2025",
+      "start_char": 2544,
+      "end_char": 2555,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-26",
+      "start_char": 2551,
+      "end_char": 2561,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-10",
+      "start_char": 2624,
+      "end_char": 2634,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Laurie Robinson",
+      "start_char": 2647,
+      "end_char": 2662,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "459836\n2025",
+      "start_char": 2689,
+      "end_char": 2700,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-11",
+      "start_char": 2696,
+      "end_char": 2706,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-06",
+      "start_char": 2761,
+      "end_char": 2771,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Taylor",
+      "start_char": 2785,
+      "end_char": 2796,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "414777\n2026",
+      "start_char": 2823,
+      "end_char": 2834,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-01",
+      "start_char": 2830,
+      "end_char": 2840,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Laurie Robinson",
+      "start_char": 2849,
+      "end_char": 2864,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "408054\n2025",
+      "start_char": 2890,
+      "end_char": 2901,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-08",
+      "start_char": 2897,
+      "end_char": 2907,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Colton",
+      "start_char": 2921,
+      "end_char": 2927,
+      "confidence": 0.52,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-12",
+      "start_char": 2968,
+      "end_char": 2978,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 2990,
+      "end_char": 3000,
+      "confidence": 0.88,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-30",
+      "start_char": 3034,
+      "end_char": 3044,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Benjamin Kramer",
+      "start_char": 3056,
+      "end_char": 3071,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "422002\n2026",
+      "start_char": 3097,
+      "end_char": 3108,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-18",
+      "start_char": 3104,
+      "end_char": 3114,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James King",
+      "start_char": 3128,
+      "end_char": 3138,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-29",
+      "start_char": 3171,
+      "end_char": 3181,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-14",
+      "start_char": 3243,
+      "end_char": 3253,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 3268,
+      "end_char": 3282,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "303993\n2026",
+      "start_char": 3309,
+      "end_char": 3320,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-06",
+      "start_char": 3316,
+      "end_char": 3326,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin Taylor",
+      "start_char": 3342,
+      "end_char": 3353,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "412848\n2026",
+      "start_char": 3379,
+      "end_char": 3390,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-21",
+      "start_char": 3386,
+      "end_char": 3396,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Laurie Robinson",
+      "start_char": 3412,
+      "end_char": 3427,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "310026\n2025",
+      "start_char": 3453,
+      "end_char": 3464,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-15",
+      "start_char": 3460,
+      "end_char": 3470,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Laurie Robinson",
+      "start_char": 3486,
+      "end_char": 3501,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "431752\n2025",
+      "start_char": 3526,
+      "end_char": 3537,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-02",
+      "start_char": 3533,
+      "end_char": 3543,
+      "confidence": 0.94,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Karla Saunders",
+      "start_char": 3558,
+      "end_char": 3572,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "448787\n2025",
+      "start_char": 3597,
+      "end_char": 3608,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-17",
+      "start_char": 3604,
+      "end_char": 3614,
+      "confidence": 0.85,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly",
+      "start_char": 3626,
+      "end_char": 3634,
+      "confidence": 0.56,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 609,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3672,
+  "error": null,
+  "raw_response": {}
+}

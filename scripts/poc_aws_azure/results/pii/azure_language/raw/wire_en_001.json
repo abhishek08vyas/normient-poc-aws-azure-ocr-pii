@@ -1,0 +1,115 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_en_001",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-23",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Danielle Johnson",
+      "start_char": 132,
+      "end_char": 148,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2867825",
+      "start_char": 165,
+      "end_char": 172,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Walker",
+      "start_char": 228,
+      "end_char": 241,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "1419610",
+      "start_char": 258,
+      "end_char": 265,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Laurentian Bank",
+      "start_char": 279,
+      "end_char": 294,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jill Rhodes",
+      "start_char": 394,
+      "end_char": 405,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "643321813",
+      "start_char": 430,
+      "end_char": 439,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "jill.rhodes@synthco.com",
+      "start_char": 447,
+      "end_char": 470,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(819) 232-0488",
+      "start_char": 478,
+      "end_char": 492,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "C3K 8Z0",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "C3K 8Z0",
+      "start_char": 506,
+      "end_char": 513,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-09",
+      "start_char": 553,
+      "end_char": 563,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 151,
+  "cost_estimate_usd": 0.001,
+  "char_count": 564,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,947 @@
+{
+  "tool": "azure_language",
+  "doc_id": "excel_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-04",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Account Holder",
+      "start_char": 42,
+      "end_char": 56,
+      "confidence": 0.81,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Joshua Shea",
+      "start_char": 58,
+      "end_char": 69,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:USBankAccountNumber",
+      "text": "2637842",
+      "start_char": 86,
+      "end_char": 93,
+      "confidence": 0.75,
+      "original_type": "USBankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "2637842",
+      "start_char": 86,
+      "end_char": 93,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-09",
+      "start_char": 157,
+      "end_char": 167,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-16",
+      "start_char": 232,
+      "end_char": 242,
+      "confidence": 0.85,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cynthia Vasquez",
+      "start_char": 257,
+      "end_char": 272,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-13",
+      "start_char": 304,
+      "end_char": 314,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 327,
+      "end_char": 342,
+      "confidence": 0.75,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-28",
+      "start_char": 374,
+      "end_char": 384,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cervantes",
+      "start_char": 407,
+      "end_char": 416,
+      "confidence": 0.61,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-29",
+      "start_char": 449,
+      "end_char": 459,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 472,
+      "end_char": 485,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-13",
+      "start_char": 519,
+      "end_char": 529,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 545,
+      "end_char": 558,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-23",
+      "start_char": 590,
+      "end_char": 600,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 616,
+      "end_char": 629,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "507723\n2026",
+      "start_char": 655,
+      "end_char": 666,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-15",
+      "start_char": 662,
+      "end_char": 672,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 686,
+      "end_char": 704,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-09",
+      "start_char": 738,
+      "end_char": 748,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 764,
+      "end_char": 780,
+      "confidence": 0.83,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "441819\n2025",
+      "start_char": 806,
+      "end_char": 817,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-08",
+      "start_char": 813,
+      "end_char": 823,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 835,
+      "end_char": 849,
+      "confidence": 0.89,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-20",
+      "start_char": 883,
+      "end_char": 893,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 909,
+      "end_char": 922,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-03",
+      "start_char": 956,
+      "end_char": 966,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 982,
+      "end_char": 997,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-24",
+      "start_char": 1031,
+      "end_char": 1041,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 1050,
+      "end_char": 1068,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-30",
+      "start_char": 1101,
+      "end_char": 1111,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 1125,
+      "end_char": 1143,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "291936\n2025",
+      "start_char": 1169,
+      "end_char": 1180,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-30",
+      "start_char": 1176,
+      "end_char": 1186,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 1202,
+      "end_char": 1215,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-09",
+      "start_char": 1249,
+      "end_char": 1259,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1275,
+      "end_char": 1289,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-02",
+      "start_char": 1319,
+      "end_char": 1329,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 1345,
+      "end_char": 1360,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-22",
+      "start_char": 1392,
+      "end_char": 1402,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1415,
+      "end_char": 1429,
+      "confidence": 0.8,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-10",
+      "start_char": 1463,
+      "end_char": 1473,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1488,
+      "end_char": 1502,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "243167\n2025",
+      "start_char": 1529,
+      "end_char": 1540,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-31",
+      "start_char": 1536,
+      "end_char": 1546,
+      "confidence": 0.84,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1555,
+      "end_char": 1569,
+      "confidence": 0.87,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "529008\n2026",
+      "start_char": 1596,
+      "end_char": 1607,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-04",
+      "start_char": 1603,
+      "end_char": 1613,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1626,
+      "end_char": 1640,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-02",
+      "start_char": 1674,
+      "end_char": 1684,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 1697,
+      "end_char": 1707,
+      "confidence": 0.91,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "406278\n2025",
+      "start_char": 1734,
+      "end_char": 1745,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-31",
+      "start_char": 1741,
+      "end_char": 1751,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 1765,
+      "end_char": 1780,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-24",
+      "start_char": 1815,
+      "end_char": 1825,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1838,
+      "end_char": 1852,
+      "confidence": 0.75,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-12",
+      "start_char": 1886,
+      "end_char": 1896,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-02",
+      "start_char": 1959,
+      "end_char": 1969,
+      "confidence": 0.9,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 1981,
+      "end_char": 1995,
+      "confidence": 0.93,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-08",
+      "start_char": 2029,
+      "end_char": 2039,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 2051,
+      "end_char": 2061,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "412170\n2025",
+      "start_char": 2087,
+      "end_char": 2098,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-01",
+      "start_char": 2094,
+      "end_char": 2104,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cervantes",
+      "start_char": 2125,
+      "end_char": 2134,
+      "confidence": 0.55,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-10-30",
+      "start_char": 2169,
+      "end_char": 2179,
+      "confidence": 0.88,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 2194,
+      "end_char": 2204,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "320073\n2026",
+      "start_char": 2232,
+      "end_char": 2243,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-20",
+      "start_char": 2239,
+      "end_char": 2249,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 2263,
+      "end_char": 2276,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "274044\n2026",
+      "start_char": 2303,
+      "end_char": 2314,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-08",
+      "start_char": 2310,
+      "end_char": 2320,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 2333,
+      "end_char": 2343,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-11-17",
+      "start_char": 2377,
+      "end_char": 2387,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 2401,
+      "end_char": 2416,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "439375\n2025",
+      "start_char": 2443,
+      "end_char": 2454,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-29",
+      "start_char": 2450,
+      "end_char": 2460,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Roberts",
+      "start_char": 2469,
+      "end_char": 2484,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-24",
+      "start_char": 2518,
+      "end_char": 2528,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 2541,
+      "end_char": 2559,
+      "confidence": 0.96,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "242175\n2026",
+      "start_char": 2585,
+      "end_char": 2596,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-12",
+      "start_char": 2592,
+      "end_char": 2602,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Roberts",
+      "start_char": 2617,
+      "end_char": 2632,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-01-04",
+      "start_char": 2666,
+      "end_char": 2676,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 2692,
+      "end_char": 2707,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-03-19",
+      "start_char": 2741,
+      "end_char": 2751,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 2764,
+      "end_char": 2777,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-13",
+      "start_char": 2811,
+      "end_char": 2821,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 2833,
+      "end_char": 2846,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "493396\n2026",
+      "start_char": 2874,
+      "end_char": 2885,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-02-12",
+      "start_char": 2881,
+      "end_char": 2891,
+      "confidence": 0.97,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 2904,
+      "end_char": 2922,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "522419\n2025",
+      "start_char": 2949,
+      "end_char": 2960,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-13",
+      "start_char": 2956,
+      "end_char": 2966,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 2980,
+      "end_char": 2994,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-10",
+      "start_char": 3025,
+      "end_char": 3035,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 3048,
+      "end_char": 3066,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-12",
+      "start_char": 3100,
+      "end_char": 3110,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-05-18",
+      "start_char": 3172,
+      "end_char": 3182,
+      "confidence": 0.98,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Andrea Gibson",
+      "start_char": 3198,
+      "end_char": 3211,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-12-13",
+      "start_char": 3245,
+      "end_char": 3255,
+      "confidence": 0.93,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Heather Roberts",
+      "start_char": 3268,
+      "end_char": 3283,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "454161\n2025",
+      "start_char": 3309,
+      "end_char": 3320,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Leonard Morris",
+      "start_char": 3339,
+      "end_char": 3353,
+      "confidence": 0.97,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-18",
+      "start_char": 3388,
+      "end_char": 3398,
+      "confidence": 0.96,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cynthia Vasquez",
+      "start_char": 3413,
+      "end_char": 3428,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "204411\n2025",
+      "start_char": 3455,
+      "end_char": 3466,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-08-08",
+      "start_char": 3462,
+      "end_char": 3472,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Bailey",
+      "start_char": 3487,
+      "end_char": 3505,
+      "confidence": 0.99,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-04",
+      "start_char": 3540,
+      "end_char": 3550,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mia Rivera",
+      "start_char": 3566,
+      "end_char": 3576,
+      "confidence": 0.98,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-02",
+      "start_char": 3610,
+      "end_char": 3620,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mathew Santiago",
+      "start_char": 3634,
+      "end_char": 3649,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "387330\n2025",
+      "start_char": 3676,
+      "end_char": 3687,
+      "confidence": 0.65,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-06-26",
+      "start_char": 3683,
+      "end_char": 3693,
+      "confidence": 0.95,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Sierra Cervantes",
+      "start_char": 3708,
+      "end_char": 3724,
+      "confidence": 0.6,
+      "original_type": "Person"
+    }
+  ],
+  "latency_ms": 493,
+  "cost_estimate_usd": 0.004,
+  "char_count": 3757,
+  "error": null,
+  "raw_response": {}
+}

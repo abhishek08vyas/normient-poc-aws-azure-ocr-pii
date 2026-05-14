@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_017",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Caleb Russell",
+      "start_char": 37,
+      "end_char": 50,
+      "confidence": 0.9999468326568604,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8531761",
+      "start_char": 60,
+      "end_char": 67,
+      "confidence": 0.9985839128494263,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 119,
+      "end_char": 129,
+      "confidence": 0.999993622303009,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "06:45:55",
+      "start_char": 130,
+      "end_char": 138,
+      "confidence": 0.9999846816062927,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "caleb.russell@example.ca",
+      "start_char": 154,
+      "end_char": 178,
+      "confidence": 0.9999064207077026,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 257,
+      "end_char": 267,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 318,
+      "end_char": 328,
+      "confidence": 0.9999954700469971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 379,
+      "end_char": 389,
+      "confidence": 0.9999949932098389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 440,
+      "end_char": 450,
+      "confidence": 0.9999943375587463,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-03",
+      "start_char": 501,
+      "end_char": 511,
+      "confidence": 0.9999945163726807,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 239,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 562,
+  "error": null,
+  "raw_response": {}
+}

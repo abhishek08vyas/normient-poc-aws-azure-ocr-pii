@@ -1,0 +1,43 @@
+{
+  "tool": "azure_language",
+  "doc_id": "edge_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "Employee",
+      "start_char": 0,
+      "end_char": 8,
+      "confidence": 1.0,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Vanessa Brooks",
+      "start_char": 35,
+      "end_char": 49,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CASocialInsuranceNumber",
+      "text": "116 361 122",
+      "start_char": 75,
+      "end_char": 86,
+      "confidence": 0.85,
+      "original_type": "CASocialInsuranceNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "9832796",
+      "start_char": 96,
+      "end_char": 103,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    }
+  ],
+  "latency_ms": 183,
+  "cost_estimate_usd": 0.001,
+  "char_count": 104,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,139 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_013",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-09-14",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.89,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thérèse Desjardins",
+      "start_char": 155,
+      "end_char": 173,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "2311382",
+      "start_char": 193,
+      "end_char": 200,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 240,
+      "end_char": 252,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gabrielle Gauthier",
+      "start_char": 259,
+      "end_char": 277,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "8151117",
+      "start_char": 297,
+      "end_char": 304,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Bank of Montreal",
+      "start_char": 319,
+      "end_char": 335,
+      "confidence": 1.0,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Cécile Lefebvre",
+      "start_char": 426,
+      "end_char": 441,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 442,
+      "end_char": 445,
+      "confidence": 0.69,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "674233622",
+      "start_char": 468,
+      "end_char": 477,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "cecile.lefebvre@synthco.com",
+      "start_char": 489,
+      "end_char": 516,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 510-4675",
+      "start_char": 529,
+      "end_char": 543,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "T3L 7C5",
+      "start_char": 558,
+      "end_char": 565,
+      "confidence": 0.9,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "T3L 7C5",
+      "start_char": 558,
+      "end_char": 565,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-10",
+      "start_char": 607,
+      "end_char": 617,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 168,
+  "cost_estimate_usd": 0.001,
+  "char_count": 618,
+  "error": null,
+  "raw_response": {}
+}

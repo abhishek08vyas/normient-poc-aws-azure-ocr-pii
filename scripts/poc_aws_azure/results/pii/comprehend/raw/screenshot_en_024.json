@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_024",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Andrew Ryan",
+      "start_char": 37,
+      "end_char": 48,
+      "confidence": 0.9999507665634155,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8942330",
+      "start_char": 58,
+      "end_char": 65,
+      "confidence": 0.9976181387901306,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-30",
+      "start_char": 118,
+      "end_char": 128,
+      "confidence": 0.999995231628418,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "22:18:39",
+      "start_char": 129,
+      "end_char": 137,
+      "confidence": 0.9994887709617615,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "andrew.ryan@testbank.ca",
+      "start_char": 153,
+      "end_char": 176,
+      "confidence": 0.9998101592063904,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-23",
+      "start_char": 255,
+      "end_char": 265,
+      "confidence": 0.9999926686286926,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-16",
+      "start_char": 317,
+      "end_char": 327,
+      "confidence": 0.9999953508377075,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 379,
+      "end_char": 389,
+      "confidence": 0.9999954700469971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 441,
+      "end_char": 451,
+      "confidence": 0.999994695186615,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-25",
+      "start_char": 503,
+      "end_char": 513,
+      "confidence": 0.999995231628418,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 242,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

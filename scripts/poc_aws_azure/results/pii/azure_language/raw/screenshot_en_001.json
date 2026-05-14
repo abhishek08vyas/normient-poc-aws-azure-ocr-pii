@@ -1,0 +1,83 @@
+{
+  "tool": "azure_language",
+  "doc_id": "screenshot_en_001",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Darrell Waller",
+      "start_char": 37,
+      "end_char": 51,
+      "confidence": 0.95,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:CABankAccountNumber",
+      "text": "4833486",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.75,
+      "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-22 14:37:26",
+      "start_char": 120,
+      "end_char": 139,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "darrell.waller@acmecorp.ca",
+      "start_char": 155,
+      "end_char": 181,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-11",
+      "start_char": 260,
+      "end_char": 270,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-25",
+      "start_char": 322,
+      "end_char": 332,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-14",
+      "start_char": 384,
+      "end_char": 394,
+      "confidence": 1.0,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-04-18",
+      "start_char": 446,
+      "end_char": 456,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2026-05-11",
+      "start_char": 508,
+      "end_char": 518,
+      "confidence": 0.99,
+      "original_type": "DateTime"
+    }
+  ],
+  "latency_ms": 182,
+  "cost_estimate_usd": 0.001,
+  "char_count": 570,
+  "error": null,
+  "raw_response": {}
+}

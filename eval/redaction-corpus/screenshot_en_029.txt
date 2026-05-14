@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Heidi Turner
+Account: 8467726
+Type: Business
+Balance: $193,674.44 CAD
+Last Login: 2026-05-13 02:06:27
+Email on file: heidi.turner@example.com
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-18  Bill payment             $6,695.01    $200,369.45
+2026-05-10  POS purchase             $5,444.61    $205,814.05
+2026-04-14  Direct deposit           $7,132.50    $212,946.55
+2026-04-29  E-transfer               -$1,782.21   $211,164.35
+2026-05-08  Direct deposit           -$1,257.56   $209,906.79

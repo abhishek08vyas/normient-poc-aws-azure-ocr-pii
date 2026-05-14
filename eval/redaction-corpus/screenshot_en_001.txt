@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Darrell Waller
+Account: 4833486
+Type: Savings
+Balance: $166,346.75 CAD
+Last Login: 2026-04-22 14:37:26
+Email on file: darrell.waller@acmecorp.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-05-11  ATM withdrawal           -$4,189.10   $162,157.65
+2026-04-25  ATM withdrawal           -$3,159.61   $158,998.04
+2026-04-14  Direct deposit           -$6,883.87   $152,114.17
+2026-04-18  Wire transfer            -$8,326.13   $143,788.04
+2026-05-11  Wire transfer            -$7,458.66   $136,329.38

@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_014",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-03",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999025464057922,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Courtney Conner",
+      "start_char": 132,
+      "end_char": 147,
+      "confidence": 0.9999623894691467,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4533779",
+      "start_char": 164,
+      "end_char": 171,
+      "confidence": 0.9987433552742004,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Ottawa, Ontario",
+      "start_char": 180,
+      "end_char": 195,
+      "confidence": 0.9989053606987,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Robert Brown",
+      "start_char": 225,
+      "end_char": 237,
+      "confidence": 0.9999651908874512,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6752576",
+      "start_char": 254,
+      "end_char": 261,
+      "confidence": 0.9982283711433411,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Ferrell",
+      "start_char": 385,
+      "end_char": 400,
+      "confidence": 0.9999407529830933,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "248740169",
+      "start_char": 425,
+      "end_char": 434,
+      "confidence": 0.9062783718109131,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "patrick.ferrell@testbank.ca",
+      "start_char": 442,
+      "end_char": 469,
+      "confidence": 0.9999480247497559,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(416) 203-5464",
+      "start_char": 477,
+      "end_char": 491,
+      "confidence": 0.9999133944511414,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "G4H 7X6",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.9996266961097717,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "G4H 7X6",
+      "start_char": 505,
+      "end_char": 512,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-17",
+      "start_char": 552,
+      "end_char": 562,
+      "confidence": 0.9999864101409912,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 563,
+  "error": null,
+  "raw_response": {}
+}

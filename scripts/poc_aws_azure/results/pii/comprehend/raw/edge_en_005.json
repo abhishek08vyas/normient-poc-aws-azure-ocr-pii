@@ -1,0 +1,35 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_005",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Vanessa Brooks",
+      "start_char": 35,
+      "end_char": 49,
+      "confidence": 0.9999456405639648,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "116 361 122",
+      "start_char": 75,
+      "end_char": 86,
+      "confidence": 0.9999377727508545,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9832796",
+      "start_char": 96,
+      "end_char": 103,
+      "confidence": 0.9692652821540833,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 104,
+  "error": null,
+  "raw_response": {}
+}

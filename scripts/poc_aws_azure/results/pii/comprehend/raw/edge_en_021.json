@@ -1,0 +1,27 @@
+{
+  "tool": "comprehend",
+  "doc_id": "edge_en_021",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Angelicca Chambers",
+      "start_char": 24,
+      "end_char": 42,
+      "confidence": 0.9999640583992004,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3578837",
+      "start_char": 53,
+      "end_char": 60,
+      "confidence": 0.5203918814659119,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    }
+  ],
+  "latency_ms": 241,
+  "cost_estimate_usd": 0.00030000000000000003,
+  "char_count": 101,
+  "error": null,
+  "raw_response": {}
+}

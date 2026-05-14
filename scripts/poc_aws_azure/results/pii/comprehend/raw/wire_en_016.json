@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_016",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-22",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999270439147949,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Danielle Rodriguez",
+      "start_char": 132,
+      "end_char": 150,
+      "confidence": 0.9999722242355347,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5163555",
+      "start_char": 167,
+      "end_char": 174,
+      "confidence": 0.9993513226509094,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Richmond, British Columbia",
+      "start_char": 183,
+      "end_char": 209,
+      "confidence": 0.9996774792671204,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Ryan Chavez",
+      "start_char": 239,
+      "end_char": 250,
+      "confidence": 0.9999528527259827,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5476257",
+      "start_char": 267,
+      "end_char": 274,
+      "confidence": 0.9993813037872314,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Stephanie Liu",
+      "start_char": 392,
+      "end_char": 405,
+      "confidence": 0.9999432563781738,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "216073379",
+      "start_char": 430,
+      "end_char": 439,
+      "confidence": 0.7207120656967163,
+      "original_type": "SSN"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "stephanie.liu@testbank.ca",
+      "start_char": 447,
+      "end_char": 472,
+      "confidence": 0.9999732971191406,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 433-3652",
+      "start_char": 480,
+      "end_char": 494,
+      "confidence": 0.9998065233230591,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "A3R 5L1",
+      "start_char": 508,
+      "end_char": 515,
+      "confidence": 0.9999142289161682,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "A3R 5L1",
+      "start_char": 508,
+      "end_char": 515,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-22",
+      "start_char": 555,
+      "end_char": 565,
+      "confidence": 0.9999839067459106,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 231,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 566,
+  "error": null,
+  "raw_response": {}
+}

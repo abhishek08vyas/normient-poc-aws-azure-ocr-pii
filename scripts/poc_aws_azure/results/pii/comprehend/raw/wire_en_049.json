@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_049",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-12",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999507665634155,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Kevin Pope",
+      "start_char": 132,
+      "end_char": 142,
+      "confidence": 0.9999674558639526,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9826250",
+      "start_char": 159,
+      "end_char": 166,
+      "confidence": 0.9983664155006409,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Hamilton, Ontario",
+      "start_char": 175,
+      "end_char": 192,
+      "confidence": 0.9994505643844604,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Johnson",
+      "start_char": 222,
+      "end_char": 236,
+      "confidence": 0.9999688863754272,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2906718",
+      "start_char": 253,
+      "end_char": 260,
+      "confidence": 0.9946580529212952,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "James Murphy",
+      "start_char": 379,
+      "end_char": 391,
+      "confidence": 0.9999217987060547,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "617758917",
+      "start_char": 416,
+      "end_char": 425,
+      "confidence": 0.6724407076835632,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "james.murphy@acmecorp.ca",
+      "start_char": 433,
+      "end_char": 457,
+      "confidence": 0.9999798536300659,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(514) 829-0710",
+      "start_char": 465,
+      "end_char": 479,
+      "confidence": 0.9998819231987,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "X4T 0B7",
+      "start_char": 493,
+      "end_char": 500,
+      "confidence": 0.9933439493179321,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "X4T 0B7",
+      "start_char": 493,
+      "end_char": 500,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-07",
+      "start_char": 540,
+      "end_char": 550,
+      "confidence": 0.9999904632568359,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 241,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 551,
+  "error": null,
+  "raw_response": {}
+}

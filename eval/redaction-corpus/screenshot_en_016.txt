@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Luis Fernandez
+Account: 1633297
+Type: Business
+Balance: $30,554.56 CAD
+Last Login: 2026-04-20 15:47:41
+Email on file: luis.fernandez@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-20  ATM withdrawal           -$1,584.81   $28,969.75
+2026-04-24  E-transfer               $7,722.42    $36,692.17
+2026-05-01  Direct deposit           -$7,225.77   $29,466.40
+2026-04-20  Bill payment             -$6,779.81   $22,686.59
+2026-04-23  ATM withdrawal           $6,125.42    $28,812.01

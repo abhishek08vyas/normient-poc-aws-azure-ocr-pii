@@ -1,0 +1,29 @@
+FORMULAIRE D'AUTORISATION DE VIREMENT
+======================================
+
+Date : 2025-07-05
+Reference : VIR-231660
+
+INFORMATIONS DE L'EXPEDITEUR
+Nom : Étienne Lefebvre
+Numero de compte : 6557792
+Succursale : Gatineau
+
+INFORMATIONS DU DESTINATAIRE
+Nom : Valérie Ménard
+Numero de compte : 6750028
+Institution : Bank of Montreal
+
+DETAILS DU VIREMENT
+Montant : 317,549.11 $ CAD
+Objet : Paiement fournisseur
+
+AUTORISATION
+Approuve par : Hélène Bouchard
+NAS (pour verification) : 238033963
+Courriel : helene.bouchard@synthco.com
+Telephone : (613) 387-7247
+Code postal : A1V 1J0
+
+Signature : ____________________
+Date : 2025-11-13

@@ -1,0 +1,1113 @@
+{
+  "tool": "azure_doc_intel",
+  "file": "clean_policy_02.pdf",
+  "full_text": "Anti-Money Laundering Compliance Policy\nEffective Date: 2025-02-14 Version: 2.0\nCONFIDENTIAL\nPage 1\n1. PURPOSE\nThe purpose of this policy is to establish guidelines and procedures for anti-money laundering compliance operations within the organization. This policy applies to all departments and business units.\nAll employees must comply with the requirements set forth in this document. Failure to adhere to these guidelines may result in disciplinary action in accordance with the organization's code of conduct.\nThis policy has been developed in consultation with the Legal, Compliance, and Risk Management departments to ensure alignment with regulatory requirements and industry best practices.\nPage 2",
+  "words": [
+    {
+      "text": "Anti-Money",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.6832,
+        "top": 2.8588,
+        "width": 1.3846999999999998,
+        "height": 0.3043999999999998
+      },
+      "page": 1
+    },
+    {
+      "text": "Laundering",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.147,
+        "top": 2.8653,
+        "width": 1.3428,
+        "height": 0.3012999999999999
+      },
+      "page": 1
+    },
+    {
+      "text": "Compliance",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.5742,
+        "top": 2.8674,
+        "width": 1.4104,
+        "height": 0.2995000000000001
+      },
+      "page": 1
+    },
+    {
+      "text": "Policy",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.0598,
+        "top": 2.8698,
+        "width": 0.7358000000000002,
+        "height": 0.30790000000000006
+      },
+      "page": 1
+    },
+    {
+      "text": "Effective",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0737,
+        "top": 3.9921,
+        "width": 0.6436999999999999,
+        "height": 0.18199999999999994
+      },
+      "page": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.773,
+        "top": 3.9921,
+        "width": 0.3803000000000003,
+        "height": 0.18199999999999994
+      },
+      "page": 1
+    },
+    {
+      "text": "2025-02-14",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.2109,
+        "top": 3.9901,
+        "width": 0.8603999999999998,
+        "height": 0.18269999999999964
+      },
+      "page": 1
+    },
+    {
+      "text": "Version:",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.071,
+        "top": 4.3251,
+        "width": 0.6127,
+        "height": 0.1767000000000003
+      },
+      "page": 1
+    },
+    {
+      "text": "2.0",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.7405,
+        "top": 4.3239,
+        "width": 0.23940000000000006,
+        "height": 0.18069999999999986
+      },
+      "page": 1
+    },
+    {
+      "text": "CONFIDENTIAL",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.5278,
+        "top": 5.7173,
+        "width": 1.4360999999999997,
+        "height": 0.20589999999999975
+      },
+      "page": 1
+    },
+    {
+      "text": "Page",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.0694,
+        "top": 10.3958,
+        "width": 0.25180000000000025,
+        "height": 0.13610000000000078
+      },
+      "page": 1
+    },
+    {
+      "text": "1",
+      "confidence": 0.977,
+      "bbox": {
+        "left": 4.3649,
+        "top": 10.3968,
+        "width": 0.05110000000000081,
+        "height": 0.1352999999999991
+      },
+      "page": 1
+    },
+    {
+      "text": "1.",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0784,
+        "top": 0.8554,
+        "width": 0.15500000000000003,
+        "height": 0.20709999999999995
+      },
+      "page": 2
+    },
+    {
+      "text": "PURPOSE",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.3071,
+        "top": 0.8523,
+        "width": 0.9507000000000001,
+        "height": 0.21030000000000004
+      },
+      "page": 2
+    },
+    {
+      "text": "The",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.0718,
+        "top": 1.1839,
+        "width": 0.27739999999999987,
+        "height": 0.20409999999999995
+      },
+      "page": 2
+    },
+    {
+      "text": "purpose",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.3875,
+        "top": 1.1858,
+        "width": 0.6283000000000001,
+        "height": 0.20229999999999992
+      },
+      "page": 2
+    },
+    {
+      "text": "of",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.0666,
+        "top": 1.1861,
+        "width": 0.1429999999999998,
+        "height": 0.20030000000000014
+      },
+      "page": 2
+    },
+    {
+      "text": "this",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 2.247,
+        "top": 1.1852,
+        "width": 0.2581000000000002,
+        "height": 0.2015
+      },
+      "page": 2
+    },
+    {
+      "text": "policy",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.5589,
+        "top": 1.1855,
+        "width": 0.39280000000000026,
+        "height": 0.2015
+      },
+      "page": 2
+    },
+    {
+      "text": "is",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 2.9893,
+        "top": 1.1869,
+        "width": 0.15620000000000012,
+        "height": 0.19989999999999997
+      },
+      "page": 2
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.193,
+        "top": 1.1872,
+        "width": 0.13640000000000008,
+        "height": 0.19869999999999988
+      },
+      "page": 2
+    },
+    {
+      "text": "establish",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.3803,
+        "top": 1.1845,
+        "width": 0.6486000000000001,
+        "height": 0.20299999999999985
+      },
+      "page": 2
+    },
+    {
+      "text": "guidelines",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.0865,
+        "top": 1.1839,
+        "width": 0.7435999999999998,
+        "height": 0.20389999999999997
+      },
+      "page": 2
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.8814,
+        "top": 1.1871,
+        "width": 0.26729999999999965,
+        "height": 0.19979999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "procedures",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.2096,
+        "top": 1.1873,
+        "width": 0.8224999999999998,
+        "height": 0.19930000000000003
+      },
+      "page": 2
+    },
+    {
+      "text": "for",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 6.0831,
+        "top": 1.1874,
+        "width": 0.1985999999999999,
+        "height": 0.1995
+      },
+      "page": 2
+    },
+    {
+      "text": "anti-money",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.326,
+        "top": 1.1883,
+        "width": 0.8348000000000004,
+        "height": 0.2056
+      },
+      "page": 2
+    },
+    {
+      "text": "laundering",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0724,
+        "top": 1.4092,
+        "width": 0.7784,
+        "height": 0.1996
+      },
+      "page": 2
+    },
+    {
+      "text": "compliance",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.9092,
+        "top": 1.4092,
+        "width": 0.8345,
+        "height": 0.2003999999999999
+      },
+      "page": 2
+    },
+    {
+      "text": "operations",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.7956,
+        "top": 1.4087,
+        "width": 0.7752000000000003,
+        "height": 0.20089999999999986
+      },
+      "page": 2
+    },
+    {
+      "text": "within",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 3.6167,
+        "top": 1.4068,
+        "width": 0.4187000000000003,
+        "height": 0.20209999999999995
+      },
+      "page": 2
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 4.0906,
+        "top": 1.4061,
+        "width": 0.22820000000000018,
+        "height": 0.2037
+      },
+      "page": 2
+    },
+    {
+      "text": "organization.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.3739,
+        "top": 1.4057,
+        "width": 0.9400000000000004,
+        "height": 0.20430000000000015
+      },
+      "page": 2
+    },
+    {
+      "text": "This",
+      "confidence": 0.983,
+      "bbox": {
+        "left": 5.3691,
+        "top": 1.4047,
+        "width": 0.31379999999999963,
+        "height": 0.20419999999999994
+      },
+      "page": 2
+    },
+    {
+      "text": "policy",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.7412,
+        "top": 1.4046,
+        "width": 0.4161999999999999,
+        "height": 0.20609999999999995
+      },
+      "page": 2
+    },
+    {
+      "text": "applies",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.2062,
+        "top": 1.4059,
+        "width": 0.5212000000000003,
+        "height": 0.20500000000000007
+      },
+      "page": 2
+    },
+    {
+      "text": "to",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.7767,
+        "top": 1.4065,
+        "width": 0.13529999999999998,
+        "height": 0.19869999999999988
+      },
+      "page": 2
+    },
+    {
+      "text": "all",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.9678,
+        "top": 1.4064,
+        "width": 0.1708999999999996,
+        "height": 0.19829999999999992
+      },
+      "page": 2
+    },
+    {
+      "text": "departments",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0706,
+        "top": 1.6263,
+        "width": 0.9351999999999998,
+        "height": 0.1996
+      },
+      "page": 2
+    },
+    {
+      "text": "and",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 2.0569,
+        "top": 1.6258,
+        "width": 0.2666999999999997,
+        "height": 0.1987000000000001
+      },
+      "page": 2
+    },
+    {
+      "text": "business",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.3878,
+        "top": 1.6264,
+        "width": 0.6457000000000002,
+        "height": 0.19699999999999984
+      },
+      "page": 2
+    },
+    {
+      "text": "units.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.0912,
+        "top": 1.6247,
+        "width": 0.3895999999999997,
+        "height": 0.19679999999999986
+      },
+      "page": 2
+    },
+    {
+      "text": "All",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 1.0724,
+        "top": 1.9585,
+        "width": 0.1864999999999999,
+        "height": 0.2004999999999999
+      },
+      "page": 2
+    },
+    {
+      "text": "employees",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.313,
+        "top": 1.9597,
+        "width": 0.7874999999999999,
+        "height": 0.1992999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.1381,
+        "top": 1.9605,
+        "width": 0.38809999999999967,
+        "height": 0.1984999999999999
+      },
+      "page": 2
+    },
+    {
+      "text": "comply",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.5701,
+        "top": 1.9598,
+        "width": 0.5053000000000001,
+        "height": 0.19919999999999982
+      },
+      "page": 2
+    },
+    {
+      "text": "with",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.1132,
+        "top": 1.9593,
+        "width": 0.31320000000000014,
+        "height": 0.19900000000000007
+      },
+      "page": 2
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 3.4807,
+        "top": 1.9592,
+        "width": 0.2056,
+        "height": 0.19830000000000014
+      },
+      "page": 2
+    },
+    {
+      "text": "requirements",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.7244,
+        "top": 1.9581,
+        "width": 1.0018000000000002,
+        "height": 0.19910000000000005
+      },
+      "page": 2
+    },
+    {
+      "text": "set",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.7772,
+        "top": 1.9582,
+        "width": 0.19600000000000062,
+        "height": 0.19710000000000005
+      },
+      "page": 2
+    },
+    {
+      "text": "forth",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.0113,
+        "top": 1.9583,
+        "width": 0.3388,
+        "height": 0.1966000000000001
+      },
+      "page": 2
+    },
+    {
+      "text": "in",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.3883,
+        "top": 1.9579,
+        "width": 0.1535000000000002,
+        "height": 0.1964999999999999
+      },
+      "page": 2
+    },
+    {
+      "text": "this",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.5962,
+        "top": 1.9578,
+        "width": 0.25430000000000064,
+        "height": 0.19650000000000012
+      },
+      "page": 2
+    },
+    {
+      "text": "document.",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.9018,
+        "top": 1.958,
+        "width": 0.7644000000000002,
+        "height": 0.19630000000000014
+      },
+      "page": 2
+    },
+    {
+      "text": "Failure",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.7308,
+        "top": 1.9561,
+        "width": 0.4780999999999995,
+        "height": 0.1988000000000001
+      },
+      "page": 2
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 7.2474,
+        "top": 1.9547,
+        "width": 0.17900000000000027,
+        "height": 0.2013999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "adhere",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0728,
+        "top": 2.185,
+        "width": 0.5247999999999999,
+        "height": 0.19349999999999978
+      },
+      "page": 2
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 1.6454,
+        "top": 2.1861,
+        "width": 0.13569999999999993,
+        "height": 0.19379999999999997
+      },
+      "page": 2
+    },
+    {
+      "text": "these",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.8319,
+        "top": 2.1843,
+        "width": 0.4032,
+        "height": 0.19620000000000015
+      },
+      "page": 2
+    },
+    {
+      "text": "guidelines",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.2891,
+        "top": 2.1822,
+        "width": 0.7284000000000002,
+        "height": 0.19830000000000014
+      },
+      "page": 2
+    },
+    {
+      "text": "may",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.0554,
+        "top": 2.1822,
+        "width": 0.32269999999999976,
+        "height": 0.19830000000000014
+      },
+      "page": 2
+    },
+    {
+      "text": "result",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.4163,
+        "top": 2.1825,
+        "width": 0.41259999999999986,
+        "height": 0.19740000000000002
+      },
+      "page": 2
+    },
+    {
+      "text": "in",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 3.8668,
+        "top": 2.1818,
+        "width": 0.1519999999999997,
+        "height": 0.1987000000000001
+      },
+      "page": 2
+    },
+    {
+      "text": "disciplinary",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.076,
+        "top": 2.1815,
+        "width": 0.8218000000000005,
+        "height": 0.19899999999999984
+      },
+      "page": 2
+    },
+    {
+      "text": "action",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.9453,
+        "top": 2.1817,
+        "width": 0.4162000000000008,
+        "height": 0.19869999999999965
+      },
+      "page": 2
+    },
+    {
+      "text": "in",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.3999,
+        "top": 2.1819,
+        "width": 0.15800000000000036,
+        "height": 0.1974999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "accordance",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.6123,
+        "top": 2.1818,
+        "width": 0.8567,
+        "height": 0.19689999999999985
+      },
+      "page": 2
+    },
+    {
+      "text": "with",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 6.5172,
+        "top": 2.1805,
+        "width": 0.28990000000000027,
+        "height": 0.19609999999999994
+      },
+      "page": 2
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.8586,
+        "top": 2.1788,
+        "width": 0.24690000000000012,
+        "height": 0.1976
+      },
+      "page": 2
+    },
+    {
+      "text": "organization's",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.069,
+        "top": 2.4104,
+        "width": 1.0333,
+        "height": 0.19799999999999995
+      },
+      "page": 2
+    },
+    {
+      "text": "code",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.1517,
+        "top": 2.4098,
+        "width": 0.355,
+        "height": 0.19379999999999997
+      },
+      "page": 2
+    },
+    {
+      "text": "of",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.5597,
+        "top": 2.4089,
+        "width": 0.14760000000000018,
+        "height": 0.19289999999999985
+      },
+      "page": 2
+    },
+    {
+      "text": "conduct.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.748,
+        "top": 2.4076,
+        "width": 0.6276999999999999,
+        "height": 0.19340000000000002
+      },
+      "page": 2
+    },
+    {
+      "text": "This",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0735,
+        "top": 2.7365,
+        "width": 0.31790000000000007,
+        "height": 0.20750000000000002
+      },
+      "page": 2
+    },
+    {
+      "text": "policy",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.4506,
+        "top": 2.7392,
+        "width": 0.3975000000000002,
+        "height": 0.2049000000000003
+      },
+      "page": 2
+    },
+    {
+      "text": "has",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.8873,
+        "top": 2.7387,
+        "width": 0.29420000000000024,
+        "height": 0.20459999999999967
+      },
+      "page": 2
+    },
+    {
+      "text": "been",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.2372,
+        "top": 2.7386,
+        "width": 0.35429999999999984,
+        "height": 0.2027000000000001
+      },
+      "page": 2
+    },
+    {
+      "text": "developed",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.6469,
+        "top": 2.7391,
+        "width": 0.7479999999999998,
+        "height": 0.2003999999999997
+      },
+      "page": 2
+    },
+    {
+      "text": "in",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 3.4341,
+        "top": 2.7411,
+        "width": 0.15080000000000027,
+        "height": 0.1977000000000002
+      },
+      "page": 2
+    },
+    {
+      "text": "consultation",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.6407,
+        "top": 2.7389,
+        "width": 0.8809000000000005,
+        "height": 0.20120000000000005
+      },
+      "page": 2
+    },
+    {
+      "text": "with",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.5707,
+        "top": 2.7383,
+        "width": 0.2942999999999998,
+        "height": 0.20249999999999968
+      },
+      "page": 2
+    },
+    {
+      "text": "the",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.9173,
+        "top": 2.7371,
+        "width": 0.22769999999999957,
+        "height": 0.20420000000000016
+      },
+      "page": 2
+    },
+    {
+      "text": "Legal,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.2039,
+        "top": 2.7357,
+        "width": 0.4344000000000001,
+        "height": 0.20750000000000002
+      },
+      "page": 2
+    },
+    {
+      "text": "Compliance,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.6974,
+        "top": 2.7358,
+        "width": 0.9109999999999996,
+        "height": 0.20730000000000004
+      },
+      "page": 2
+    },
+    {
+      "text": "and",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.6713,
+        "top": 2.7352,
+        "width": 0.2671000000000001,
+        "height": 0.20660000000000034
+      },
+      "page": 2
+    },
+    {
+      "text": "Risk",
+      "confidence": 0.986,
+      "bbox": {
+        "left": 7.0016,
+        "top": 2.733,
+        "width": 0.3308,
+        "height": 0.2084999999999999
+      },
+      "page": 2
+    },
+    {
+      "text": "Management",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0717,
+        "top": 2.9621,
+        "width": 0.9846999999999999,
+        "height": 0.20400000000000018
+      },
+      "page": 2
+    },
+    {
+      "text": "departments",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.1017,
+        "top": 2.9638,
+        "width": 0.9217999999999997,
+        "height": 0.20230000000000015
+      },
+      "page": 2
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.0717,
+        "top": 2.9654,
+        "width": 0.14060000000000006,
+        "height": 0.1980000000000004
+      },
+      "page": 2
+    },
+    {
+      "text": "ensure",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.2603,
+        "top": 2.9642,
+        "width": 0.5051000000000001,
+        "height": 0.20100000000000007
+      },
+      "page": 2
+    },
+    {
+      "text": "alignment",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.8171,
+        "top": 2.9613,
+        "width": 0.7233,
+        "height": 0.20500000000000007
+      },
+      "page": 2
+    },
+    {
+      "text": "with",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.5787,
+        "top": 2.9613,
+        "width": 0.2928999999999995,
+        "height": 0.20489999999999986
+      },
+      "page": 2
+    },
+    {
+      "text": "regulatory",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.9331,
+        "top": 2.9609,
+        "width": 0.7334000000000005,
+        "height": 0.20469999999999988
+      },
+      "page": 2
+    },
+    {
+      "text": "requirements",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.7182,
+        "top": 2.9611,
+        "width": 0.9650999999999996,
+        "height": 0.2033999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "and",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.7361,
+        "top": 2.9592,
+        "width": 0.28639999999999954,
+        "height": 0.20460000000000012
+      },
+      "page": 2
+    },
+    {
+      "text": "industry",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.068,
+        "top": 3.1835,
+        "width": 0.5984,
+        "height": 0.19899999999999984
+      },
+      "page": 2
+    },
+    {
+      "text": "best",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.7181,
+        "top": 3.1833,
+        "width": 0.3089000000000002,
+        "height": 0.19919999999999982
+      },
+      "page": 2
+    },
+    {
+      "text": "practices.",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.0787,
+        "top": 3.1852,
+        "width": 0.7103999999999999,
+        "height": 0.1972999999999998
+      },
+      "page": 2
+    },
+    {
+      "text": "Page",
+      "confidence": 0.991,
+      "bbox": {
+        "left": 4.0678,
+        "top": 10.3938,
+        "width": 0.2535999999999996,
+        "height": 0.13899999999999935
+      },
+      "page": 2
+    },
+    {
+      "text": "2",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.3529,
+        "top": 10.3947,
+        "width": 0.0686,
+        "height": 0.13759999999999906
+      },
+      "page": 2
+    }
+  ],
+  "tables": [],
+  "page_count": 2,
+  "latency_ms": 5294,
+  "cost_estimate_usd": 0.13,
+  "raw_response": {},
+  "error": null
+}

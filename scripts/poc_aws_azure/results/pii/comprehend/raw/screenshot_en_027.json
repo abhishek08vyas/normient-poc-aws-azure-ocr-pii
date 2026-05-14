@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_027",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Kimberly Martin",
+      "start_char": 37,
+      "end_char": 52,
+      "confidence": 0.999950110912323,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8351320",
+      "start_char": 62,
+      "end_char": 69,
+      "confidence": 0.999275267124176,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-29",
+      "start_char": 121,
+      "end_char": 131,
+      "confidence": 0.9999948740005493,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "00:57:50",
+      "start_char": 132,
+      "end_char": 140,
+      "confidence": 0.876774787902832,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "kimberly.martin@example.com",
+      "start_char": 156,
+      "end_char": 183,
+      "confidence": 0.9999427795410156,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-18",
+      "start_char": 262,
+      "end_char": 272,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-11",
+      "start_char": 323,
+      "end_char": 333,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 384,
+      "end_char": 394,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-28",
+      "start_char": 444,
+      "end_char": 454,
+      "confidence": 0.9999940395355225,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-10",
+      "start_char": 505,
+      "end_char": 515,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 251,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 565,
+  "error": null,
+  "raw_response": {}
+}

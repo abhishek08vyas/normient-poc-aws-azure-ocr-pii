@@ -1,0 +1,15 @@
+=== ACCOUNT SUMMARY ===
+Client Name: Loretta Potter
+Account: 4717362
+Type: Chequing
+Balance: $19,893.98 CAD
+Last Login: 2026-04-29 00:14:32
+Email on file: loretta.potter@testbank.ca
+
+RECENT TRANSACTIONS
+Date        Description              Amount      Balance
+2026-04-23  E-transfer               $1,184.57    $21,078.54
+2026-04-22  Bill payment             $3,543.44    $24,621.99
+2026-04-20  E-transfer               -$8,159.62   $16,462.37
+2026-04-14  Direct deposit           -$2,596.88   $13,865.48
+2026-04-15  Direct deposit           $7,614.14    $21,479.63

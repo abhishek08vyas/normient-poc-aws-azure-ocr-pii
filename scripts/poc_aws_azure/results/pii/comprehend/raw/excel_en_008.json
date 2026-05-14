@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_008",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-27",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.999975323677063,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brandon Flynn",
+      "start_char": 58,
+      "end_char": 71,
+      "confidence": 0.9999266266822815,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2216878",
+      "start_char": 88,
+      "end_char": 95,
+      "confidence": 0.9999048709869385,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-07",
+      "start_char": 159,
+      "end_char": 169,
+      "confidence": 0.9999851584434509,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 181,
+      "end_char": 194,
+      "confidence": 0.9999051690101624,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-20",
+      "start_char": 227,
+      "end_char": 237,
+      "confidence": 0.9999880790710449,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 253,
+      "end_char": 265,
+      "confidence": 0.9999037384986877,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-26",
+      "start_char": 298,
+      "end_char": 308,
+      "confidence": 0.9999830722808838,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Aguilar",
+      "start_char": 324,
+      "end_char": 337,
+      "confidence": 0.9998247027397156,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-16",
+      "start_char": 370,
+      "end_char": 380,
+      "confidence": 0.9999869465827942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Vega",
+      "start_char": 392,
+      "end_char": 404,
+      "confidence": 0.9998935461044312,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-27",
+      "start_char": 437,
+      "end_char": 447,
+      "confidence": 0.9999823570251465,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 460,
+      "end_char": 472,
+      "confidence": 0.9998737573623657,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-21",
+      "start_char": 506,
+      "end_char": 516,
+      "confidence": 0.9999816417694092,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 532,
+      "end_char": 544,
+      "confidence": 0.9998689889907837,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-09",
+      "start_char": 578,
+      "end_char": 588,
+      "confidence": 0.9999917149543762,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 597,
+      "end_char": 610,
+      "confidence": 0.9996655583381653,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-27",
+      "start_char": 643,
+      "end_char": 653,
+      "confidence": 0.9999921321868896,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 668,
+      "end_char": 680,
+      "confidence": 0.9997378587722778,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-01",
+      "start_char": 714,
+      "end_char": 724,
+      "confidence": 0.9999903440475464,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 733,
+      "end_char": 745,
+      "confidence": 0.9997232556343079,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-31",
+      "start_char": 777,
+      "end_char": 787,
+      "confidence": 0.9999894499778748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 803,
+      "end_char": 813,
+      "confidence": 0.9996000528335571,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-11",
+      "start_char": 847,
+      "end_char": 857,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 871,
+      "end_char": 883,
+      "confidence": 0.999668538570404,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-13",
+      "start_char": 916,
+      "end_char": 926,
+      "confidence": 0.9999869465827942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Aguilar",
+      "start_char": 938,
+      "end_char": 951,
+      "confidence": 0.9998052716255188,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-10",
+      "start_char": 983,
+      "end_char": 993,
+      "confidence": 0.9999918341636658,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 1008,
+      "end_char": 1018,
+      "confidence": 0.9994913935661316,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-31",
+      "start_char": 1049,
+      "end_char": 1059,
+      "confidence": 0.999994158744812,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 1073,
+      "end_char": 1085,
+      "confidence": 0.9997939467430115,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-24",
+      "start_char": 1116,
+      "end_char": 1126,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Aguilar",
+      "start_char": 1142,
+      "end_char": 1155,
+      "confidence": 0.9997025728225708,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-27",
+      "start_char": 1188,
+      "end_char": 1198,
+      "confidence": 0.9999929070472717,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 1214,
+      "end_char": 1227,
+      "confidence": 0.9997573494911194,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-06",
+      "start_char": 1259,
+      "end_char": 1269,
+      "confidence": 0.9999929666519165,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 1285,
+      "end_char": 1297,
+      "confidence": 0.9998009204864502,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-16",
+      "start_char": 1330,
+      "end_char": 1340,
+      "confidence": 0.9999905228614807,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 1356,
+      "end_char": 1369,
+      "confidence": 0.9998036623001099,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-24",
+      "start_char": 1401,
+      "end_char": 1411,
+      "confidence": 0.9999924898147583,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 1426,
+      "end_char": 1436,
+      "confidence": 0.9992688298225403,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-05",
+      "start_char": 1468,
+      "end_char": 1478,
+      "confidence": 0.9999923706054688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 1494,
+      "end_char": 1507,
+      "confidence": 0.9997754096984863,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-18",
+      "start_char": 1541,
+      "end_char": 1551,
+      "confidence": 0.9999886155128479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 1566,
+      "end_char": 1576,
+      "confidence": 0.9995136260986328,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-06",
+      "start_char": 1610,
+      "end_char": 1620,
+      "confidence": 0.999988317489624,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Jordan",
+      "start_char": 1632,
+      "end_char": 1646,
+      "confidence": 0.9997027516365051,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-06",
+      "start_char": 1679,
+      "end_char": 1689,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 1705,
+      "end_char": 1717,
+      "confidence": 0.9997089505195618,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-07",
+      "start_char": 1751,
+      "end_char": 1761,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 1777,
+      "end_char": 1790,
+      "confidence": 0.9997694492340088,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-29",
+      "start_char": 1824,
+      "end_char": 1834,
+      "confidence": 0.999987781047821,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 1843,
+      "end_char": 1853,
+      "confidence": 0.9982331395149231,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-09",
+      "start_char": 1887,
+      "end_char": 1897,
+      "confidence": 0.9999882578849792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 1912,
+      "end_char": 1925,
+      "confidence": 0.9997578263282776,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-09",
+      "start_char": 1959,
+      "end_char": 1969,
+      "confidence": 0.9999940991401672,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 1984,
+      "end_char": 1994,
+      "confidence": 0.9996911883354187,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-16",
+      "start_char": 2028,
+      "end_char": 2038,
+      "confidence": 0.9999922513961792,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Aguilar",
+      "start_char": 2050,
+      "end_char": 2063,
+      "confidence": 0.9998440146446228,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-23",
+      "start_char": 2096,
+      "end_char": 2106,
+      "confidence": 0.9999925494194031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 2122,
+      "end_char": 2134,
+      "confidence": 0.9998211860656738,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-13",
+      "start_char": 2167,
+      "end_char": 2177,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Jordan",
+      "start_char": 2190,
+      "end_char": 2204,
+      "confidence": 0.9997216463088989,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-08",
+      "start_char": 2238,
+      "end_char": 2248,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 2260,
+      "end_char": 2270,
+      "confidence": 0.9996582865715027,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-21",
+      "start_char": 2304,
+      "end_char": 2314,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 2328,
+      "end_char": 2341,
+      "confidence": 0.9997460246086121,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-29",
+      "start_char": 2374,
+      "end_char": 2384,
+      "confidence": 0.9999935626983643,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 2400,
+      "end_char": 2413,
+      "confidence": 0.9997361302375793,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-22",
+      "start_char": 2447,
+      "end_char": 2457,
+      "confidence": 0.9999915361404419,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 2472,
+      "end_char": 2484,
+      "confidence": 0.9998077154159546,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-04",
+      "start_char": 2517,
+      "end_char": 2527,
+      "confidence": 0.9999895095825195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Erin White",
+      "start_char": 2539,
+      "end_char": 2549,
+      "confidence": 0.9996784925460815,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-08",
+      "start_char": 2583,
+      "end_char": 2593,
+      "confidence": 0.9999894499778748,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 2602,
+      "end_char": 2614,
+      "confidence": 0.9998250007629395,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-04",
+      "start_char": 2648,
+      "end_char": 2658,
+      "confidence": 0.9999890923500061,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 2667,
+      "end_char": 2680,
+      "confidence": 0.9994176626205444,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-21",
+      "start_char": 2714,
+      "end_char": 2724,
+      "confidence": 0.9999898672103882,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "John Jenkins",
+      "start_char": 2733,
+      "end_char": 2745,
+      "confidence": 0.9997310042381287,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-31",
+      "start_char": 2779,
+      "end_char": 2789,
+      "confidence": 0.999987781047821,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Tyler Aguilar",
+      "start_char": 2802,
+      "end_char": 2815,
+      "confidence": 0.9998769760131836,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-23",
+      "start_char": 2849,
+      "end_char": 2859,
+      "confidence": 0.9999876022338867,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Vega",
+      "start_char": 2872,
+      "end_char": 2884,
+      "confidence": 0.9998252391815186,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-13",
+      "start_char": 2917,
+      "end_char": 2927,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 2940,
+      "end_char": 2953,
+      "confidence": 0.9997743368148804,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-27",
+      "start_char": 2986,
+      "end_char": 2996,
+      "confidence": 0.9999933838844299,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 3012,
+      "end_char": 3024,
+      "confidence": 0.9998214244842529,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-16",
+      "start_char": 3058,
+      "end_char": 3068,
+      "confidence": 0.9999939799308777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Gregory Lynch",
+      "start_char": 3080,
+      "end_char": 3093,
+      "confidence": 0.9998043775558472,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-18",
+      "start_char": 3127,
+      "end_char": 3137,
+      "confidence": 0.9999938607215881,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Patrick Vega",
+      "start_char": 3150,
+      "end_char": 3162,
+      "confidence": 0.9998615384101868,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-13",
+      "start_char": 3196,
+      "end_char": 3206,
+      "confidence": 0.9999935030937195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Jordan",
+      "start_char": 3219,
+      "end_char": 3233,
+      "confidence": 0.999812126159668,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-03",
+      "start_char": 3267,
+      "end_char": 3277,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 3291,
+      "end_char": 3303,
+      "confidence": 0.9997835755348206,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-11",
+      "start_char": 3337,
+      "end_char": 3347,
+      "confidence": 0.9999909400939941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 3362,
+      "end_char": 3374,
+      "confidence": 0.9997175335884094,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-26",
+      "start_char": 3408,
+      "end_char": 3418,
+      "confidence": 0.9999752640724182,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Michael Jordan",
+      "start_char": 3434,
+      "end_char": 3448,
+      "confidence": 0.9989966154098511,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-01",
+      "start_char": 3482,
+      "end_char": 3492,
+      "confidence": 0.9999766945838928,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 3501,
+      "end_char": 3513,
+      "confidence": 0.9997448921203613,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 3547,
+      "end_char": 3557,
+      "confidence": 0.9999850988388062,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jesse Little",
+      "start_char": 3572,
+      "end_char": 3584,
+      "confidence": 0.9996035695075989,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 409,
+  "cost_estimate_usd": 0.0037,
+  "char_count": 3618,
+  "error": null,
+  "raw_response": {}
+}

@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-30
+Account Holder: Laurie Montgomery
+Account Number: 9488562
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-03-27	Wire transfer	William Wilson		16,102.64	92,131.83	TXN-913712
+2026-01-18	Wire transfer	William Bullock		24,927.70	117,059.54	TXN-299092
+2026-03-25	Payroll	Alexandria Foster	20,549.25		96,510.29	TXN-742818
+2025-07-09	Bill payment	John Chapman		3,427.32	99,937.61	TXN-200932
+2025-08-12	Service fee	Alexandria Foster		10,183.74	110,121.36	TXN-287316
+2025-06-21	Vendor payment	Kyle Morgan	32,123.41		77,997.95	TXN-203550
+2025-07-08	Vendor payment	Michael Luna		29,556.02	107,553.96	TXN-651363
+2025-08-20	Wire transfer	William Wilson		3,636.61	111,190.57	TXN-331444
+2025-07-28	Direct deposit	Michael Luna	40,070.90		71,119.68	TXN-972496
+2025-07-19	Wire transfer	William Wilson		44,532.49	115,652.17	TXN-685126
+2026-01-01	Service fee	William Wilson		41,199.78	156,851.95	TXN-932831
+2025-07-11	Bill payment	Christopher Richard	15,264.84		141,587.11	TXN-869969
+2026-03-04	Direct deposit	John Chapman		26,629.89	168,217.00	TXN-206142
+2026-03-03	Direct deposit	Kyle Morgan		28,544.38	196,761.38	TXN-651752
+2026-01-22	Direct deposit	William Bullock	31,967.35		164,794.03	TXN-882351
+2025-06-11	Bill payment	Michael Luna		44,152.92	208,946.95	TXN-836677
+2025-07-20	Direct deposit	Alexandria Foster	16,941.89		192,005.05	TXN-676680
+2026-03-09	Direct deposit	Michael Luna		27,549.06	219,554.11	TXN-469438
+2026-01-11	Bill payment	William Wilson		21,586.34	241,140.46	TXN-532373
+2025-11-20	E-transfer	William Wilson	27,326.75		213,813.71	TXN-737967
+2025-11-09	Vendor payment	Mason Jackson		22,430.24	236,243.95	TXN-477496
+2026-03-01	Vendor payment	Christopher Richard	14,295.66		221,948.29	TXN-861594
+2025-12-17	Wire transfer	Alexandria Foster	49,221.28		172,727.01	TXN-416503
+2026-03-04	Direct deposit	William Wilson		47,173.06	219,900.07	TXN-122755
+2025-12-24	Service fee	Mason Jackson		28,576.34	248,476.41	TXN-680557
+2025-11-03	Payroll	Alexandria Foster	17,847.22		230,629.19	TXN-198867
+2026-02-01	Direct deposit	Mason Jackson		12,567.86	243,197.05	TXN-484914
+2026-05-06	Bill payment	Mason Jackson		28,496.34	271,693.39	TXN-196369
+2026-04-20	Direct deposit	John Chapman	24,178.41		247,514.98	TXN-858729
+2025-12-18	Vendor payment	John Chapman		1,964.84	249,479.83	TXN-724145
+2026-01-17	Service fee	William Bullock		46,101.39	295,581.21	TXN-182289
+2026-01-14	Bill payment	William Wilson	46,519.28		249,061.93	TXN-956835
+2026-01-10	Wire transfer	Kyle Morgan		30,154.85	279,216.79	TXN-883997
+2025-09-15	Wire transfer	William Bullock	2,154.99		277,061.79	TXN-156757
+2026-04-13	Payroll	Alexandria Foster		11,117.78	288,179.57	TXN-442707
+2026-01-11	Wire transfer	William Bullock		28,805.22	316,984.79	TXN-567262
+2025-09-12	Wire transfer	Kyle Morgan	19,776.69		297,208.10	TXN-552917
+2025-07-10	Direct deposit	William Wilson	37,291.22		259,916.88	TXN-186554
+2025-10-30	Payroll	William Bullock	25,140.97		234,775.91	TXN-375311
+2025-06-08	Service fee	Alexandria Foster	28,008.88		206,767.03	TXN-899049
+2025-11-11	Vendor payment	William Bullock		28,102.26	234,869.29	TXN-783932
+2025-10-31	E-transfer	Kyle Morgan	38,860.92		196,008.37	TXN-354085
+2026-01-13	Bill payment	John Chapman		21,234.68	217,243.05	TXN-217996
+2025-09-07	Bill payment	Kyle Morgan	32,804.95		184,438.10	TXN-436318
+2026-03-18	Service fee	Mason Jackson		30,849.43	215,287.52	TXN-277477
+2025-08-27	Service fee	Michael Luna	2,339.39		212,948.13	TXN-753453
+2025-12-28	Service fee	Kyle Morgan		7,883.96	220,832.10	TXN-309385
+2025-06-03	E-transfer	John Chapman		12,228.11	233,060.21	TXN-217830
+2025-09-26	Payroll	Alexandria Foster		785.29	233,845.50	TXN-972881
+2025-11-26	E-transfer	John Chapman	1,235.13		232,610.37	TXN-419939

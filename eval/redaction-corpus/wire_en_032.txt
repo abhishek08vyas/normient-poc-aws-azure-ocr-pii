@@ -1,0 +1,29 @@
+WIRE TRANSFER AUTHORIZATION FORM
+=================================
+
+Date: 2025-05-31
+Reference: WT-572387
+
+SENDER INFORMATION
+Name: James Robinson
+Account Number: 9767312
+Branch: Hamilton, Ontario
+
+RECIPIENT INFORMATION
+Name: Brian Fitzgerald
+Account Number: 7381684
+Institution: Bank of Montreal
+
+TRANSFER DETAILS
+Amount: $276,444.13 CAD
+Purpose: Loan Repayment
+
+AUTHORIZATION
+Approved by: Bruce Edwards
+SIN (for verification): 474964996
+Email: bruce.edwards@example.com
+Phone: (647) 981-3404
+Postal Code: J4C 2K2
+
+Signature: ____________________
+Date: 2025-12-24

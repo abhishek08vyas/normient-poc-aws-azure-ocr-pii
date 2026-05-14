@@ -1,0 +1,115 @@
+{
+  "tool": "comprehend",
+  "doc_id": "wire_en_007",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-13",
+      "start_char": 74,
+      "end_char": 84,
+      "confidence": 0.9999316334724426,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeremy Roberts",
+      "start_char": 132,
+      "end_char": 146,
+      "confidence": 0.9999651312828064,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "5041154",
+      "start_char": 163,
+      "end_char": 170,
+      "confidence": 0.998437225818634,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "Medicine Hat, Alberta",
+      "start_char": 179,
+      "end_char": 200,
+      "confidence": 0.9993795156478882,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Christopher Hall",
+      "start_char": 230,
+      "end_char": 246,
+      "confidence": 0.9999620914459229,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "2321324",
+      "start_char": 263,
+      "end_char": 270,
+      "confidence": 0.9998045563697815,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Craig Ramirez",
+      "start_char": 402,
+      "end_char": 415,
+      "confidence": 0.999945878982544,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:CA_SOCIAL_INSURANCE_NUMBER",
+      "text": "171822786",
+      "start_char": 440,
+      "end_char": 449,
+      "confidence": 0.5662804245948792,
+      "original_type": "CA_SOCIAL_INSURANCE_NUMBER"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "craig.ramirez@example.ca",
+      "start_char": 457,
+      "end_char": 481,
+      "confidence": 0.9999868869781494,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(438) 740-9938",
+      "start_char": 489,
+      "end_char": 503,
+      "confidence": 0.9998887777328491,
+      "original_type": "PHONE"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "S3X 3M6",
+      "start_char": 517,
+      "end_char": 524,
+      "confidence": 0.9990501999855042,
+      "original_type": "ADDRESS"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "S3X 3M6",
+      "start_char": 517,
+      "end_char": 524,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-31",
+      "start_char": 564,
+      "end_char": 574,
+      "confidence": 0.9999926090240479,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 235,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 575,
+  "error": null,
+  "raw_response": {}
+}

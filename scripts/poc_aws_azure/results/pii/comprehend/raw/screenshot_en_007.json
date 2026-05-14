@@ -1,0 +1,91 @@
+{
+  "tool": "comprehend",
+  "doc_id": "screenshot_en_007",
+  "detected_spans": [
+    {
+      "entity_type": "PERSON",
+      "text": "Kevin Clark",
+      "start_char": 37,
+      "end_char": 48,
+      "confidence": 0.9999411106109619,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8225192",
+      "start_char": 58,
+      "end_char": 65,
+      "confidence": 0.9993017911911011,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 117,
+      "end_char": 127,
+      "confidence": 0.9999942779541016,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "02:18:31",
+      "start_char": 128,
+      "end_char": 136,
+      "confidence": 0.9995338916778564,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "kevin.clark@example.ca",
+      "start_char": 152,
+      "end_char": 174,
+      "confidence": 0.99994957447052,
+      "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-12",
+      "start_char": 253,
+      "end_char": 263,
+      "confidence": 0.9999926686286926,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-28",
+      "start_char": 314,
+      "end_char": 324,
+      "confidence": 0.9999935626983643,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-05",
+      "start_char": 375,
+      "end_char": 385,
+      "confidence": 0.9999947547912598,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 436,
+      "end_char": 446,
+      "confidence": 0.9999938011169434,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-04",
+      "start_char": 497,
+      "end_char": 507,
+      "confidence": 0.9999937415122986,
+      "original_type": "DATE_TIME"
+    }
+  ],
+  "latency_ms": 232,
+  "cost_estimate_usd": 0.0006000000000000001,
+  "char_count": 558,
+  "error": null,
+  "raw_response": {}
+}

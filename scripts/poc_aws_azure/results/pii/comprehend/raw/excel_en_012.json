@@ -1,0 +1,835 @@
+{
+  "tool": "comprehend",
+  "doc_id": "excel_en_012",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-15",
+      "start_char": 31,
+      "end_char": 41,
+      "confidence": 0.9999774694442749,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Mario Thompson",
+      "start_char": 58,
+      "end_char": 72,
+      "confidence": 0.999840497970581,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1147701",
+      "start_char": 89,
+      "end_char": 96,
+      "confidence": 0.9996708631515503,
+      "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-19",
+      "start_char": 160,
+      "end_char": 170,
+      "confidence": 0.9999807476997375,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 186,
+      "end_char": 198,
+      "confidence": 0.9997637271881104,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-13",
+      "start_char": 232,
+      "end_char": 242,
+      "confidence": 0.9999837279319763,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 257,
+      "end_char": 266,
+      "confidence": 0.9996933937072754,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-30",
+      "start_char": 300,
+      "end_char": 310,
+      "confidence": 0.9999855756759644,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 326,
+      "end_char": 335,
+      "confidence": 0.999704897403717,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-14",
+      "start_char": 368,
+      "end_char": 378,
+      "confidence": 0.9999829530715942,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 387,
+      "end_char": 396,
+      "confidence": 0.9993664622306824,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-23",
+      "start_char": 430,
+      "end_char": 440,
+      "confidence": 0.9999839067459106,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 455,
+      "end_char": 464,
+      "confidence": 0.9995244145393372,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-01",
+      "start_char": 498,
+      "end_char": 508,
+      "confidence": 0.9999862909317017,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 523,
+      "end_char": 535,
+      "confidence": 0.9997795224189758,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-07",
+      "start_char": 566,
+      "end_char": 576,
+      "confidence": 0.9999939203262329,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 591,
+      "end_char": 603,
+      "confidence": 0.9999018311500549,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-06",
+      "start_char": 637,
+      "end_char": 647,
+      "confidence": 0.9999935030937195,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 659,
+      "end_char": 673,
+      "confidence": 0.9999101758003235,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-17",
+      "start_char": 707,
+      "end_char": 717,
+      "confidence": 0.9999939799308777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 729,
+      "end_char": 743,
+      "confidence": 0.9998640418052673,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-05-25",
+      "start_char": 776,
+      "end_char": 786,
+      "confidence": 0.999992847442627,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 798,
+      "end_char": 810,
+      "confidence": 0.9998671412467957,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-05",
+      "start_char": 844,
+      "end_char": 854,
+      "confidence": 0.9999935626983643,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 869,
+      "end_char": 881,
+      "confidence": 0.9998615384101868,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-15",
+      "start_char": 915,
+      "end_char": 925,
+      "confidence": 0.9999925494194031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 940,
+      "end_char": 955,
+      "confidence": 0.9998164772987366,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-07",
+      "start_char": 988,
+      "end_char": 998,
+      "confidence": 0.9999932646751404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 1014,
+      "end_char": 1028,
+      "confidence": 0.9998788833618164,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-15",
+      "start_char": 1061,
+      "end_char": 1071,
+      "confidence": 0.9999892711639404,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 1087,
+      "end_char": 1099,
+      "confidence": 0.9998272061347961,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-25",
+      "start_char": 1132,
+      "end_char": 1142,
+      "confidence": 0.9999901652336121,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 1157,
+      "end_char": 1172,
+      "confidence": 0.9997702836990356,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-03",
+      "start_char": 1204,
+      "end_char": 1214,
+      "confidence": 0.9999909996986389,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 1223,
+      "end_char": 1235,
+      "confidence": 0.9997286200523376,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-23",
+      "start_char": 1268,
+      "end_char": 1278,
+      "confidence": 0.9999873638153076,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 1293,
+      "end_char": 1302,
+      "confidence": 0.9998239874839783,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-19",
+      "start_char": 1335,
+      "end_char": 1345,
+      "confidence": 0.9999902248382568,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 1358,
+      "end_char": 1370,
+      "confidence": 0.9997885823249817,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-13",
+      "start_char": 1403,
+      "end_char": 1413,
+      "confidence": 0.99998939037323,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 1425,
+      "end_char": 1439,
+      "confidence": 0.9999138712882996,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-05-01",
+      "start_char": 1472,
+      "end_char": 1482,
+      "confidence": 0.999991238117218,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 1494,
+      "end_char": 1506,
+      "confidence": 0.9999052286148071,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-01",
+      "start_char": 1540,
+      "end_char": 1550,
+      "confidence": 0.9999889135360718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 1563,
+      "end_char": 1572,
+      "confidence": 0.999845027923584,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-10",
+      "start_char": 1606,
+      "end_char": 1616,
+      "confidence": 0.9999901056289673,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 1631,
+      "end_char": 1643,
+      "confidence": 0.9998465180397034,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-27",
+      "start_char": 1677,
+      "end_char": 1687,
+      "confidence": 0.9999906420707703,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 1696,
+      "end_char": 1708,
+      "confidence": 0.9998311400413513,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-13",
+      "start_char": 1742,
+      "end_char": 1752,
+      "confidence": 0.9999909400939941,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 1764,
+      "end_char": 1773,
+      "confidence": 0.9998428225517273,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-15",
+      "start_char": 1807,
+      "end_char": 1817,
+      "confidence": 0.9999911189079285,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 1826,
+      "end_char": 1838,
+      "confidence": 0.9998469948768616,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-04",
+      "start_char": 1871,
+      "end_char": 1881,
+      "confidence": 0.9999874830245972,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 1895,
+      "end_char": 1907,
+      "confidence": 0.99989253282547,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-09",
+      "start_char": 1940,
+      "end_char": 1950,
+      "confidence": 0.9999889135360718,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 1963,
+      "end_char": 1975,
+      "confidence": 0.9997862577438354,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-07",
+      "start_char": 2008,
+      "end_char": 2018,
+      "confidence": 0.9999908208847046,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 2027,
+      "end_char": 2041,
+      "confidence": 0.9997702240943909,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-07-01",
+      "start_char": 2075,
+      "end_char": 2085,
+      "confidence": 0.9999899864196777,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 2100,
+      "end_char": 2109,
+      "confidence": 0.9997715950012207,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-08-27",
+      "start_char": 2142,
+      "end_char": 2152,
+      "confidence": 0.9999930262565613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 2166,
+      "end_char": 2175,
+      "confidence": 0.9997850656509399,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-10",
+      "start_char": 2208,
+      "end_char": 2218,
+      "confidence": 0.9999920129776001,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 2232,
+      "end_char": 2247,
+      "confidence": 0.9996688961982727,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-13",
+      "start_char": 2281,
+      "end_char": 2291,
+      "confidence": 0.999991774559021,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 2307,
+      "end_char": 2316,
+      "confidence": 0.999808132648468,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-26",
+      "start_char": 2350,
+      "end_char": 2360,
+      "confidence": 0.9999914765357971,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 2376,
+      "end_char": 2391,
+      "confidence": 0.9997098445892334,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-11",
+      "start_char": 2425,
+      "end_char": 2435,
+      "confidence": 0.9999933242797852,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 2451,
+      "end_char": 2463,
+      "confidence": 0.9997710585594177,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-13",
+      "start_char": 2496,
+      "end_char": 2506,
+      "confidence": 0.9999872446060181,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 2518,
+      "end_char": 2532,
+      "confidence": 0.9998639225959778,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-16",
+      "start_char": 2564,
+      "end_char": 2574,
+      "confidence": 0.9999890327453613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 2586,
+      "end_char": 2595,
+      "confidence": 0.9997710585594177,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-07",
+      "start_char": 2628,
+      "end_char": 2638,
+      "confidence": 0.9999887943267822,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 2652,
+      "end_char": 2666,
+      "confidence": 0.999764621257782,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-31",
+      "start_char": 2699,
+      "end_char": 2709,
+      "confidence": 0.9999883770942688,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Shane Cox",
+      "start_char": 2724,
+      "end_char": 2733,
+      "confidence": 0.9997390508651733,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-12-05",
+      "start_char": 2766,
+      "end_char": 2776,
+      "confidence": 0.9999885559082031,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 2790,
+      "end_char": 2802,
+      "confidence": 0.9997438788414001,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-09-04",
+      "start_char": 2834,
+      "end_char": 2844,
+      "confidence": 0.9999853372573853,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 2853,
+      "end_char": 2865,
+      "confidence": 0.9997034072875977,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-05",
+      "start_char": 2898,
+      "end_char": 2908,
+      "confidence": 0.9999799728393555,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 2917,
+      "end_char": 2929,
+      "confidence": 0.9998255968093872,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-11-25",
+      "start_char": 2962,
+      "end_char": 2972,
+      "confidence": 0.999960720539093,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 2981,
+      "end_char": 2995,
+      "confidence": 0.9998713731765747,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-03",
+      "start_char": 3028,
+      "end_char": 3038,
+      "confidence": 0.9999156594276428,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 3054,
+      "end_char": 3069,
+      "confidence": 0.9998124837875366,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-10-27",
+      "start_char": 3101,
+      "end_char": 3111,
+      "confidence": 0.9999526739120483,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 3120,
+      "end_char": 3135,
+      "confidence": 0.9996892213821411,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-20",
+      "start_char": 3168,
+      "end_char": 3178,
+      "confidence": 0.9999551773071289,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 3190,
+      "end_char": 3202,
+      "confidence": 0.9998316168785095,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-03-17",
+      "start_char": 3236,
+      "end_char": 3246,
+      "confidence": 0.9998810291290283,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Daniel Brown",
+      "start_char": 3258,
+      "end_char": 3270,
+      "confidence": 0.999809980392456,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-02-09",
+      "start_char": 3304,
+      "end_char": 3314,
+      "confidence": 0.9998669624328613,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 3330,
+      "end_char": 3345,
+      "confidence": 0.9997372031211853,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2025-06-26",
+      "start_char": 3379,
+      "end_char": 3389,
+      "confidence": 0.9999808073043823,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Brittney Hayes",
+      "start_char": 3401,
+      "end_char": 3415,
+      "confidence": 0.9999162554740906,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-04-09",
+      "start_char": 3449,
+      "end_char": 3459,
+      "confidence": 0.999917209148407,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "David Fisher",
+      "start_char": 3475,
+      "end_char": 3487,
+      "confidence": 0.999876081943512,
+      "original_type": "NAME"
+    },
+    {
+      "entity_type": "UNMAPPED:DATE_TIME",
+      "text": "2026-01-22",
+      "start_char": 3520,
+      "end_char": 3530,
+      "confidence": 0.9999474883079529,
+      "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Jeffrey Gilbert",
+      "start_char": 3546,
+      "end_char": 3561,
+      "confidence": 0.9997922778129578,
+      "original_type": "NAME"
+    }
+  ],
+  "latency_ms": 457,
+  "cost_estimate_usd": 0.0036000000000000003,
+  "char_count": 3595,
+  "error": null,
+  "raw_response": {}
+}

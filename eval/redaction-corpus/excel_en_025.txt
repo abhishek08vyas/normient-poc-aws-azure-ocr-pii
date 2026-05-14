@@ -1,0 +1,55 @@
+TRANSACTION EXPORT - Generated 2026-04-15
+Account Holder: Ryan Bartlett
+Account Number: 8839914
+
+Date	Description	Authorized By	Debit	Credit	Balance	Reference
+2026-01-06	Payroll	Joshua Weber		45,351.11	139,695.77	TXN-744268
+2025-12-06	Payroll	James Huber	10,112.34		129,583.43	TXN-757203
+2025-06-18	Vendor payment	Kevin Martin	34,296.80		95,286.63	TXN-352050
+2025-11-24	Bill payment	Joshua Weber	43,023.28		52,263.35	TXN-556538
+2026-01-16	Wire transfer	James Huber		13,420.04	65,683.40	TXN-313446
+2025-07-17	Bill payment	James Huber	30,101.49		35,581.91	TXN-268384
+2025-12-28	Vendor payment	Kevin Martin	1,482.44		34,099.47	TXN-219074
+2025-12-24	Service fee	Joshua Weber	28,035.27		6,064.20	TXN-425625
+2025-07-11	Vendor payment	Stacey Stone		10,179.33	16,243.53	TXN-778346
+2025-07-18	Bill payment	Kevin Martin	40,196.56		-23,953.03	TXN-130557
+2026-01-23	E-transfer	Justin Miller		2,207.40	-21,745.63	TXN-284533
+2026-01-10	E-transfer	Stacey Stone	42,993.24		-64,738.87	TXN-920231
+2026-02-16	Wire transfer	Sarah Perez	3,272.73		-68,011.60	TXN-730823
+2026-04-28	Vendor payment	Sarah Perez		4,606.28	-63,405.32	TXN-804299
+2026-01-03	Service fee	James Huber	5,685.42		-69,090.74	TXN-983687
+2025-09-21	E-transfer	Justin Miller		41,466.18	-27,624.56	TXN-226502
+2026-04-05	Service fee	Justin Miller	4,603.41		-32,227.97	TXN-364039
+2026-05-06	Payroll	Marie Holmes		16,531.37	-15,696.61	TXN-910749
+2025-12-17	Payroll	James Huber		37,223.55	21,526.95	TXN-508892
+2025-05-28	Vendor payment	Kevin Martin	10,784.02		10,742.92	TXN-251286
+2026-03-29	Bill payment	Stacey Stone	29,515.10		-18,772.17	TXN-528212
+2026-04-13	Vendor payment	Justin Miller		5,736.77	-13,035.40	TXN-492906
+2025-05-24	Payroll	Stacey Stone		48,169.44	35,134.03	TXN-597920
+2025-06-13	Service fee	Kevin Martin	18,450.19		16,683.84	TXN-480631
+2025-05-30	Bill payment	Marie Holmes		30,330.16	47,014.00	TXN-776748
+2026-01-17	Service fee	James Huber		2,828.15	49,842.15	TXN-794391
+2026-03-08	Service fee	James Huber	19,296.04		30,546.11	TXN-351318
+2025-12-22	E-transfer	James Huber		34,293.89	64,840.00	TXN-480481
+2025-08-23	Payroll	Joshua Weber		19,484.70	84,324.70	TXN-347864
+2026-01-20	Vendor payment	Sarah Perez	41,153.12		43,171.59	TXN-415504
+2025-08-02	Direct deposit	Sarah Perez		8,095.34	51,266.92	TXN-320606
+2026-03-06	Vendor payment	James Huber		38,360.37	89,627.30	TXN-432591
+2025-12-21	Vendor payment	Joshua Weber	4,096.72		85,530.58	TXN-135527
+2025-10-21	Service fee	Stacey Stone		46,332.21	131,862.79	TXN-593975
+2026-01-08	Bill payment	James Huber		41,030.04	172,892.83	TXN-542882
+2026-01-16	Service fee	Kevin Martin	3,411.72		169,481.10	TXN-832411
+2025-05-24	Vendor payment	Justin Miller		36,915.50	206,396.60	TXN-864654
+2025-11-22	Vendor payment	James Huber		32,104.50	238,501.10	TXN-128679
+2026-04-23	Direct deposit	James Huber		6,891.00	245,392.11	TXN-564943
+2026-01-11	Vendor payment	Kevin Martin	28,832.89		216,559.22	TXN-758816
+2025-12-10	Wire transfer	Kevin Martin		48,486.26	265,045.48	TXN-361728
+2025-09-02	Service fee	James Huber	29,741.40		235,304.08	TXN-900234
+2026-01-17	Vendor payment	Joshua Weber	43,687.94		191,616.14	TXN-434914
+2025-09-07	Direct deposit	Sarah Perez		41,355.75	232,971.89	TXN-281905
+2025-11-16	Service fee	Sarah Perez	18,443.22		214,528.67	TXN-308314
+2025-08-16	Vendor payment	Stacey Stone		11,301.91	225,830.58	TXN-975224
+2026-03-21	Wire transfer	Justin Miller		11,512.49	237,343.07	TXN-778540
+2026-03-22	Wire transfer	Stacey Stone	42,606.36		194,736.71	TXN-307897
+2026-02-03	Wire transfer	Stacey Stone	13,081.87		181,654.84	TXN-748024
+2025-10-17	Wire transfer	Sarah Perez		5,955.79	187,610.63	TXN-278386

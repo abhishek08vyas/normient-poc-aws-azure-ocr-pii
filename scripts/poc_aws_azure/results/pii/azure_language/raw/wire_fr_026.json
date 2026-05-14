@@ -1,0 +1,131 @@
+{
+  "tool": "azure_language",
+  "doc_id": "wire_fr_026",
+  "detected_spans": [
+    {
+      "entity_type": "UNMAPPED:DateTime",
+      "text": "2025-07-13",
+      "start_char": 85,
+      "end_char": 95,
+      "confidence": 0.91,
+      "original_type": "DateTime"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "EXPEDITEUR",
+      "start_char": 138,
+      "end_char": 148,
+      "confidence": 0.97,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Thérèse Desjardins",
+      "start_char": 155,
+      "end_char": 173,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "3429724",
+      "start_char": 193,
+      "end_char": 200,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:PersonType",
+      "text": "DESTINATAIRE",
+      "start_char": 237,
+      "end_char": 249,
+      "confidence": 0.95,
+      "original_type": "PersonType"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "René Beaulieu",
+      "start_char": 256,
+      "end_char": 269,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "4519295",
+      "start_char": 289,
+      "end_char": 296,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "Desjardins",
+      "start_char": 311,
+      "end_char": 321,
+      "confidence": 0.63,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PERSON",
+      "text": "Émilie Ménard",
+      "start_char": 434,
+      "end_char": 447,
+      "confidence": 1.0,
+      "original_type": "Person"
+    },
+    {
+      "entity_type": "UNMAPPED:Organization",
+      "text": "NAS",
+      "start_char": 448,
+      "end_char": 451,
+      "confidence": 0.58,
+      "original_type": "Organization"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "230591265",
+      "start_char": 474,
+      "end_char": 483,
+      "confidence": 0.8,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "EMAIL",
+      "text": "emilie.menard@acmecorp.ca",
+      "start_char": 495,
+      "end_char": 520,
+      "confidence": 0.8,
+      "original_type": "Email"
+    },
+    {
+      "entity_type": "PHONE",
+      "text": "(905) 257-1573",
+      "start_char": 533,
+      "end_char": 547,
+      "confidence": 1.0,
+      "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ADDRESS_RAW",
+      "text": "P7H 0E8",
+      "start_char": 562,
+      "end_char": 569,
+      "confidence": 0.8,
+      "original_type": "Address"
+    },
+    {
+      "entity_type": "POSTAL_CODE",
+      "text": "P7H 0E8",
+      "start_char": 562,
+      "end_char": 569,
+      "confidence": 0.99,
+      "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    }
+  ],
+  "latency_ms": 168,
+  "cost_estimate_usd": 0.001,
+  "char_count": 622,
+  "error": null,
+  "raw_response": {}
+}
