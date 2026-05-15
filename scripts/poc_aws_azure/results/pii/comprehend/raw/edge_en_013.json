@@ -25,9 +25,17 @@
       "end_char": 93,
       "confidence": 0.9999886751174927,
       "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "114-870-686",
+      "start_char": 49,
+      "end_char": 60,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 216,
+  "latency_ms": 223,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 94,
   "error": null,

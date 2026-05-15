@@ -25,9 +25,17 @@
       "end_char": 107,
       "confidence": 0.9968505501747131,
       "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "365-111-319",
+      "start_char": 56,
+      "end_char": 67,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 221,
+  "latency_ms": 231,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 108,
   "error": null,

@@ -19,7 +19,7 @@
       "original_type": "BANK_ACCOUNT_NUMBER"
     }
   ],
-  "latency_ms": 230,
+  "latency_ms": 229,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 98,
   "error": null,

@@ -10,6 +10,7 @@ from scripts.poc_aws_azure.pii.base import (
     PIIAdapter, PIIResult, PIISpan,
     normalize_entity_type, extract_postal_from_address,
 )
+from scripts.poc_aws_azure.pii.custom_recognizers import enrich_with_custom_entities
 from scripts.poc_aws_azure.config import COMPREHEND_COST_PER_UNIT
 from scripts.poc_aws_azure.utils.chunker import chunk_text
 
@@ -62,6 +63,9 @@ class ComprehendAdapter(PIIAdapter):
 
             # Rule 6: 150ms delay between API calls
             time.sleep(0.15)
+
+        # Enrich with custom regex-based SIN and ACCOUNT detection
+        all_spans = enrich_with_custom_entities(text, all_spans)
 
         latency = int((time.time() - start_time) * 1000)
         return PIIResult(

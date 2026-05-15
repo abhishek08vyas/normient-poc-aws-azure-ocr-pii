@@ -25,9 +25,17 @@
       "end_char": 103,
       "confidence": 0.9918924570083618,
       "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "549 102 564",
+      "start_char": 75,
+      "end_char": 86,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 240,
+  "latency_ms": 227,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 104,
   "error": null,

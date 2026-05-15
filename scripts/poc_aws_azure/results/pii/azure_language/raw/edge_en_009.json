@@ -33,9 +33,25 @@
       "end_char": 100,
       "confidence": 0.75,
       "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "182 226 944",
+      "start_char": 72,
+      "end_char": 83,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "1886921",
+      "start_char": 93,
+      "end_char": 100,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 135,
+  "latency_ms": 104,
   "cost_estimate_usd": 0.001,
   "char_count": 101,
   "error": null,

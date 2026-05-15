@@ -843,7 +843,7 @@
       "original_type": "IP_ADDRESS"
     }
   ],
-  "latency_ms": 435,
+  "latency_ms": 408,
   "cost_estimate_usd": 0.0037,
   "char_count": 3647,
   "error": null,

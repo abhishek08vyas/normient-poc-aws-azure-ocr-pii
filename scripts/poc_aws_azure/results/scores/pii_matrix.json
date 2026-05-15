@@ -2,14 +2,14 @@
   "comprehend": {
     "per_entity": {
       "SIN": {
-        "recall": 0.13,
-        "tp": 13,
-        "fn": 87
+        "recall": 0.7,
+        "tp": 70,
+        "fn": 30
       },
       "ACCOUNT": {
-        "recall": 0.7458333333333333,
-        "tp": 179,
-        "fn": 61
+        "recall": 0.75,
+        "tp": 180,
+        "fn": 60
       },
       "PERSON": {
         "recall": 0.9475409836065574,
@@ -32,24 +32,24 @@
         "fn": 32
       }
     },
-    "overall_precision": 0.9985829003306566,
+    "overall_precision": 0.9986206896551724,
     "french_person_recall": 0.0,
-    "edge_sin_recall": 0.0,
+    "edge_sin_recall": 1.0,
     "negative_control_fp_count": 0,
     "total_cost": 0.24639999999999962,
-    "avg_latency_ms": 272.565
+    "avg_latency_ms": 268.815
   },
   "azure_language": {
     "per_entity": {
       "SIN": {
-        "recall": 0.0,
-        "tp": 0,
-        "fn": 100
+        "recall": 1.0,
+        "tp": 100,
+        "fn": 0
       },
       "ACCOUNT": {
-        "recall": 0.0,
-        "tp": 0,
-        "fn": 240
+        "recall": 1.0,
+        "tp": 240,
+        "fn": 0
       },
       "PERSON": {
         "recall": 0.9491803278688524,
@@ -72,11 +72,11 @@
         "fn": 0
       }
     },
-    "overall_precision": 0.6886309320587232,
+    "overall_precision": 0.7210156011012542,
     "french_person_recall": 1.0,
-    "edge_sin_recall": 0.0,
+    "edge_sin_recall": 1.0,
     "negative_control_fp_count": 0,
     "total_cost": 0.32000000000000023,
-    "avg_latency_ms": 245.8
+    "avg_latency_ms": 214.21
   }
 }

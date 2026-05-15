@@ -121,6 +121,30 @@
       "end_char": 569,
       "confidence": 0.99,
       "original_type": "ADDRESS_POSTAL_EXTRACTION"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "230591265",
+      "start_char": 474,
+      "end_char": 483,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3429724",
+      "start_char": 193,
+      "end_char": 200,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4519295",
+      "start_char": 289,
+      "end_char": 296,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
   "latency_ms": 168,

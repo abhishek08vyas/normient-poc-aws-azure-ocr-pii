@@ -827,7 +827,7 @@
       "original_type": "NAME"
     }
   ],
-  "latency_ms": 392,
+  "latency_ms": 404,
   "cost_estimate_usd": 0.0037,
   "char_count": 3691,
   "error": null,

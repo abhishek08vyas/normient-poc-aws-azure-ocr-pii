@@ -33,9 +33,25 @@
       "end_char": 106,
       "confidence": 0.75,
       "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "589 262 567",
+      "start_char": 78,
+      "end_char": 89,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7357590",
+      "start_char": 99,
+      "end_char": 106,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 98,
+  "latency_ms": 145,
   "cost_estimate_usd": 0.001,
   "char_count": 107,
   "error": null,

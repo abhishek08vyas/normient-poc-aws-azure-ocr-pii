@@ -25,9 +25,17 @@
       "end_char": 100,
       "confidence": 0.9896224737167358,
       "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "182 226 944",
+      "start_char": 72,
+      "end_char": 83,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 306,
+  "latency_ms": 225,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 101,
   "error": null,

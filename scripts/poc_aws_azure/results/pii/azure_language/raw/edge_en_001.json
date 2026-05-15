@@ -33,9 +33,25 @@
       "end_char": 102,
       "confidence": 0.75,
       "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "362 831 430",
+      "start_char": 74,
+      "end_char": 85,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7243511",
+      "start_char": 95,
+      "end_char": 102,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 641,
+  "latency_ms": 744,
   "cost_estimate_usd": 0.001,
   "char_count": 103,
   "error": null,

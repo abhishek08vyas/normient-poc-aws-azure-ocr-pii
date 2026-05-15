@@ -41,9 +41,17 @@
       "end_char": 99,
       "confidence": 0.8,
       "original_type": "Email"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "454-510-520",
+      "start_char": 52,
+      "end_char": 63,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 618,
+  "latency_ms": 107,
   "cost_estimate_usd": 0.001,
   "char_count": 100,
   "error": null,

@@ -41,9 +41,17 @@
       "end_char": 93,
       "confidence": 0.8,
       "original_type": "Email"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "778-446-831",
+      "start_char": 49,
+      "end_char": 60,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 127,
+  "latency_ms": 95,
   "cost_estimate_usd": 0.001,
   "char_count": 94,
   "error": null,

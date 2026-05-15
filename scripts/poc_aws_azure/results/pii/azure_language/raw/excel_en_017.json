@@ -953,9 +953,17 @@
       "end_char": 3555,
       "confidence": 0.92,
       "original_type": "Person"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4506598",
+      "start_char": 89,
+      "end_char": 96,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 623,
+  "latency_ms": 538,
   "cost_estimate_usd": 0.004,
   "char_count": 3588,
   "error": null,

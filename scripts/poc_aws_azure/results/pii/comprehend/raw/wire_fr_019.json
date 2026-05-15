@@ -2,7 +2,7 @@
   "tool": "comprehend",
   "doc_id": "wire_fr_019",
   "detected_spans": [],
-  "latency_ms": 204,
+  "latency_ms": 195,
   "cost_estimate_usd": 0.0006000000000000001,
   "char_count": 593,
   "error": "ValidationException: Value 'fr' at 'languageCode'failed to satisfy constraint: Member must satisfy enum value set: [en, es]",

@@ -33,9 +33,25 @@
       "end_char": 103,
       "confidence": 0.75,
       "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "116 361 122",
+      "start_char": 75,
+      "end_char": 86,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "9832796",
+      "start_char": 96,
+      "end_char": 103,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 183,
+  "latency_ms": 101,
   "cost_estimate_usd": 0.001,
   "char_count": 104,
   "error": null,

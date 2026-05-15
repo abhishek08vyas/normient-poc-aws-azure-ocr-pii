@@ -41,9 +41,17 @@
       "end_char": 97,
       "confidence": 0.8,
       "original_type": "Email"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "683-215-289",
+      "start_char": 51,
+      "end_char": 62,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 168,
+  "latency_ms": 95,
   "cost_estimate_usd": 0.001,
   "char_count": 98,
   "error": null,

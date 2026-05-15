@@ -105,9 +105,17 @@
       "end_char": 545,
       "confidence": 0.9999887347221375,
       "original_type": "DATE_TIME"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "621465848",
+      "start_char": 413,
+      "end_char": 422,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 230,
+  "latency_ms": 233,
   "cost_estimate_usd": 0.0006000000000000001,
   "char_count": 546,
   "error": null,

@@ -25,9 +25,17 @@
       "end_char": 102,
       "confidence": 0.995072066783905,
       "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "388 967 929",
+      "start_char": 74,
+      "end_char": 85,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 221,
+  "latency_ms": 223,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 103,
   "error": null,

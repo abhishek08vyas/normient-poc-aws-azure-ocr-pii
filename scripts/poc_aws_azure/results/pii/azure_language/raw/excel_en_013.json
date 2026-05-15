@@ -993,9 +993,17 @@
       "end_char": 3678,
       "confidence": 0.98,
       "original_type": "Person"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8627651",
+      "start_char": 85,
+      "end_char": 92,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 414,
+  "latency_ms": 632,
   "cost_estimate_usd": 0.004,
   "char_count": 3713,
   "error": null,

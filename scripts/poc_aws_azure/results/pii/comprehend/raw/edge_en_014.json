@@ -25,9 +25,17 @@
       "end_char": 97,
       "confidence": 0.9999734163284302,
       "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "488-160-938",
+      "start_char": 51,
+      "end_char": 62,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 222,
+  "latency_ms": 228,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 98,
   "error": null,

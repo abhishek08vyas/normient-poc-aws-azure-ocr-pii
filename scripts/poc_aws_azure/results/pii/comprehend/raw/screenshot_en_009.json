@@ -83,7 +83,7 @@
       "original_type": "DATE_TIME"
     }
   ],
-  "latency_ms": 235,
+  "latency_ms": 236,
   "cost_estimate_usd": 0.0006000000000000001,
   "char_count": 565,
   "error": null,

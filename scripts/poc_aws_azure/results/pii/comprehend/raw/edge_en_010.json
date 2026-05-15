@@ -25,9 +25,17 @@
       "end_char": 100,
       "confidence": 0.9954908490180969,
       "original_type": "BANK_ACCOUNT_NUMBER"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "653 967 273",
+      "start_char": 72,
+      "end_char": 83,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 218,
+  "latency_ms": 230,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 101,
   "error": null,

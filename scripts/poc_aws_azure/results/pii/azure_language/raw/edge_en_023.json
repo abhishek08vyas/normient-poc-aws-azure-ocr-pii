@@ -25,9 +25,17 @@
       "end_char": 57,
       "confidence": 0.65,
       "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "8280643",
+      "start_char": 50,
+      "end_char": 57,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 611,
+  "latency_ms": 119,
   "cost_estimate_usd": 0.001,
   "char_count": 98,
   "error": null,

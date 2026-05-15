@@ -25,9 +25,17 @@
       "end_char": 99,
       "confidence": 0.9999464750289917,
       "original_type": "EMAIL"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "374-430-965",
+      "start_char": 52,
+      "end_char": 63,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
     }
   ],
-  "latency_ms": 232,
+  "latency_ms": 222,
   "cost_estimate_usd": 0.00030000000000000003,
   "char_count": 100,
   "error": null,

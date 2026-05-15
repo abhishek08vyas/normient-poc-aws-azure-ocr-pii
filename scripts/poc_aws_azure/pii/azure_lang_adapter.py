@@ -10,6 +10,7 @@ from scripts.poc_aws_azure.pii.base import (
     PIIAdapter, PIIResult, PIISpan,
     normalize_entity_type, extract_postal_from_address,
 )
+from scripts.poc_aws_azure.pii.custom_recognizers import enrich_with_custom_entities
 from scripts.poc_aws_azure.config import AZURE_LANG_COST_PER_1K_RECORDS
 from scripts.poc_aws_azure.utils.chunker import chunk_text
 
@@ -62,6 +63,9 @@ class AzureLanguageAdapter(PIIAdapter):
                     char_count=char_count, error=error,
                 )
             all_spans.extend(spans)
+
+        # Enrich with custom regex-based SIN and ACCOUNT detection
+        all_spans = enrich_with_custom_entities(text, all_spans)
 
         latency = int((time.time() - start_time) * 1000)
         return PIIResult(

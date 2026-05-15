@@ -155,7 +155,7 @@
       "original_type": "Organization"
     }
   ],
-  "latency_ms": 151,
+  "latency_ms": 139,
   "cost_estimate_usd": 0.002,
   "char_count": 1856,
   "error": null,

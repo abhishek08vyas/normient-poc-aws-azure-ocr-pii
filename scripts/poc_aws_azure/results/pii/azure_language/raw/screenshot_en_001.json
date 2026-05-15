@@ -73,9 +73,17 @@
       "end_char": 518,
       "confidence": 0.99,
       "original_type": "DateTime"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "4833486",
+      "start_char": 61,
+      "end_char": 68,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 182,
+  "latency_ms": 133,
   "cost_estimate_usd": 0.001,
   "char_count": 570,
   "error": null,

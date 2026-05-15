@@ -1906,7 +1906,7 @@
     }
   ],
   "page_count": 1,
-  "latency_ms": 28381,
+  "latency_ms": 8601,
   "cost_estimate_usd": 0.065,
   "raw_response": {},
   "error": null

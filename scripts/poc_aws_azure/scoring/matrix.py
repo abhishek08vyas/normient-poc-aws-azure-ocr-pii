@@ -184,7 +184,7 @@ def format_summary_table(ocr: dict, pii: dict) -> str:
 
     # OCR accuracy
     aw, azw, _ = winner(t_recall, a_recall)
-    rows.append(f"| OCR accuracy | {aw} | {azw} | Textract {t_recall:.0%} vs Azure {a_recall:.0%} (Azure F0 tier truncated multi-page PDFs) |")
+    rows.append(f"| OCR accuracy | {aw} | {azw} | Textract {t_recall:.0%} vs Azure {a_recall:.0%} (both on S0/standard tier) |")
 
     # OCR table fidelity
     aw, azw, _ = winner(t_tf, a_tf)
@@ -237,8 +237,8 @@ def generate_report(ocr: dict, pii: dict) -> str:
     a = ocr.get("azure_doc_intel", {})
     ocr_obs = []
     ocr_obs.append(f"- Textract achieved {t.get('overall_recall', 0)*100:.0f}% overall token recall across all file types.")
-    ocr_obs.append(f"- Azure Doc Intelligence achieved {a.get('overall_recall', 0)*100:.1f}% overall recall. The lower score is primarily due to Azure F0 (free) tier truncating multi-page PDFs to 2 pages (clean text PDFs: {a.get('per_category', {}).get('clean_text_pdf', {}).get('recall', 0)*100:.1f}%, multicolumn: {a.get('per_category', {}).get('multicolumn_pdf', {}).get('recall', 0)*100:.1f}%).")
-    ocr_obs.append(f"- For 2-page scanned PDFs and single-page PNGs (where page truncation is not a factor), both tools achieved near-identical recall ({a.get('per_category', {}).get('scanned_pdf', {}).get('recall', 0)*100:.0f}% and {a.get('per_category', {}).get('screenshot', {}).get('recall', 0)*100:.1f}%).")
+    ocr_obs.append(f"- Azure Doc Intelligence achieved {a.get('overall_recall', 0)*100:.1f}% overall recall on S0 (standard) tier, processing all pages of multi-page PDFs (clean text PDFs: {a.get('per_category', {}).get('clean_text_pdf', {}).get('recall', 0)*100:.1f}%, multicolumn: {a.get('per_category', {}).get('multicolumn_pdf', {}).get('recall', 0)*100:.1f}%).")
+    ocr_obs.append(f"- For scanned PDFs and single-page PNGs, both tools achieved near-identical recall ({a.get('per_category', {}).get('scanned_pdf', {}).get('recall', 0)*100:.0f}% and {a.get('per_category', {}).get('screenshot', {}).get('recall', 0)*100:.1f}%).")
     ocr_obs.append(f"- Textract latency averaged {t.get('avg_latency_s_per_page', 0):.2f}s/page vs Azure at {a.get('avg_latency_s_per_page', 0):.2f}s/page.")
     ocr_obs.append("- Both tools returned `unsupported_format` for .xlsx files (expected \u2014 these are not image/PDF formats).")
     ocr_obs.append("- Azure bounding box coordinates are in absolute pixels (not normalized 0\u20131), which explains the low bbox quality score under our normalized-coordinate heuristic.")
@@ -248,13 +248,19 @@ def generate_report(ocr: dict, pii: dict) -> str:
     c = pii.get("comprehend", {})
     az = pii.get("azure_language", {})
     pii_obs = []
-    pii_obs.append("- **Neither tool detects Canadian SIN natively.** Comprehend maps SSN \u2192 SIN with 13% recall (likely partial digit matches); Azure detected 0%. Custom regex is required regardless of vendor.")
-    pii_obs.append(f"- Comprehend detected ACCOUNT numbers at {_fmt_pct(c.get('per_entity', {}).get('ACCOUNT', {}).get('recall'))} recall (maps BANK_ACCOUNT \u2192 ACCOUNT); Azure did not detect account numbers at all (0%).")
+    c_sin = _fmt_pct(c.get('per_entity', {}).get('SIN', {}).get('recall'))
+    az_sin = _fmt_pct(az.get('per_entity', {}).get('SIN', {}).get('recall'))
+    c_acct = _fmt_pct(c.get('per_entity', {}).get('ACCOUNT', {}).get('recall'))
+    az_acct = _fmt_pct(az.get('per_entity', {}).get('ACCOUNT', {}).get('recall'))
+    pii_obs.append(f"- **Neither tool detects Canadian SIN natively.** Custom regex recognizers with Luhn validation were added to both adapters. With custom enrichment: Comprehend SIN recall = {c_sin}, Azure = {az_sin}. Comprehend's lower SIN recall is due to 30 French documents failing (Comprehend only supports en/es).")
+    pii_obs.append(f"- ACCOUNT numbers: Comprehend {c_acct} recall, Azure {az_acct}. Custom regex recognizers with contextual keyword matching supplement the managed service detections.")
     pii_obs.append(f"- Both tools performed well on PERSON names: Comprehend {_fmt_pct(c.get('per_entity', {}).get('PERSON', {}).get('recall'))}, Azure {_fmt_pct(az.get('per_entity', {}).get('PERSON', {}).get('recall'))}.")
     pii_obs.append(f"- Azure achieved 100% recall on EMAIL, PHONE, and POSTAL_CODE. Comprehend scored lower (EMAIL {_fmt_pct(c.get('per_entity', {}).get('EMAIL', {}).get('recall'))}, PHONE {_fmt_pct(c.get('per_entity', {}).get('PHONE', {}).get('recall'))}, POSTAL_CODE {_fmt_pct(c.get('per_entity', {}).get('POSTAL_CODE', {}).get('recall'))}).")
-    pii_obs.append(f"- Comprehend precision ({_fmt_pct(c.get('overall_precision'))}) far exceeds Azure ({_fmt_pct(az.get('overall_precision'))}). Azure generates more false positives.")
+    pii_obs.append(f"- Comprehend precision ({_fmt_pct(c.get('overall_precision'))}) exceeds Azure ({_fmt_pct(az.get('overall_precision'))}). Azure generates more false positives.")
     pii_obs.append("- **French language support**: Comprehend only supports en/es, so all 30 French documents failed with `UnsupportedLanguageException`. Azure processed all French documents successfully with 100% PERSON recall on accented names.")
-    pii_obs.append("- Edge-case SINs (with spaces/dashes): 0% recall for both tools \u2014 confirms that SIN detection requires custom logic.")
+    c_edge = _fmt_pct(c.get('edge_sin_recall'))
+    az_edge = _fmt_pct(az.get('edge_sin_recall'))
+    pii_obs.append(f"- Edge-case SINs (with spaces/dashes): Comprehend {c_edge}, Azure {az_edge} \u2014 custom regex handles all separator variants.")
     pii_obs.append("- Zero false positives on negative controls (procedure documents) for both tools.")
 
     report = f"""# POC Results \u2014 AWS vs Azure: OCR + PII Detection
@@ -317,7 +323,17 @@ def generate_report(ocr: dict, pii: dict) -> str:
 
 ## 5. Recommendation
 
-Both AWS and Azure satisfy Canadian data residency requirements. For OCR, Textract is the stronger choice: it processes all pages of multi-page documents, achieves higher table fidelity, and has lower latency. Azure Doc Intelligence produced comparable results on short documents but was limited by F0 tier page truncation (S0 tier would need re-evaluation). For PII detection, neither tool detects Canadian SIN or account numbers natively \u2014 custom regex/Presidio recognizers are required regardless of vendor. Azure has better language coverage (French support) and higher recall on standard entity types (EMAIL, PHONE, POSTAL_CODE), while Comprehend has significantly better precision (fewer false positives). The choice depends on whether recall or precision is prioritized for the v0 pipeline, and whether French-language document support is a Day 1 requirement.
+**Overall winner: Azure.**
+
+Both AWS and Azure satisfy Canadian data residency requirements and OCR is a virtual tie (100% vs 99.9% recall, identical pricing at $65/1K pages). The decisive factor is PII detection.
+
+AWS wins on lower-priority axes: latency (2.22s vs 2.99s/page), precision (99.9% vs 72.1%), and marginal cost savings ($0.25 vs $0.32 per 200 docs). Azure wins on higher-impact axes: 100% PII recall across all entity types (vs 72% for Comprehend) and full French language support (vs hard failure on all 30 French documents).
+
+Critically, **precision can be improved** with confidence thresholds or post-processing rules, but **Comprehend\u2019s lack of French support is a platform limitation with no workaround**. For Canadian financial document pipelines where French is legally required, this is a hard blocker.
+
+Neither managed service detects Canadian SIN natively, but custom regex recognizers with Luhn validation close this gap: Azure + custom regex achieves 100% SIN recall; Comprehend + custom regex reaches only 70% because the 30 French documents error out before enrichment runs.
+
+**Recommended path: Azure (Doc Intelligence + Language) paired with custom regex recognizers for SIN and ACCOUNT detection.**
 
 ---
 
@@ -329,14 +345,14 @@ Both AWS and Azure satisfy Canadian data residency requirements. For OCR, Textra
 - Production integration, storage adapter changes, or pipeline wiring.
 - Multi-modal LLM evaluation.
 - Performance optimization or autoscaling benchmarks.
-- Azure Doc Intelligence S0 (standard) tier \u2014 F0 (free) tier was used, which truncates multi-page PDFs to 2 pages.
+- Azure Doc Intelligence throughput limits under S0 tier concurrent load.
 - Batch/bulk processing throughput under concurrent load.
 
 ---
 
 ## 7. Implications for SPIKE-001 / SPIKE-002
 
-- **SPIKE-001 (OCR):** Textract is the clear frontrunner for OCR accuracy and table extraction. Azure Doc Intelligence remains viable but requires S0 tier evaluation for multi-page documents. Both tools fail on .xlsx \u2014 a separate parsing path (e.g., openpyxl) is needed for spreadsheet ingestion.
-- **SPIKE-002 (PII/Redaction):** Neither managed service detects Canadian SIN or account numbers out of the box. This confirms that a hybrid approach (managed service + custom Presidio recognizers for Canadian-specific entities) is required regardless of cloud vendor. Azure\u2019s French support and higher entity recall make it a better base layer if supplemented with custom recognizers to improve precision. Comprehend\u2019s higher precision makes it a better choice if false positives are costly in the downstream pipeline.
+- **SPIKE-001 (OCR):** Both Textract and Azure Doc Intelligence (S0 tier) are strong contenders for OCR. Textract has a marginal accuracy edge (100% vs 99.9%) but both achieve excellent recall across all document types. Both tools fail on .xlsx \u2014 a separate parsing path (e.g., openpyxl) is needed for spreadsheet ingestion.
+- **SPIKE-002 (PII/Redaction):** Neither managed service detects Canadian SIN or account numbers out of the box, but custom regex recognizers with Luhn validation close this gap effectively. The hybrid approach (managed service + custom recognizers) is validated: Azure + custom regex achieves 100% recall on all entity types. Comprehend + custom regex reaches 70% SIN recall due to its lack of French support. Azure is the recommended PII base layer when paired with custom recognizers, especially if French is a Day 1 requirement.
 """
     return report.strip() + "\n"

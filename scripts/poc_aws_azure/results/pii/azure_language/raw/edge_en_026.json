@@ -25,9 +25,17 @@
       "end_char": 54,
       "confidence": 0.65,
       "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6773384",
+      "start_char": 47,
+      "end_char": 54,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 94,
+  "latency_ms": 109,
   "cost_estimate_usd": 0.001,
   "char_count": 94,
   "error": null,

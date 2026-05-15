@@ -129,9 +129,33 @@
       "end_char": 623,
       "confidence": 0.94,
       "original_type": "DateTime"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "151826062",
+      "start_char": 475,
+      "end_char": 484,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "6005706",
+      "start_char": 195,
+      "end_char": 202,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "3101118",
+      "start_char": 301,
+      "end_char": 308,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 201,
+  "latency_ms": 187,
   "cost_estimate_usd": 0.001,
   "char_count": 624,
   "error": null,

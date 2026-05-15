@@ -25,9 +25,17 @@
       "end_char": 55,
       "confidence": 0.65,
       "original_type": "PhoneNumber"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7115223",
+      "start_char": 48,
+      "end_char": 55,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 229,
+  "latency_ms": 103,
   "cost_estimate_usd": 0.001,
   "char_count": 96,
   "error": null,

@@ -1,7 +1,7 @@
 {
   "tool": "azure_doc_intel",
   "file": "clean_policy_02.pdf",
-  "full_text": "Anti-Money Laundering Compliance Policy\nEffective Date: 2025-02-14 Version: 2.0\nCONFIDENTIAL\nPage 1\n1. PURPOSE\nThe purpose of this policy is to establish guidelines and procedures for anti-money laundering compliance operations within the organization. This policy applies to all departments and business units.\nAll employees must comply with the requirements set forth in this document. Failure to adhere to these guidelines may result in disciplinary action in accordance with the organization's code of conduct.\nThis policy has been developed in consultation with the Legal, Compliance, and Risk Management departments to ensure alignment with regulatory requirements and industry best practices.\nPage 2",
+  "full_text": "Anti-Money Laundering Compliance Policy\nEffective Date: 2025-02-14 Version: 2.0\nCONFIDENTIAL\nPage 1\n1. PURPOSE\nThe purpose of this policy is to establish guidelines and procedures for anti-money laundering compliance operations within the organization. This policy applies to all departments and business units.\nAll employees must comply with the requirements set forth in this document. Failure to adhere to these guidelines may result in disciplinary action in accordance with the organization's code of conduct.\nThis policy has been developed in consultation with the Legal, Compliance, and Risk Management departments to ensure alignment with regulatory requirements and industry best practices.\nPage 2\n2. SCOPE\nThis policy applies to all employees, contractors, and third-party service providers who have access to the organization's financial systems or who are involved in the processing of financial transactions.\nThe scope includes all domestic and international wire transfers, electronic funds transfers, and interbank settlement operations conducted by or on behalf of the organization.\nExemptions to this policy may only be granted by the Chief Compliance Officer in writing and must be reviewed quarterly.\nPage 3\n3. DEFINITIONS\nWire Transfer: An electronic transfer of funds between financial institutions initiated by the sending institution on behalf of the originator.\nDual Authorization: A control mechanism requiring two independent approvals before a transaction can be executed. Both approvers must be at the manager level or above.\nThreshold Amount: The monetary value above which additional controls and approvals are required. The current threshold is $10,000 CAD for domestic transfers and $5,000 CAD for international transfers.\nPage 4\n4. ROLES AND RESPONSIBILITIES\n4.1 The Compliance Officer is responsible for monitoring adherence to this policy and reporting any violations to senior management.\n4.2 Branch Managers must ensure that all staff under their supervision are trained on the requirements of this policy and that training records are maintained.\n4.3 The Internal Audit department shall conduct periodic reviews of wire transfer activities to verify compliance with this policy.\n4.4 All employees involved in transaction processing must complete annual certification confirming their understanding of this policy.\nPage 5\n5. PROCEDURES\n5.1 All wire transfer requests must be submitted using the approved request form. The form must include the originator's name, account number, recipient details, amount, purpose, and supporting documentation.\n5.2 Transfers exceeding the threshold amount require dual authorization. The first approver reviews the request for completeness and accuracy. The second approver independently verifies the recipient details and supporting documents.\n5.3 All approved transfers must be recorded in the transaction log within one business day of execution. The log must include the date, time, amount, participants, and reference number.\nPage 6\n6. MONITORING AND REPORTING\n6.1 The Compliance team shall generate daily reports of all wire transfers exceeding the threshold amount and review them for unusual patterns.\n6.2 Monthly summary reports shall be provided to the Risk Committee detailing total transfer volumes, exception counts, and any identified concerns.\n6.3 Any suspicious activity must be reported immediately to the designated compliance officer and documented in the incident management system.\nPage 7\n7. RECORD RETENTION\nAll records related to wire transfer operations, including request forms, approval documentation, and transaction logs, must be retained for a minimum of seven years in accordance with regulatory requirements.\nElectronic records must be stored in the approved document management system with appropriate access controls. Physical records must be stored in a secure location with restricted access.\nPage 8\n8. POLICY REVIEW\nThis policy shall be reviewed annually by the Policy Committee and updated as necessary to reflect changes in regulatory requirements, organizational structure, or business processes.\nAll amendments must be approved by the Chief Compliance Officer and communicated to all affected personnel within 30 days of approval.\nPage 9\nAPPROVAL SIGNATURES\nChief Compliance Officer: Patricia Miller\nDate: 2025-02-14 Signature:\nVP Operations: Robert Johnson Date: 2025-02-14\nSignature:\nDirector of Risk Management: Jeffery Wagner\nDate: 2025-02-14\nSignature:\nPage 10",
   "words": [
     {
       "text": "Anti-Money",
@@ -1102,12 +1102,5963 @@
         "height": 0.13759999999999906
       },
       "page": 2
+    },
+    {
+      "text": "2.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0673,
+        "top": 0.8597,
+        "width": 0.16590000000000016,
+        "height": 0.19769999999999988
+      },
+      "page": 3
+    },
+    {
+      "text": "SCOPE",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.3043,
+        "top": 0.8544,
+        "width": 0.6879,
+        "height": 0.20289999999999986
+      },
+      "page": 3
+    },
+    {
+      "text": "This",
+      "confidence": 0.991,
+      "bbox": {
+        "left": 1.0705,
+        "top": 1.1845,
+        "width": 0.3024,
+        "height": 0.2044999999999999
+      },
+      "page": 3
+    },
+    {
+      "text": "policy",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.412,
+        "top": 1.1844,
+        "width": 0.4538,
+        "height": 0.20400000000000018
+      },
+      "page": 3
+    },
+    {
+      "text": "applies",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.9145,
+        "top": 1.1844,
+        "width": 0.5231000000000001,
+        "height": 0.20350000000000001
+      },
+      "page": 3
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.4826,
+        "top": 1.1851,
+        "width": 0.13559999999999972,
+        "height": 0.20100000000000007
+      },
+      "page": 3
+    },
+    {
+      "text": "all",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.6698,
+        "top": 1.1855,
+        "width": 0.15850000000000009,
+        "height": 0.2007000000000001
+      },
+      "page": 3
+    },
+    {
+      "text": "employees,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.88,
+        "top": 1.1861,
+        "width": 0.8385000000000002,
+        "height": 0.20010000000000017
+      },
+      "page": 3
+    },
+    {
+      "text": "contractors,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.7765,
+        "top": 1.1872,
+        "width": 0.8584999999999998,
+        "height": 0.19940000000000002
+      },
+      "page": 3
+    },
+    {
+      "text": "and",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 4.6895,
+        "top": 1.1867,
+        "width": 0.2702,
+        "height": 0.20029999999999992
+      },
+      "page": 3
+    },
+    {
+      "text": "third-party",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.0113,
+        "top": 1.1858,
+        "width": 0.7498999999999993,
+        "height": 0.20110000000000006
+      },
+      "page": 3
+    },
+    {
+      "text": "service",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.8094,
+        "top": 1.1853,
+        "width": 0.5232999999999999,
+        "height": 0.2015
+      },
+      "page": 3
+    },
+    {
+      "text": "providers",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.3874,
+        "top": 1.1851,
+        "width": 0.6742999999999997,
+        "height": 0.2005999999999999
+      },
+      "page": 3
+    },
+    {
+      "text": "who",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 7.1066,
+        "top": 1.1827,
+        "width": 0.31979999999999986,
+        "height": 0.20079999999999987
+      },
+      "page": 3
+    },
+    {
+      "text": "have",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0693,
+        "top": 1.408,
+        "width": 0.37050000000000005,
+        "height": 0.1947000000000001
+      },
+      "page": 3
+    },
+    {
+      "text": "access",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.4904,
+        "top": 1.4085,
+        "width": 0.4982,
+        "height": 0.19389999999999996
+      },
+      "page": 3
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.0264,
+        "top": 1.4081,
+        "width": 0.1633,
+        "height": 0.19420000000000015
+      },
+      "page": 3
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.2401,
+        "top": 1.4073,
+        "width": 0.22730000000000006,
+        "height": 0.19480000000000008
+      },
+      "page": 3
+    },
+    {
+      "text": "organization's",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.5209,
+        "top": 1.407,
+        "width": 1.0154,
+        "height": 0.19609999999999994
+      },
+      "page": 3
+    },
+    {
+      "text": "financial",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.5833,
+        "top": 1.407,
+        "width": 0.6069,
+        "height": 0.19659999999999989
+      },
+      "page": 3
+    },
+    {
+      "text": "systems",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.2469,
+        "top": 1.4067,
+        "width": 0.6063999999999998,
+        "height": 0.19720000000000004
+      },
+      "page": 3
+    },
+    {
+      "text": "or",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.9041,
+        "top": 1.4067,
+        "width": 0.15030000000000054,
+        "height": 0.19629999999999992
+      },
+      "page": 3
+    },
+    {
+      "text": "who",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.0955,
+        "top": 1.4065,
+        "width": 0.3038999999999996,
+        "height": 0.19589999999999996
+      },
+      "page": 3
+    },
+    {
+      "text": "are",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.4497,
+        "top": 1.4063,
+        "width": 0.21480000000000032,
+        "height": 0.19509999999999983
+      },
+      "page": 3
+    },
+    {
+      "text": "involved",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.7017,
+        "top": 1.4052,
+        "width": 0.6261000000000001,
+        "height": 0.1956
+      },
+      "page": 3
+    },
+    {
+      "text": "in",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 6.3653,
+        "top": 1.4049,
+        "width": 0.14749999999999996,
+        "height": 0.19269999999999987
+      },
+      "page": 3
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.5695,
+        "top": 1.4046,
+        "width": 0.24270000000000014,
+        "height": 0.19189999999999996
+      },
+      "page": 3
+    },
+    {
+      "text": "processing",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0683,
+        "top": 1.6308,
+        "width": 0.8090999999999999,
+        "height": 0.20710000000000006
+      },
+      "page": 3
+    },
+    {
+      "text": "of",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.9345,
+        "top": 1.6286,
+        "width": 0.11630000000000007,
+        "height": 0.20179999999999998
+      },
+      "page": 3
+    },
+    {
+      "text": "financial",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.0881,
+        "top": 1.6264,
+        "width": 0.6358000000000001,
+        "height": 0.2036
+      },
+      "page": 3
+    },
+    {
+      "text": "transactions.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.7745,
+        "top": 1.6249,
+        "width": 0.9493,
+        "height": 0.20100000000000007
+      },
+      "page": 3
+    },
+    {
+      "text": "The",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 1.0701,
+        "top": 1.957,
+        "width": 0.29579999999999984,
+        "height": 0.20009999999999972
+      },
+      "page": 3
+    },
+    {
+      "text": "scope",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.419,
+        "top": 1.9579,
+        "width": 0.41359999999999997,
+        "height": 0.19850000000000012
+      },
+      "page": 3
+    },
+    {
+      "text": "includes",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.8694,
+        "top": 1.959,
+        "width": 0.6452000000000002,
+        "height": 0.19519999999999982
+      },
+      "page": 3
+    },
+    {
+      "text": "all",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.5641,
+        "top": 1.9591,
+        "width": 0.16000000000000014,
+        "height": 0.19299999999999984
+      },
+      "page": 3
+    },
+    {
+      "text": "domestic",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.7797,
+        "top": 1.9594,
+        "width": 0.6644999999999999,
+        "height": 0.19220000000000015
+      },
+      "page": 3
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.4902,
+        "top": 1.9609,
+        "width": 0.25859999999999994,
+        "height": 0.1905000000000001
+      },
+      "page": 3
+    },
+    {
+      "text": "international",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.7852,
+        "top": 1.959,
+        "width": 0.9309999999999996,
+        "height": 0.19379999999999997
+      },
+      "page": 3
+    },
+    {
+      "text": "wire",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.7653,
+        "top": 1.9582,
+        "width": 0.30600000000000005,
+        "height": 0.1944999999999999
+      },
+      "page": 3
+    },
+    {
+      "text": "transfers,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.1174,
+        "top": 1.9581,
+        "width": 0.6867000000000001,
+        "height": 0.19459999999999988
+      },
+      "page": 3
+    },
+    {
+      "text": "electronic",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 5.8628,
+        "top": 1.9587,
+        "width": 0.7115999999999998,
+        "height": 0.19359999999999977
+      },
+      "page": 3
+    },
+    {
+      "text": "funds",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.6209,
+        "top": 1.9564,
+        "width": 0.41820000000000057,
+        "height": 0.19419999999999993
+      },
+      "page": 3
+    },
+    {
+      "text": "transfers,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0648,
+        "top": 2.1835,
+        "width": 0.7001999999999999,
+        "height": 0.19220000000000015
+      },
+      "page": 3
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.8238,
+        "top": 2.1845,
+        "width": 0.25439999999999974,
+        "height": 0.19010000000000016
+      },
+      "page": 3
+    },
+    {
+      "text": "interbank",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.1148,
+        "top": 2.1829,
+        "width": 0.7191000000000001,
+        "height": 0.19229999999999992
+      },
+      "page": 3
+    },
+    {
+      "text": "settlement",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.8801,
+        "top": 2.183,
+        "width": 0.7698,
+        "height": 0.19390000000000018
+      },
+      "page": 3
+    },
+    {
+      "text": "operations",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.696,
+        "top": 2.1826,
+        "width": 0.7728999999999995,
+        "height": 0.19569999999999999
+      },
+      "page": 3
+    },
+    {
+      "text": "conducted",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.5214,
+        "top": 2.1823,
+        "width": 0.7599999999999998,
+        "height": 0.19599999999999973
+      },
+      "page": 3
+    },
+    {
+      "text": "by",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.3405,
+        "top": 2.182,
+        "width": 0.1687000000000003,
+        "height": 0.19589999999999996
+      },
+      "page": 3
+    },
+    {
+      "text": "or",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.5587,
+        "top": 2.1818,
+        "width": 0.14979999999999993,
+        "height": 0.19589999999999996
+      },
+      "page": 3
+    },
+    {
+      "text": "on",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 5.7516,
+        "top": 2.1817,
+        "width": 0.17539999999999978,
+        "height": 0.1955
+      },
+      "page": 3
+    },
+    {
+      "text": "behalf",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.9888,
+        "top": 2.1806,
+        "width": 0.4563999999999995,
+        "height": 0.1955
+      },
+      "page": 3
+    },
+    {
+      "text": "of",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.4853,
+        "top": 2.1804,
+        "width": 0.13370000000000015,
+        "height": 0.19309999999999983
+      },
+      "page": 3
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.6561,
+        "top": 2.1803,
+        "width": 0.25570000000000004,
+        "height": 0.19300000000000006
+      },
+      "page": 3
+    },
+    {
+      "text": "organization.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0672,
+        "top": 2.4169,
+        "width": 0.9693000000000003,
+        "height": 0.18889999999999985
+      },
+      "page": 3
+    },
+    {
+      "text": "Exemptions",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0722,
+        "top": 2.7356,
+        "width": 0.8778999999999999,
+        "height": 0.20720000000000027
+      },
+      "page": 3
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.9968,
+        "top": 2.737,
+        "width": 0.11529999999999996,
+        "height": 0.20609999999999973
+      },
+      "page": 3
+    },
+    {
+      "text": "this",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.1521,
+        "top": 2.737,
+        "width": 0.2704,
+        "height": 0.20699999999999985
+      },
+      "page": 3
+    },
+    {
+      "text": "policy",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.4625,
+        "top": 2.737,
+        "width": 0.4325999999999999,
+        "height": 0.20789999999999997
+      },
+      "page": 3
+    },
+    {
+      "text": "may",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.9349,
+        "top": 2.7373,
+        "width": 0.34170000000000034,
+        "height": 0.20750000000000002
+      },
+      "page": 3
+    },
+    {
+      "text": "only",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.323,
+        "top": 2.737,
+        "width": 0.28779999999999983,
+        "height": 0.20809999999999995
+      },
+      "page": 3
+    },
+    {
+      "text": "be",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.6503,
+        "top": 2.7366,
+        "width": 0.20679999999999987,
+        "height": 0.2084999999999999
+      },
+      "page": 3
+    },
+    {
+      "text": "granted",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.9067,
+        "top": 2.7365,
+        "width": 0.5579999999999998,
+        "height": 0.20840000000000014
+      },
+      "page": 3
+    },
+    {
+      "text": "by",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.5243,
+        "top": 2.7358,
+        "width": 0.1697999999999995,
+        "height": 0.20820000000000016
+      },
+      "page": 3
+    },
+    {
+      "text": "the",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.7402,
+        "top": 2.7348,
+        "width": 0.23059999999999992,
+        "height": 0.20800000000000018
+      },
+      "page": 3
+    },
+    {
+      "text": "Chief",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.0237,
+        "top": 2.7343,
+        "width": 0.3924000000000003,
+        "height": 0.2073999999999998
+      },
+      "page": 3
+    },
+    {
+      "text": "Compliance",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.4589,
+        "top": 2.7345,
+        "width": 0.8722000000000003,
+        "height": 0.2062999999999997
+      },
+      "page": 3
+    },
+    {
+      "text": "Officer",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 6.3835,
+        "top": 2.7347,
+        "width": 0.4668000000000001,
+        "height": 0.20319999999999983
+      },
+      "page": 3
+    },
+    {
+      "text": "in",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.8897,
+        "top": 2.7354,
+        "width": 0.16599999999999948,
+        "height": 0.20130000000000026
+      },
+      "page": 3
+    },
+    {
+      "text": "writing",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0645,
+        "top": 2.9653,
+        "width": 0.4939,
+        "height": 0.2012999999999998
+      },
+      "page": 3
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.6122,
+        "top": 2.9631,
+        "width": 0.26559999999999984,
+        "height": 0.20140000000000002
+      },
+      "page": 3
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.9389,
+        "top": 2.9628,
+        "width": 0.34119999999999995,
+        "height": 0.20199999999999996
+      },
+      "page": 3
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.3184,
+        "top": 2.9625,
+        "width": 0.18599999999999994,
+        "height": 0.20230000000000015
+      },
+      "page": 3
+    },
+    {
+      "text": "reviewed",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.5428,
+        "top": 2.9627,
+        "width": 0.6900999999999997,
+        "height": 0.20219999999999994
+      },
+      "page": 3
+    },
+    {
+      "text": "quarterly.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.2885,
+        "top": 2.9629,
+        "width": 0.6903000000000001,
+        "height": 0.2037
+      },
+      "page": 3
+    },
+    {
+      "text": "Page",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.0692,
+        "top": 10.3945,
+        "width": 0.2521999999999993,
+        "height": 0.13490000000000002
+      },
+      "page": 3
+    },
+    {
+      "text": "3",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.3556,
+        "top": 10.395,
+        "width": 0.06590000000000007,
+        "height": 0.13440000000000119
+      },
+      "page": 3
+    },
+    {
+      "text": "3.",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.0695,
+        "top": 0.8575,
+        "width": 0.1633,
+        "height": 0.20509999999999995
+      },
+      "page": 4
+    },
+    {
+      "text": "DEFINITIONS",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.309,
+        "top": 0.8542,
+        "width": 1.2255,
+        "height": 0.20650000000000002
+      },
+      "page": 4
+    },
+    {
+      "text": "Wire",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 1.0669,
+        "top": 1.1829,
+        "width": 0.3527,
+        "height": 0.19199999999999995
+      },
+      "page": 4
+    },
+    {
+      "text": "Transfer:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.4697,
+        "top": 1.1831,
+        "width": 0.6549,
+        "height": 0.19059999999999988
+      },
+      "page": 4
+    },
+    {
+      "text": "An",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.1778,
+        "top": 1.1839,
+        "width": 0.20179999999999998,
+        "height": 0.18920000000000003
+      },
+      "page": 4
+    },
+    {
+      "text": "electronic",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.4359,
+        "top": 1.1831,
+        "width": 0.7117,
+        "height": 0.19079999999999986
+      },
+      "page": 4
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.1945,
+        "top": 1.1833,
+        "width": 0.5667999999999997,
+        "height": 0.19169999999999998
+      },
+      "page": 4
+    },
+    {
+      "text": "of",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.8052,
+        "top": 1.1842,
+        "width": 0.11979999999999968,
+        "height": 0.19120000000000004
+      },
+      "page": 4
+    },
+    {
+      "text": "funds",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 3.9625,
+        "top": 1.184,
+        "width": 0.43140000000000045,
+        "height": 0.19199999999999995
+      },
+      "page": 4
+    },
+    {
+      "text": "between",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.4505,
+        "top": 1.184,
+        "width": 0.6138000000000003,
+        "height": 0.19290000000000007
+      },
+      "page": 4
+    },
+    {
+      "text": "financial",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.1175,
+        "top": 1.1847,
+        "width": 0.5952000000000002,
+        "height": 0.19279999999999986
+      },
+      "page": 4
+    },
+    {
+      "text": "institutions",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.75,
+        "top": 1.1849,
+        "width": 0.8125,
+        "height": 0.1944999999999999
+      },
+      "page": 4
+    },
+    {
+      "text": "initiated",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.6187,
+        "top": 1.1864,
+        "width": 0.5576000000000008,
+        "height": 0.19850000000000012
+      },
+      "page": 4
+    },
+    {
+      "text": "by",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 7.2385,
+        "top": 1.1871,
+        "width": 0.17689999999999984,
+        "height": 0.20120000000000005
+      },
+      "page": 4
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.0629,
+        "top": 1.4055,
+        "width": 0.2451000000000001,
+        "height": 0.19940000000000002
+      },
+      "page": 4
+    },
+    {
+      "text": "sending",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.3634,
+        "top": 1.4047,
+        "width": 0.5720000000000001,
+        "height": 0.19999999999999996
+      },
+      "page": 4
+    },
+    {
+      "text": "institution",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.9974,
+        "top": 1.4048,
+        "width": 0.6862999999999999,
+        "height": 0.2005999999999999
+      },
+      "page": 4
+    },
+    {
+      "text": "on",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.7424,
+        "top": 1.4055,
+        "width": 0.17330000000000023,
+        "height": 0.19989999999999997
+      },
+      "page": 4
+    },
+    {
+      "text": "behalf",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 2.9777,
+        "top": 1.4056,
+        "width": 0.4542999999999999,
+        "height": 0.1997
+      },
+      "page": 4
+    },
+    {
+      "text": "of",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 3.4743,
+        "top": 1.4053,
+        "width": 0.14400000000000013,
+        "height": 0.19979999999999998
+      },
+      "page": 4
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 3.6572,
+        "top": 1.4053,
+        "width": 0.2290000000000001,
+        "height": 0.19979999999999998
+      },
+      "page": 4
+    },
+    {
+      "text": "originator.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.9382,
+        "top": 1.4047,
+        "width": 0.7324000000000002,
+        "height": 0.1995
+      },
+      "page": 4
+    },
+    {
+      "text": "Dual",
+      "confidence": 0.99,
+      "bbox": {
+        "left": 1.0721,
+        "top": 1.7354,
+        "width": 0.34529999999999994,
+        "height": 0.19530000000000003
+      },
+      "page": 4
+    },
+    {
+      "text": "Authorization:",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 1.4684,
+        "top": 1.7361,
+        "width": 1.0101,
+        "height": 0.1935
+      },
+      "page": 4
+    },
+    {
+      "text": "A",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.5325,
+        "top": 1.7371,
+        "width": 0.11539999999999973,
+        "height": 0.1924999999999999
+      },
+      "page": 4
+    },
+    {
+      "text": "control",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.6987,
+        "top": 1.7371,
+        "width": 0.48930000000000007,
+        "height": 0.1935
+      },
+      "page": 4
+    },
+    {
+      "text": "mechanism",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.2454,
+        "top": 1.7383,
+        "width": 0.8376000000000001,
+        "height": 0.19480000000000008
+      },
+      "page": 4
+    },
+    {
+      "text": "requiring",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.1467,
+        "top": 1.7383,
+        "width": 0.6298000000000004,
+        "height": 0.19650000000000012
+      },
+      "page": 4
+    },
+    {
+      "text": "two",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.8307,
+        "top": 1.7383,
+        "width": 0.2431000000000001,
+        "height": 0.19830000000000014
+      },
+      "page": 4
+    },
+    {
+      "text": "independent",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.1118,
+        "top": 1.7387,
+        "width": 0.9432,
+        "height": 0.19800000000000018
+      },
+      "page": 4
+    },
+    {
+      "text": "approvals",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.1058,
+        "top": 1.7373,
+        "width": 0.7162999999999995,
+        "height": 0.1983999999999999
+      },
+      "page": 4
+    },
+    {
+      "text": "before",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.876,
+        "top": 1.7358,
+        "width": 0.4784999999999995,
+        "height": 0.1988000000000001
+      },
+      "page": 4
+    },
+    {
+      "text": "a",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0687,
+        "top": 1.9639,
+        "width": 0.09949999999999992,
+        "height": 0.19100000000000006
+      },
+      "page": 4
+    },
+    {
+      "text": "transaction",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.2194,
+        "top": 1.9638,
+        "width": 0.8082999999999998,
+        "height": 0.19160000000000021
+      },
+      "page": 4
+    },
+    {
+      "text": "can",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.0852,
+        "top": 1.9631,
+        "width": 0.2568999999999999,
+        "height": 0.19230000000000014
+      },
+      "page": 4
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.4027,
+        "top": 1.9621,
+        "width": 0.1767000000000003,
+        "height": 0.19309999999999983
+      },
+      "page": 4
+    },
+    {
+      "text": "executed.",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.6305,
+        "top": 1.9619,
+        "width": 0.7090000000000001,
+        "height": 0.19459999999999988
+      },
+      "page": 4
+    },
+    {
+      "text": "Both",
+      "confidence": 0.987,
+      "bbox": {
+        "left": 3.4065,
+        "top": 1.9615,
+        "width": 0.32430000000000003,
+        "height": 0.19530000000000003
+      },
+      "page": 4
+    },
+    {
+      "text": "approvers",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.7882,
+        "top": 1.9597,
+        "width": 0.7380000000000004,
+        "height": 0.19829999999999992
+      },
+      "page": 4
+    },
+    {
+      "text": "must",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 4.5806,
+        "top": 1.9597,
+        "width": 0.3562000000000003,
+        "height": 0.19840000000000013
+      },
+      "page": 4
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.9876,
+        "top": 1.9595,
+        "width": 0.17690000000000072,
+        "height": 0.1988000000000001
+      },
+      "page": 4
+    },
+    {
+      "text": "at",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.2151,
+        "top": 1.9594,
+        "width": 0.13860000000000028,
+        "height": 0.19930000000000003
+      },
+      "page": 4
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 5.3979,
+        "top": 1.9598,
+        "width": 0.22850000000000037,
+        "height": 0.19919999999999982
+      },
+      "page": 4
+    },
+    {
+      "text": "manager",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 5.6834,
+        "top": 1.96,
+        "width": 0.6550000000000002,
+        "height": 0.19899999999999984
+      },
+      "page": 4
+    },
+    {
+      "text": "level",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 6.3894,
+        "top": 1.9599,
+        "width": 0.3241999999999994,
+        "height": 0.19909999999999983
+      },
+      "page": 4
+    },
+    {
+      "text": "or",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 6.7708,
+        "top": 1.9605,
+        "width": 0.16310000000000002,
+        "height": 0.1984999999999999
+      },
+      "page": 4
+    },
+    {
+      "text": "above.",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0684,
+        "top": 2.1961,
+        "width": 0.5143,
+        "height": 0.16170000000000018
+      },
+      "page": 4
+    },
+    {
+      "text": "Threshold",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0694,
+        "top": 2.5148,
+        "width": 0.7452000000000001,
+        "height": 0.1953999999999998
+      },
+      "page": 4
+    },
+    {
+      "text": "Amount:",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.8685,
+        "top": 2.5151,
+        "width": 0.6116000000000001,
+        "height": 0.19609999999999994
+      },
+      "page": 4
+    },
+    {
+      "text": "The",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.5336,
+        "top": 2.5164,
+        "width": 0.2681,
+        "height": 0.19609999999999994
+      },
+      "page": 4
+    },
+    {
+      "text": "monetary",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.8392,
+        "top": 2.5172,
+        "width": 0.7235,
+        "height": 0.19540000000000024
+      },
+      "page": 4
+    },
+    {
+      "text": "value",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.6103,
+        "top": 2.5167,
+        "width": 0.395,
+        "height": 0.19589999999999996
+      },
+      "page": 4
+    },
+    {
+      "text": "above",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.0594,
+        "top": 2.5168,
+        "width": 0.44569999999999954,
+        "height": 0.19560000000000022
+      },
+      "page": 4
+    },
+    {
+      "text": "which",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.5529,
+        "top": 2.5176,
+        "width": 0.4203000000000001,
+        "height": 0.1948000000000003
+      },
+      "page": 4
+    },
+    {
+      "text": "additional",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.0304,
+        "top": 2.5167,
+        "width": 0.7038000000000002,
+        "height": 0.19579999999999975
+      },
+      "page": 4
+    },
+    {
+      "text": "controls",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.7913,
+        "top": 2.516,
+        "width": 0.5765000000000002,
+        "height": 0.1943999999999999
+      },
+      "page": 4
+    },
+    {
+      "text": "and",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 6.4185,
+        "top": 2.5157,
+        "width": 0.28300000000000036,
+        "height": 0.1918000000000002
+      },
+      "page": 4
+    },
+    {
+      "text": "approvals",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0681,
+        "top": 2.7452,
+        "width": 0.7323999999999999,
+        "height": 0.19769999999999976
+      },
+      "page": 4
+    },
+    {
+      "text": "are",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.8543,
+        "top": 2.7447,
+        "width": 0.2158,
+        "height": 0.19589999999999996
+      },
+      "page": 4
+    },
+    {
+      "text": "required.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.108,
+        "top": 2.7419,
+        "width": 0.6757999999999997,
+        "height": 0.1979000000000002
+      },
+      "page": 4
+    },
+    {
+      "text": "The",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.8403,
+        "top": 2.7415,
+        "width": 0.28290000000000015,
+        "height": 0.19510000000000005
+      },
+      "page": 4
+    },
+    {
+      "text": "current",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.1796,
+        "top": 2.7396,
+        "width": 0.5173999999999999,
+        "height": 0.1959000000000004
+      },
+      "page": 4
+    },
+    {
+      "text": "threshold",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.7376,
+        "top": 2.7374,
+        "width": 0.6667000000000001,
+        "height": 0.19629999999999992
+      },
+      "page": 4
+    },
+    {
+      "text": "is",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.4414,
+        "top": 2.7372,
+        "width": 0.14670000000000005,
+        "height": 0.19519999999999982
+      },
+      "page": 4
+    },
+    {
+      "text": "$10,000",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.6412,
+        "top": 2.736,
+        "width": 0.5933999999999999,
+        "height": 0.19609999999999994
+      },
+      "page": 4
+    },
+    {
+      "text": "CAD",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.2911,
+        "top": 2.7362,
+        "width": 0.3426,
+        "height": 0.19449999999999967
+      },
+      "page": 4
+    },
+    {
+      "text": "for",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.6843,
+        "top": 2.737,
+        "width": 0.19989999999999952,
+        "height": 0.19209999999999994
+      },
+      "page": 4
+    },
+    {
+      "text": "domestic",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.9284,
+        "top": 2.7373,
+        "width": 0.6633000000000004,
+        "height": 0.19090000000000007
+      },
+      "page": 4
+    },
+    {
+      "text": "transfers",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.6386,
+        "top": 2.7379,
+        "width": 0.6605999999999996,
+        "height": 0.19100000000000028
+      },
+      "page": 4
+    },
+    {
+      "text": "and",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0676,
+        "top": 2.9646,
+        "width": 0.2824,
+        "height": 0.1854
+      },
+      "page": 4
+    },
+    {
+      "text": "$5,000",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.4108,
+        "top": 2.9632,
+        "width": 0.4998,
+        "height": 0.18679999999999986
+      },
+      "page": 4
+    },
+    {
+      "text": "CAD",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.9653,
+        "top": 2.9624,
+        "width": 0.34330000000000016,
+        "height": 0.18759999999999977
+      },
+      "page": 4
+    },
+    {
+      "text": "for",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.3606,
+        "top": 2.9623,
+        "width": 0.1777000000000002,
+        "height": 0.18769999999999998
+      },
+      "page": 4
+    },
+    {
+      "text": "international",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.5749,
+        "top": 2.9625,
+        "width": 0.9255,
+        "height": 0.1875
+      },
+      "page": 4
+    },
+    {
+      "text": "transfers.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.5554,
+        "top": 2.9633,
+        "width": 0.6945999999999999,
+        "height": 0.18610000000000015
+      },
+      "page": 4
+    },
+    {
+      "text": "Page",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.0678,
+        "top": 10.3943,
+        "width": 0.25450000000000017,
+        "height": 0.13790000000000013
+      },
+      "page": 4
+    },
+    {
+      "text": "4",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.3508,
+        "top": 10.3966,
+        "width": 0.0763000000000007,
+        "height": 0.1352000000000011
+      },
+      "page": 4
+    },
+    {
+      "text": "4.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0659,
+        "top": 0.8549,
+        "width": 0.1674,
+        "height": 0.21239999999999992
+      },
+      "page": 5
+    },
+    {
+      "text": "ROLES",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.309,
+        "top": 0.8525,
+        "width": 0.6504000000000001,
+        "height": 0.21510000000000007
+      },
+      "page": 5
+    },
+    {
+      "text": "AND",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 2.0169,
+        "top": 0.8503,
+        "width": 0.41849999999999987,
+        "height": 0.21610000000000007
+      },
+      "page": 5
+    },
+    {
+      "text": "RESPONSIBILITIES",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.5068,
+        "top": 0.8505,
+        "width": 1.8041,
+        "height": 0.21489999999999987
+      },
+      "page": 5
+    },
+    {
+      "text": "4.1",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0682,
+        "top": 1.1803,
+        "width": 0.2185999999999999,
+        "height": 0.20010000000000017
+      },
+      "page": 5
+    },
+    {
+      "text": "The",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.3588,
+        "top": 1.1803,
+        "width": 0.28580000000000005,
+        "height": 0.20250000000000012
+      },
+      "page": 5
+    },
+    {
+      "text": "Compliance",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.6963,
+        "top": 1.1812,
+        "width": 0.8747000000000003,
+        "height": 0.20179999999999998
+      },
+      "page": 5
+    },
+    {
+      "text": "Officer",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.6225,
+        "top": 1.1822,
+        "width": 0.4668000000000001,
+        "height": 0.20110000000000006
+      },
+      "page": 5
+    },
+    {
+      "text": "is",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.1274,
+        "top": 1.1853,
+        "width": 0.1492,
+        "height": 0.19799999999999995
+      },
+      "page": 5
+    },
+    {
+      "text": "responsible",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.3281,
+        "top": 1.1835,
+        "width": 0.8446999999999996,
+        "height": 0.20179999999999998
+      },
+      "page": 5
+    },
+    {
+      "text": "for",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.2181,
+        "top": 1.1832,
+        "width": 0.18210000000000015,
+        "height": 0.20320000000000005
+      },
+      "page": 5
+    },
+    {
+      "text": "monitoring",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.4389,
+        "top": 1.183,
+        "width": 0.7939999999999996,
+        "height": 0.20639999999999992
+      },
+      "page": 5
+    },
+    {
+      "text": "adherence",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.2884,
+        "top": 1.1823,
+        "width": 0.7839,
+        "height": 0.20720000000000005
+      },
+      "page": 5
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.1208,
+        "top": 1.1823,
+        "width": 0.1387999999999998,
+        "height": 0.20830000000000015
+      },
+      "page": 5
+    },
+    {
+      "text": "this",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 6.3047,
+        "top": 1.1826,
+        "width": 0.2558999999999996,
+        "height": 0.2096
+      },
+      "page": 5
+    },
+    {
+      "text": "policy",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 6.6193,
+        "top": 1.1807,
+        "width": 0.4195000000000002,
+        "height": 0.2125999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 7.0878,
+        "top": 1.1771,
+        "width": 0.28330000000000055,
+        "height": 0.21750000000000003
+      },
+      "page": 5
+    },
+    {
+      "text": "reporting",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0686,
+        "top": 1.4101,
+        "width": 0.6617,
+        "height": 0.20320000000000005
+      },
+      "page": 5
+    },
+    {
+      "text": "any",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.7859,
+        "top": 1.4085,
+        "width": 0.26859999999999995,
+        "height": 0.2024999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "violations",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.1,
+        "top": 1.4084,
+        "width": 0.6717,
+        "height": 0.2023999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.8107,
+        "top": 1.4081,
+        "width": 0.1673,
+        "height": 0.20040000000000013
+      },
+      "page": 5
+    },
+    {
+      "text": "senior",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.0298,
+        "top": 1.4079,
+        "width": 0.43610000000000015,
+        "height": 0.2007000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "management.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.5047,
+        "top": 1.4068,
+        "width": 1.0440999999999998,
+        "height": 0.20029999999999992
+      },
+      "page": 5
+    },
+    {
+      "text": "4.2",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0701,
+        "top": 1.7369,
+        "width": 0.23699999999999988,
+        "height": 0.19679999999999986
+      },
+      "page": 5
+    },
+    {
+      "text": "Branch",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.3669,
+        "top": 1.7375,
+        "width": 0.5149999999999999,
+        "height": 0.19879999999999987
+      },
+      "page": 5
+    },
+    {
+      "text": "Managers",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.9414,
+        "top": 1.7372,
+        "width": 0.7188999999999999,
+        "height": 0.19940000000000002
+      },
+      "page": 5
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.6972,
+        "top": 1.7373,
+        "width": 0.3860999999999999,
+        "height": 0.1983999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "ensure",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.13,
+        "top": 1.7399,
+        "width": 0.5056000000000003,
+        "height": 0.19379999999999997
+      },
+      "page": 5
+    },
+    {
+      "text": "that",
+      "confidence": 0.987,
+      "bbox": {
+        "left": 3.6822,
+        "top": 1.7391,
+        "width": 0.28279999999999994,
+        "height": 0.1932999999999998
+      },
+      "page": 5
+    },
+    {
+      "text": "all",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.0116,
+        "top": 1.7383,
+        "width": 0.15690000000000026,
+        "height": 0.19450000000000012
+      },
+      "page": 5
+    },
+    {
+      "text": "staff",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.2248,
+        "top": 1.7381,
+        "width": 0.32149999999999945,
+        "height": 0.19480000000000008
+      },
+      "page": 5
+    },
+    {
+      "text": "under",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.5896,
+        "top": 1.7382,
+        "width": 0.4249999999999998,
+        "height": 0.1967000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "their",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.0549,
+        "top": 1.7373,
+        "width": 0.33110000000000017,
+        "height": 0.19879999999999987
+      },
+      "page": 5
+    },
+    {
+      "text": "supervision",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.4267,
+        "top": 1.7371,
+        "width": 0.8346,
+        "height": 0.2004999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "are",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.3182,
+        "top": 1.7371,
+        "width": 0.2336999999999998,
+        "height": 0.2004999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "trained",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.6027,
+        "top": 1.7367,
+        "width": 0.5015000000000001,
+        "height": 0.20000000000000018
+      },
+      "page": 5
+    },
+    {
+      "text": "on",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 7.1584,
+        "top": 1.7352,
+        "width": 0.1960999999999995,
+        "height": 0.2017
+      },
+      "page": 5
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.0654,
+        "top": 1.9559,
+        "width": 0.2301000000000002,
+        "height": 0.2085999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "requirements",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.3351,
+        "top": 1.9562,
+        "width": 0.9964999999999999,
+        "height": 0.20840000000000014
+      },
+      "page": 5
+    },
+    {
+      "text": "of",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 2.3808,
+        "top": 1.9561,
+        "width": 0.11620000000000008,
+        "height": 0.20620000000000016
+      },
+      "page": 5
+    },
+    {
+      "text": "this",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.5361,
+        "top": 1.9559,
+        "width": 0.28480000000000016,
+        "height": 0.2068000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "policy",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.8768,
+        "top": 1.9559,
+        "width": 0.4200000000000004,
+        "height": 0.20819999999999994
+      },
+      "page": 5
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.3429,
+        "top": 1.9565,
+        "width": 0.2710999999999997,
+        "height": 0.2076
+      },
+      "page": 5
+    },
+    {
+      "text": "that",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.6671,
+        "top": 1.9568,
+        "width": 0.27760000000000007,
+        "height": 0.20689999999999986
+      },
+      "page": 5
+    },
+    {
+      "text": "training",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.991,
+        "top": 1.955,
+        "width": 0.5375999999999999,
+        "height": 0.2088000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "records",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.5881,
+        "top": 1.9551,
+        "width": 0.5479000000000003,
+        "height": 0.20799999999999996
+      },
+      "page": 5
+    },
+    {
+      "text": "are",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.186,
+        "top": 1.9572,
+        "width": 0.23690000000000033,
+        "height": 0.20240000000000014
+      },
+      "page": 5
+    },
+    {
+      "text": "maintained.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.4798,
+        "top": 1.9542,
+        "width": 0.8564999999999996,
+        "height": 0.2057
+      },
+      "page": 5
+    },
+    {
+      "text": "4.3",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.0695,
+        "top": 2.2944,
+        "width": 0.23840000000000017,
+        "height": 0.1953999999999998
+      },
+      "page": 5
+    },
+    {
+      "text": "The",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.3575,
+        "top": 2.2942,
+        "width": 0.2712000000000001,
+        "height": 0.19689999999999985
+      },
+      "page": 5
+    },
+    {
+      "text": "Internal",
+      "confidence": 0.99,
+      "bbox": {
+        "left": 1.6651,
+        "top": 2.2947,
+        "width": 0.5793999999999999,
+        "height": 0.19639999999999969
+      },
+      "page": 5
+    },
+    {
+      "text": "Audit",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.2935,
+        "top": 2.2945,
+        "width": 0.3853,
+        "height": 0.19699999999999962
+      },
+      "page": 5
+    },
+    {
+      "text": "department",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.7245,
+        "top": 2.296,
+        "width": 0.8424,
+        "height": 0.19650000000000034
+      },
+      "page": 5
+    },
+    {
+      "text": "shall",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.6131,
+        "top": 2.295,
+        "width": 0.33299999999999974,
+        "height": 0.1995
+      },
+      "page": 5
+    },
+    {
+      "text": "conduct",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.002,
+        "top": 2.2948,
+        "width": 0.5826000000000002,
+        "height": 0.20130000000000026
+      },
+      "page": 5
+    },
+    {
+      "text": "periodic",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.6342,
+        "top": 2.2941,
+        "width": 0.5791000000000004,
+        "height": 0.2020000000000004
+      },
+      "page": 5
+    },
+    {
+      "text": "reviews",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.2662,
+        "top": 2.2941,
+        "width": 0.5564999999999998,
+        "height": 0.2006000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "of",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.8723,
+        "top": 2.2948,
+        "width": 0.14480000000000004,
+        "height": 0.19799999999999995
+      },
+      "page": 5
+    },
+    {
+      "text": "wire",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 6.0537,
+        "top": 2.2948,
+        "width": 0.3069999999999995,
+        "height": 0.19799999999999995
+      },
+      "page": 5
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.4043,
+        "top": 2.2916,
+        "width": 0.585,
+        "height": 0.20210000000000017
+      },
+      "page": 5
+    },
+    {
+      "text": "activities",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0688,
+        "top": 2.5183,
+        "width": 0.6487,
+        "height": 0.20219999999999994
+      },
+      "page": 5
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 1.7635,
+        "top": 2.5175,
+        "width": 0.1398999999999999,
+        "height": 0.20389999999999997
+      },
+      "page": 5
+    },
+    {
+      "text": "verify",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.9523,
+        "top": 2.5153,
+        "width": 0.39710000000000023,
+        "height": 0.2099000000000002
+      },
+      "page": 5
+    },
+    {
+      "text": "compliance",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.3982,
+        "top": 2.5154,
+        "width": 0.8365,
+        "height": 0.21050000000000013
+      },
+      "page": 5
+    },
+    {
+      "text": "with",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.2834,
+        "top": 2.5194,
+        "width": 0.2925,
+        "height": 0.2067000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "this",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.628,
+        "top": 2.5199,
+        "width": 0.2587999999999999,
+        "height": 0.2067000000000001
+      },
+      "page": 5
+    },
+    {
+      "text": "policy.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.9423,
+        "top": 2.5199,
+        "width": 0.46819999999999995,
+        "height": 0.20930000000000026
+      },
+      "page": 5
+    },
+    {
+      "text": "4.4",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0673,
+        "top": 2.8485,
+        "width": 0.24040000000000017,
+        "height": 0.20120000000000005
+      },
+      "page": 5
+    },
+    {
+      "text": "All",
+      "confidence": 0.977,
+      "bbox": {
+        "left": 1.3582,
+        "top": 2.8484,
+        "width": 0.18130000000000002,
+        "height": 0.20340000000000025
+      },
+      "page": 5
+    },
+    {
+      "text": "employees",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.5932,
+        "top": 2.8489,
+        "width": 0.7741000000000002,
+        "height": 0.20299999999999985
+      },
+      "page": 5
+    },
+    {
+      "text": "involved",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.4045,
+        "top": 2.8494,
+        "width": 0.6250999999999998,
+        "height": 0.2025999999999999
+      },
+      "page": 5
+    },
+    {
+      "text": "in",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 3.0665,
+        "top": 2.8522,
+        "width": 0.15839999999999987,
+        "height": 0.1998000000000002
+      },
+      "page": 5
+    },
+    {
+      "text": "transaction",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.2755,
+        "top": 2.8504,
+        "width": 0.8102999999999998,
+        "height": 0.2016
+      },
+      "page": 5
+    },
+    {
+      "text": "processing",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.1465,
+        "top": 2.8487,
+        "width": 0.7771000000000008,
+        "height": 0.20690000000000008
+      },
+      "page": 5
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.9614,
+        "top": 2.8483,
+        "width": 0.39259999999999984,
+        "height": 0.2073999999999998
+      },
+      "page": 5
+    },
+    {
+      "text": "complete",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.4017,
+        "top": 2.8483,
+        "width": 0.6709000000000005,
+        "height": 0.20609999999999973
+      },
+      "page": 5
+    },
+    {
+      "text": "annual",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.1238,
+        "top": 2.8483,
+        "width": 0.5057999999999998,
+        "height": 0.20569999999999977
+      },
+      "page": 5
+    },
+    {
+      "text": "certification",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0691,
+        "top": 3.0711,
+        "width": 0.8465,
+        "height": 0.19989999999999997
+      },
+      "page": 5
+    },
+    {
+      "text": "confirming",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.9745,
+        "top": 3.0702,
+        "width": 0.7568999999999999,
+        "height": 0.20450000000000035
+      },
+      "page": 5
+    },
+    {
+      "text": "their",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.786,
+        "top": 3.07,
+        "width": 0.3083,
+        "height": 0.20640000000000036
+      },
+      "page": 5
+    },
+    {
+      "text": "understanding",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.1328,
+        "top": 3.0702,
+        "width": 1.0736000000000003,
+        "height": 0.20950000000000024
+      },
+      "page": 5
+    },
+    {
+      "text": "of",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.2579,
+        "top": 3.0759,
+        "width": 0.14829999999999988,
+        "height": 0.20530000000000026
+      },
+      "page": 5
+    },
+    {
+      "text": "this",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.4444,
+        "top": 3.0771,
+        "width": 0.25480000000000036,
+        "height": 0.20569999999999977
+      },
+      "page": 5
+    },
+    {
+      "text": "policy.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.7543,
+        "top": 3.0752,
+        "width": 0.46970000000000045,
+        "height": 0.20759999999999978
+      },
+      "page": 5
+    },
+    {
+      "text": "Page",
+      "confidence": 0.99,
+      "bbox": {
+        "left": 4.0671,
+        "top": 10.3931,
+        "width": 0.2557999999999998,
+        "height": 0.13979999999999926
+      },
+      "page": 5
+    },
+    {
+      "text": "5",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.3564,
+        "top": 10.3949,
+        "width": 0.06510000000000016,
+        "height": 0.13809999999999967
+      },
+      "page": 5
+    },
+    {
+      "text": "5.",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0705,
+        "top": 0.8594,
+        "width": 0.16100000000000003,
+        "height": 0.20240000000000002
+      },
+      "page": 6
+    },
+    {
+      "text": "PROCEDURES",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.3101,
+        "top": 0.8535,
+        "width": 1.3627999999999998,
+        "height": 0.20610000000000006
+      },
+      "page": 6
+    },
+    {
+      "text": "5.1",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0706,
+        "top": 1.1837,
+        "width": 0.2127000000000001,
+        "height": 0.1956
+      },
+      "page": 6
+    },
+    {
+      "text": "All",
+      "confidence": 0.987,
+      "bbox": {
+        "left": 1.3572,
+        "top": 1.1831,
+        "width": 0.1774,
+        "height": 0.1956
+      },
+      "page": 6
+    },
+    {
+      "text": "wire",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.5858,
+        "top": 1.1833,
+        "width": 0.2838999999999998,
+        "height": 0.19569999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.908,
+        "top": 1.1844,
+        "width": 0.5804,
+        "height": 0.19530000000000003
+      },
+      "page": 6
+    },
+    {
+      "text": "requests",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.5264,
+        "top": 1.1843,
+        "width": 0.645,
+        "height": 0.19630000000000014
+      },
+      "page": 6
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.2099,
+        "top": 1.185,
+        "width": 0.3867999999999996,
+        "height": 0.19569999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.6482,
+        "top": 1.1859,
+        "width": 0.1740999999999997,
+        "height": 0.19440000000000013
+      },
+      "page": 6
+    },
+    {
+      "text": "submitted",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.877,
+        "top": 1.1846,
+        "width": 0.7088999999999999,
+        "height": 0.1976
+      },
+      "page": 6
+    },
+    {
+      "text": "using",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.6471,
+        "top": 1.1846,
+        "width": 0.38339999999999996,
+        "height": 0.19819999999999993
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.0851,
+        "top": 1.1848,
+        "width": 0.22570000000000068,
+        "height": 0.1983999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "approved",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.3654,
+        "top": 1.1846,
+        "width": 0.6672000000000002,
+        "height": 0.1985999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "request",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.0712,
+        "top": 1.1838,
+        "width": 0.5864000000000003,
+        "height": 0.19920000000000004
+      },
+      "page": 6
+    },
+    {
+      "text": "form.",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.6993,
+        "top": 1.1839,
+        "width": 0.37399999999999967,
+        "height": 0.19840000000000013
+      },
+      "page": 6
+    },
+    {
+      "text": "The",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 7.1279,
+        "top": 1.1823,
+        "width": 0.29299999999999926,
+        "height": 0.1988000000000001
+      },
+      "page": 6
+    },
+    {
+      "text": "form",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 1.0637,
+        "top": 1.4059,
+        "width": 0.29089999999999994,
+        "height": 0.19379999999999997
+      },
+      "page": 6
+    },
+    {
+      "text": "must",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.4345,
+        "top": 1.4059,
+        "width": 0.3579999999999999,
+        "height": 0.19430000000000014
+      },
+      "page": 6
+    },
+    {
+      "text": "include",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.8308,
+        "top": 1.4052,
+        "width": 0.5626000000000002,
+        "height": 0.19589999999999996
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.4443,
+        "top": 1.4053,
+        "width": 0.22719999999999985,
+        "height": 0.19579999999999997
+      },
+      "page": 6
+    },
+    {
+      "text": "originator's",
+      "confidence": 0.973,
+      "bbox": {
+        "left": 2.7257,
+        "top": 1.4057,
+        "width": 0.7993000000000001,
+        "height": 0.19700000000000006
+      },
+      "page": 6
+    },
+    {
+      "text": "name,",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.5857,
+        "top": 1.4075,
+        "width": 0.44430000000000014,
+        "height": 0.19589999999999996
+      },
+      "page": 6
+    },
+    {
+      "text": "account",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.0875,
+        "top": 1.4085,
+        "width": 0.5817999999999994,
+        "height": 0.19569999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "number,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.7236,
+        "top": 1.4078,
+        "width": 0.5849000000000002,
+        "height": 0.19650000000000012
+      },
+      "page": 6
+    },
+    {
+      "text": "recipient",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.3468,
+        "top": 1.4076,
+        "width": 0.6585999999999999,
+        "height": 0.19690000000000007
+      },
+      "page": 6
+    },
+    {
+      "text": "details,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 6.0533,
+        "top": 1.4079,
+        "width": 0.5145999999999997,
+        "height": 0.19650000000000012
+      },
+      "page": 6
+    },
+    {
+      "text": "amount,",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.6286,
+        "top": 1.4091,
+        "width": 0.5979000000000001,
+        "height": 0.19510000000000005
+      },
+      "page": 6
+    },
+    {
+      "text": "purpose,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0674,
+        "top": 1.6359,
+        "width": 0.6493,
+        "height": 0.20540000000000003
+      },
+      "page": 6
+    },
+    {
+      "text": "and",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 1.7786,
+        "top": 1.6321,
+        "width": 0.26690000000000014,
+        "height": 0.2033999999999998
+      },
+      "page": 6
+    },
+    {
+      "text": "supporting",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.1013,
+        "top": 1.6279,
+        "width": 0.7704999999999997,
+        "height": 0.20650000000000013
+      },
+      "page": 6
+    },
+    {
+      "text": "documentation.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.9277,
+        "top": 1.6261,
+        "width": 1.1397,
+        "height": 0.20499999999999985
+      },
+      "page": 6
+    },
+    {
+      "text": "5.2",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.0706,
+        "top": 1.9542,
+        "width": 0.23550000000000004,
+        "height": 0.20189999999999997
+      },
+      "page": 6
+    },
+    {
+      "text": "Transfers",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.361,
+        "top": 1.9554,
+        "width": 0.6996,
+        "height": 0.2008000000000001
+      },
+      "page": 6
+    },
+    {
+      "text": "exceeding",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.1121,
+        "top": 1.9564,
+        "width": 0.7486999999999999,
+        "height": 0.20009999999999994
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.9156,
+        "top": 1.9565,
+        "width": 0.22599999999999998,
+        "height": 0.2008000000000003
+      },
+      "page": 6
+    },
+    {
+      "text": "threshold",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.1933,
+        "top": 1.9565,
+        "width": 0.6767000000000003,
+        "height": 0.2010000000000003
+      },
+      "page": 6
+    },
+    {
+      "text": "amount",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 3.9285,
+        "top": 1.9569,
+        "width": 0.5391999999999997,
+        "height": 0.2001999999999997
+      },
+      "page": 6
+    },
+    {
+      "text": "require",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.5068,
+        "top": 1.9561,
+        "width": 0.5357000000000003,
+        "height": 0.20099999999999985
+      },
+      "page": 6
+    },
+    {
+      "text": "dual",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.0946,
+        "top": 1.9557,
+        "width": 0.3039000000000005,
+        "height": 0.20099999999999985
+      },
+      "page": 6
+    },
+    {
+      "text": "authorization.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.4571,
+        "top": 1.9554,
+        "width": 0.9866000000000001,
+        "height": 0.1997
+      },
+      "page": 6
+    },
+    {
+      "text": "The",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.499,
+        "top": 1.9555,
+        "width": 0.28440000000000065,
+        "height": 0.19789999999999996
+      },
+      "page": 6
+    },
+    {
+      "text": "first",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 6.8321,
+        "top": 1.9563,
+        "width": 0.29000000000000004,
+        "height": 0.19599999999999995
+      },
+      "page": 6
+    },
+    {
+      "text": "approver",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0679,
+        "top": 2.1873,
+        "width": 0.6463999999999999,
+        "height": 0.19640000000000013
+      },
+      "page": 6
+    },
+    {
+      "text": "reviews",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.7531,
+        "top": 2.1852,
+        "width": 0.5944999999999998,
+        "height": 0.1974999999999998
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.3959,
+        "top": 2.1845,
+        "width": 0.21019999999999994,
+        "height": 0.19830000000000014
+      },
+      "page": 6
+    },
+    {
+      "text": "request",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.6444,
+        "top": 2.1836,
+        "width": 0.5884999999999998,
+        "height": 0.19869999999999965
+      },
+      "page": 6
+    },
+    {
+      "text": "for",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.2744,
+        "top": 2.1834,
+        "width": 0.20089999999999986,
+        "height": 0.19860000000000033
+      },
+      "page": 6
+    },
+    {
+      "text": "completeness",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.5202,
+        "top": 2.1829,
+        "width": 1.0213999999999999,
+        "height": 0.1987000000000001
+      },
+      "page": 6
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.5965,
+        "top": 2.1827,
+        "width": 0.26500000000000057,
+        "height": 0.19879999999999987
+      },
+      "page": 6
+    },
+    {
+      "text": "accuracy.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.9196,
+        "top": 2.1827,
+        "width": 0.6980000000000004,
+        "height": 0.1985999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "The",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.6756,
+        "top": 2.1825,
+        "width": 0.28449999999999953,
+        "height": 0.19879999999999987
+      },
+      "page": 6
+    },
+    {
+      "text": "second",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.0116,
+        "top": 2.1826,
+        "width": 0.5236000000000001,
+        "height": 0.19940000000000024
+      },
+      "page": 6
+    },
+    {
+      "text": "approver",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.5964,
+        "top": 2.1846,
+        "width": 0.6696,
+        "height": 0.1982999999999997
+      },
+      "page": 6
+    },
+    {
+      "text": "independently",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0656,
+        "top": 2.406,
+        "width": 1.0548999999999997,
+        "height": 0.20140000000000002
+      },
+      "page": 6
+    },
+    {
+      "text": "verifies",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.1632,
+        "top": 2.4065,
+        "width": 0.5273000000000003,
+        "height": 0.2009000000000003
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.7398,
+        "top": 2.4066,
+        "width": 0.2110000000000003,
+        "height": 0.2008000000000001
+      },
+      "page": 6
+    },
+    {
+      "text": "recipient",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.99,
+        "top": 2.4056,
+        "width": 0.6567999999999996,
+        "height": 0.20179999999999998
+      },
+      "page": 6
+    },
+    {
+      "text": "details",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.6956,
+        "top": 2.4058,
+        "width": 0.47789999999999955,
+        "height": 0.2016
+      },
+      "page": 6
+    },
+    {
+      "text": "and",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.2259,
+        "top": 2.4077,
+        "width": 0.26729999999999965,
+        "height": 0.1997
+      },
+      "page": 6
+    },
+    {
+      "text": "supporting",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.5484,
+        "top": 2.4076,
+        "width": 0.7686999999999999,
+        "height": 0.1998000000000002
+      },
+      "page": 6
+    },
+    {
+      "text": "documents.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.373,
+        "top": 2.4075,
+        "width": 0.8580999999999994,
+        "height": 0.19989999999999997
+      },
+      "page": 6
+    },
+    {
+      "text": "5.3",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.0702,
+        "top": 2.7349,
+        "width": 0.2378,
+        "height": 0.20279999999999987
+      },
+      "page": 6
+    },
+    {
+      "text": "All",
+      "confidence": 0.963,
+      "bbox": {
+        "left": 1.3591,
+        "top": 2.736,
+        "width": 0.17959999999999998,
+        "height": 0.20099999999999962
+      },
+      "page": 6
+    },
+    {
+      "text": "approved",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.593,
+        "top": 2.7369,
+        "width": 0.6831999999999998,
+        "height": 0.1998000000000002
+      },
+      "page": 6
+    },
+    {
+      "text": "transfers",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.3305,
+        "top": 2.7384,
+        "width": 0.6247000000000003,
+        "height": 0.19750000000000023
+      },
+      "page": 6
+    },
+    {
+      "text": "must",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 2.9931,
+        "top": 2.739,
+        "width": 0.3780000000000001,
+        "height": 0.1969000000000003
+      },
+      "page": 6
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.4091,
+        "top": 2.7397,
+        "width": 0.20889999999999986,
+        "height": 0.19629999999999992
+      },
+      "page": 6
+    },
+    {
+      "text": "recorded",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.6725,
+        "top": 2.7385,
+        "width": 0.6439999999999997,
+        "height": 0.19799999999999995
+      },
+      "page": 6
+    },
+    {
+      "text": "in",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.3775,
+        "top": 2.7384,
+        "width": 0.1144999999999996,
+        "height": 0.19830000000000014
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.5466,
+        "top": 2.7383,
+        "width": 0.22800000000000065,
+        "height": 0.19869999999999965
+      },
+      "page": 6
+    },
+    {
+      "text": "transaction",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.8228,
+        "top": 2.7377,
+        "width": 0.7965,
+        "height": 0.19940000000000024
+      },
+      "page": 6
+    },
+    {
+      "text": "log",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.6571,
+        "top": 2.7378,
+        "width": 0.24160000000000004,
+        "height": 0.19890000000000008
+      },
+      "page": 6
+    },
+    {
+      "text": "within",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.9502,
+        "top": 2.7378,
+        "width": 0.4196,
+        "height": 0.19890000000000008
+      },
+      "page": 6
+    },
+    {
+      "text": "one",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 6.4279,
+        "top": 2.7376,
+        "width": 0.2732999999999999,
+        "height": 0.19910000000000005
+      },
+      "page": 6
+    },
+    {
+      "text": "business",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.7593,
+        "top": 2.738,
+        "width": 0.6616,
+        "height": 0.19799999999999995
+      },
+      "page": 6
+    },
+    {
+      "text": "day",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.0687,
+        "top": 2.96,
+        "width": 0.28269999999999995,
+        "height": 0.20350000000000001
+      },
+      "page": 6
+    },
+    {
+      "text": "of",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.3978,
+        "top": 2.9611,
+        "width": 0.14640000000000009,
+        "height": 0.20069999999999988
+      },
+      "page": 6
+    },
+    {
+      "text": "execution.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.5839,
+        "top": 2.9588,
+        "width": 0.7480999999999998,
+        "height": 0.20489999999999986
+      },
+      "page": 6
+    },
+    {
+      "text": "The",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.388,
+        "top": 2.9589,
+        "width": 0.2631000000000001,
+        "height": 0.20450000000000035
+      },
+      "page": 6
+    },
+    {
+      "text": "log",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.6904,
+        "top": 2.9597,
+        "width": 0.2265999999999999,
+        "height": 0.20209999999999972
+      },
+      "page": 6
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.9563,
+        "top": 2.96,
+        "width": 0.3729,
+        "height": 0.20199999999999996
+      },
+      "page": 6
+    },
+    {
+      "text": "include",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.3685,
+        "top": 2.9596,
+        "width": 0.5324,
+        "height": 0.2025999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.9406,
+        "top": 2.9595,
+        "width": 0.25950000000000006,
+        "height": 0.20340000000000025
+      },
+      "page": 6
+    },
+    {
+      "text": "date,",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.253,
+        "top": 2.9596,
+        "width": 0.35599999999999987,
+        "height": 0.20429999999999993
+      },
+      "page": 6
+    },
+    {
+      "text": "time,",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.665,
+        "top": 2.9601,
+        "width": 0.3494999999999999,
+        "height": 0.20429999999999993
+      },
+      "page": 6
+    },
+    {
+      "text": "amount,",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.077,
+        "top": 2.9595,
+        "width": 0.5890000000000004,
+        "height": 0.20550000000000024
+      },
+      "page": 6
+    },
+    {
+      "text": "participants,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.7291,
+        "top": 2.9594,
+        "width": 0.8809000000000005,
+        "height": 0.2056
+      },
+      "page": 6
+    },
+    {
+      "text": "and",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 6.6697,
+        "top": 2.96,
+        "width": 0.28640000000000043,
+        "height": 0.20250000000000012
+      },
+      "page": 6
+    },
+    {
+      "text": "reference",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.068,
+        "top": 3.1928,
+        "width": 0.7138,
+        "height": 0.1730999999999998
+      },
+      "page": 6
+    },
+    {
+      "text": "number.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.841,
+        "top": 3.1936,
+        "width": 0.6050000000000002,
+        "height": 0.1722999999999999
+      },
+      "page": 6
+    },
+    {
+      "text": "Page",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.0674,
+        "top": 10.3944,
+        "width": 0.2538999999999998,
+        "height": 0.1382000000000012
+      },
+      "page": 6
+    },
+    {
+      "text": "6",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.3564,
+        "top": 10.3961,
+        "width": 0.07070000000000043,
+        "height": 0.13619999999999877
+      },
+      "page": 6
+    },
+    {
+      "text": "6.",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0719,
+        "top": 0.8562,
+        "width": 0.15989999999999993,
+        "height": 0.21200000000000008
+      },
+      "page": 7
+    },
+    {
+      "text": "MONITORING",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.31,
+        "top": 0.8566,
+        "width": 1.2414999999999998,
+        "height": 0.20910000000000006
+      },
+      "page": 7
+    },
+    {
+      "text": "AND",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.6127,
+        "top": 0.8558,
+        "width": 0.41500000000000004,
+        "height": 0.2078000000000001
+      },
+      "page": 7
+    },
+    {
+      "text": "REPORTING",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.1024,
+        "top": 0.8533,
+        "width": 1.1530999999999998,
+        "height": 0.20910000000000006
+      },
+      "page": 7
+    },
+    {
+      "text": "6.1",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0663,
+        "top": 1.1818,
+        "width": 0.21849999999999992,
+        "height": 0.19979999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "The",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.3597,
+        "top": 1.1816,
+        "width": 0.28380000000000005,
+        "height": 0.20009999999999994
+      },
+      "page": 7
+    },
+    {
+      "text": "Compliance",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.6954,
+        "top": 1.1819,
+        "width": 0.8739999999999999,
+        "height": 0.20030000000000014
+      },
+      "page": 7
+    },
+    {
+      "text": "team",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.6178,
+        "top": 1.1839,
+        "width": 0.36560000000000015,
+        "height": 0.19940000000000002
+      },
+      "page": 7
+    },
+    {
+      "text": "shall",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.0383,
+        "top": 1.1841,
+        "width": 0.33309999999999995,
+        "height": 0.19930000000000003
+      },
+      "page": 7
+    },
+    {
+      "text": "generate",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.4264,
+        "top": 1.1846,
+        "width": 0.6524999999999999,
+        "height": 0.2003999999999999
+      },
+      "page": 7
+    },
+    {
+      "text": "daily",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.1309,
+        "top": 1.1845,
+        "width": 0.32620000000000005,
+        "height": 0.2013999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "reports",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.4962,
+        "top": 1.1846,
+        "width": 0.5380000000000003,
+        "height": 0.2013999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "of",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.0831,
+        "top": 1.1846,
+        "width": 0.14670000000000005,
+        "height": 0.20119999999999982
+      },
+      "page": 7
+    },
+    {
+      "text": "all",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.2721,
+        "top": 1.1848,
+        "width": 0.15660000000000007,
+        "height": 0.19989999999999997
+      },
+      "page": 7
+    },
+    {
+      "text": "wire",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.4807,
+        "top": 1.185,
+        "width": 0.3033999999999999,
+        "height": 0.1983999999999999
+      },
+      "page": 7
+    },
+    {
+      "text": "transfers",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.8327,
+        "top": 1.1863,
+        "width": 0.6458000000000004,
+        "height": 0.19720000000000004
+      },
+      "page": 7
+    },
+    {
+      "text": "exceeding",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.5303,
+        "top": 1.1875,
+        "width": 0.7632999999999992,
+        "height": 0.19989999999999997
+      },
+      "page": 7
+    },
+    {
+      "text": "the",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.0624,
+        "top": 1.4046,
+        "width": 0.22930000000000006,
+        "height": 0.19369999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "threshold",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.3297,
+        "top": 1.4049,
+        "width": 0.7063999999999997,
+        "height": 0.19300000000000006
+      },
+      "page": 7
+    },
+    {
+      "text": "amount",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.0933,
+        "top": 1.405,
+        "width": 0.5537999999999998,
+        "height": 0.1943999999999999
+      },
+      "page": 7
+    },
+    {
+      "text": "and",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.6979,
+        "top": 1.4055,
+        "width": 0.26419999999999977,
+        "height": 0.1946000000000001
+      },
+      "page": 7
+    },
+    {
+      "text": "review",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.0257,
+        "top": 1.4056,
+        "width": 0.47419999999999973,
+        "height": 0.19520000000000004
+      },
+      "page": 7
+    },
+    {
+      "text": "them",
+      "confidence": 0.985,
+      "bbox": {
+        "left": 3.5444,
+        "top": 1.4055,
+        "width": 0.3628,
+        "height": 0.19680000000000009
+      },
+      "page": 7
+    },
+    {
+      "text": "for",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.9612,
+        "top": 1.4066,
+        "width": 0.2004999999999999,
+        "height": 0.19629999999999992
+      },
+      "page": 7
+    },
+    {
+      "text": "unusual",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.2091,
+        "top": 1.4065,
+        "width": 0.5698999999999996,
+        "height": 0.19779999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "patterns.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.8392,
+        "top": 1.4082,
+        "width": 0.6448,
+        "height": 0.19640000000000013
+      },
+      "page": 7
+    },
+    {
+      "text": "6.2",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.0679,
+        "top": 1.7377,
+        "width": 0.22209999999999996,
+        "height": 0.19979999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "Monthly",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.329,
+        "top": 1.7377,
+        "width": 0.6140000000000001,
+        "height": 0.19989999999999997
+      },
+      "page": 7
+    },
+    {
+      "text": "summary",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.9915,
+        "top": 1.7369,
+        "width": 0.6828999999999998,
+        "height": 0.2003999999999999
+      },
+      "page": 7
+    },
+    {
+      "text": "reports",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.7294,
+        "top": 1.7367,
+        "width": 0.5066000000000002,
+        "height": 0.20020000000000016
+      },
+      "page": 7
+    },
+    {
+      "text": "shall",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.2879,
+        "top": 1.7372,
+        "width": 0.33340000000000014,
+        "height": 0.19909999999999983
+      },
+      "page": 7
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.6829,
+        "top": 1.737,
+        "width": 0.17349999999999977,
+        "height": 0.1993999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "provided",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.9149,
+        "top": 1.7355,
+        "width": 0.6239000000000003,
+        "height": 0.2004999999999999
+      },
+      "page": 7
+    },
+    {
+      "text": "to",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 4.5911,
+        "top": 1.7353,
+        "width": 0.13710000000000022,
+        "height": 0.19930000000000003
+      },
+      "page": 7
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 4.7772,
+        "top": 1.7354,
+        "width": 0.22860000000000014,
+        "height": 0.19930000000000003
+      },
+      "page": 7
+    },
+    {
+      "text": "Risk",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.0645,
+        "top": 1.7356,
+        "width": 0.31680000000000064,
+        "height": 0.19910000000000005
+      },
+      "page": 7
+    },
+    {
+      "text": "Committee",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.4302,
+        "top": 1.7351,
+        "width": 0.7966999999999995,
+        "height": 0.1992999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "detailing",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.2791,
+        "top": 1.7351,
+        "width": 0.6107000000000005,
+        "height": 0.2017
+      },
+      "page": 7
+    },
+    {
+      "text": "total",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 6.9419,
+        "top": 1.7341,
+        "width": 0.3295999999999992,
+        "height": 0.2026000000000001
+      },
+      "page": 7
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0634,
+        "top": 1.9609,
+        "width": 0.5858000000000001,
+        "height": 0.19399999999999995
+      },
+      "page": 7
+    },
+    {
+      "text": "volumes,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.6903,
+        "top": 1.9607,
+        "width": 0.6593000000000002,
+        "height": 0.1953999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "exception",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.41,
+        "top": 1.9604,
+        "width": 0.7005999999999997,
+        "height": 0.1976
+      },
+      "page": 7
+    },
+    {
+      "text": "counts,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.168,
+        "top": 1.96,
+        "width": 0.5247999999999999,
+        "height": 0.19830000000000014
+      },
+      "page": 7
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.7501,
+        "top": 1.9599,
+        "width": 0.26880000000000015,
+        "height": 0.19829999999999992
+      },
+      "page": 7
+    },
+    {
+      "text": "any",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.0763,
+        "top": 1.9603,
+        "width": 0.24950000000000028,
+        "height": 0.1975
+      },
+      "page": 7
+    },
+    {
+      "text": "identified",
+      "confidence": 0.991,
+      "bbox": {
+        "left": 4.364,
+        "top": 1.9603,
+        "width": 0.6816000000000004,
+        "height": 0.19740000000000024
+      },
+      "page": 7
+    },
+    {
+      "text": "concerns.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.1062,
+        "top": 1.9612,
+        "width": 0.7153999999999998,
+        "height": 0.19440000000000013
+      },
+      "page": 7
+    },
+    {
+      "text": "6.3",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.0682,
+        "top": 2.2956,
+        "width": 0.23970000000000002,
+        "height": 0.20110000000000028
+      },
+      "page": 7
+    },
+    {
+      "text": "Any",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.3568,
+        "top": 2.2959,
+        "width": 0.2922,
+        "height": 0.2008000000000001
+      },
+      "page": 7
+    },
+    {
+      "text": "suspicious",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.6945,
+        "top": 2.297,
+        "width": 0.7743,
+        "height": 0.1997
+      },
+      "page": 7
+    },
+    {
+      "text": "activity",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.5205,
+        "top": 2.2977,
+        "width": 0.48939999999999984,
+        "height": 0.1990000000000003
+      },
+      "page": 7
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.0487,
+        "top": 2.2992,
+        "width": 0.36789999999999967,
+        "height": 0.19750000000000023
+      },
+      "page": 7
+    },
+    {
+      "text": "be",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.4554,
+        "top": 2.2988,
+        "width": 0.20710000000000006,
+        "height": 0.1979000000000002
+      },
+      "page": 7
+    },
+    {
+      "text": "reported",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.7212,
+        "top": 2.2968,
+        "width": 0.5874000000000001,
+        "height": 0.19989999999999997
+      },
+      "page": 7
+    },
+    {
+      "text": "immediately",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.3478,
+        "top": 2.2967,
+        "width": 0.9215999999999998,
+        "height": 0.20000000000000018
+      },
+      "page": 7
+    },
+    {
+      "text": "to",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.315,
+        "top": 2.2978,
+        "width": 0.13479999999999936,
+        "height": 0.19890000000000008
+      },
+      "page": 7
+    },
+    {
+      "text": "the",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.4988,
+        "top": 2.2977,
+        "width": 0.2298,
+        "height": 0.1990000000000003
+      },
+      "page": 7
+    },
+    {
+      "text": "designated",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.7808,
+        "top": 2.2964,
+        "width": 0.8210999999999995,
+        "height": 0.20009999999999994
+      },
+      "page": 7
+    },
+    {
+      "text": "compliance",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0698,
+        "top": 2.5228,
+        "width": 0.8494999999999999,
+        "height": 0.1953999999999998
+      },
+      "page": 7
+    },
+    {
+      "text": "officer",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.9729,
+        "top": 2.5217,
+        "width": 0.4567000000000001,
+        "height": 0.19479999999999986
+      },
+      "page": 7
+    },
+    {
+      "text": "and",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 2.4738,
+        "top": 2.5217,
+        "width": 0.2649999999999997,
+        "height": 0.19369999999999976
+      },
+      "page": 7
+    },
+    {
+      "text": "documented",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.7993,
+        "top": 2.5211,
+        "width": 0.8872999999999998,
+        "height": 0.19409999999999972
+      },
+      "page": 7
+    },
+    {
+      "text": "in",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.7247,
+        "top": 2.5208,
+        "width": 0.15339999999999998,
+        "height": 0.19410000000000016
+      },
+      "page": 7
+    },
+    {
+      "text": "the",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 3.9353,
+        "top": 2.5208,
+        "width": 0.21079999999999988,
+        "height": 0.19520000000000026
+      },
+      "page": 7
+    },
+    {
+      "text": "incident",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.1842,
+        "top": 2.5208,
+        "width": 0.5872000000000002,
+        "height": 0.19700000000000006
+      },
+      "page": 7
+    },
+    {
+      "text": "management",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.8093,
+        "top": 2.5222,
+        "width": 0.9962999999999997,
+        "height": 0.19599999999999973
+      },
+      "page": 7
+    },
+    {
+      "text": "system.",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.8531,
+        "top": 2.5225,
+        "width": 0.5716999999999999,
+        "height": 0.19569999999999999
+      },
+      "page": 7
+    },
+    {
+      "text": "Page",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.0684,
+        "top": 10.3944,
+        "width": 0.2528000000000006,
+        "height": 0.13780000000000037
+      },
+      "page": 7
+    },
+    {
+      "text": "7",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.3565,
+        "top": 10.3947,
+        "width": 0.06960000000000033,
+        "height": 0.13710000000000022
+      },
+      "page": 7
+    },
+    {
+      "text": "7.",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.0689,
+        "top": 0.8546,
+        "width": 0.16400000000000015,
+        "height": 0.20829999999999993
+      },
+      "page": 8
+    },
+    {
+      "text": "RECORD",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.3079,
+        "top": 0.8528,
+        "width": 0.8266999999999998,
+        "height": 0.21009999999999995
+      },
+      "page": 8
+    },
+    {
+      "text": "RETENTION",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.2061,
+        "top": 0.8526,
+        "width": 1.1197,
+        "height": 0.21029999999999993
+      },
+      "page": 8
+    },
+    {
+      "text": "All",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0689,
+        "top": 1.1829,
+        "width": 0.17890000000000006,
+        "height": 0.19299999999999984
+      },
+      "page": 8
+    },
+    {
+      "text": "records",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.2852,
+        "top": 1.1843,
+        "width": 0.5610000000000002,
+        "height": 0.19220000000000015
+      },
+      "page": 8
+    },
+    {
+      "text": "related",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.8834,
+        "top": 1.1863,
+        "width": 0.5326,
+        "height": 0.19020000000000015
+      },
+      "page": 8
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.4685,
+        "top": 1.1865,
+        "width": 0.13850000000000007,
+        "height": 0.1903999999999999
+      },
+      "page": 8
+    },
+    {
+      "text": "wire",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.653,
+        "top": 1.1871,
+        "width": 0.3041999999999998,
+        "height": 0.19100000000000006
+      },
+      "page": 8
+    },
+    {
+      "text": "transfer",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.0064,
+        "top": 1.1872,
+        "width": 0.5682999999999998,
+        "height": 0.19290000000000007
+      },
+      "page": 8
+    },
+    {
+      "text": "operations,",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.6212,
+        "top": 1.1853,
+        "width": 0.8129999999999997,
+        "height": 0.19869999999999988
+      },
+      "page": 8
+    },
+    {
+      "text": "including",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.4968,
+        "top": 1.1853,
+        "width": 0.6440999999999999,
+        "height": 0.19869999999999988
+      },
+      "page": 8
+    },
+    {
+      "text": "request",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.2001,
+        "top": 1.1862,
+        "width": 0.5518999999999998,
+        "height": 0.19779999999999998
+      },
+      "page": 8
+    },
+    {
+      "text": "forms,",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.7951,
+        "top": 1.1884,
+        "width": 0.4535,
+        "height": 0.1956
+      },
+      "page": 8
+    },
+    {
+      "text": "approval",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.3081,
+        "top": 1.188,
+        "width": 0.6480000000000006,
+        "height": 0.19599999999999995
+      },
+      "page": 8
+    },
+    {
+      "text": "documentation,",
+      "confidence": 0.987,
+      "bbox": {
+        "left": 1.0719,
+        "top": 1.4102,
+        "width": 1.1390999999999998,
+        "height": 0.19120000000000004
+      },
+      "page": 8
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.2697,
+        "top": 1.4098,
+        "width": 0.266,
+        "height": 0.1926000000000001
+      },
+      "page": 8
+    },
+    {
+      "text": "transaction",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.5912,
+        "top": 1.4091,
+        "width": 0.8083,
+        "height": 0.19340000000000002
+      },
+      "page": 8
+    },
+    {
+      "text": "logs,",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.4616,
+        "top": 1.4079,
+        "width": 0.3226,
+        "height": 0.19430000000000014
+      },
+      "page": 8
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.8212,
+        "top": 1.4071,
+        "width": 0.39170000000000016,
+        "height": 0.19669999999999987
+      },
+      "page": 8
+    },
+    {
+      "text": "be",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.2655,
+        "top": 1.4075,
+        "width": 0.1617999999999995,
+        "height": 0.19619999999999993
+      },
+      "page": 8
+    },
+    {
+      "text": "retained",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.4642,
+        "top": 1.4091,
+        "width": 0.6188000000000002,
+        "height": 0.19399999999999995
+      },
+      "page": 8
+    },
+    {
+      "text": "for",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.1391,
+        "top": 1.4102,
+        "width": 0.19930000000000003,
+        "height": 0.19240000000000013
+      },
+      "page": 8
+    },
+    {
+      "text": "a",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.3816,
+        "top": 1.4096,
+        "width": 0.0860000000000003,
+        "height": 0.19330000000000003
+      },
+      "page": 8
+    },
+    {
+      "text": "minimum",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.5264,
+        "top": 1.4093,
+        "width": 0.6600000000000001,
+        "height": 0.19520000000000004
+      },
+      "page": 8
+    },
+    {
+      "text": "of",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.2418,
+        "top": 1.411,
+        "width": 0.14640000000000075,
+        "height": 0.1943999999999999
+      },
+      "page": 8
+    },
+    {
+      "text": "seven",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.4276,
+        "top": 1.4123,
+        "width": 0.4366000000000003,
+        "height": 0.19309999999999983
+      },
+      "page": 8
+    },
+    {
+      "text": "years",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.9203,
+        "top": 1.4121,
+        "width": 0.4120999999999997,
+        "height": 0.19330000000000003
+      },
+      "page": 8
+    },
+    {
+      "text": "in",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.068,
+        "top": 1.6281,
+        "width": 0.13339999999999996,
+        "height": 0.1977
+      },
+      "page": 8
+    },
+    {
+      "text": "accordance",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.2577,
+        "top": 1.6256,
+        "width": 0.8585999999999998,
+        "height": 0.20290000000000008
+      },
+      "page": 8
+    },
+    {
+      "text": "with",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 2.1625,
+        "top": 1.6248,
+        "width": 0.27669999999999995,
+        "height": 0.20690000000000008
+      },
+      "page": 8
+    },
+    {
+      "text": "regulatory",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.4785,
+        "top": 1.6247,
+        "width": 0.7726999999999999,
+        "height": 0.2077
+      },
+      "page": 8
+    },
+    {
+      "text": "requirements.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 3.3002,
+        "top": 1.6266,
+        "width": 1.0162,
+        "height": 0.20579999999999998
+      },
+      "page": 8
+    },
+    {
+      "text": "Electronic",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.075,
+        "top": 1.9597,
+        "width": 0.7197,
+        "height": 0.1933999999999998
+      },
+      "page": 8
+    },
+    {
+      "text": "records",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.8321,
+        "top": 1.9596,
+        "width": 0.5661,
+        "height": 0.19379999999999997
+      },
+      "page": 8
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.4354,
+        "top": 1.9599,
+        "width": 0.3736999999999999,
+        "height": 0.1935
+      },
+      "page": 8
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.846,
+        "top": 1.962,
+        "width": 0.20389999999999997,
+        "height": 0.19150000000000023
+      },
+      "page": 8
+    },
+    {
+      "text": "stored",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.1031,
+        "top": 1.9613,
+        "width": 0.43800000000000017,
+        "height": 0.19399999999999995
+      },
+      "page": 8
+    },
+    {
+      "text": "in",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.5781,
+        "top": 1.9608,
+        "width": 0.15559999999999974,
+        "height": 0.1956
+      },
+      "page": 8
+    },
+    {
+      "text": "the",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.7835,
+        "top": 1.9599,
+        "width": 0.22949999999999982,
+        "height": 0.19789999999999996
+      },
+      "page": 8
+    },
+    {
+      "text": "approved",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.0662,
+        "top": 1.9597,
+        "width": 0.6852,
+        "height": 0.1997000000000002
+      },
+      "page": 8
+    },
+    {
+      "text": "document",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.8082,
+        "top": 1.9614,
+        "width": 0.7103999999999999,
+        "height": 0.19829999999999992
+      },
+      "page": 8
+    },
+    {
+      "text": "management",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.5559,
+        "top": 1.962,
+        "width": 1.0028999999999995,
+        "height": 0.19940000000000002
+      },
+      "page": 8
+    },
+    {
+      "text": "system",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 6.6062,
+        "top": 1.9607,
+        "width": 0.5379999999999994,
+        "height": 0.20389999999999997
+      },
+      "page": 8
+    },
+    {
+      "text": "with",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0665,
+        "top": 2.1865,
+        "width": 0.30099999999999993,
+        "height": 0.1995
+      },
+      "page": 8
+    },
+    {
+      "text": "appropriate",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.4279,
+        "top": 2.1854,
+        "width": 0.8344000000000003,
+        "height": 0.2004999999999999
+      },
+      "page": 8
+    },
+    {
+      "text": "access",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.3162,
+        "top": 2.1853,
+        "width": 0.5118,
+        "height": 0.1958000000000002
+      },
+      "page": 8
+    },
+    {
+      "text": "controls.",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.8814,
+        "top": 2.1838,
+        "width": 0.6176999999999997,
+        "height": 0.19559999999999977
+      },
+      "page": 8
+    },
+    {
+      "text": "Physical",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.5654,
+        "top": 2.1809,
+        "width": 0.6016999999999997,
+        "height": 0.19680000000000009
+      },
+      "page": 8
+    },
+    {
+      "text": "records",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.2296,
+        "top": 2.1807,
+        "width": 0.5447000000000006,
+        "height": 0.19700000000000006
+      },
+      "page": 8
+    },
+    {
+      "text": "must",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.8278,
+        "top": 2.1821,
+        "width": 0.34280000000000044,
+        "height": 0.1936
+      },
+      "page": 8
+    },
+    {
+      "text": "be",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 5.2084,
+        "top": 2.1835,
+        "width": 0.20509999999999984,
+        "height": 0.19200000000000017
+      },
+      "page": 8
+    },
+    {
+      "text": "stored",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.4641,
+        "top": 2.1819,
+        "width": 0.4543999999999997,
+        "height": 0.19469999999999965
+      },
+      "page": 8
+    },
+    {
+      "text": "in",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 5.9781,
+        "top": 2.1815,
+        "width": 0.11609999999999943,
+        "height": 0.1953999999999998
+      },
+      "page": 8
+    },
+    {
+      "text": "a",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 6.1507,
+        "top": 2.1815,
+        "width": 0.08730000000000082,
+        "height": 0.19599999999999973
+      },
+      "page": 8
+    },
+    {
+      "text": "secure",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.2914,
+        "top": 2.1817,
+        "width": 0.47719999999999985,
+        "height": 0.19609999999999994
+      },
+      "page": 8
+    },
+    {
+      "text": "location",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 6.8065,
+        "top": 2.1816,
+        "width": 0.6089000000000002,
+        "height": 0.1966000000000001
+      },
+      "page": 8
+    },
+    {
+      "text": "with",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0639,
+        "top": 2.4147,
+        "width": 0.30589999999999984,
+        "height": 0.18000000000000016
+      },
+      "page": 8
+    },
+    {
+      "text": "restricted",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.431,
+        "top": 2.4141,
+        "width": 0.6694999999999998,
+        "height": 0.18230000000000013
+      },
+      "page": 8
+    },
+    {
+      "text": "access.",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.1589,
+        "top": 2.4158,
+        "width": 0.5638000000000001,
+        "height": 0.1806000000000001
+      },
+      "page": 8
+    },
+    {
+      "text": "Page",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.0676,
+        "top": 10.3942,
+        "width": 0.2538,
+        "height": 0.1382000000000012
+      },
+      "page": 8
+    },
+    {
+      "text": "8",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.357,
+        "top": 10.3948,
+        "width": 0.06449999999999978,
+        "height": 0.1372
+      },
+      "page": 8
+    },
+    {
+      "text": "8.",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.0683,
+        "top": 0.857,
+        "width": 0.16399999999999992,
+        "height": 0.20589999999999997
+      },
+      "page": 9
+    },
+    {
+      "text": "POLICY",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.3088,
+        "top": 0.8568,
+        "width": 0.7115000000000002,
+        "height": 0.20540000000000003
+      },
+      "page": 9
+    },
+    {
+      "text": "REVIEW",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.0833,
+        "top": 0.8548,
+        "width": 0.7722000000000002,
+        "height": 0.20500000000000007
+      },
+      "page": 9
+    },
+    {
+      "text": "This",
+      "confidence": 0.999,
+      "bbox": {
+        "left": 1.0715,
+        "top": 1.1824,
+        "width": 0.3209000000000002,
+        "height": 0.2016
+      },
+      "page": 9
+    },
+    {
+      "text": "policy",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.4513,
+        "top": 1.1824,
+        "width": 0.4159999999999999,
+        "height": 0.2016
+      },
+      "page": 9
+    },
+    {
+      "text": "shall",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.9196,
+        "top": 1.1838,
+        "width": 0.31769999999999987,
+        "height": 0.20019999999999993
+      },
+      "page": 9
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.2765,
+        "top": 1.1841,
+        "width": 0.20970000000000022,
+        "height": 0.19920000000000004
+      },
+      "page": 9
+    },
+    {
+      "text": "reviewed",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.5418,
+        "top": 1.1847,
+        "width": 0.6520000000000001,
+        "height": 0.19829999999999992
+      },
+      "page": 9
+    },
+    {
+      "text": "annually",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.2524,
+        "top": 1.1842,
+        "width": 0.6158999999999999,
+        "height": 0.19979999999999998
+      },
+      "page": 9
+    },
+    {
+      "text": "by",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.9204,
+        "top": 1.1833,
+        "width": 0.1509999999999998,
+        "height": 0.20069999999999988
+      },
+      "page": 9
+    },
+    {
+      "text": "the",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.1103,
+        "top": 1.1829,
+        "width": 0.25590000000000046,
+        "height": 0.20109999999999983
+      },
+      "page": 9
+    },
+    {
+      "text": "Policy",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 4.4246,
+        "top": 1.1829,
+        "width": 0.4356,
+        "height": 0.20109999999999983
+      },
+      "page": 9
+    },
+    {
+      "text": "Committee",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 4.9126,
+        "top": 1.1836,
+        "width": 0.7961,
+        "height": 0.2003999999999999
+      },
+      "page": 9
+    },
+    {
+      "text": "and",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.7639,
+        "top": 1.184,
+        "width": 0.2625000000000002,
+        "height": 0.19920000000000004
+      },
+      "page": 9
+    },
+    {
+      "text": "updated",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 6.0881,
+        "top": 1.1848,
+        "width": 0.5897000000000006,
+        "height": 0.1983999999999999
+      },
+      "page": 9
+    },
+    {
+      "text": "as",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 6.7332,
+        "top": 1.185,
+        "width": 0.18409999999999993,
+        "height": 0.19629999999999992
+      },
+      "page": 9
+    },
+    {
+      "text": "necessary",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.0701,
+        "top": 1.4152,
+        "width": 0.7718,
+        "height": 0.1943999999999999
+      },
+      "page": 9
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 1.8865,
+        "top": 1.4147,
+        "width": 0.1186999999999998,
+        "height": 0.1935
+      },
+      "page": 9
+    },
+    {
+      "text": "reflect",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 2.0434,
+        "top": 1.4126,
+        "width": 0.48360000000000003,
+        "height": 0.19519999999999982
+      },
+      "page": 9
+    },
+    {
+      "text": "changes",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.5744,
+        "top": 1.4118,
+        "width": 0.6089000000000002,
+        "height": 0.19650000000000012
+      },
+      "page": 9
+    },
+    {
+      "text": "in",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 3.2213,
+        "top": 1.4112,
+        "width": 0.15090000000000003,
+        "height": 0.19720000000000004
+      },
+      "page": 9
+    },
+    {
+      "text": "regulatory",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.4327,
+        "top": 1.411,
+        "width": 0.7110999999999996,
+        "height": 0.19879999999999987
+      },
+      "page": 9
+    },
+    {
+      "text": "requirements,",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.1821,
+        "top": 1.41,
+        "width": 1.0373999999999999,
+        "height": 0.19979999999999998
+      },
+      "page": 9
+    },
+    {
+      "text": "organizational",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 5.2803,
+        "top": 1.4098,
+        "width": 1.0276999999999994,
+        "height": 0.19740000000000002
+      },
+      "page": 9
+    },
+    {
+      "text": "structure,",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 6.3623,
+        "top": 1.41,
+        "width": 0.6819999999999995,
+        "height": 0.19430000000000014
+      },
+      "page": 9
+    },
+    {
+      "text": "or",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 7.105,
+        "top": 1.4123,
+        "width": 0.1609999999999996,
+        "height": 0.1916
+      },
+      "page": 9
+    },
+    {
+      "text": "business",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 1.0692,
+        "top": 1.635,
+        "width": 0.6537000000000002,
+        "height": 0.1887000000000001
+      },
+      "page": 9
+    },
+    {
+      "text": "processes.",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.759,
+        "top": 1.6384,
+        "width": 0.8308,
+        "height": 0.18499999999999983
+      },
+      "page": 9
+    },
+    {
+      "text": "All",
+      "confidence": 0.981,
+      "bbox": {
+        "left": 1.0702,
+        "top": 1.9576,
+        "width": 0.18779999999999997,
+        "height": 0.19540000000000002
+      },
+      "page": 9
+    },
+    {
+      "text": "amendments",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.3153,
+        "top": 1.9582,
+        "width": 0.9431,
+        "height": 0.19520000000000004
+      },
+      "page": 9
+    },
+    {
+      "text": "must",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.2957,
+        "top": 1.96,
+        "width": 0.38859999999999983,
+        "height": 0.1947000000000001
+      },
+      "page": 9
+    },
+    {
+      "text": "be",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.7376,
+        "top": 1.9595,
+        "width": 0.17589999999999995,
+        "height": 0.19540000000000002
+      },
+      "page": 9
+    },
+    {
+      "text": "approved",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.9638,
+        "top": 1.9578,
+        "width": 0.6854,
+        "height": 0.1986000000000001
+      },
+      "page": 9
+    },
+    {
+      "text": "by",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 3.7099,
+        "top": 1.957,
+        "width": 0.16839999999999966,
+        "height": 0.19969999999999977
+      },
+      "page": 9
+    },
+    {
+      "text": "the",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 3.9229,
+        "top": 1.9563,
+        "width": 0.2296999999999998,
+        "height": 0.20079999999999987
+      },
+      "page": 9
+    },
+    {
+      "text": "Chief",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.2068,
+        "top": 1.9563,
+        "width": 0.39429999999999943,
+        "height": 0.20079999999999987
+      },
+      "page": 9
+    },
+    {
+      "text": "Compliance",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 4.642,
+        "top": 1.9558,
+        "width": 0.8723999999999998,
+        "height": 0.20109999999999983
+      },
+      "page": 9
+    },
+    {
+      "text": "Officer",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 5.5684,
+        "top": 1.9553,
+        "width": 0.49130000000000074,
+        "height": 0.1988000000000001
+      },
+      "page": 9
+    },
+    {
+      "text": "and",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 6.1044,
+        "top": 1.9553,
+        "width": 0.28720000000000034,
+        "height": 0.19759999999999978
+      },
+      "page": 9
+    },
+    {
+      "text": "communicated",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0705,
+        "top": 2.1827,
+        "width": 1.0859,
+        "height": 0.1932999999999998
+      },
+      "page": 9
+    },
+    {
+      "text": "to",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 2.21,
+        "top": 2.1827,
+        "width": 0.13819999999999988,
+        "height": 0.19340000000000002
+      },
+      "page": 9
+    },
+    {
+      "text": "all",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.3989,
+        "top": 2.1827,
+        "width": 0.15730000000000022,
+        "height": 0.1936
+      },
+      "page": 9
+    },
+    {
+      "text": "affected",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 2.6102,
+        "top": 2.1817,
+        "width": 0.5836000000000001,
+        "height": 0.19499999999999984
+      },
+      "page": 9
+    },
+    {
+      "text": "personnel",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 3.2568,
+        "top": 2.1806,
+        "width": 0.7176999999999998,
+        "height": 0.19769999999999976
+      },
+      "page": 9
+    },
+    {
+      "text": "within",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 4.025,
+        "top": 2.1807,
+        "width": 0.41999999999999993,
+        "height": 0.19920000000000027
+      },
+      "page": 9
+    },
+    {
+      "text": "30",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.5052,
+        "top": 2.1819,
+        "width": 0.17649999999999988,
+        "height": 0.19849999999999968
+      },
+      "page": 9
+    },
+    {
+      "text": "days",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 4.7324,
+        "top": 2.1821,
+        "width": 0.3463000000000003,
+        "height": 0.1983999999999999
+      },
+      "page": 9
+    },
+    {
+      "text": "of",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 5.1326,
+        "top": 2.1822,
+        "width": 0.14470000000000027,
+        "height": 0.19830000000000014
+      },
+      "page": 9
+    },
+    {
+      "text": "approval.",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 5.3182,
+        "top": 2.1824,
+        "width": 0.6859999999999999,
+        "height": 0.19810000000000016
+      },
+      "page": 9
+    },
+    {
+      "text": "Page",
+      "confidence": 0.988,
+      "bbox": {
+        "left": 4.0685,
+        "top": 10.3943,
+        "width": 0.25239999999999974,
+        "height": 0.1379999999999999
+      },
+      "page": 9
+    },
+    {
+      "text": "9",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 4.3543,
+        "top": 10.3937,
+        "width": 0.0671999999999997,
+        "height": 0.13739999999999952
+      },
+      "page": 9
+    },
+    {
+      "text": "APPROVAL",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0753,
+        "top": 0.8582,
+        "width": 1.085,
+        "height": 0.20309999999999995
+      },
+      "page": 10
+    },
+    {
+      "text": "SIGNATURES",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.2214,
+        "top": 0.8575,
+        "width": 1.2759999999999998,
+        "height": 0.2035999999999999
+      },
+      "page": 10
+    },
+    {
+      "text": "Chief",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0778,
+        "top": 1.5413,
+        "width": 0.4020999999999999,
+        "height": 0.1906000000000001
+      },
+      "page": 10
+    },
+    {
+      "text": "Compliance",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.5217,
+        "top": 1.542,
+        "width": 0.8717000000000001,
+        "height": 0.1896
+      },
+      "page": 10
+    },
+    {
+      "text": "Officer:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 2.4474,
+        "top": 1.5422,
+        "width": 0.5223,
+        "height": 0.18680000000000008
+      },
+      "page": 10
+    },
+    {
+      "text": "Patricia",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.0326,
+        "top": 1.5425,
+        "width": 0.5441000000000003,
+        "height": 0.18389999999999995
+      },
+      "page": 10
+    },
+    {
+      "text": "Miller",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.6364,
+        "top": 1.54,
+        "width": 0.40329999999999977,
+        "height": 0.18869999999999987
+      },
+      "page": 10
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0822,
+        "top": 1.8772,
+        "width": 0.3859999999999999,
+        "height": 0.17400000000000015
+      },
+      "page": 10
+    },
+    {
+      "text": "2025-02-14",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.5278,
+        "top": 1.8729,
+        "width": 0.8573,
+        "height": 0.17819999999999991
+      },
+      "page": 10
+    },
+    {
+      "text": "Signature:",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.08,
+        "top": 2.2151,
+        "width": 0.7627999999999999,
+        "height": 0.18199999999999994
+      },
+      "page": 10
+    },
+    {
+      "text": "VP",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0748,
+        "top": 2.8995,
+        "width": 0.2239,
+        "height": 0.1896
+      },
+      "page": 10
+    },
+    {
+      "text": "Operations:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.3537,
+        "top": 2.8993,
+        "width": 0.847,
+        "height": 0.18979999999999997
+      },
+      "page": 10
+    },
+    {
+      "text": "Robert",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.2678,
+        "top": 2.8992,
+        "width": 0.4944000000000002,
+        "height": 0.1886000000000001
+      },
+      "page": 10
+    },
+    {
+      "text": "Johnson",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 2.8075,
+        "top": 2.9005,
+        "width": 0.6345999999999998,
+        "height": 0.18409999999999993
+      },
+      "page": 10
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.992,
+      "bbox": {
+        "left": 1.0823,
+        "top": 3.2323,
+        "width": 0.38739999999999997,
+        "height": 0.17540000000000022
+      },
+      "page": 10
+    },
+    {
+      "text": "2025-02-14",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.5294,
+        "top": 3.229,
+        "width": 0.8612,
+        "height": 0.17859999999999987
+      },
+      "page": 10
+    },
+    {
+      "text": "Signature:",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.081,
+        "top": 3.5704,
+        "width": 0.7618,
+        "height": 0.18290000000000006
+      },
+      "page": 10
+    },
+    {
+      "text": "Director",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0785,
+        "top": 4.2529,
+        "width": 0.5925,
+        "height": 0.19299999999999962
+      },
+      "page": 10
+    },
+    {
+      "text": "of",
+      "confidence": 0.997,
+      "bbox": {
+        "left": 1.7108,
+        "top": 4.2562,
+        "width": 0.1277999999999999,
+        "height": 0.1900000000000004
+      },
+      "page": 10
+    },
+    {
+      "text": "Risk",
+      "confidence": 0.989,
+      "bbox": {
+        "left": 1.8751,
+        "top": 4.2555,
+        "width": 0.3303999999999998,
+        "height": 0.19270000000000032
+      },
+      "page": 10
+    },
+    {
+      "text": "Management:",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 2.2414,
+        "top": 4.2551,
+        "width": 1.0364,
+        "height": 0.1955
+      },
+      "page": 10
+    },
+    {
+      "text": "Jeffery",
+      "confidence": 0.996,
+      "bbox": {
+        "left": 3.3324,
+        "top": 4.2577,
+        "width": 0.5021,
+        "height": 0.19680000000000053
+      },
+      "page": 10
+    },
+    {
+      "text": "Wagner",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 3.8759,
+        "top": 4.2591,
+        "width": 0.5954999999999999,
+        "height": 0.19740000000000002
+      },
+      "page": 10
+    },
+    {
+      "text": "Date:",
+      "confidence": 0.995,
+      "bbox": {
+        "left": 1.0824,
+        "top": 4.5901,
+        "width": 0.38650000000000007,
+        "height": 0.1742000000000008
+      },
+      "page": 10
+    },
+    {
+      "text": "2025-02-14",
+      "confidence": 0.994,
+      "bbox": {
+        "left": 1.5284,
+        "top": 4.5861,
+        "width": 0.8567,
+        "height": 0.1780999999999997
+      },
+      "page": 10
+    },
+    {
+      "text": "Signature:",
+      "confidence": 0.993,
+      "bbox": {
+        "left": 1.0808,
+        "top": 4.9285,
+        "width": 0.762,
+        "height": 0.17940000000000023
+      },
+      "page": 10
+    },
+    {
+      "text": "Page",
+      "confidence": 0.991,
+      "bbox": {
+        "left": 4.0389,
+        "top": 10.3991,
+        "width": 0.2507999999999999,
+        "height": 0.13349999999999973
+      },
+      "page": 10
+    },
+    {
+      "text": "10",
+      "confidence": 0.998,
+      "bbox": {
+        "left": 4.3355,
+        "top": 10.3968,
+        "width": 0.11929999999999996,
+        "height": 0.13549999999999862
+      },
+      "page": 10
     }
   ],
   "tables": [],
-  "page_count": 2,
-  "latency_ms": 5294,
-  "cost_estimate_usd": 0.13,
+  "page_count": 10,
+  "latency_ms": 6455,
+  "cost_estimate_usd": 0.65,
   "raw_response": {},
   "error": null
 }

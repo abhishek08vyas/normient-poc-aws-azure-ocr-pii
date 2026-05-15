@@ -33,9 +33,25 @@
       "end_char": 104,
       "confidence": 0.75,
       "original_type": "CABankAccountNumber"
+    },
+    {
+      "entity_type": "SIN",
+      "text": "193 141 819",
+      "start_char": 76,
+      "end_char": 87,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_SIN"
+    },
+    {
+      "entity_type": "ACCOUNT",
+      "text": "7824657",
+      "start_char": 97,
+      "end_char": 104,
+      "confidence": 0.95,
+      "original_type": "CUSTOM_REGEX_ACCOUNT"
     }
   ],
-  "latency_ms": 210,
+  "latency_ms": 96,
   "cost_estimate_usd": 0.001,
   "char_count": 105,
   "error": null,
