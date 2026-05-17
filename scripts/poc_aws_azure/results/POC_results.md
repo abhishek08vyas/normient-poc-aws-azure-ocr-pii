@@ -1,6 +1,6 @@
 # POC Results — AWS vs Azure: OCR + PII Detection
 
-**Date:** 2026-05-14
+**Date:** 2026-05-15
 **Author:** P2
 **Corpus:** 10 OCR files + 200 PII documents (synthetic)
 
@@ -17,10 +17,10 @@
 | Recall — screenshots (avg %) | 100.0% | 99.5% | +0.5% |
 | Recall — multi-column PDFs (avg %) | 100.0% | 100.0% | +0.0% |
 | **Recall — overall (avg %)** | **100.0%** | **99.9%** | **+0.1%** |
-| Latency (avg s/page) | 2.22s | 2.99s | -0.77s |
+| Latency (avg s/page) | 2.22s | 2.49s | -0.27s |
 | Cost ($/1,000 pages) | $65.00 | $65.00 | $+0.00 |
 | Table fidelity (avg 1-5) | 5.0 | 5.0 | +0.0 |
-| Bbox quality (avg 1-5) | 5.0 | 1.0 | +4.0 |
+| Bbox quality (avg 1-5) | 5.0 | 5.0 | +0.0 |
 | Errors / unsupported | 0 / 2 | 0 / 2 | |
 
 ### Observations
@@ -28,9 +28,9 @@
 - Textract achieved 100% overall token recall across all file types.
 - Azure Doc Intelligence achieved 99.9% overall recall on S0 (standard) tier, processing all pages of multi-page PDFs (clean text PDFs: 100.0%, multicolumn: 100.0%).
 - For scanned PDFs and single-page PNGs, both tools achieved near-identical recall (100% and 99.5%).
-- Textract latency averaged 2.22s/page vs Azure at 2.99s/page.
+- Textract latency averaged 2.22s/page vs Azure at 2.49s/page.
 - Both tools returned `unsupported_format` for .xlsx files (expected — these are not image/PDF formats).
-- Azure bounding box coordinates are in absolute pixels (not normalized 0–1), which explains the low bbox quality score under our normalized-coordinate heuristic.
+- Bounding box coordinates are normalized to 0–1 for both tools (Azure pixel coords divided by page dimensions). Both scored 5/5 on bbox quality.
 - Textract used async API with S3 staging for PDFs, sync API for PNGs. Azure used a single endpoint for all formats.
 
 ### Canadian region availability
@@ -60,13 +60,14 @@
 
 | Subset | Comprehend | Azure Language |
 |---|---|---|
+| SIN recall (English docs only) | 100.0% | 100.0% |
 | Edge-case SIN (spaces, dashes) | 100.0% | 100.0% |
 | French names with accents | 0.0% | 100.0% |
 | False positives on negative controls | 0 | 0 |
 
 ### Observations
 
-- **Neither tool detects Canadian SIN natively.** Custom regex recognizers with Luhn validation were added to both adapters. With custom enrichment: Comprehend SIN recall = 70.0%, Azure = 100.0%. Comprehend's lower SIN recall is due to 30 French documents failing (Comprehend only supports en/es).
+- **Neither tool detects Canadian SIN natively.** Custom regex recognizers with Luhn validation were added to both adapters. With custom enrichment: Comprehend SIN recall = 70.0% overall (100.0% on English docs only), Azure = 100.0%. Comprehend's lower overall SIN recall is due to 30 French documents failing (Comprehend only supports en/es) — on English documents, both tools achieve comparable SIN recall.
 - ACCOUNT numbers: Comprehend 75.0% recall, Azure 100.0%. Custom regex recognizers with contextual keyword matching supplement the managed service detections.
 - Both tools performed well on PERSON names: Comprehend 94.8%, Azure 94.9%.
 - Azure achieved 100% recall on EMAIL, PHONE, and POSTAL_CODE. Comprehend scored lower (EMAIL 75.0%, PHONE 62.5%, POSTAL_CODE 60.0%).
@@ -119,13 +120,17 @@ Projected v0 volumes: ~50K pages/month OCR, ~10K documents/month PII.
 
 Both AWS and Azure satisfy Canadian data residency requirements and OCR is a virtual tie (100% vs 99.9% recall, identical pricing at $65/1K pages). The decisive factor is PII detection.
 
-AWS wins on lower-priority axes: latency (2.22s vs 2.99s/page), precision (99.9% vs 72.1%), and marginal cost savings ($0.25 vs $0.32 per 200 docs). Azure wins on higher-impact axes: 100% PII recall across all entity types (vs 72% for Comprehend) and full French language support (vs hard failure on all 30 French documents).
+AWS wins on lower-priority axes: latency (2.22s vs 2.49s/page), precision (99.9% vs 72.1%), and marginal cost savings ($0.25 vs $0.32 per 200 docs). Azure wins on higher-impact axes: 100% PII recall across all entity types (vs 72% for Comprehend) and full French language support (vs hard failure on all 30 French documents).
 
 Critically, **precision can be improved** with confidence thresholds or post-processing rules, but **Comprehend’s lack of French support is a platform limitation with no workaround**. For Canadian financial document pipelines where French is legally required, this is a hard blocker.
 
 Neither managed service detects Canadian SIN natively, but custom regex recognizers with Luhn validation close this gap: Azure + custom regex achieves 100% SIN recall; Comprehend + custom regex reaches only 70% because the 30 French documents error out before enrichment runs.
 
 **Recommended path: Azure (Doc Intelligence + Language) paired with custom regex recognizers for SIN and ACCOUNT detection.**
+
+### Operational trade-off: single-cloud vs multi-cloud
+
+If the existing infrastructure is AWS-native, adopting Azure for OCR + PII introduces multi-cloud operational overhead: two sets of IAM credentials, two billing systems, two monitoring stacks, and potentially cross-cloud networking. Comprehend + custom regex achieves comparable SIN recall on English documents (see "English docs only" subset) with near-perfect precision. **If French can be deferred to a later phase**, staying single-cloud on AWS with Presidio-based custom recognizers may be operationally simpler. The Azure recommendation is strongest when French-language support is a hard Day 1 requirement — which, for Canadian financial services, it typically is.
 
 ---
 
@@ -146,3 +151,9 @@ Neither managed service detects Canadian SIN natively, but custom regex recogniz
 
 - **SPIKE-001 (OCR):** Both Textract and Azure Doc Intelligence (S0 tier) are strong contenders for OCR. Textract has a marginal accuracy edge (100% vs 99.9%) but both achieve excellent recall across all document types. Both tools fail on .xlsx — a separate parsing path (e.g., openpyxl) is needed for spreadsheet ingestion.
 - **SPIKE-002 (PII/Redaction):** Neither managed service detects Canadian SIN or account numbers out of the box, but custom regex recognizers with Luhn validation close this gap effectively. The hybrid approach (managed service + custom recognizers) is validated: Azure + custom regex achieves 100% recall on all entity types. Comprehend + custom regex reaches 70% SIN recall due to its lack of French support. Azure is the recommended PII base layer when paired with custom recognizers, especially if French is a Day 1 requirement.
+
+### How this POC relates to SPIKE-002
+
+This POC and SPIKE-002 are **complementary, not overlapping**. This POC answers: *"Which managed cloud service should we build on?"* SPIKE-002 answers: *"What framework should orchestrate the custom recognizers in production?"*
+
+The custom regex recognizers built here (SIN with Luhn validation, contextual ACCOUNT matching) are proof-of-concept implementations. For production, SPIKE-002 should evaluate **Microsoft Presidio** as the orchestration layer — Presidio provides a structured framework for registering custom recognizers, composing them with managed service outputs, and managing confidence thresholds. The vendor recommendation from this POC (Azure) feeds directly into SPIKE-002’s scope as the baseline managed service to build on.

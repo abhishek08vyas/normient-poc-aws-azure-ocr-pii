@@ -112,21 +112,21 @@
         "file": "clean_policy_01",
         "category": "clean_text_pdf",
         "recall": 1.0,
-        "latency_s_per_page": 0.6944,
+        "latency_s_per_page": 0.724,
         "cost_per_1k_pages": 65.0
       },
       "clean_policy_02": {
         "file": "clean_policy_02",
         "category": "clean_text_pdf",
         "recall": 1.0,
-        "latency_s_per_page": 0.6455,
+        "latency_s_per_page": 0.6483,
         "cost_per_1k_pages": 65.0
       },
       "multicolumn_control_09": {
         "file": "multicolumn_control_09",
         "category": "multicolumn_pdf",
         "recall": 1.0,
-        "latency_s_per_page": 1.0968333333333333,
+        "latency_s_per_page": 1.0893333333333333,
         "cost_per_1k_pages": 65.0,
         "table_fidelity": 5
       },
@@ -134,7 +134,7 @@
         "file": "multicolumn_control_10",
         "category": "multicolumn_pdf",
         "recall": 1.0,
-        "latency_s_per_page": 1.0781666666666667,
+        "latency_s_per_page": 1.0803333333333334,
         "cost_per_1k_pages": 65.0,
         "table_fidelity": 5
       },
@@ -142,35 +142,35 @@
         "file": "scanned_approval_03",
         "category": "scanned_pdf",
         "recall": 1.0,
-        "latency_s_per_page": 2.688,
+        "latency_s_per_page": 3.7765,
         "cost_per_1k_pages": 65.0,
-        "bbox_quality": 1
+        "bbox_quality": 5
       },
       "scanned_approval_04": {
         "file": "scanned_approval_04",
         "category": "scanned_pdf",
         "recall": 1.0,
-        "latency_s_per_page": 4.8195,
+        "latency_s_per_page": 3.7975,
         "cost_per_1k_pages": 65.0,
-        "bbox_quality": 1
+        "bbox_quality": 5
       },
       "screenshot_banking_05": {
         "file": "screenshot_banking_05",
         "category": "screenshot",
         "recall": 1.0,
-        "latency_s_per_page": 8.601,
+        "latency_s_per_page": 4.437,
         "cost_per_1k_pages": 65.0,
         "table_fidelity": 5,
-        "bbox_quality": 1
+        "bbox_quality": 5
       },
       "screenshot_banking_06": {
         "file": "screenshot_banking_06",
         "category": "screenshot",
         "recall": 0.9905660377358491,
-        "latency_s_per_page": 4.313,
+        "latency_s_per_page": 4.365,
         "cost_per_1k_pages": 65.0,
         "table_fidelity": 5,
-        "bbox_quality": 1
+        "bbox_quality": 5
       },
       "transactions_07": {
         "file": "transactions_07",
@@ -206,10 +206,10 @@
       }
     },
     "overall_recall": 0.9988207547169812,
-    "avg_latency_s_per_page": 2.9920500000000003,
+    "avg_latency_s_per_page": 2.489745833333333,
     "avg_cost_per_1k_pages": 65.0,
     "avg_table_fidelity": 5.0,
-    "avg_bbox_quality": 1.0,
+    "avg_bbox_quality": 5.0,
     "errors": 0,
     "unsupported": 2
   }

@@ -967,3 +967,25 @@ Message: Access denied due to invalid subscription key or wrong API endpoint. Ma
 2026-05-14 23:02:22 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md
 2026-05-14 23:03:27 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md
 2026-05-14 23:09:04 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md
+2026-05-15 19:14:06 INFO     [poc] Found 10 files in OCR corpus
+2026-05-15 19:14:15 INFO     [poc] OCR azure_doc_intel clean_policy_01.pdf -> 10 pages, 7240ms, $0.6500
+2026-05-15 19:14:21 INFO     [poc] OCR azure_doc_intel clean_policy_02.pdf -> 10 pages, 6483ms, $0.6500
+2026-05-15 19:14:28 INFO     [poc] OCR azure_doc_intel multicolumn_control_09.pdf -> 6 pages, 6536ms, $0.3900
+2026-05-15 19:14:35 INFO     [poc] OCR azure_doc_intel multicolumn_control_10.pdf -> 6 pages, 6482ms, $0.3900
+2026-05-15 19:14:43 INFO     [poc] OCR azure_doc_intel scanned_approval_03.pdf -> 2 pages, 7553ms, $0.1300
+2026-05-15 19:14:50 INFO     [poc] OCR azure_doc_intel scanned_approval_04.pdf -> 2 pages, 7595ms, $0.1300
+2026-05-15 19:14:55 INFO     [poc] OCR azure_doc_intel screenshot_banking_05.png -> 1 pages, 4437ms, $0.0650
+2026-05-15 19:14:59 INFO     [poc] OCR azure_doc_intel screenshot_banking_06.png -> 1 pages, 4365ms, $0.0650
+2026-05-15 19:14:59 INFO     [poc] Azure Doc Intel total cost: $2.4700
+2026-05-15 19:16:47 INFO     [poc] Scoring OCR results...
+2026-05-15 19:16:48 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\ocr_matrix.json
+2026-05-15 19:16:48 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\ocr_matrix.md
+2026-05-15 19:16:54 INFO     [poc] Scoring PII results...
+2026-05-15 19:17:03 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\pii_matrix.json
+2026-05-15 19:17:03 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\pii_matrix.md
+2026-05-15 19:17:27 INFO     [poc] Scoring PII results...
+2026-05-15 19:17:27 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\pii_matrix.json
+2026-05-15 19:17:27 INFO     [poc] Wrote C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\scores\pii_matrix.md
+2026-05-15 19:17:33 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md
+2026-05-15 19:18:13 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md
+2026-05-15 19:19:39 INFO     [poc] Report written to C:\D Drive\Normient-Repos\normient-poc-aws-azure-ocr-pii\scripts\poc_aws_azure\results\POC_results.md

@@ -10,6 +10,7 @@
 
 | Subset | Comprehend | Azure Language |
 |---|---|---|
+| SIN recall (English docs only) | 100.0% | 100.0% |
 | Edge-case SIN (spaces, dashes) | 100.0% | 100.0% |
 | French names with accents | 0.0% | 100.0% |
 | False positives on negative controls | 0 | 0 |

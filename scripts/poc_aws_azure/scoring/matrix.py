@@ -95,6 +95,7 @@ def format_pii_matrix(pii: dict) -> str:
     rows.append("")
     rows.append("| Subset | Comprehend | Azure Language |")
     rows.append("|---|---|---|")
+    rows.append(f"| SIN recall (English docs only) | {_fmt_pct(c.get('english_sin_recall'))} | {_fmt_pct(a.get('english_sin_recall'))} |")
     rows.append(f"| Edge-case SIN (spaces, dashes) | {_fmt_pct(c.get('edge_sin_recall'))} | {_fmt_pct(a.get('edge_sin_recall'))} |")
     rows.append(f"| French names with accents | {_fmt_pct(c.get('french_person_recall'))} | {_fmt_pct(a.get('french_person_recall'))} |")
     rows.append(f"| False positives on negative controls | {c.get('negative_control_fp_count', 0)} | {a.get('negative_control_fp_count', 0)} |")
@@ -241,7 +242,7 @@ def generate_report(ocr: dict, pii: dict) -> str:
     ocr_obs.append(f"- For scanned PDFs and single-page PNGs, both tools achieved near-identical recall ({a.get('per_category', {}).get('scanned_pdf', {}).get('recall', 0)*100:.0f}% and {a.get('per_category', {}).get('screenshot', {}).get('recall', 0)*100:.1f}%).")
     ocr_obs.append(f"- Textract latency averaged {t.get('avg_latency_s_per_page', 0):.2f}s/page vs Azure at {a.get('avg_latency_s_per_page', 0):.2f}s/page.")
     ocr_obs.append("- Both tools returned `unsupported_format` for .xlsx files (expected \u2014 these are not image/PDF formats).")
-    ocr_obs.append("- Azure bounding box coordinates are in absolute pixels (not normalized 0\u20131), which explains the low bbox quality score under our normalized-coordinate heuristic.")
+    ocr_obs.append("- Bounding box coordinates are normalized to 0\u20131 for both tools (Azure pixel coords divided by page dimensions). Both scored 5/5 on bbox quality.")
     ocr_obs.append("- Textract used async API with S3 staging for PDFs, sync API for PNGs. Azure used a single endpoint for all formats.")
 
     # PII observations
@@ -252,7 +253,9 @@ def generate_report(ocr: dict, pii: dict) -> str:
     az_sin = _fmt_pct(az.get('per_entity', {}).get('SIN', {}).get('recall'))
     c_acct = _fmt_pct(c.get('per_entity', {}).get('ACCOUNT', {}).get('recall'))
     az_acct = _fmt_pct(az.get('per_entity', {}).get('ACCOUNT', {}).get('recall'))
-    pii_obs.append(f"- **Neither tool detects Canadian SIN natively.** Custom regex recognizers with Luhn validation were added to both adapters. With custom enrichment: Comprehend SIN recall = {c_sin}, Azure = {az_sin}. Comprehend's lower SIN recall is due to 30 French documents failing (Comprehend only supports en/es).")
+    c_en_sin = _fmt_pct(c.get('english_sin_recall'))
+    az_en_sin = _fmt_pct(az.get('english_sin_recall'))
+    pii_obs.append(f"- **Neither tool detects Canadian SIN natively.** Custom regex recognizers with Luhn validation were added to both adapters. With custom enrichment: Comprehend SIN recall = {c_sin} overall ({c_en_sin} on English docs only), Azure = {az_sin}. Comprehend's lower overall SIN recall is due to 30 French documents failing (Comprehend only supports en/es) \u2014 on English documents, both tools achieve comparable SIN recall.")
     pii_obs.append(f"- ACCOUNT numbers: Comprehend {c_acct} recall, Azure {az_acct}. Custom regex recognizers with contextual keyword matching supplement the managed service detections.")
     pii_obs.append(f"- Both tools performed well on PERSON names: Comprehend {_fmt_pct(c.get('per_entity', {}).get('PERSON', {}).get('recall'))}, Azure {_fmt_pct(az.get('per_entity', {}).get('PERSON', {}).get('recall'))}.")
     pii_obs.append(f"- Azure achieved 100% recall on EMAIL, PHONE, and POSTAL_CODE. Comprehend scored lower (EMAIL {_fmt_pct(c.get('per_entity', {}).get('EMAIL', {}).get('recall'))}, PHONE {_fmt_pct(c.get('per_entity', {}).get('PHONE', {}).get('recall'))}, POSTAL_CODE {_fmt_pct(c.get('per_entity', {}).get('POSTAL_CODE', {}).get('recall'))}).")
@@ -327,13 +330,17 @@ def generate_report(ocr: dict, pii: dict) -> str:
 
 Both AWS and Azure satisfy Canadian data residency requirements and OCR is a virtual tie (100% vs 99.9% recall, identical pricing at $65/1K pages). The decisive factor is PII detection.
 
-AWS wins on lower-priority axes: latency (2.22s vs 2.99s/page), precision (99.9% vs 72.1%), and marginal cost savings ($0.25 vs $0.32 per 200 docs). Azure wins on higher-impact axes: 100% PII recall across all entity types (vs 72% for Comprehend) and full French language support (vs hard failure on all 30 French documents).
+AWS wins on lower-priority axes: latency (2.22s vs 2.49s/page), precision (99.9% vs 72.1%), and marginal cost savings ($0.25 vs $0.32 per 200 docs). Azure wins on higher-impact axes: 100% PII recall across all entity types (vs 72% for Comprehend) and full French language support (vs hard failure on all 30 French documents).
 
 Critically, **precision can be improved** with confidence thresholds or post-processing rules, but **Comprehend\u2019s lack of French support is a platform limitation with no workaround**. For Canadian financial document pipelines where French is legally required, this is a hard blocker.
 
 Neither managed service detects Canadian SIN natively, but custom regex recognizers with Luhn validation close this gap: Azure + custom regex achieves 100% SIN recall; Comprehend + custom regex reaches only 70% because the 30 French documents error out before enrichment runs.
 
 **Recommended path: Azure (Doc Intelligence + Language) paired with custom regex recognizers for SIN and ACCOUNT detection.**
+
+### Operational trade-off: single-cloud vs multi-cloud
+
+If the existing infrastructure is AWS-native, adopting Azure for OCR + PII introduces multi-cloud operational overhead: two sets of IAM credentials, two billing systems, two monitoring stacks, and potentially cross-cloud networking. Comprehend + custom regex achieves comparable SIN recall on English documents (see "English docs only" subset) with near-perfect precision. **If French can be deferred to a later phase**, staying single-cloud on AWS with Presidio-based custom recognizers may be operationally simpler. The Azure recommendation is strongest when French-language support is a hard Day 1 requirement \u2014 which, for Canadian financial services, it typically is.
 
 ---
 
@@ -354,5 +361,11 @@ Neither managed service detects Canadian SIN natively, but custom regex recogniz
 
 - **SPIKE-001 (OCR):** Both Textract and Azure Doc Intelligence (S0 tier) are strong contenders for OCR. Textract has a marginal accuracy edge (100% vs 99.9%) but both achieve excellent recall across all document types. Both tools fail on .xlsx \u2014 a separate parsing path (e.g., openpyxl) is needed for spreadsheet ingestion.
 - **SPIKE-002 (PII/Redaction):** Neither managed service detects Canadian SIN or account numbers out of the box, but custom regex recognizers with Luhn validation close this gap effectively. The hybrid approach (managed service + custom recognizers) is validated: Azure + custom regex achieves 100% recall on all entity types. Comprehend + custom regex reaches 70% SIN recall due to its lack of French support. Azure is the recommended PII base layer when paired with custom recognizers, especially if French is a Day 1 requirement.
+
+### How this POC relates to SPIKE-002
+
+This POC and SPIKE-002 are **complementary, not overlapping**. This POC answers: *"Which managed cloud service should we build on?"* SPIKE-002 answers: *"What framework should orchestrate the custom recognizers in production?"*
+
+The custom regex recognizers built here (SIN with Luhn validation, contextual ACCOUNT matching) are proof-of-concept implementations. For production, SPIKE-002 should evaluate **Microsoft Presidio** as the orchestration layer \u2014 Presidio provides a structured framework for registering custom recognizers, composing them with managed service outputs, and managing confidence thresholds. The vendor recommendation from this POC (Azure) feeds directly into SPIKE-002\u2019s scope as the baseline managed service to build on.
 """
     return report.strip() + "\n"

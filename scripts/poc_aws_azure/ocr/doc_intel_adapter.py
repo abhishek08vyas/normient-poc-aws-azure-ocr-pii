@@ -160,8 +160,8 @@ class DocIntelAdapter(OCRAdapter):
             error=None,
         )
 
-    def _polygon_to_bbox(self, polygon) -> BoundingBox:
-        """Rule 6: Convert polygon [x1,y1,...,x4,y4] to BoundingBox."""
+    def _polygon_to_bbox(self, polygon, page_width: float = 1.0, page_height: float = 1.0) -> BoundingBox:
+        """Rule 6: Convert polygon [x1,y1,...,x4,y4] to normalized 0-1 BoundingBox."""
         if not polygon or len(polygon) < 8:
             return BoundingBox(left=0, top=0, width=0, height=0)
         xs = polygon[0::2]
@@ -170,20 +170,28 @@ class DocIntelAdapter(OCRAdapter):
         top = min(ys)
         width = max(xs) - left
         height = max(ys) - top
+        # Normalize to 0-1 using page dimensions
+        if page_width > 0 and page_height > 0:
+            left /= page_width
+            top /= page_height
+            width /= page_width
+            height /= page_height
         return BoundingBox(left=left, top=top, width=width, height=height)
 
     def _extract_words(self, result) -> list[OCRWord]:
-        """Rule 8: Extract words from all pages."""
+        """Rule 8: Extract words from all pages with normalized 0-1 bounding boxes."""
         words = []
         if not result.pages:
             return words
         for page in result.pages:
             page_num = page.page_number
+            page_width = page.width if hasattr(page, "width") and page.width else 1.0
+            page_height = page.height if hasattr(page, "height") and page.height else 1.0
             if not page.words:
                 continue
             for word in page.words:
                 polygon = word.polygon if hasattr(word, "polygon") and word.polygon else []
-                bbox = self._polygon_to_bbox(polygon)
+                bbox = self._polygon_to_bbox(polygon, page_width, page_height)
                 confidence = word.confidence if word.confidence is not None else 0.0
                 words.append(OCRWord(
                     text=word.content,

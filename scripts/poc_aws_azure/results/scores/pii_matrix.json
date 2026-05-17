@@ -35,6 +35,7 @@
     "overall_precision": 0.9986206896551724,
     "french_person_recall": 0.0,
     "edge_sin_recall": 1.0,
+    "english_sin_recall": 1.0,
     "negative_control_fp_count": 0,
     "total_cost": 0.24639999999999962,
     "avg_latency_ms": 268.815
@@ -75,6 +76,7 @@
     "overall_precision": 0.7210156011012542,
     "french_person_recall": 1.0,
     "edge_sin_recall": 1.0,
+    "english_sin_recall": 1.0,
     "negative_control_fp_count": 0,
     "total_cost": 0.32000000000000023,
     "avg_latency_ms": 214.21

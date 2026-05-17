@@ -104,6 +104,13 @@ def compute_metrics(all_results: dict) -> dict:
                   for g in doc["false_negatives"] if g["entity_type"] == "SIN")
     edge_sin_recall = edge_tp / (edge_tp + edge_fn) if (edge_tp + edge_fn) > 0 else None
 
+    # Subset: English-only SIN recall (exclude _fr_ docs)
+    en_sin_tp = sum(1 for doc_id, doc in all_results.items() if "_fr_" not in doc_id
+                    for d, g in doc["true_positives"] if g["entity_type"] == "SIN")
+    en_sin_fn = sum(1 for doc_id, doc in all_results.items() if "_fr_" not in doc_id
+                    for g in doc["false_negatives"] if g["entity_type"] == "SIN")
+    english_sin_recall = en_sin_tp / (en_sin_tp + en_sin_fn) if (en_sin_tp + en_sin_fn) > 0 else None
+
     # Subset: False positives on negative controls
     negative_fp = sum(len(doc["false_positives"]) for doc_id, doc in all_results.items()
                       if doc_id.startswith("procedure_"))
@@ -113,6 +120,7 @@ def compute_metrics(all_results: dict) -> dict:
         "overall_precision": overall_precision,
         "french_person_recall": french_person_recall,
         "edge_sin_recall": edge_sin_recall,
+        "english_sin_recall": english_sin_recall,
         "negative_control_fp_count": negative_fp,
     }
 

@@ -60,13 +60,13 @@ Choosing between AWS and Azure for document processing shouldn't be a coin flip.
 | Recall — screenshots (avg %) | 100.0% | 99.5% | +0.5% |
 | Recall — multi-column PDFs (avg %) | 100.0% | 100.0% | +0.0% |
 | **Recall — overall (avg %)** | **100.0%** | **99.9%** | **+0.1%** |
-| Latency (avg s/page) | 2.22s | 2.99s | -0.77s |
+| Latency (avg s/page) | 2.22s | 2.49s | -0.27s |
 | Cost ($/1,000 pages) | $65.00 | $65.00 | $+0.00 |
 | Table fidelity (avg 1-5) | 5.0 | 5.0 | +0.0 |
-| Bbox quality (avg 1-5) | 5.0 | 1.0 | +4.0 |
+| Bbox quality (avg 1-5) | 5.0 | 5.0 | +0.0 |
 | Errors / unsupported | 0 / 2 | 0 / 2 | |
 
-> Azure OCR tested on S0 (standard) tier — processes all pages of multi-page PDFs without truncation. Bbox quality difference is due to Azure returning absolute pixel coordinates vs Textract's normalized 0-1 coordinates.
+> Azure OCR tested on S0 (standard) tier — processes all pages of multi-page PDFs without truncation. Azure bounding boxes normalized to 0-1 coordinates for apples-to-apples comparison with Textract.
 
 ### 🔒 PII Detection Scoring Matrix
 
@@ -82,6 +82,7 @@ Choosing between AWS and Azure for document processing shouldn't be a coin flip.
 
 | Subset | Comprehend | Azure Language |
 |---|---|---|
+| SIN recall (English docs only) | 100.0% | 100.0% |
 | Edge-case SIN (spaces, dashes) | 100.0% | 100.0% |
 | French names with accents | 0.0% | 100.0% |
 | False positives on negative controls | 0 | 0 |
@@ -104,7 +105,7 @@ Choosing between AWS and Azure for document processing shouldn't be a coin flip.
 | OCR accuracy | — | — | Virtually tied: 100% vs 99.9% (both S0 tier) |
 | OCR table fidelity | — | — | Tied: 5.0/5 vs 5.0/5 |
 | OCR cost | — | — | Equal ($65/1K pages) |
-| OCR latency | ✅ | | Textract faster: 2.22s vs 2.99s per page |
+| OCR latency | ✅ | | Textract faster: 2.22s vs 2.49s per page |
 | PII recall (SIN+ACCOUNT) | | ✅ | 72% vs 100% — custom regex fills native gaps |
 | PII precision | ✅ | | 99.9% vs 72.1% |
 | PII French support | | ✅ | Comprehend only supports en/es — hard blocker |

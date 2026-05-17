@@ -408,6 +408,7 @@ def cmd_score_pii(args):
     md_lines.append("")
     md_lines.append("| Subset | Comprehend | Azure Language |")
     md_lines.append("|---|---|---|")
+    md_lines.append(f"| SIN recall (English docs only) | {fmt_recall(c.get('english_sin_recall'))} | {fmt_recall(a.get('english_sin_recall'))} |")
     md_lines.append(f"| Edge-case SIN (spaces, dashes) | {fmt_recall(c.get('edge_sin_recall'))} | {fmt_recall(a.get('edge_sin_recall'))} |")
     md_lines.append(f"| French names with accents | {fmt_recall(c.get('french_person_recall'))} | {fmt_recall(a.get('french_person_recall'))} |")
     md_lines.append(f"| False positives on negative controls | {c.get('negative_control_fp_count', 0)} | {a.get('negative_control_fp_count', 0)} |")
